@@ -31,7 +31,7 @@ Khảo sát tính khả thi cho việc xây dựng mô hình dự đoán biến 
 1. `craw_data_cellphones.ipynb` - Thu thập dữ liệu từ CellphoneS
 2. `craw_data_mobilecity.ipynb` - Thu thập dữ liệu từ MobileCity
 3. `cleaning_data.ipynb` - Tiền xử lý dữ liệu
-4. `data_visualization.ipynb` - Phân tích dữ liệu
+4. `data_analysis.ipynb` - Phân tích dữ liệu
 
 ## 📁 5. Cấu Trúc Dữ Liệu
 
@@ -48,7 +48,7 @@ phone-price-analysis/
 │   ├── craw_data_cellphones.ipynb      # Thu thập dữ liệu từ CellphoneS
 │   ├── craw_data_mobilecity.ipynb      # Thu thập dữ liệu từ MobileCity
 │   ├── cleaning_data.ipynb             # Tiền xử lý - làm sách dữ liệu dữ liệu
-│   └── data_visualization.ipynb        # Phân tích dữ liệu và trực quan hóa
+│   └── data_analysis.ipynb        # Phân tích dữ liệu và trực quan hóa
 │
 ├── link/
 |   ├── product_links_cellphones.txt             # Link sản phẩm từ CellphoneS
@@ -78,7 +78,7 @@ phone-price-analysis/
 -   Sau khi thu thập dữ liệu, bạn có thể chạy các notebook sau để tiền xử lý và phân tích dữ liệu:
     ```bash
     notebooks/cleaning_data.ipynb
-    notebooks/data_visualization.ipynb
+    notebooks/data_analysis.ipynb
     ```
 
 ## 🔧 8. Công Nghệ Sử Dụng
