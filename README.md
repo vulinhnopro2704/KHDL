@@ -57,10 +57,10 @@ phone-price-analysis/
 │   ├── raw/                     # Dữ liệu thô đã thu thập được
 │   ├── json/                    # Dữ liệu chi tiết từng sản phẩm đã thu thập
 │   ├── processed/               # Dữ liệu sau xử lý
-│   └── clean/                   # Dữ liệu đã tổng hợp và làm sạch (`feature_engineering.csv` là file chính)
+│   └── clean/                   # Dữ liệu đã tổng hợp và làm sạch (`feature_ensv` là file chính)
 │
 │
-└── 📝 README.md                 # Tài liệu dự án
+└── 📝 README.md                 # Tài liệu dự ángineering.c
 ```
 
 ## 🚀 7. Hướng Dẫn Thực Thi
