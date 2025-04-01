@@ -4,7 +4,7 @@
 
 ## 📊 1. Tổng Quan
 
-Phân tích mức độ ảnh hưởng của các thông số phần cứng và thương hiệu đến giá bán của điện thoại di động. Dự án này tập trung vào thu thập dữ liệu, tiền xử lý và phân tích để chuẩn bị cho việc xây dựng mô hình dự đoán giá.
+Phân tích mức độ ảnh hưởng của các thông số phần cứng và thương hiệu đến giá bán của điện thoại di động. Dự án này tập trung vào thu thập dữ liệu, xem sét sự ảnh hưởng của phần cứng và thương hiệu đến mức giá của điện thoại di động, tiền xử lý và phân tích để chuẩn bị cho việc xây dựng mô hình dự đoán giá.
 
 ## 📚 2. Nguồn Dữ Liệu
 
