@@ -1,0 +1,177 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-xiaomi-15.html",
+    "name": "Xiaomi 15 5G 12GB 256GB",
+    "price": "21.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.36 inches",
+                "Công nghệ màn hình": "CrystalRes AMOLED",
+                "Độ phân giải màn hình": "2670 x 1200 pixels",
+                "Tính năng màn hình": [
+                    "Độ sáng 3200 nits",
+                    "Tự động tinh chỉnh tần số quét 1-120Hz",
+                    "Tốc độ phản hồi cảm ứng lên đến 300Hz",
+                    "Hỗ trợ 68 tỷ màu",
+                    "Dải màu DCI-P3",
+                    "Hỗ trợ Dolby Vision, HDR10+, HDR10",
+                    "Độ sáng DC",
+                    "Công nghệ cảm ứng ướt"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính Leica: 50MP, ƒ/1.62, OIS, Tiêu cự tương đương 23mm",
+                    "Camera tele Leica: 50MP, ƒ/2.0, OIS",
+                    "Camera góc siêu rộng Leica: 50MP, ƒ/2.2, 115°"
+                ],
+                "Quay video": [
+                    "(HDR và Dolby Vision)",
+                    "Quay video 8K@24/30fps",
+                    "Quay video 4K@24/30/60fps",
+                    "1080p@30/60fps",
+                    "720p@30fps",
+                    "Video chuyển động chậm 720p",
+                    "Video chuyển động chậm 1080p"
+                ],
+                "Tính năng camera": [
+                    "HDR",
+                    "Chụp ảnh động",
+                    "Chế độ ban đêm",
+                    "Chế độ chân dung",
+                    "Super macro",
+                    "Toàn cảnh",
+                    "Chuyển động chậm",
+                    "Chuyển động nhanh",
+                    "Quay đêm Ultra Night Video",
+                    "Chụp ảnh bằng giọng nói",
+                    "Quay video ở độ phân giải HDR10+"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera trước: 32MP, ƒ/2.0, 90°, Tiêu cự 21mm",
+                "Quay video trước": [
+                    "4K@30/60fps",
+                    "1080p@30/60fps",
+                    "720p@30fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Elite (Tiến trình sản xuất 3nm)",
+                "GPU": "Adreno GPU"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+                "Hỗ trợ mạng": "5G",
+                "GPS": [
+                    "GPS: L1+L5",
+                    "Galileo: E1+E5a | GLONASS: G1 | Beidou | QZSS: L1 + L5 | NavIC: L5"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5240mAh",
+                "Công nghệ sạc": [
+                    "Sạc 90W HyperCharge",
+                    "Sạc không dây 50W",
+                    "Hỗ trợ QC3+ / QC3.0 / QC2.0 / PD3.0 / PD2.0 / MI FC 2.0"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Xiaomi HyperOS 2"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": [
+                    "2 x Lõi Prime, tốc độ tối đa 4,32GHz",
+                    "6 x Lõi hiệu suất, lên đến 3,53GHz"
+                ]
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "152.3 x 71.2 x 8.08 mm",
+                "Trọng lượng": "191g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Hệ thống cánh tản nhiệt Xiaomi IceLoop",
+                "Chỉ số kháng nước, bụi": "Kháng nước & bụi chuẩn IP68",
+                "Công nghệ - Tiện ích": [
+                    "Xiaomi HyperAI",
+                    "Viết AI",
+                    "Nhận diện giọng nói AI",
+                    "Phiên dịch AI",
+                    "Khoanh vùng tìm kiếm AI",
+                    "Trợ lý sáng tạo AI"
+                ],
+                "Công nghệ âm thanh": [
+                    "4 Mic",
+                    "Hỗ trợ Dolby Atmos",
+                    "Chứng nhận Hi-Res, Hi-Res Audio Wireless"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay siêu âm",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Hỗ trợ Wi-Fi 7",
+                "Bluetooth": "Bluetooth 6.0, Dual-Bluetooth"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "2025"
+            }
+        }
+    ]
+}
