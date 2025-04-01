@@ -47,7 +47,7 @@ phone-price-analysis/
 ├── 📓 notebooks/
 │   ├── craw_data_cellphones.ipynb          # Thu thập dữ liệu từ CellphoneS
 │   ├── craw_data_mobilecity.ipynb        # Thu thập dữ liệu từ MobileCity
-│   ├── data_preprocessing.ipynb # Tiền xử lý dữ liệu
+│   ├── cleaning_data.ipynb # Tiền xử lý dữ liệu
 │   └── data_visualization.ipynb      # Phân tích dữ liệu và trực quan hóa
 │
 ├── link/
