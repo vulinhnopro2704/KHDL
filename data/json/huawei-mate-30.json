@@ -1,0 +1,100 @@
+{
+    "url": "https://cellphones.com.vn/huawei-mate-30.html",
+    "name": "Huawei Mate 30 Pro",
+    "price": "14.490.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "OLED, 16 triệu màu",
+                "Kích thước màn hình": "6.53 inches",
+                "Độ phân giải màn hình": "1176 x 2400 pixel"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 40 MP, f/1.6, 27mm (wide), 1/1.7\", PDAF, OIS",
+                    "Camera tele: 8 MP, f/2.4, 80mm (telephoto), 1/4\", PDAF, OIS, 3x optical zoom",
+                    "Camera siêu rộng: 40 MP, f/1.8, 18mm (ultrawide), 1/1.54\", PDAF",
+                    "Camera TOF 3D,"
+                ],
+                "Quay video": "Trước: 1080p@30fps I Sau: 2160p@30/60fps, 1080p@30/60/120fps, 1080p@960fps, 720p@7680fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm I TOF 3D"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "HiSilicon Kirin 990 (7 nm)",
+                "GPU": "Mali-G76 MP16"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "NM (Nano Memory), hỗ trợ tối đa 256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4500 mAh, sạc nhanh 40W, sạc không dây 27W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10.0; EMUI 10"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "158.1 x 73.1 x 8.8 mm",
+                "Trọng lượng": "198 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, Wi-Fi Direct, hotspotWi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.1, A2DP, aptX HD, LE"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hồng ngoại": "true"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Face ID, cảm biến vân tay, cảm biến gia tốc, cảm biến tiệm cận, con quay hồi chuyển, la bàn, gia tốc kế"
+            }
+        }
+    ]
+}

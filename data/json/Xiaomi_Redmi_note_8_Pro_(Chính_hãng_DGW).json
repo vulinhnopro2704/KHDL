@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-note-8-pro-chinh-hang-dgw.html",
+    "name": "Xiaomi Redmi note 8 Pro (Chính hãng DGW)",
+    "price": "5200000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android v9.0 (Pie) MIMU 10",
+                "Ngôn ngữ": "Đa ngôn ngữ, có tiếng việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "IPS LCD, Full HD+ (1080 x 2340 pixels), 6.53 inches",
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.53 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "64 MP + 8 MP (Góc rộng) + 2 MP (Đo chiều sâu) + 2 MP (Cận cảnh)",
+                "Camera trước": "20 MP Front Camera",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "2160p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2.05 GHz, Dual core, Cortex A76 + 2 GHz, Hexa Core, Cortex A55",
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek Helio G90T (12nm)",
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Mali-G76 MP4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128 GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Màn hình giọt nước",
+                "Kích thước": "161.3 mm *76.4 mm*8.8 mm",
+                "Trọng lượng (g)": "199 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-ion",
+                "Dung lượng pin": "4500 mAh - Sạc nhanh QuickCharge 4.0.",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11, b/g/n",
+                "GPS": "with A-GPS, Glonass",
+                "Bluetooth": "v5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

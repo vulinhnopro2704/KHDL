@@ -1,0 +1,69 @@
+{
+    "url": "https://cellphones.com.vn/masstel-hapi-30.html",
+    "name": "Masstel Hapi 30",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.26 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1520 pixels",
+                "Tính năng màn hình": "16 triệu màu"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "8.0 MP AF"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5.0 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Speadtrum SC9863A 8 Nhân 1.6GHz"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "3 GB",
+                "Bộ nhớ trong": "32 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 128GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3000 mAh",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        }
+    ]
+}

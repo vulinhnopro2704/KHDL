@@ -1,0 +1,33 @@
+{
+    "url": "https://cellphones.com.vn/realme-gt-2-pro.html",
+    "name": "Realme GT2 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.43 inches",
+                "Công nghệ màn hình": "Super AMOLED"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Dimensity 1200"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4.500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 50W"
+            }
+        }
+    ]
+}

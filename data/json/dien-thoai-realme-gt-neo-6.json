@@ -1,0 +1,20 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-realme-gt-neo-6.html",
+    "name": "Realme GT Neo 6",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        }
+    ]
+}

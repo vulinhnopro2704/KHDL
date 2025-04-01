@@ -1,0 +1,127 @@
+{
+    "url": "https://cellphones.com.vn/oppo-reno-8-50226.html",
+    "name": "Oppo Reno8 4G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.4 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Kính cường lực Corning Gorilla Glass 5"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.8, 23mm 1 / 1.56 \", 1.0µm, đa hướng PDAF",
+                    "Camera góc siêu rộng:8 MP, f/2.2, 16mm, 112˚, 1 / 4.0\", 1.12µm",
+                    "Camera macro: 2 MP, f /2.4,"
+                ],
+                "Quay video": [
+                    "4K@30fps",
+                    "1080p@30/60/120fps"
+                ],
+                "Tính năng camera": [
+                    "Chân dung AI",
+                    "Hiển vi",
+                    "Hiệu ứng Bokeh",
+                    "Siêu độ phân giải"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 32 MP, f / 2.4, 23mm, 1 / 2.74 \", 0.8µm",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Mật độ MediaTek 1300 (6 nm)",
+                "GPU": "Mali-G77 MC9"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": [
+                    "BEIDOU",
+                    "GALILEO",
+                    "GLONASS",
+                    "QZSS"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4500 mAh",
+                "Công nghệ sạc": "Sạc siêu nhanh SuperVOOC 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3,0 GHz Cortex-A78 & 3x2,6 GHz Cortex-A78 & 4x2,0 GHz Cortex-A55"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "160,6 x 73,4 x 7,7 mm",
+                "Trọng lượng": "179 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IPX4"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a / b / g / n / ac / 6, băng tần kép, Wi-Fi Direct, điểm phát sóng",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

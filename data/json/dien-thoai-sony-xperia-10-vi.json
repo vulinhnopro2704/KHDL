@@ -1,0 +1,84 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-sony-xperia-10-vi.html",
+    "name": "Sony Xperia 10VI 8GB 128GB",
+    "price": "8.750.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.1 inches",
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "Tần số quét 60Hz, Tốc độ quét cảm ứng 120Hz, DCI-P3 100%, Video Image Optimization, Triluminous display for mobile, Chế độ đa cửa sổ",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "16mm: 8MP 1/4“ F2.2",
+                    "26mm: 48 MP (Hiệu quả) / 12 MP (Ghi)",
+                    "1/2.0\" Exmor RS cho cảm biến di động F1.8"
+                ],
+                "Tính năng camera": "Chụp phơi sáng tự động (10 hình/giây), Phơi sáng tự động liên tục (30 lần mỗi giây), OIS photo, LED, Hybrid zoom 6x, AI Super Resolution Zoom, HDR photo, Panorama, Chụp xóa phông, Hand shutter OIS and EIS Video, Optical SteadyShot, Slowmotion"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "26mm 8MP 1/4\" F2.0"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 6 Gen 1 Mobile Platform"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Bộ nhớ ngoài Hỗ trợ thẻ nhớ lên đến 1.5TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "USB Power Delivery (USB PD) fast charging, Xperia Sac thích ứng, Battery Care, STAMINA Mode",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "155 x 68 x 8.3 mm",
+                "Trọng lượng": "164 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "Chống nước IPX5/IPX8, Chống bụi IP6X",
+                "Công nghệ âm thanh": "Âm thanh độ phân giải cao, Chứng nhận 360 Reality Audio, 360 Reality Audio Upmix, Loa thanh nổi, Dolby Atmos, DSEE Ultimate, Ghi âm stereo, Qualcomm aptX Adaptive"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Tính năng đặc biệt": "Bảo mật vân tay, Kháng nước, kháng bụi"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-f13.html",
+    "name": "Samsung Galaxy F13",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Công nghệ màn hình": "PLS TFT LCD",
+                "Độ phân giải màn hình": "1080 x 2408 pixels",
+                "Tính năng màn hình": "Kính cường lực Corning Gorilla Glass 5"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.8, PDAF",
+                    "Camera góc cực rộng: 5 MP, f/2.2, 123˚",
+                    "Camera sâu: 2 MP, f/2.4"
+                ],
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": "Đèn flash LED, ảnh toàn cảnh, HDR"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 8 MP, f/2.2",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 850 (8nm)",
+                "GPU": "Mali-G52"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "GPS": "Có, với A-GPS, GLONASS, GALILEO, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "microSDXC"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4.500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 15W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "165,4 x 76,9 x 9,3 mm",
+                "Trọng lượng": "207 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, La bàn, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a / b / g / n / ac, băng tần kép, điểm phát sóng",
+                "Bluetooth": "5.0, A2DP, LE"
+            }
+        }
+    ]
+}

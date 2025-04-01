@@ -1,0 +1,77 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-meizu-mblu-21-128gb.html",
+    "name": "Điện thoại Meizu Mblu 21 6GB 128GB",
+    "price": "2.390.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.79 inches"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "13MP",
+                    "0.08 MP"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Spreadtrum T606"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, GLONASS, Galileo,Beidou"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4900mAh",
+                "Công nghệ sạc": "Sạc 18.96Wh",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "WiFi 2.4G/5G",
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ âm thanh": "Stereo speakers"
+            }
+        }
+    ]
+}

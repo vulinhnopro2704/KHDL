@@ -1,0 +1,107 @@
+{
+    "url": "https://cellphones.com.vn/honor-80-gt.html",
+    "name": "Honor 80 GT",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.66 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "1 tỷ màu, Tần số quét 120Hz, HDR10, 1400 nits (peak)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 54MP, f/1.9, 1/1.49\", PDAF",
+                    "Camera góc siêu rộng: 8 MP, f/2.2",
+                    "Camera macro: 2 MP, f/2.4"
+                ],
+                "Quay video": "4K@30fps, 1080p@30/60fps, gyro-EIS",
+                "Tính năng camera": "Đèn flash LED, HDR, toàn cảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 16 MP, f/2.4",
+                "Quay video trước": "1080p@30fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8+ Gen 1 (4 nm)",
+                "GPU": "Adreno 730"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4800 mAh",
+                "Công nghệ sạc": "Sạc nhanh 66W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "(1x3.0 GHz Cortex-X2 & 3x2.5 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162.5 x 75.3 x 7.9 mm",
+                "Trọng lượng": "187 g or 195 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IPX4"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6",
+                "Bluetooth": "v5.2"
+            }
+        }
+    ]
+}

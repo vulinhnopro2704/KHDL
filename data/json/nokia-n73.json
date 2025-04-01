@@ -1,0 +1,58 @@
+{
+    "url": "https://cellphones.com.vn/nokia-n73.html",
+    "name": "Nokia N73",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.9 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Tính năng màn hình": "tốc độ làm mới 120 Hz."
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "32 MP + 16 MP + 5 MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "64 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 1+"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "7.850 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình"
+            }
+        }
+    ]
+}

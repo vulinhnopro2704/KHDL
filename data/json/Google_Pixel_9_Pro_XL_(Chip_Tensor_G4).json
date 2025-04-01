@@ -1,0 +1,142 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/google-pixel-9-pro-xl-chip-tensor-g4.html",
+    "name": "Google Pixel 9 Pro XL (Chip Tensor G4)",
+    "price": "27550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 14",
+                    "Cam kết có tới 7 bản nâng cấp Android lớn"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "LTPO OLED, 120Hz, HDR10+, 2000 nits (HBM), 3000 nits (peak)",
+                    "6.8 inches, 1.5K (1344 x 2992 pixels)",
+                    "Corning Gorilla Glass Victus 2",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1344 x 2992 pixels",
+                "Màn hình rộng": "6.8 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.7, 25mm (góc rộng), dual pixel PDAF, multi-zone Laser AF, OIS",
+                    "48 MP, f/2.8, 113mm (tiềm vọng tele), dual pixel PDAF, OIS, zoom quang 5x",
+                    "48 MP, f/1.7, 123˚ (ultrawide), dual pixel PDAF",
+                    "Quay phim: 8K@30fps, 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+                ],
+                "Camera trước": [
+                    "42 MP, f/2.2, 17mm (góc siêu rộng), PDAF",
+                    "Auto-HDR, panorama",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take",
+                "Quay phim": "8K@30fps, 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.1 GHz Cortex-X4",
+                    "3x2.6 GHz Cortex-A720",
+                    "4x1.92 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Google Tensor G4 (4 nm)",
+                    "8 nhân (1x3.1 GHz & 3x2.6 GHz & 4x1.92 GHz)",
+                    "GPU: Mali-G715 MC7"
+                ],
+                "RAM": "16GB",
+                "Chip đồ họa (GPU)": "Mali-G715 MC7"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới bạn",
+                "Bộ nhớ trong (ROM)": "128GB-1TB, UFS",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm vuông vức",
+                    "2 mặt kính phẳng Gorilla Glass Victus 2",
+                    "Kháng nước, bụi IP68",
+                    "Cảm biến vân tay siêu âm dưới màn hình"
+                ],
+                "Kích thước": "162.8 x 76.6 x 8.5 mm",
+                "Trọng lượng (g)": "221 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 5060 mAh",
+                    "Sạc nhanh 37W, PD3.0, PPS (70% trong 30 ph)",
+                    "Sạc không dây 23W (Pixel Stand)",
+                    "Sạc không dây 12W (tương thích Qi)",
+                    "Hỗ trợ sạc ngược không dây"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": [
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 71 - GGX8B",
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 48, 66, 71, 75 - GZC4K"
+                ],
+                "Loại Sim": "Nano-SIM và eSIM",
+                "Khe gắn Sim": "Nano-SIM và eSIM",
+                "Wifi": [
+                    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band (Global)",
+                    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band (Ấn Độ)"
+                ],
+                "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

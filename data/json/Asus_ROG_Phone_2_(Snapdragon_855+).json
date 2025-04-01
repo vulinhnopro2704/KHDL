@@ -1,0 +1,127 @@
+{
+    "url": "https://mobilecity.vn/asus/asus-rog-phone-2.html",
+    "name": "Asus ROG Phone 2 (Snapdragon 855+)",
+    "price": "11950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie), ROG UI",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10",
+                    "6.59 inches, Full HD+ (1080 x 2340 pixels), tỷ lệ 19.5:9",
+                    "Corning Gorilla Glass 6"
+                ],
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.59 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48MP, f/1.8, 26mm (góc rộng), PDAF, Laser AF",
+                    "13MP, f/2.4, 11mm (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps, 720p@480fps; gyro-EIS (except @240/480fps)"
+                ],
+                "Camera trước": [
+                    "24MP, f/2.2, 0.9µm",
+                    "Panorama, HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps, 720p@480fps; gyro-EIS (except @240/480fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.96 GHz & 3x2.42 GHz & 4x1.78 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8150 Snapdragon 855+ (7 nm)",
+                    "8 nhân (1x2.96 GHz & 3x2.42 GHz & 4x1.78 GHz)",
+                    "GPU: Adreno 640 (700 MHz)"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 640"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB, 1TB, UFS 3.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm",
+                    "Mặt trước Gorilla Glass 6",
+                    "Mặt sau Gorilla Glass 3",
+                    "Logo LED RGB mặt sau"
+                ],
+                "Kích thước": "171 x 77.6 x 9.5 mm",
+                "Trọng lượng (g)": "240 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 6000mAh",
+                    "Sạc nhanh 30W, QC4",
+                    "Sạc ngược (dây) 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 28, 29, 32, 34, 38, 39, 40, 41, 46",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/ad, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Âm thanh 24-bit/192kHz"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, đầu nối phụ kiện, OTG",
+                "Kết nối khác": "NFC, FM radio",
+                "Cổng sạc": "Type - C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "3GP, MP4, AVI, WMV",
+                "Nghe nhạc": "AMR, MP3, WAV, WMA, AAC, OGG, FLAC",
+                "Cổng sạc": "Type - C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

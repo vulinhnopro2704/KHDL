@@ -1,0 +1,105 @@
+{
+    "url": "https://cellphones.com.vn/vivo-x60t-pro-plus.html",
+    "name": "Vivo X60t Pro Plus",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2376 pixels (FullHD+)",
+                "Tính năng màn hình": "120Hz, HDR10+, 1300 nits"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.6, Laser AF, OIS",
+                    "Camera tiềm vọng tele: 8 MP, f/3.4, PDAF, OIS, 5x optical zoom",
+                    "Camerra tele: 12 MP, f/2.0, 50mm, PDAF, 2x optical zoom",
+                    "Camera góc siêu rộng: 48 MP, gimbal OIS, PDAF"
+                ],
+                "Quay video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR10+"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP, f/2.5",
+                "Quay video trước": "4K@30fps, 1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+                "GPU": "Adreno 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO, NavIC"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4200 mAh",
+                "Công nghệ sạc": "Sạc nhanh 55W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11, OriginOS 1.0"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "158.6 x 73.4 x 9.1 mm",
+                "Trọng lượng": "191g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

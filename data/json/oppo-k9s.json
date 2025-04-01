@@ -1,0 +1,87 @@
+{
+    "url": "https://cellphones.com.vn/oppo-k9s.html",
+    "name": "Oppo K9s",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.59 inches",
+                "Công nghệ màn hình": "IPS LCD"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 64 MP, f/1.8, PDAF",
+                    "Camera góc siêu rộng: 8 MP, f/2.2",
+                    "Camera macro: 2 MP, f/2.4"
+                ],
+                "Quay video": "4K@30fps, 1080p@30/60/120fps; gyro-EIS",
+                "Tính năng camera": "LED flash, HDR, panorama"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP, f/2.4",
+                "Quay video trước": "1080p@30fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 778G 5G (6 nm)",
+                "GPU": "Adreno 642L"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 30W"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS, QZSS"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11, ColorOS 11.3"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4x2.4 GHz Kryo 670 & 4x1.9 GHz Kryo 670"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Trọng lượng": "199 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

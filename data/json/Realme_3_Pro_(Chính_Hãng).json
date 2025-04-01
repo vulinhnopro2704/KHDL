@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/oppo/realme-3-pro.html",
+    "name": "Realme 3 Pro (Chính Hãng)",
+    "price": "3850000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0; ColorOS 6",
+                "Ngôn ngữ": "Đa ngôn ngữ, có tiếng việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "IPS LCD, 6.3 inches, Full HD+ (1080 x 2340 pixels), Corning Gorilla Glass 5",
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.3 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "2 camera: 16 MP + 5 MP",
+                "Camera trước": "25 MP, f/2.0",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama, Dual video call, gyro-EIS & OIS, dual-video rec.",
+                "Quay phim": "Full HD (1080p@30fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (2x2.2 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 710",
+                "RAM": "4GB - 6GB",
+                "Chip đồ họa (GPU)": "Adreno 616"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB - 128GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "512 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế nguyên khói, màn hình giọt nước",
+                "Kích thước": "156.8 x 74.2 x 8.3 mm",
+                "Trọng lượng (g)": "172 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "4045mAh - sạc nhanh 20W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Micro USB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Micro USB",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

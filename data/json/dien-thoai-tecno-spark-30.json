@@ -1,0 +1,20 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-tecno-spark-30.html",
+    "name": "Tecno Spark 30 5G 6GB-128GB",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Hỗ trợ mạng": "5G"
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-itel-9310-4g.html",
+    "name": "Itel 9310 4G",
+    "price": "650.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "3 inches"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "Nano-SIM",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "64MB",
+                "Bộ nhớ trong": "128 MB",
+                "Khe cắm thẻ nhớ": "microSD lên đến 64 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "2000 mAh"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "137.5 x 58 x 12.5 mm",
+                "Trọng lượng": "119 g"
+            }
+        }
+    ]
+}

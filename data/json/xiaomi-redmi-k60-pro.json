@@ -1,0 +1,125 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-k60-pro.html",
+    "name": "Redmi K60 Pro 5G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.66 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1440 x 3200 pixels (QHD+)",
+                "Tính năng màn hình": [
+                    "Kính cường lực Corning Gorilla Glass Victus",
+                    "Tần số quét 120Hz",
+                    "Dolby Vision",
+                    "HDR10+",
+                    "Độ sáng 1400 nits",
+                    "68 tỷ màu"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 54MP, f/1.9, 1/1.49\", 1.0µm, PDAF, OIS",
+                    "Camera góc siêu rộng: 8MP, 118˚, 1/4\", 1.12µm",
+                    "Camera macro: 2 MP, f/2.4"
+                ],
+                "Quay video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps",
+                "Tính năng camera": [
+                    "Đèn flash LED hai tông màu",
+                    "HDR",
+                    "Chụp toàn cảnh"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 16 MP, 1/3.06\", 1.0µm",
+                "Quay video trước": "1080p@30/60/120fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2 (4 nm)",
+                "GPU": "Adreno 740"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B2a+Bc), GALILEO (E1+E5a), QZSS (L1+L5), NavIC"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc có dây 120W, PD3.0, QC3+",
+                    "Sạc không dây 30W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162.8 x 75.4 x 8.6 mm",
+                "Trọng lượng": "201 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP53"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Bảo mật vân tay, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6e",
+                "Bluetooth": "v5.3, A2DP, LE"
+            }
+        }
+    ]
+}

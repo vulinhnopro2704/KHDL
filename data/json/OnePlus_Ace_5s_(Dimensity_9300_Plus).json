@@ -1,0 +1,91 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oneplus-ace-5s-dimensity-9-series.html",
+    "name": "OnePlus Ace 5s (Dimensity 9300 Plus)",
+    "price": "9950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, ColorOS 15",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, HDR10+, Dolby Vision",
+                    "6.78 inches, 1.5K (1264 x 2780 pixels)"
+                ],
+                "Độ phân giải": "1264 x 2780 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "8 MP (góc siêu rộng)",
+                    "Quay phim: 4K, 1080p, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "16 MP (góc rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K, 1080p, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.4 GHz Cortex-X4 & 3x2.85 GHz Cortex-X4 & 4x2.0 GHz Cortex-A720",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 9300 Plus (4 nm)",
+                    "8 nhân (1x3.4 GHz & 3x2.85 GHz & 4x2.0 GHz)",
+                    "GPU: Immortalis-G720 MC12"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Immortalis-G720 MC12"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "Si/C 7000 mAh",
+                    "Sạc nhanh 100W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

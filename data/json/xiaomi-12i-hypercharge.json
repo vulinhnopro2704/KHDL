@@ -1,0 +1,45 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-12i-hypercharge.html",
+    "name": "Xiaomi 12i HyperCharge",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.66 inches",
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "Tần số quét 120Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: HPX 200 MP có OIS",
+                    "Camera góc rộng: 8MP",
+                    "Camera Macro: 2MP"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Dimensity 1080"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "sạc 120W"
+            }
+        }
+    ]
+}

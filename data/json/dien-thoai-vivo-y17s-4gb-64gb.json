@@ -1,0 +1,126 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-y17s-4gb-64gb.html",
+    "name": "vivo Y17s 4GB 64GB",
+    "price": "3.190.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "1612x720 (HD+)",
+                "Tính năng màn hình": "83% NTSC, 269 ppi",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8",
+                    "2 MP, f/2.4"
+                ],
+                "Tính năng camera": "Chụp ảnh, Chụp đêm, Chân dung, Quay video, Độ phân giải cao 50MP, Toàn cảnh, Live Photo, Chuyển động chậm, Tua nhanh thời gian, Chế độ chuyên nghiệp"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP, f/2.0"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G85",
+                "GPU": "Mali-G52"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, BeiDou, GLONASS, Galileo, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "micro SD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 15W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.0GHz*2 + 1.8GHz*6"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.74 × 75.43 × 8.09 mm",
+                "Trọng lượng": "186 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Công nghệ - Tiện ích": [
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Tối ưu game (Siêu trò chơi)",
+                    "Trợ lý ảo Jovi",
+                    "Thu nhỏ màn hình sử dụng một tay",
+                    "Mở rộng bộ nhớ RAM",
+                    "Không gian thứ hai",
+                    "Cử chỉ thông minh",
+                    "Chặn tin nhắn",
+                    "Chặn cuộc gọi",
+                    "Chạm 2 lần tắt/sáng màn hình"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11, b/g/n, 2.4GHz /5GHz",
+                "Bluetooth": "v5.0"
+            }
+        }
+    ]
+}

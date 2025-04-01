@@ -1,0 +1,129 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-13.html",
+    "name": "Xiaomi 13 8GB 256GB",
+    "price": "16.490.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.36 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tốc độ lấy mẫu cảm ứng: lên tới 240Hz, Độ sáng: HBM 1200 nits (typ), độ sáng tối đa 1900 nits, HDR",
+                    "Tầm nhìn Dolby® HDR10+, Gam màu: DCI-P3"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP, f/1.8, HyperOIS",
+                    "Camera tele của Leica: 10MP, f/2.0, OIS",
+                    "Camera góc siêu rộng Leica: 12MP, f/2.2,"
+                ],
+                "Quay video": "8K@24fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/120/240/960fps, 1080p@1920fps, gyro-EIS",
+                "Tính năng camera": [
+                    "Hai phong cách chụp ảnh (Leica Authentic Look, Leica Vibrant Look)",
+                    "Hình ảnh chân thực của Leica",
+                    "Vẻ ngoài rực rỡ của Leica",
+                    "bộ lọc Leica",
+                    "Âm thanh màn trập cổ điển của Leica",
+                    "Hình mờ Leica",
+                    "Chế độ ban đêm (rộng/siêu rộng/tele)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera selfie trong màn hình 32MP, f/2.0"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Chip Snapdragon® 8 thế hệ thứ 2",
+                "GPU": "GPU Qualcomm® Adreno™"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Pin 4500mAh",
+                "Công nghệ sạc": "Sạc nhanh 67W, sạc không dây 50W, sạc ngược không dây 10W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "MIUI 14, Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Quy trình sản xuất 4nm tiết kiệm năng lượng"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "152,8 x 71,5 x 7,98mm",
+                "Trọng lượng": "189g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Tiện ích khác": "Loa kép Dolby Atmos®, Hai SIM (nano SIM + nano SIM hoặc nano SIM + eSIM), Mở khóa bằng khuôn mặt AI, Công nghệ LiquidCool (VC siêu lớn + Tấm than chì nhiều lớp)"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+                "Bluetooth": "Bluetooth 5.3"
+            }
+        }
+    ]
+}

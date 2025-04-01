@@ -1,0 +1,118 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-a76-chinh-hang-ips-lcd-90hz.html",
+    "name": "OPPO A76 (Chính hãng - Snapdragon 680)",
+    "price": "4730000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, ColorOS 11.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 90Hz, 480 nits (typ), 600 nits (HBM)",
+                    "6.56 inches, Full HD+ (720 x 1612 pixels), tỷ lệ 20:9",
+                    "Kính AGC DT-Pro"
+                ],
+                "Độ phân giải": "720 x 1612 pixels",
+                "Màn hình rộng": "6.56 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "13 MP, f/2.2, 26mm (góc rộng), PDAF",
+                    "2 MP, f/2.4, (độ sâu)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "8 MP, f/2.0 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.4 GHz & 4x1.9 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                    "8 nhân (4x2.4 GHz & 4x1.9 GHz)",
+                    "GPU: Adreno 610"
+                ],
+                "RAM": "4-6GB",
+                "Chip đồ họa (GPU)": "Adreno 610"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128GB",
+                    "UFS 2.2"
+                ],
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "164.4 x 75.7 x 8.4 mm",
+                "Trọng lượng (g)": "189 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 33W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

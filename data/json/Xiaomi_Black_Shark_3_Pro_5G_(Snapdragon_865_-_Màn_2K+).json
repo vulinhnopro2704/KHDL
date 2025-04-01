@@ -1,0 +1,128 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-black-shark-3-pro.html",
+    "name": "Xiaomi Black Shark 3 Pro 5G (Snapdragon 865 - Màn 2K+)",
+    "price": "4590000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 90Hz, HDR10+, 500 nits (typ)",
+                    "7.1 inches, QHD+ (1440 x 3120 pixels), tỷ lệ 19.5:9",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1440 x 3120 pixels",
+                "Màn hình rộng": "7.1 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.8, 26mm (góc rộng), PDAF",
+                    "13 MP, f/2.3 (góc siêu rộng)",
+                    "5 MP, f/2.2 (độ sâu)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps, 720p@1920fps"
+                ],
+                "Camera trước": [
+                    "20 MP, f/2.2 (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps, 720p@1920fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+                    "8 nhân (1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 650"
+                ],
+                "RAM": "8-12GB (LPDDR4X)",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 3.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Thiết kế gaming hầm hố",
+                    "Khung nhôm, mặt lưng nhôm",
+                    "Trigger vật lý hỗ trợ chơi game",
+                    "Cảm biến vân tay trong màn hình"
+                ],
+                "Kích thước": "177.8 x 83.3 x 10.1 mm",
+                "Trọng lượng (g)": "253 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 65W, sạc 100% trong 38 phút",
+                    "Sạc từ 18W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 3, 4, 5, 7, 8, 12, 17, 20, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, QZSS, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Không",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264, Asymmertric dual speaker (một loa bé, một loa to để phân luồng âm thanh)",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Vân tay dưới màn hình, phím cứng hỗ trợ chơi game"
+            }
+        }
+    ]
+}

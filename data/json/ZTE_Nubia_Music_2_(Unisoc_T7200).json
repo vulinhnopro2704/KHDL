@@ -1,0 +1,117 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/zte-nubia-music-2-unisoc-t7200.html",
+    "name": "ZTE Nubia Music 2 (Unisoc T7200)",
+    "price": "2150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 120Hz",
+                    "6.7 inches, HD+ (720 x 1612 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~264 ppi"
+                ],
+                "Độ phân giải": "720 x 1612 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8 (góc rộng), PDAF",
+                    "x MP (ống kính phụ)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "5 MP, f/2.4 (góc rộng)",
+                    "Quay phim: 720p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Unisoc T7200 (12 nm)",
+                    "8 nhân (2x1.6 GHz & 6x1.6 GHz)",
+                    "GPU: Mali-G57 MP1"
+                ],
+                "RAM": "4GB",
+                "Chip đồ họa (GPU)": "Mali-G57 MP1"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB, eMMC 5.1",
+                "Thẻ nhớ ngoài": "microSDXC"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa, mặt lưng nhựa",
+                    "3 loa ngoài stereo",
+                    "Đèn thông báo LED (ở mặt sau)",
+                    "Cảm biến vân tay cạnh bên"
+                ],
+                "Kích thước": "163.6 x 74.9 x 8.6 mm"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc cơ bản 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "HSPA, LTE",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 b/g/n/ac, 2 băng tần",
+                "GPS": "GPS",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC (Tùy từng thị trường/khu vực)",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

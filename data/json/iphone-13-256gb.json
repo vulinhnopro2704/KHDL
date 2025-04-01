@@ -1,0 +1,134 @@
+{
+    "url": "https://cellphones.com.vn/iphone-13-256gb.html",
+    "name": "iPhone 13 256GB | Chính hãng VN/A",
+    "price": "14.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.1 inches",
+                "Công nghệ màn hình": "Super Retina XDR OLED",
+                "Độ phân giải màn hình": "2532 x 1170 pixels",
+                "Tính năng màn hình": "Màn hình super Retina XDR, OLED, 460 ppi, 1200 nits, Tần số quét 60 Hz, HDR display, công nghệ True Tone Wide color (P3), Haptic Touch, Lớp phủ oleophobic chống bám vân tay",
+                "Tần số quét": "60Hz",
+                "Kiểu màn hình": "Tai thỏ"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 12MP, f/1.6",
+                    "Camera góc siêu rộng: 12MP, ƒ/2.4"
+                ],
+                "Quay video": [
+                    "4K 2160p@24fps/30fps/60fps",
+                    "FullHD 1080p@30fps/60fps/240fps",
+                    "HD 720p@30fps"
+                ],
+                "Tính năng camera": [
+                    "Chạm lấy nét",
+                    "HDR",
+                    "Nhận diện khuôn mặt",
+                    "Quay chậm (Slow Motion)",
+                    "Toàn cảnh (Panorama)",
+                    "Tự động lấy nét (AF)",
+                    "Xóa phông",
+                    "Nhãn dán (AR Stickers)",
+                    "Nhận diện khuôn mặt"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12MP, f/2.2"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Apple A15",
+                "GPU": "Apple GPU 4 nhân"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, GLONASS, Galileo, QZSS, and BeiDou"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3240 mAh",
+                "Công nghệ sạc": "Sạc nhanh 20W, Sạc không dây, Sạc ngược không dây 15W, Sạc pin nhanh, Tiết kiệm pin",
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "iOS 15"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "3.22 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "146,7 x 71,5 x 7,65mm",
+                "Trọng lượng": "174g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": "Mở khoá khuôn mặt Face ID"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi‑Fi 6 (802.11ax)",
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2021"
+            }
+        }
+    ]
+}

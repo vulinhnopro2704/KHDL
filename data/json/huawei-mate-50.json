@@ -1,0 +1,25 @@
+{
+    "url": "https://cellphones.com.vn/huawei-mate-50.html",
+    "name": "Huawei Mate 50",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 8 Gen 2"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "HarmonyOS 3.0"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Hỗ trợ mạng": "5G"
+            }
+        }
+    ]
+}

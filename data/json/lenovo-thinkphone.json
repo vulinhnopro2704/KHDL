@@ -1,0 +1,66 @@
+{
+    "url": "https://cellphones.com.vn/lenovo-thinkphone.html",
+    "name": "Lenovo ThinkPhone",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120 Hz, hỗ trợ HDR10+",
+                    "kính Gorilla Glass Victus"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50 MP, f/1.8, chống rung OIS",
+                    "Camera góc rộng: 13 MP, f/2.2"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8+ Gen 1"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc có dây 68 W và không dây 15 W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        }
+    ]
+}

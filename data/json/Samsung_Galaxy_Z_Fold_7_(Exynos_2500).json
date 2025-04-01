@@ -1,0 +1,92 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/samsung-galaxy-z-fold-7.html",
+    "name": "Samsung Galaxy Z Fold 7 (Exynos 2500)",
+    "price": "34450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, One UI 7",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Foldable Dynamic LTPO AMOLED 2X",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)",
+                    "7.6 inches, 1856 x 2160 pixels",
+                    "Màn ngoài: Dynamic LTPO AMOLED 2X, 120Hz, 2600 nits (peak)",
+                    "6.3 inches, 968 x 2376 pixels"
+                ],
+                "Độ phân giải": "1856 x 2160 pixels",
+                "Màn hình rộng": "7.6 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), dual pixel PDAF, OIS",
+                    "10 MP (tele), PDAF, OIS, zoom quang 3x",
+                    "12 MP (góc siêu rộng)",
+                    "Quay phim: 8K, 4K, 1080p"
+                ],
+                "Camera trước": [
+                    "4 MP (góc rộng), ẩn dưới màn hình",
+                    "Camera màn ngoài:",
+                    "10 MP (góc rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K, 4K, 1080p",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Chipset": "Exynos 2500",
+                "RAM": "12GB"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4500 mAh",
+                    "Sạc nhanh 45W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

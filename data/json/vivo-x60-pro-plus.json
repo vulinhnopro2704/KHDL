@@ -1,0 +1,99 @@
+{
+    "url": "https://cellphones.com.vn/vivo-x60-pro-plus.html",
+    "name": "Vivo X60 Pro+",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 1620 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "120Hz",
+                    "HDR10+",
+                    "Độ sáng 1300 nits"
+                ],
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50 MP + 8 MP + 32 MP + 48 MP",
+                "Quay video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR10+"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP",
+                "Quay video trước": "4K@30fps, 1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8350 Snapdragon 888 (5 nm)",
+                "GPU": "Adreno 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4200 mAh",
+                "Công nghệ sạc": "Sạc nhanh 55W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11, OriginOS 1.0"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân: 1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "158.6 x 73.4 x 9.1 mm",
+                "Trọng lượng": "190.6 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G"
+            }
+        }
+    ]
+}

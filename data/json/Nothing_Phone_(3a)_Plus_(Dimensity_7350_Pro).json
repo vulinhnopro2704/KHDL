@@ -1,0 +1,93 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/nothing-phone-3a-plus.html",
+    "name": "Nothing Phone (3a) Plus (Dimensity 7350 Pro)",
+    "price": "7950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, Nothing OS",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10+",
+                    "6.7 inches, Full HD+ (1080 x 2412 pixels)",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1080 x 2412 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "50 MP (góc siêu rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Camera trước": [
+                    "50 MP (góc rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K, 1080p",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x3.0 GHz Cortex-A715 & 6x 2.0 GHz Cortex-A510",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 7350 Pro (4 nm)",
+                    "8 nhân (2x3.0 GHz & 6x 2.0 GHz)",
+                    "GPU: Mali-G610 MC4"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Mali-G610 MC4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 50W"
+                ],
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

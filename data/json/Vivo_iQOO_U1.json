@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-iqoo-u1.html",
+    "name": "Vivo iQOO U1",
+    "price": "4050000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, iQOO UI 1.0",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Full HD+ 1080x2340 19,5:9",
+                "Độ phân giải": "1080x2340 pixel",
+                "Màn hình rộng": "6,53",
+                "Công nghệ cảm ứng": "Cám ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "48 MP (Góc rộng), 2 MP (Macro), 2 MP (Đo chiều sâu)",
+                "Camera trước": "8MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm SM7125 Snapdragon 720G (8nm)",
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Adreno 618"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-128GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh, cảm ứng",
+                "Kích thước": "162 x 76.6 x 8.5",
+                "Trọng lượng (g)": "190"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "4.500 mAh - Sạc nhanh 18W, Super Flash Charge 2.0",
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "3G WCDMA：B1/B2/B4/B5/B8;",
+                "4G": "4G",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Có",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Micro USB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4,WMA ...",
+                "Nghe nhạc": "WAV / MP3 / MP2 / AMR-NB / AMR-WB / MIDI / Vorbis / APE / FLAC",
+                "Cổng sạc": "Micro USB",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-12t-pro.html",
+    "name": "Xiaomi 12T Pro Chính hãng DGW (Camera 200MP)",
+    "price": "12850000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, MIUI 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 68 tỷ màu, 120Hz, Dolby Vision, HDR10+, 900 nits (tối đa)",
+                    "6.67 inches, 1.5K (1220 x 2712 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1220 x 2712 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "200 MP, f/1.7 (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, 120˚ (góc siêu rộng)",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: 8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, HDR10+"
+                ],
+                "Camera trước": [
+                    "20 MP, f/2.2, (góc rộng)",
+                    "Quay phim: 1080p@30/60fps, HDR"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, HDR10+",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.19 GHz & 3x2.75 GHz & 4x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                    "8 nhân (1x3.19 GHz & 3x2.75 GHz & 4x2.0 GHz)",
+                    "GPU: Adreno 730"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 730"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Thanh + Cảm ứng",
+                    "Kháng nước, bụi IP53",
+                    "Cảm biến vân tay trong màn hình"
+                ],
+                "Kích thước": "163.1 x 75.9 x 8.6 mm",
+                "Trọng lượng (g)": "205 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 120W, 100% trong 19 phút (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66",
+                "Loại Sim": "2 SIM, 2 Nano SIM",
+                "Khe gắn Sim": "2 SIM, 2 Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

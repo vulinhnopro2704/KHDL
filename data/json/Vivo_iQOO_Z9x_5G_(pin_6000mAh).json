@@ -1,0 +1,122 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-iqoo-z9x-5g.html",
+    "name": "Vivo iQOO Z9x 5G (pin 6000mAh)",
+    "price": "3350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, OriginOS 4",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 120Hz, 1000 nits (peak)",
+                    "6.72 inches, Full HD+ (1080 x 2408 pixels)",
+                    "Tỷ lệ 20:9 , mật độ phân giải ~393 ppi"
+                ],
+                "Độ phân giải": "1080 x 2408 pixels",
+                "Màn hình rộng": "6.72 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8 (góc rộng), PDAF",
+                    "2 MP, f/2.4 (độ sâu)",
+                    "Quay phim: 4K, 1080p, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "8 MP, f/2.1 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K, 1080p, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "4x2.2 GHz Cortex-A78",
+                    "4x1.8 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+                    "8 nhân (4x2.2 GHz & 4x1.8 GHz)",
+                    "GPU: Adreno 710"
+                ],
+                "RAM": "8-12GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Adreno 710"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Măt lưng nhựa phẳng; Màn hình phẳng",
+                    "Kháng nước, chống bụi IP64"
+                ],
+                "Kích thước": "165.7 x 76 x 8 mm",
+                "Trọng lượng (g)": "199 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "6000 mAh",
+                    "Sạc nhanh 44W",
+                    "Hỗ trợ sạc ngược có dây"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+                "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

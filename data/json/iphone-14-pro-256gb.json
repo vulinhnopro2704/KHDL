@@ -1,0 +1,164 @@
+{
+    "url": "https://cellphones.com.vn/iphone-14-pro-256gb.html",
+    "name": "iPhone 14 Pro 256GB | Chính hãng VN/A",
+    "price": "24.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.1 inches",
+                "Công nghệ màn hình": "Super Retina XDR OLED",
+                "Độ phân giải màn hình": "2556 x 1179 pixels",
+                "Tính năng màn hình": [
+                    "Công nghệ ProMotion với tần số quét 120Hz",
+                    "Tỷ lệ tương phản 2.000.000: 1",
+                    "Độ sáng tối đa: 2.000 nits (ngoài trời)"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Dynamic Island"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 48 MP, f/1.8, 24mm, OIS",
+                    "Camera góc siêu rộng: 12 MP, f/2.2, 120˚, 1.4µm",
+                    "Camera tele: 12 MP, f/2.8, PDAF, OIS, 3x optical zoom"
+                ],
+                "Quay video": [
+                    "4K @24 fps, 25 fps, 30 fps, 60 fps",
+                    "1080p @25 fps, 30 fps, 60 fps",
+                    "720p @30 fps",
+                    "4K HDR @30 fps",
+                    "2.8K @ 60 fps",
+                    "HDR với Dolby Vision @60 fps",
+                    "ProRes 4K @30fps",
+                    "Chuyển động chậm 1080p @ 120fps, 240 fps"
+                ],
+                "Tính năng camera": [
+                    "Zoom quang học 6x",
+                    "Zoom kỹ thuật số lên đến 15x",
+                    "Đèn flash True Tone",
+                    "HDR",
+                    "Chân dung với bokeh",
+                    "Chế độ ban đêm",
+                    "Chụp chân dung đêm",
+                    "Toàn cảnh (lên đến 63MP) (LiDAR Scanner)",
+                    "Apple ProRAW",
+                    "Smart HDR 4"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera selfie: 12 MP, f/1.9, 23mm, PDAF",
+                "Quay video trước": [
+                    "4K @24 fps, 25 fps, 30 fps or 60 fps",
+                    "1080p @25 fps, 30 fps or 60 fps",
+                    "4K HDR @30 fps",
+                    "HDR với Dolby Vision 4K @60fps",
+                    "ProRes 4K @30fps",
+                    "Slow-motion 1080p @240fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Apple A16 Bionic",
+                "GPU": "GPU 5 nhân"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "BEIDOU, GALILEO, GPS, QZSS, iBeacon, GLONASS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3200 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 20W",
+                    "Sạc không dây MagSafe 15W",
+                    "Sạc không dây"
+                ],
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "iOS 16"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "6 nhân"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Dài 174.5mm - Ngang: 71.5mm - Dày 7.85mm",
+                "Trọng lượng": "206g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": "Mở khoá khuôn mặt Face ID",
+                "Tiện ích khác": [
+                    "Phát hiện va chạm (Crash Detection)",
+                    "Màn hình luôn hiển thị AOD",
+                    "Chạm 2 lần sáng màn hình",
+                    "Apple Pay"
+                ],
+                "Công nghệ âm thanh": "Loa kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi‑Fi 6 (802.11ax) with 2x2 MIMO",
+                "Bluetooth": "Bluetooth 5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2022"
+            }
+        }
+    ]
+}

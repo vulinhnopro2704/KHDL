@@ -1,0 +1,116 @@
+{
+    "url": "https://cellphones.com.vn/oneplus-11.html",
+    "name": "OnePlus 11 5G 16GB 256GB",
+    "price": "18.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "Super Fluid AMOLED",
+                "Độ phân giải màn hình": "1440 x 3216 pixels (QHD+)",
+                "Tính năng màn hình": "Corning® Gorilla® Glass Victus, Hỗ trợ sRGB, Display P3, 10-bit Color Depth, HDR10+",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50MP, Laser AF, OIS",
+                    "Camera tele: 32MP, PDAF, OIS, zoom quang 2x",
+                    "Camera góc siêu rộng: 48MP, AF"
+                ],
+                "Quay video": [
+                    "8K@24fps",
+                    "4K@30/60/120fps",
+                    "1080p@30/60/240fps",
+                    "Auto HDR"
+                ],
+                "Tính năng camera": "Selfie HDR, Mở khóa bằng khuôn mặt, Flash màn hình, Selfie cảnh đêm, Chỉnh sửa khuôn mặt"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 16 MP, ƒ/2.45 hỗ trợ EIS",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2 (4 nm)",
+                "GPU": "Adreno 740"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1 + L5 Dual Band), GLONASS, Galileo (E1 + E5a Dual Band), Beidou, A GPS, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "16GB + mở rộng 12GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Siêu sạc nhanh SuperVOOC 100W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "OxygenOS trên nền tảng Android™ 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.1 x 74.1 x 8.53 mm",
+                "Trọng lượng": "205g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Công Nghệ Tản Nhiệt VC Gia Tốc Lạnh, Tinh thể Graphene",
+                "Tiện ích khác": "Loa kép sống động, Dolby Vision®, Dolby Atmos, Công Nghệ Tản Nhiệt VC Gia Tốc Lạnh",
+                "Công nghệ âm thanh": "Loa kép sống động, Hỗ trợ loại bỏ tiếng ồn, Dolby Atmos® \""
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi kép tăng tốc, Wi-Fi 7",
+                "Bluetooth": "v5.3, Codex hỗ trợ: SBC & aptX HD & LDAC & LHDC & AAC"
+            }
+        }
+    ]
+}

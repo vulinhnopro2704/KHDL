@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-mi-10.html",
+    "name": "Xiaomi Mi 10",
+    "price": "11750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "MIUI 11, Android 10",
+                "Ngôn ngữ": "Đa ngôn ngữ, có tiếng việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "Super AMOLED, 6.67 inches, Full HD+ (1080 x 2340 pixels), Corning Gorilla Glass 6, HDR 10, DCI-P3, 90Hz",
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 camera: 108MP + 12MP (Siêu rộng) + 2MP (Đo chiều sâu) + 2MP (Macro)",
+                "Camera trước": "20MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama, Dual video call, gyro-EIS & OIS, dual-video rec.",
+                "Quay phim": "4K@30fps, 1080p@30/60fps, 720p@960fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 865 (7 nm+)",
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB UFS 3.0",
+                "Thẻ nhớ ngoài": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế nguyên khối, màn hình cong 3D",
+                "Kích thước": "162.6 x 74.8 x 9 mm",
+                "Trọng lượng (g)": "208 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "4780mAh - Sạc nhanh 30W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/ax, dual-band, Wi-Fi Direct, DLNA, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Type-C",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Vân tay dưới màn hình, hỗ trợ 5G"
+            }
+        }
+    ]
+}

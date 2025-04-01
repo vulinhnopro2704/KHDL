@@ -1,0 +1,136 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/nothing-phone-3a-pro-amoled-120hz.html",
+    "name": "Nothing Phone (3a) Pro (Snapdragon 7s Gen 3)",
+    "price": "8450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 15, Nothing OS 3.1",
+                    "(hỗ trợ 3 phiên bản Android chính)"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10+, 800 nits (typ), 1300 nits (HBM), 3000 nits (peak)",
+                    "6.77 inches, Full HD+ (1080 x 2392 pixels)",
+                    "Mật độ điểm ảnh ~387 ppi",
+                    "Hỗ trợ hình ảnh Ultra HDR",
+                    "Kính Panda"
+                ],
+                "Độ phân giải": "1080 x 2392 pixels",
+                "Màn hình rộng": "6.77 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 24mm (góc rộng), 1/1.56\", 1.0µm, dual pixel PDAF, OIS",
+                    "50 MP, f/2.6, 70mm (tele tiềm vọng) (15cm - ∞), 1/1.95\", 0.8µm, PDAF, OIS, zoom quang 3x",
+                    "8 MP, f/2.2, 15mm, 120˚ (góc siêu rộng), 1/4.0\", 1.12µm",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "50 MP, f/2.2, 24mm (góc rộng), 1/2.76\"",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.5 GHz Cortex-A720",
+                    "3x2.4 GHz Cortex-A720",
+                    "4x1.8 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)",
+                    "8 nhân (1x2.5 GHz & 3x2.4 GHz & 4x1.8 GHz)",
+                    "GPU: Adreno 710 (940 MHz)"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 710 (940 MHz)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung phẳng; măt lưng trong suốt phẳng",
+                    "Màn hình đục lỗ phẳng chiếm 88% mặt trước",
+                    "3 dải đèn LED ở mặt sau (thông báo, đèn chiếu sáng camera, 26 vùng có thể tùy chỉnh)",
+                    "Kháng nước, bụi IP64"
+                ],
+                "Kích thước": "163.5 x 77.5 x 8.4 mm",
+                "Trọng lượng (g)": "211 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 50W",
+                    "Sạc 100% pin trong 56 phút"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+                    "HSDPA 850 / 900 / 2100 - India"
+                ],
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano + eSIM",
+                "Khe gắn Sim": "2 SIM Nano + eSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

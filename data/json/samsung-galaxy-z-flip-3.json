@@ -1,0 +1,139 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-z-flip-3.html",
+    "name": "Samsung Galaxy Z Flip3 5G 128GB",
+    "price": "24.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "1080 x 2640 pixels",
+                "Tính năng màn hình": [
+                    "Màn hình chính: 6.7\" 2640 x 1080 Pixels, 425ppi, FHD+ Dynamic AMOLED 2X Display (22:9)",
+                    "Tần số quét 120Hz, 1200 nits",
+                    "Màn hình phụ: 1.9\" Super AMOLED, 260 x 512 Pixels, 302ppi"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Màn hình gập"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc siêu rộng: 12MP, f/2.2, Dual Pixel AF, OIS",
+                    "Camera góc rộng: 12MP, f/1.8"
+                ],
+                "Quay video": [
+                    "4K@30/60 fps (3840x2160)",
+                    "1080p@60fps (1920x1080)",
+                    "720p@30fps (1280x720)"
+                ],
+                "Tính năng camera": [
+                    "Quay Siêu chậm (Super Slow Motion)",
+                    "Lấy nét theo pha (PDAF)",
+                    "AI Camera",
+                    "Ban đêm (Night Mode)",
+                    "Quay chậm (Slow Motion)",
+                    "Xóa phông",
+                    "Chạm lấy nét Toàn cảnh (Panorama)",
+                    "Chống rung quang học (OIS)",
+                    "Tự động lấy nét (AF)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 10MP, f/2.4"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 888 8 (5nm)",
+                "Loại CPU": "1 nhân 2.84 GHz, 3 nhân 2.4 GHz & 4 nhân 1.8 GHz",
+                "GPU": "Adreno 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Hồng ngoại": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3300 mAh",
+                "Công nghệ sạc": "Sạc nhanh 15W, Sạc không dây 10W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Khi gập: 72.2 x 86.4 x 17.1mm",
+                    "Khi mở: 72.2 x 166.0 x 6.9mm"
+                ],
+                "Trọng lượng": "183g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IPX8",
+                "Tiện ích khác": "Samsung Pay",
+                "Công nghệ âm thanh": "Âm thanh AKG"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/ax, HE80, MIMO, 1024-QAM",
+                "Bluetooth": "v5.1"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2021"
+            }
+        }
+    ]
+}

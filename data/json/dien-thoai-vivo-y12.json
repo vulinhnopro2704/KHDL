@@ -1,0 +1,106 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-y12.html",
+    "name": "vivo y12",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.35 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1544 pixels",
+                "Tính năng màn hình": "Mặt kính cong 2.5D"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "13MP, f/2.2",
+                    "8MP, f/2.2",
+                    "2MP, f/2.4"
+                ],
+                "Quay video": "HD 720p@30fpsFullHD 1080p@30fps",
+                "Tính năng camera": "Đèn flash LED, HDR, toàn cảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP, f/1.8",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek MT6762 8 nhân (Helio P22)",
+                "GPU": "IMG PowerVR GE8320"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, BeiDou, GLONASS, Galileo"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "3 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 9 (Pie)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.3 GHz & 4 nhân 1.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "159.43×76.77×8.92mm",
+                "Trọng lượng": "190.5 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n",
+                "Bluetooth": "v5.0, A2DP, LE"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-black-shark-5s.html",
+    "name": "Black Shark 5S",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.66 inches",
+                "Công nghệ màn hình": "OLED"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "64MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8+ Gen 1"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4.790 mAh",
+                "Công nghệ sạc": "Sạc có dây 120W"
+            }
+        }
+    ]
+}

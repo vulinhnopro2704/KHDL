@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/nokia/nokia-7-plus.html",
+    "name": "Nokia 7 Plus",
+    "price": "5250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 8.0 (Oreo)",
+                "Ngôn ngữ": "Đa ngôn ngữ hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16M colors",
+                "Chuẩn màn hình": "Full HD+",
+                "Độ phân giải": "Full HD+ (1080 x 2160 Pixels)",
+                "Màn hình rộng": "6",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "12 MP và 13 MP (2 camera)",
+                "Camera trước": "16 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Zoom quang học (Camera kép), Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Chế độ chụp chuyên nghiệp",
+                "Quay phim": "Quay phim 4K 2160p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4 nhân 2.2 GHz Kryo 260 & 4 nhân 1.8 GHz Kryo 260",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 660",
+                "RAM": "4 GB",
+                "Chip đồ họa (GPU)": "Adreno 512"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64 GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "hỗ trợ tối đa 256 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Nguyên khối",
+                "Kích thước": "Dài 158.4 mm - Ngang 75.6 mm - Dày 8 mm",
+                "Trọng lượng (g)": "183"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Lithium - Ion",
+                "Dung lượng pin": "3800 mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "3G, 4G LTE Cat 6",
+                "4G": "có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM Nano (SIM 2 chung khe thẻ nhớ)",
+                "Wifi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Wi-Fi hotspot",
+                "GPS": "BDS, A-GPS, GLONASS",
+                "Bluetooth": "v5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC)",
+                "Nghe nhạc": "MP3, WAV, WMA",
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

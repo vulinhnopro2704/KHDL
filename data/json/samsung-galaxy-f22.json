@@ -1,0 +1,108 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-f22.html",
+    "name": "Samsung Galaxy F22",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.4 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "720 x 1600 pixel",
+                "Tính năng màn hình": "Tần số quét 90Hz, 600 nits"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 48MP, f/1.8, PDAF",
+                    "Camera góc siêu rộng: 8MP, f/2.2, 123˚, 1/4.0\", 1.12µm",
+                    "Camera macro: 2MP, f/2.4",
+                    "Camera đo độ sâu: 2MP, f/2.4"
+                ],
+                "Quay video": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 13MP, f/2.2, 1/3.1\", 1.12µm",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G80 8 nhân",
+                "GPU": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "microSDXC"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 15W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "160 x 74 x 9.4 mm",
+                "Trọng lượng": "203 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/a",
+                "Bluetooth": "v5.0"
+            }
+        }
+    ]
+}

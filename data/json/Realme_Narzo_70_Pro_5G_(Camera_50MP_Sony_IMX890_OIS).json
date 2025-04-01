@@ -1,0 +1,124 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-narzo-70-pro-5g-camera-sony-imx890.html",
+    "name": "Realme Narzo 70 Pro 5G (Camera 50MP Sony IMX890 OIS)",
+    "price": "5690000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Realme UI 5.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz, HDR10+, 600 nits (typ), 2000 nits (tối đa)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tốc độ lấy mẫu cảm ứng 2200Hz"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, Sony IMX890, f/1.99, 24mm (góc rộng) PDAF, OIS",
+                    "8 MP, f/2.2, 16mm (góc siêu rộng)",
+                    "2 MP, f/2.4, 22mm (macro)",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5, 24mm (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1080p@30fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.6 GHz Cortex-A78",
+                    "6x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 7050 (6 nm)",
+                    "8 nhân (2x2.6 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G68 MC4"
+                ],
+                "RAM": "8GB + 8GB (RAM ảo)",
+                "Chip đồ họa (GPU)": "Mali-G68 MC4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng kính",
+                    "Kháng nước, bụi IP54",
+                    "Cảm biến vân tay dưới màn hình (Quang học)"
+                ],
+                "Kích thước": "162.95 x 75.45 x 7.97 mm",
+                "Trọng lượng (g)": "195 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh SUPERVOOC 67W",
+                    "Sạc 1-50% pin trong 19 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "1, 3, 5, 8, 28, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 2.4/5GHz, 802.11 a/b/g/n/ac/ax (Wi-Fi 6)",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0 Port",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

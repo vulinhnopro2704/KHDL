@@ -1,0 +1,86 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-k70e.html",
+    "name": "Xiaomi Redmi K70e",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1440 x 3200 pixels (QHD+)",
+                "Tính năng màn hình": [
+                    "16 triệu màu, tần số quét 120Hz, Dolby Vision, HDR10+, 1200 nits (tối đa), tỷ lệ 20:9",
+                    "Corning Gorilla Glass Victus"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, PDAF, OIS",
+                    "Camera góc siêu rộng: 8 MP, 120˚",
+                    "Camera macro: 2 MP, f/2.4"
+                ],
+                "Quay video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 20 MP, HDR",
+                "Quay video trước": "1080p@30/60/120fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Mediatek Dimensity 8300 (4 nm)",
+                "GPU": "Mali-G610 MC7"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 67W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13, MIUI 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân (1x3.1 GHz & 3x3.0 GHz & 4x2.0 GHz)"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        }
+    ]
+}

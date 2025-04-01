@@ -1,0 +1,144 @@
+{
+    "url": "https://cellphones.com.vn/iphone-14-plus.html",
+    "name": "iPhone 14 Plus 128GB | Chính hãng VN/A",
+    "price": "17.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "Super Retina XDR OLED",
+                "Độ phân giải màn hình": "2778 x 1284 pixel",
+                "Tính năng màn hình": [
+                    "Tần số quét 60 Hz, 458 ppi, HDR, True Tone, độ sáng 1200 nits , màn hình chống bám vân tay, 2,000,000:1",
+                    "Kính cường lực Ceramic Shield"
+                ],
+                "Tần số quét": "60Hz",
+                "Kiểu màn hình": "Tai thỏ"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 12MP, 26 mm, ƒ/1.5",
+                    "Camera góc siêu rộng: 12MP, 13 mm, ƒ/2.4, 120°"
+                ],
+                "Quay video": [
+                    "4K / Full HD 60FPS",
+                    "720p 30FPS",
+                    "Slow-mo Full HD 240FPS"
+                ],
+                "Tính năng camera": "Deep Fusion, Smart HDR 4,Panorama, Chụp đêm, Chân dung, QuickTake video, Time‑lapse, Slo-mo video"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12MP khẩu độ f/1.9, Autofocus",
+                "Quay video trước": [
+                    "4K / Full HD 60FPS",
+                    "720p 30FPS",
+                    "Slow-mo Full HD 120FPS"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Apple A15 Bionic",
+                "GPU": "5 nhân GPU"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, GLONASS, Galileo, QZSS, BeiDou"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4325 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 20W",
+                    "Sạc không dây chuẩn Magsafe 15w",
+                    "Sạc không dây chuẩn Qi 7.5W"
+                ],
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "iOS 16"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "6 nhân"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Dọc 160.8 x Ngang 78.1 x Dày 7.8mm",
+                "Trọng lượng": "203gr"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": "Mở khoá khuôn mặt Face ID",
+                "Tiện ích khác": [
+                    "Phát hiện va chạm (Crash Detection)",
+                    "Chạm 2 lần sáng màn hình",
+                    "Apple Pay"
+                ],
+                "Công nghệ âm thanh": "Loa kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Không",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi‑Fi 6 (802.11ax)",
+                "Bluetooth": "Bluetooth 5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2022"
+            }
+        }
+    ]
+}

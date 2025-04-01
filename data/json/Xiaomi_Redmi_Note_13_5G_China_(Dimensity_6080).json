@@ -1,0 +1,130 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-redmi-note-13-gia-re.html",
+    "name": "Xiaomi Redmi Note 13 5G China (Dimensity 6080)",
+    "price": "2950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, MIUI 14",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, 1000 nits (tối đa)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9; Mật độ điểm ảnh ~395 ppi",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.7 (góc rộng), PDAF",
+                    "2 MP, f/2.4 (độ sâu)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "16 MP (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.4 GHz Cortex-A76",
+                    "6x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 6080 (6 nm)",
+                    "8 nhân (2x2.4 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G57 MC2"
+                ],
+                "RAM": "6-12GB",
+                "Chip đồ họa (GPU)": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng nhựa",
+                    "Kính trước Corning Gorilla Glass 5",
+                    "Kháng nước, bụi IP54"
+                ],
+                "Kích thước": "161.1 x 75 x 7.6 mm",
+                "Trọng lượng (g)": "173.5 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 33W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 3, 5, 8, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+                "GPS": "GPS (L1), GLONASS (G1), BDS (B1), GALILEO (E1)",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Âm thanh 24-bit/192kHz"
+                ],
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

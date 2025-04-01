@@ -1,0 +1,80 @@
+{
+    "url": "https://cellphones.com.vn/vsmart-bee-5.html",
+    "name": "Vsmart Bee 5",
+    "price": "1.590.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.0 inches",
+                "Độ phân giải màn hình": "720 x 1440 pixels"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "8 MP",
+                "Quay video": "FullHD 1080p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek MT6739WW 4 nhân",
+                "GPU": "PowerVR GE8100"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "16 GB",
+                "Khe cắm thẻ nhớ": "64GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 3000 mAh"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "9.0 (Pie)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 1.5 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.6 x 77.2 x 9.1 mm",
+                "Trọng lượng": "170 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi hotspot",
+                "Bluetooth": "v4.2"
+            }
+        }
+    ]
+}

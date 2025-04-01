@@ -1,0 +1,46 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-zte-nubia-z60s-pro.html",
+    "name": "ZTE Nubia Z60S Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.8 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": "Tần số quét 120 Hz",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera tele 8 MP",
+                    "Camera góc siêu rộng 50 MP"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5100 mAh",
+                "Công nghệ sạc": "Sạc nhanh 80 W"
+            }
+        }
+    ]
+}

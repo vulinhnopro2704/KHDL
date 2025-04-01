@@ -1,0 +1,94 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-iqoo-z10-turbo-pin-7000mah.html",
+    "name": "Vivo iQOO Z10 Turbo (Dimensity 8400 - Pin 7000mAh)",
+    "price": "7150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, OriginOS 5",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 144Hz, HDR",
+                    "6.78 inches, 1.5K (1260 x 2800 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~453 ppi"
+                ],
+                "Độ phân giải": "1260 x 2800 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8 (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2 (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K@30/60fps, 1080p, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.25 GHz Cortex-A725 & 3x3.0 GHz Cortex-A725 & 4x2.1 GHz Cortex-A725",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 8400 (4 nm)",
+                    "8 nhân (3.25 GHz & 3x3.0 GHz & 4x2.1 GHz)",
+                    "GPU: Mali-G720 MC7"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Mali-G720 MC7"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 7600 mAh",
+                    "Sạc nhanh 80W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

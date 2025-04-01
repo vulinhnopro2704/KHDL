@@ -1,0 +1,123 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-redmi-13-5g-gia-re.html",
+    "name": "Xiaomi Redmi 13 5G (Snapdragon 4 Gen 2 AE)",
+    "price": "4350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, HyperOS",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 120Hz, 550 nits (HBM)",
+                    "6.79 inches, Full HD+ (1080 x 2460 pixels)",
+                    "Mật độ điểm ảnh ~396 ppi"
+                ],
+                "Độ phân giải": "1080 x 2460 pixels",
+                "Màn hình rộng": "6.79 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.8 (wide), PDAF",
+                    "2 MP (độ sâu)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "13 MP, f/2.5 (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.2 GHz Cortex-A78",
+                    "6x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm)",
+                    "8 nhân (2x2.2 GHz & 6x2.0 GHz)",
+                    "GPU: Adreno 613"
+                ],
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Adreno 613"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "microSDXC"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng kính phẳng",
+                    "Kính trước Corning Gorilla Glass 3",
+                    "Kháng nước, bụi IP53"
+                ],
+                "Kích thước": "168.6 x 76.3 x 8.2 mm",
+                "Trọng lượng (g)": "193 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "5030 mAh",
+                    "Sạc nhanh 33W",
+                    "Sạc 50% trong 30 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "1, 3, 5, 8, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C",
+                "Kết nối khác": "NFC (tùy thuộc vào thị trường/khu vực), FM radio, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

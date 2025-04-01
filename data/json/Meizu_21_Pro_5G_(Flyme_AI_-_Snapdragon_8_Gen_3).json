@@ -1,0 +1,134 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/meizu-21-pro-5g.html",
+    "name": "Meizu 21 Pro 5G (Flyme AI - Snapdragon 8 Gen 3)",
+    "price": "17150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Flyme",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, HDR10+, 600 nits (typ), 1250 nits (HBM)",
+                    "6.79 inches, 2K+ (1368 x 3192 pixels)",
+                    "Tỷ lệ 21:9, mật độ điểm ảnh ~512 ppi",
+                    "Meizu Titan Glass 2.0"
+                ],
+                "Độ phân giải": "1368 x 3192 pixels",
+                "Màn hình rộng": "6.79 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 24mm (góc rộng), PDAF, OIS",
+                    "10 MP, f/2.0, 72mm (tele tiềm vọng), PDAF, OIS, zoom quang 3x",
+                    "13 MP, f/2.4, 15mm, 122˚ (góc siêu rộng)",
+                    "Quay phim: 8K, 4K, 1080p; gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.4 (góc rộng), HDR",
+                    "Quay phim: Có"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring-LED flash, panorama, HDR",
+                "Quay phim": "8K, 4K, 1080p; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "3x3.2 GHz Cortex-A720",
+                    "2x3.0 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 3x3.2 GHz & 2x3.0 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Vuông vức, khung kim loại",
+                    "Mặt lưng kính/da",
+                    "Kính trước Meizu Titan 2.0",
+                    "Cảm biến vân tay sieu âm rộng mTouch",
+                    "(tốc độ 0,08 giây, diện tích 20×30mm2)",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "165 x 74.4 x 8 mm",
+                "Trọng lượng (g)": [
+                    "214 g (kính)",
+                    "208 g (da)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "5050 mAh",
+                    "Sạc nhanh 80W, Dual Super mCharge PD3 PPS, QC4+",
+                    "Sạc không dây 50W",
+                    "Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 а/b/g/n/ac/6e/7, dual-band",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "NFC, cổng hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-tcl-50se.html",
+    "name": "TCL 50SE",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Độ phân giải màn hình": "1080x2460 pixels",
+                "Tính năng màn hình": [
+                    "396PPI, Độ tương phản 1500: 1, Gam màu NTSC 96%, 450 nits, Hạn chế ánh sáng xanh",
+                    "Tần số quét 90Hz"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP, f/1.8, PDAF",
+                    "Camera độ sâu: 2MP, 1.75μm, FF"
+                ],
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": [
+                    "Hiệu ứng xóa phông",
+                    "HDR",
+                    "Toàn cảnh",
+                    "Nhận diện cảnh AI",
+                    "Nhận diện khuôn mặt",
+                    "Chế độ ban đêm",
+                    "Chụp ổn định",
+                    "Làm đẹp khuôn mặt"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8MP, 1.12μm, FF",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Mediatek Helio G88 (12nm)",
+                "GPU": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "BDS/GPS/Glonass/Galileo, with A-GPS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6GB + Mở rộng 6GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5010 mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2xA75@ 2.0GHz+6xA55@ 1.8 GHz Octa-core"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "168.16 x 75.53 x 8.09 mm",
+                "Trọng lượng": "195g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11a/b/g/n/ac",
+                "Bluetooth": "v5.1"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ âm thanh": [
+                    "2 loa",
+                    "Hiệu ứng âm thanh bùng nổ 3D và DTS"
+                ]
+            }
+        }
+    ]
+}

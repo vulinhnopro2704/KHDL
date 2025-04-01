@@ -1,0 +1,125 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-11-pro-plus.html",
+    "name": "Realme 11 Pro Plus 5G (Dimensity 7050)",
+    "price": "7150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, Realme UI 4.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10+, 950 nits (tối đa)",
+                    "6.7 inches, Full HD+ (1080 x 2412 pixels), tỷ lệ 20:9"
+                ],
+                "Độ phân giải": "1080 x 2412 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "200 MP, f/1.7, 23mm (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, 16mm, 112˚ (góc siêu rộng)",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120/480fps, 720p@960fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5, 22mm (góc rộng), panorama",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120/480fps, 720p@960fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.6 GHz & 6x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 7050",
+                    "8 nhân (2x2.6 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G68"
+                ],
+                "RAM": "8-12GB + 8 RAM ảo",
+                "Chip đồ họa (GPU)": "Mali-G68"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, 1TB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa",
+                    "Mặt lưng nhựa / da"
+                ],
+                "Kích thước": "161.6 x 73.9 x 8.2 / 8.7 mm",
+                "Trọng lượng (g)": "183 / 189 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 100W",
+                    "Sạc 100% trong 26 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 3, 5, 7, 8, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+                "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz",
+                    "Dolby Atmos"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-iqoo-neo-5.html",
+    "name": "Vivo iQOO Neo 5 (Snap 870)",
+    "price": "7450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, OriginOS for iQOO",
+                "Ngôn ngữ": "Tiếng Trung, Tiếng Anh, Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "6.62 inches, Full HD+ (1080 x 2400 pixels), HDR10+, 120Hz",
+                "Độ phân giải": "6.62 inches, Full HD+ (1080 x 2400 pixels), HDR10+, 120Hz",
+                "Màn hình rộng": "6,62",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "48 MP, f/1.8, PDAF, OIS,13 MP, f/2.2, 2 MP (depth), 4K@30",
+                "Camera trước": "16 MP, f/2.0, 1080p@30",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30, 1080@30",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3,2 GHz & 3x2,42 GHz & 4x1.80 GHz",
+                "Số nhân": "8",
+                "Chipset": "Qualcomm Snapdragon 870 5G (7 nm)",
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế 2 mặt kính",
+                "Kích thước": "163,3 x 76,4 x 8,4 mm",
+                "Trọng lượng (g)": "196 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "4400 mAh - Sạc nhanh 66W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a / b / g / n / ac, băng tần kép, Wi-Fi Direct, điểm phát sóng",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX thích ứng",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4",
+                "Nghe nhạc": "WAV / MP3 / MP2 / AMR-NB / AMR-WB / MIDI / Vorbis / APE / FLAC",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Không",
+                "Chức năng khác": "Cảm biến vân tay quang học dưới màn hình"
+            }
+        }
+    ]
+}

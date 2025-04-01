@@ -1,0 +1,127 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-mi-10-ultra.html",
+    "name": "Xiaomi Mi 10 Ultra",
+    "price": "18350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, MIUI 12",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt sau 7 ngày"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "OLED, 1 tỷ màu, 6.67 inches, 120Hz, HDR10+",
+                    "Full HD+ (1080 x 2340 pixels), tỷ lệ: 19.5:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": [
+                    "OLED, 1 tỷ màu, 6.67 inches, 120Hz, HDR10+",
+                    "Full HD+ (1080 x 2340 pixels), tỷ lệ: 19.5:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Màn hình rộng": "6.67",
+                "Công nghệ cảm ứng": "Cảm ứng diện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.9 (rộng), 25mm (wide), 1/1.32\", 1.2µm, PDAF, Laser AF, OIS",
+                    "48 MP, f/4.1 (tele kính tiềm vọng), OIS, 5x optical zoom, 120x hybrid zoom",
+                    "12 MP, f/2.0 (telephoto), 1/2.55\", 1.4µm, Dual Pixel PDAF, 2x optical zoom",
+                    "20 MP, f/2.2, 128˚ (Siêu rộng)",
+                    "Quay phim: 8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10 rec."
+                ],
+                "Camera trước": [
+                    "20 MP, f/2.3 (rộng), 1/3.4\", 0.8µm",
+                    "Quay phim: 1080p@30fps, 720p@120fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10 rec.",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8250 Snapdragon 865 (7 nm+), 8 nhân",
+                    "(1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)",
+                    "GPU: Adreno 650"
+                ],
+                "RAM": "8-16GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-512GB UFS 3.1",
+                    "Không hỗ trợ khe cắm thẻ nhớ Microsdxc"
+                ],
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh, cảm ứng",
+                "Kích thước": "162.4 x 75.1 x 9.5 mm",
+                "Trọng lượng (g)": "221.8 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 4500 mAh",
+                    "Sạc nhanh 120W, 41% trong 5 phút, 100% trong 23 phút (quảng cáo).",
+                    "Sạc không dây nhanh 50W, 100% trong 40 phút (quảng cáo).",
+                    "Sạc không dây ngược 10W.",
+                    "Quick Charge 5",
+                    "Quick Charge 4+",
+                    "Power Delivery 3.0"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "Có",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, DLNA, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "2.0, Type-C",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

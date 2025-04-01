@@ -1,0 +1,85 @@
+{
+    "url": "https://cellphones.com.vn/vivo-x70-pro-plus.html",
+    "name": "Vivo X70 Pro+",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2376 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 50 MP & Phụ 48 MP, 32 MP, 8 MP",
+                "Quay video": [
+                    "4K 2160p@30fps",
+                    "4K 2160p@60fps",
+                    "8K 4320p@30fps",
+                    "FullHD 1080p@30fps",
+                    "FullHD 1080p@60fps"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP",
+                "Quay video trước": "4K@30fps, 1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 888 8 nhân",
+                "GPU": "Adreno 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 66W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 2.84 GHz, 3 nhân 2.42 GHz & 4 nhân 1.8 GHz"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

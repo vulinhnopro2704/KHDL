@@ -1,0 +1,54 @@
+{
+    "url": "https://cellphones.com.vn/vivo-x100.html",
+    "name": "Vivo X100",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": "Tần số quét màn hình 144 Hz.",
+                "Loại màn hình": "Màn hình"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50 MP + 50 MP + 50 MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8+ Gen 1"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh công suất 120 W"
+            }
+        }
+    ]
+}

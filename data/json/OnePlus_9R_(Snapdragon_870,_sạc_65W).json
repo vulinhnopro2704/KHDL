@@ -1,0 +1,125 @@
+{
+    "url": "https://mobilecity.vn/oneplus/oneplus-9r.html",
+    "name": "OnePlus 9R (Snapdragon 870, sạc 65W)",
+    "price": "9350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 11, ColorOS 11",
+                    "Được lên Android 13, OxygenOS 13"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Fluid AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Fluid AMOLED, 120Hz, HDR10+",
+                    "6.55 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass 5",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.55 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f / 1.7, 26mm (góc rộng) PDAF, OIS",
+                    "16 MP, f / 2.2, 14mm, 123˚ (góc siêu rộng)",
+                    "5 MP, f / 2.4, (macro)",
+                    "2 MP, f / 2.4 (đơn sắc)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.4 (góc rộng)",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.2 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 870 5G (7 nm)",
+                    "8 nhân (1x3.2 GHz & 3x2.42 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 650"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm, 2 mặt kính Gorilla Glass 5",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": "161 x 74.1 x 8.4 mm",
+                "Trọng lượng (g)": "189 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4500 mAh",
+                    "Sạc nhanh 65W, 1-100% pin trong 39ph (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800/850/900/100 (AWS) / 1800/1900/2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 34, 38, 39, 40, 41, 46",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, DLNA",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a)",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4，MKV，AVI，WMV，WEBM，3GP，ASF HDR10",
+                "Nghe nhạc": "WAV / MP3 / MP2 / AMR-NB / AMR-WB / MIDI / Vorbis / APE / FLAC",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

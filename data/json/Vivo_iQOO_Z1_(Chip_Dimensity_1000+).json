@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-iqoo-z1.html",
+    "name": "Vivo iQOO Z1 (Chip Dimensity 1000+)",
+    "price": "6750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10",
+                "Ngôn ngữ": "Đa ngôn ngữ, có Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD - Tần số 144Hz",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Full HD+ Tần số 144Hz",
+                "Độ phân giải": "1080 x 2408 pixels",
+                "Màn hình rộng": "6.57",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "48MP, Góc rộng 112°: 8MP, Macro: 2MP",
+                "Camera trước": "16MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4×A77 2.6GHz + 4×A55 2.0GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek Dimensity 1000+ 7nm",
+                "RAM": "6-8GB LPDDR4X",
+                "Chip đồ họa (GPU)": "ARM G77 MC9"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB UFS2.1"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế nguyên khối",
+                "Kích thước": "163.97mm×75.53mm×8.93mm",
+                "Trọng lượng (g)": "194.78g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "4500mAh - Sạc nhanh 44W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "3G WCDMA：B1/B2/B4/B5/B8;",
+                "4G": "4G-5G",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "WLAN 2.4G;WLAN 5.1G;WLAN 5.8G;WLAN Display",
+                "GPS": "BDS, A-GPS, GLONASS",
+                "Bluetooth": "A2DP, LE, apt-X, v5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Có",
+                "Kết nối USB": "Type C",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4,WMA ...",
+                "Nghe nhạc": "WAV / MP3 / MP2 / AMR-NB / AMR-WB / MIDI / Vorbis / APE / FLAC",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-12-pro.html",
+    "name": "Xiaomi 12 Pro (Snapdragon 8 Gen1, Sạc 120W)",
+    "price": "9750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, MIUI 13",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỉ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỉ màu, 120Hz, Dolby Vision, HDR10+, 1000 nits (HBM), 1500 nits (tối đa)",
+                    "6.73 inches, QHD+ (1440 x 3200 pixels), tỉ lệ 20:9",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.73 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP - Sony IMX707, f/1.9, 24mm (góc rộng), Dual Pixel PDAF, OIS",
+                    "50 MP, f/1.9, 48mm (tele), PDAF, zoom quang 2x",
+                    "50 MP, f/2.2, 115˚ (góc siêu rộng)",
+                    "Quay phim: 8K@24fps (HDR), 4K@30/60fps (HDR10+), 1080p@30/120/240/960fps, 720p@1920fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5, 26mm (góc rộng)",
+                    "HDR, panorama",
+                    "Quay phim: 1080p@30/60fps, 720p@120fps, HDR10+"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K@24fps (HDR), 4K@30/60fps (HDR10+), 1080p@30/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.00 GHz & 3x2.50 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+                    "8 nhân (1x3.00 GHz & 3x2.50 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 730"
+                ],
+                "RAM": "8-12GB, LPDDR5",
+                "Chip đồ họa (GPU)": "Adreno 730"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm",
+                    "Mặt lưng kính",
+                    "Mặt trước Gorilla Glass Victus"
+                ],
+                "Kích thước": "163.6 x 74.6 x 8.2 mm",
+                "Trọng lượng (g)": "204 g / 205 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4600 mAh",
+                    "Sạc dây 120W, PD3.0, QC4, 100% trong 18 ph (QC)",
+                    "Chip sạc Xiaomi P1",
+                    "Sạc không dây 50W, 100% trong 42 ph (QC)",
+                    "Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": [
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66 - International",
+                    "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 34, 38, 39, 40, 41, 42 - China"
+                ],
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6 or 6e (market dependent), dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz",
+                    "Tinh chỉnh bởi Harman Kardon"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC (phụ thuộc vào thị trường/khu vực)",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

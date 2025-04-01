@@ -1,0 +1,142 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-a35.html",
+    "name": "Samsung Galaxy A35 5G 8GB 128GB",
+    "price": "6.790.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tốc độ làm mới 120Hz",
+                    "1000 nits, Gorilla Glass 7"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính rộng: 50 MP OIS+HDR Camera Macro: 5MP, f/2.4",
+                    "Camera siêu rộng: 8MP, f/2.2"
+                ],
+                "Quay video": [
+                    "UHD 4K (3840 x 2160)@30fps",
+                    "Quay chậm 240fps @HD"
+                ],
+                "Tính năng camera": [
+                    "Đèn Flash",
+                    "Zoom quang học 10x",
+                    "Panorama",
+                    "Macro",
+                    "Xóa phông",
+                    "Chế độ ban đêm",
+                    "Chuyên nghiệp",
+                    "Hyperlapse",
+                    "Chuyển động siêu chậm",
+                    "Tự động lấy nét"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "13MP, f/2.2"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 1380",
+                "GPU": "Mali-G68 MP5"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, Glonass, Beidou, Galileo, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD lên đến1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.4 GHz & 4 nhân 2.0 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161.7 x 78.0 x 8.2 mm",
+                "Trọng lượng": "209g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP67",
+                "Công nghệ âm thanh": "Ghi âm, Hỗ trợ radio FM"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "802.11 a/b/g/n/ac/ax",
+                    "2.4GHz+5GHz",
+                    "WiFi Direct"
+                ],
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "03/2024"
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "url": "https://cellphones.com.vn/vivo-y95.html",
+    "name": "Vivo Y95",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.22 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1520 pixels",
+                "Tính năng màn hình": "Mặt kính cong 2.5D"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Camera chính 13 MP, f/2.2 & Phụ 2 MP, f/2.4",
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": [
+                    "Toàn cảnh (Panorama)",
+                    "Tự động lấy nét (AF)",
+                    "Nhận diện khuôn mặt",
+                    "Làm đẹp (Beautify)",
+                    "Chạm lấy nét HDR"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20 MP, f/2.0"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 439 8 nhân",
+                "GPU": "Adreno 505"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, GLONASS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4030 mAh",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 8.1"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "155.11 x 75.09 x 8.28mm",
+                "Trọng lượng": "163.5 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trước màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n",
+                "Bluetooth": "v4.2, 2LE"
+            }
+        }
+    ]
+}

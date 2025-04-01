@@ -1,0 +1,123 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/infinix-zero-30-man-hinh-amoled-144hz.html",
+    "name": "Infinix Zero 30 5G (Dimensity 8020, Màn AMOLED 144Hz)",
+    "price": "6990000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, XOS 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 144Hz, HDR10, 950 nits (tối đa)",
+                    "6.78 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.7, (góc rộng), 1/1.67\", PDAF, OIS",
+                    "13 MP, f/2.2, 120˚ (góc siêu rộng)",
+                    "2 MP, f/2.4",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps"
+                ],
+                "Camera trước": [
+                    "50 MP, f/2.5 (góc rộng), PDAF",
+                    "Quay phim: 4K@30/60fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 8020 (6 nm)",
+                    "8 nhân (4x2.6 GHz & 4x2.0 GHz)",
+                    "GPU: Mali-G77 MC9"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Mali-G77 MC9"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB, UFS 3.1"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Màn hình cong tràn viền",
+                    "Khung nhựa",
+                    "Mặt lưng da tổng hợp/kính",
+                    "Kháng nước, bụi IP53"
+                ],
+                "Kích thước": "164.5 x 75 x 7.9 mm",
+                "Trọng lượng (g)": "185 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 68W",
+                    "Sạc 80% pin trong 30 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+                "GPS": "GPS",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Âm thanh 24-bit/192kHz"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC, FM radio",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

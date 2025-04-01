@@ -1,0 +1,125 @@
+{
+    "url": "https://mobilecity.vn/bkav/bphone-a60.html",
+    "name": "Bkav Bphone A60 (Giảm giá cực SỐC)",
+    "price": "2750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, BOS 9.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 450 nits",
+                    "6.67 inches, tỷ lệ 20:9",
+                    "Full HD+ (1080 x 2400 pixels)"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "16 MP, f/1.8 (góc rộng), PDAF",
+                    "5 MP, f/2.2, 115˚ (góc siêu rộng)",
+                    "2 MP, f/2.4 (macro)",
+                    "2 MP, f/2.4 (đo chiều sâu)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "8 MP, f/2.0 (góc rộng)",
+                    "Selfie đẹp tự nhiên",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "Chụp Smacro với độ nét cao",
+                    "Chụp đêm sNight",
+                    "Chụp chân dung xóa phông",
+                    "Chụp góc rộng"
+                ],
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.0 GHz & 6x1.8 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Helio G85 (12nm)",
+                    "8 nhân (2x2.0 GHz & 6x1.8 GHz)",
+                    "GPU: Mali-G52 MC2"
+                ],
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa",
+                    "Mặt lưng nhựa"
+                ],
+                "Kích thước": "77.5 x 165.2 x 8.99 mm",
+                "Trọng lượng (g)": "203 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000mAh",
+                    "Sạc nhanh 18W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "1, 3, 5, 8, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Có",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

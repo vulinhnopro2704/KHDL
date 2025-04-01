@@ -1,0 +1,91 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-tecno-spark-go-1-cu-xuoc-can.html",
+    "name": "TECNO SPARK Go 1 4GB 64GB - Cũ Xước Cấn",
+    "price": "1.290.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Tính năng màn hình": "120 Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "13MP",
+                "Quay video": [
+                    "1080p@30fps",
+                    "Trôi nhanh thời gian (Time lapse)",
+                    "Video ngắn",
+                    "AI CAM",
+                    "Làm đẹp (Beautify)",
+                    "Chế độ chân dung",
+                    "Chụp AR",
+                    "Toàn cảnh",
+                    "Ban đêm (Night Mode)"
+                ],
+                "Tính năng camera": [
+                    "Làm đẹp (Beautify)",
+                    "Flash LED",
+                    "HDR",
+                    "Quay video hiển thị kép"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc T615"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "Sạc 15W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 Nano-SIM"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "165.6 x 77.0 x 8.35 mm",
+                "Trọng lượng": "186 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54"
+            }
+        }
+    ]
+}

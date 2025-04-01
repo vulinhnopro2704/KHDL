@@ -1,0 +1,104 @@
+{
+    "url": "https://cellphones.com.vn/oppo-find-n2.html",
+    "name": "OPPO Find N2",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "7.0 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": [
+                    "Màn hình chính: Có thể gập, LTPO AMOLED, 120Hz, HDR10+, 1792 x 1920 pixels",
+                    "Màn hình phụ: 5.54 inche0s, AMOLED, 120Hz, Corning Gorilla Glass Victus, 1080 x 2120 pixels, 18:9 ratio"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.8, PDAF, OIS",
+                    "Camera tele: 32 MP, f/2.0, 2x optical zoom, PDAF",
+                    "Camera góc siêu rộng: 48 MP, f/2.2,115˚"
+                ],
+                "Quay video": "4K@30/60fps, 1080p@30/60/240fps, gyro-EIS, HDR"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP, f/2.4< Camera ở màn phụ: 32 MP, f/2.4",
+                "Quay video trước": "1080p@30fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8+ Gen 1 (4 nm)",
+                "GPU": "Adreno 730"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4520 mAh",
+                "Công nghệ sạc": "Sạc nhanh 67W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13, ColorOS 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.0 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x2.0 GHz Cortex-A510"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Không gập: 132.2 x 140.5 x 7.4 mm",
+                    "Gập: 132.2 x 72.6 x 14.6 mm"
+                ],
+                "Trọng lượng": "233 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, tri-band",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

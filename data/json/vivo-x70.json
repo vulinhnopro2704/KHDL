@@ -1,0 +1,66 @@
+{
+    "url": "https://cellphones.com.vn/vivo-x70.html",
+    "name": "Vivo X70",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "AMOLED"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "48 MP + 8 MP + 5 MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8250 Snapdragon 865 (7 nm+)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500 mAh"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "GPS": "A-GPS"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Yes, Wi-Fi 802.11, a/ac/b/g/n/n 5GHz, Mobile Hotspot",
+                "Bluetooth": "v5.1"
+            }
+        }
+    ]
+}

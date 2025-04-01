@@ -1,0 +1,163 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-z-fold-5-256gb.html",
+    "name": "Samsung Galaxy Z Fold5 12GB 256GB",
+    "price": "27.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "7.6 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "2176 x 1812 pixels (QXGA+)",
+                "Tính năng màn hình": [
+                    "Màn hình chính rộng: 7,6 inch, 21.6:18, Dynamic AMOLED 2X, 1-120Hz, Hỗ trợ S Pen",
+                    "Màn hình ngoài rộng: 6,2 inch, HD+ (2316 x 904), Dynamic AMOLED 2X, 23.1:9, 48-120Hz",
+                    "Độ sáng tối đa: 1750 nits Mặt kính cảm ứng Chính: Ultra Thin Glass & Phụ: Corning"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Màn hình gập"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera siêu rộng: 12MP F2.2, 123°, 1.12μm",
+                    "Camera góc rộng: 50MP, F1.8, Dual Pixel AF, OIS, 2.0μm",
+                    "Camera Tele: 10 MP, F2.4, PDAF, OIS, 1.0μm, zoom 3X, zoom kỹ thuật số 30X"
+                ],
+                "Quay video": "8K 4320p@30fps",
+                "Tính năng camera": [
+                    "Zoom quang học",
+                    "Góc siêu rộng (Ultrawide)",
+                    "Góc rộng (Wide)",
+                    "Chống rung quang học (OIS)",
+                    "FlexCam",
+                    "Zoom kỹ thuật số"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "Camera bên ngoài:10 MP, f/2.2",
+                    "Camera bên trong: 4 MP, F1.8"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2 for Galaxy (4nm) 8 nhân",
+                "GPU": "Adreno 740"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": [
+                    "GLONASS",
+                    "GPS",
+                    "GALILEO",
+                    "QZSS",
+                    "BEIDOU"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "không hỗ trợ thẻ nhớ"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4.400 mAh",
+                "Công nghệ sạc": [
+                    "Sạc tối đa 25W",
+                    "Sạc không dây",
+                    "Sạc ngược không dây",
+                    "Sạc pin nhanh",
+                    "Tiết kiệm pin"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13, One UI 5.1"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 3.36 GHz, 4 nhân 2.8 GHz & 3 nhân 2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Mở: 154.9 x 129.9 x 6.1mm",
+                    "Gập: 154.9 x 67.1 x 13.4mm"
+                ],
+                "Trọng lượng": "253g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IPX8",
+                "Công nghệ - Tiện ích": "Galaxy AI tiện ích - Khoanh vùng search đa năng, là trợ lý chỉnh ảnh,trợ lý note thông minh, phiên dịch trực tiếp",
+                "Tiện ích khác": [
+                    "Ghi âm mặc định, Ghi âm cuộc gọi",
+                    "Chạm 2 lần tắt/sáng màn hình",
+                    "Samsung DeX (Kết nối màn hình sử dụng giao diện tương tự PC)",
+                    "Âm thanh AKG"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Dual-band (2.4 GHz/5 GHz)",
+                    "Wi-Fi 802.11 a/b/g/n/ac/ax",
+                    "Wi-Fi MIMO"
+                ],
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "7/2023"
+            }
+        }
+    ]
+}

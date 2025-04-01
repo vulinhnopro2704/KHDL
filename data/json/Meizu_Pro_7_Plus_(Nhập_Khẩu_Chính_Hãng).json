@@ -1,0 +1,94 @@
+{
+    "url": "https://mobilecity.vn/meizu/meizu-pro-7-plus.html",
+    "name": "Meizu Pro 7 Plus (Nhập Khẩu Chính Hãng)",
+    "price": "4450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 7.0 (Nougat)",
+                "Ngôn ngữ": "Đa ngôn ngữ hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Full HD",
+                "Độ phân giải": "1440 x 2560 pixels, mật độ điểm ảnh ~ 518 ppi",
+                "Màn hình rộng": "5.7"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "12 MP",
+                "Camera trước": "16 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Geo-tagging, touch focus, face detection, HDR, panorama",
+                "Quay phim": "Quay phim 4K 2160p-30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Deca-core (2x2.6 GHz Cortex-A73, 4x1.9 GHz Cortex-A35, 4x2.2 GHz Cortex-A53)",
+                "Số nhân": "10 nhân",
+                "Chipset": "Mediatek MT6799 Helio X30",
+                "RAM": "6 GB",
+                "Chip đồ họa (GPU)": "PowerVR 7XTP"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64/128 GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Trọng lượng (g)": "157"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": "3500 mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Dual SIM (Nano-SIM, dual stand-by)",
+                "Khe gắn Sim": "2 sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, BDS",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Có",
+                "NFC": "Có",
+                "Kết nối USB": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4/H.265 player",
+                "Nghe nhạc": "MP3/WAV/eAAC+/FLAC player",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

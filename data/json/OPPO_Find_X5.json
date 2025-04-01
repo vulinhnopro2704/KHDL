@@ -1,0 +1,122 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-find-x5.html",
+    "name": "OPPO Find X5",
+    "price": "9450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, ColorOS 12.1",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1B colors, 120Hz, HDR10+, 1000 nits",
+                    "6.55 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Corning Gorilla Glass Victus",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.55 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), multi-directional PDAF, OIS",
+                    "13 MP, f/2.4, 52mm (telephoto), 2x optical zoom, PDAF",
+                    "50 MP, f/2.2, 15mm, 110˚ (góc siêu rộng), multi-directional PDAF",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.4, 25mm (góc rộng)",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Hasselblad Color Calibration, LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+                    "8 nhân (1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 660"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 660"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "160.3 x 72.6 x 8.7 mm",
+                "Trọng lượng (g)": "196 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4800mAh",
+                    "Sạc nhanh 80W",
+                    "Sạc nhanh không dây 30W",
+                    "Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C 3.1"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C 3.1",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

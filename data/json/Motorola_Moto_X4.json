@@ -1,0 +1,97 @@
+{
+    "url": "https://mobilecity.vn/motorola/motorola-moto-x4.html",
+    "name": "Motorola Moto X4",
+    "price": "",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 7.1",
+                "Ngôn ngữ": "Đa ngôn ngữ hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPS IPS LCD",
+                "Chuẩn màn hình": "5.2 inches",
+                "Độ phân giải": "1080 x 1920 pixels",
+                "Màn hình rộng": "5.2",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "Dual: 12 MP (f/2.0, 1.4 µm, PDAF, dual pixel) + 8 MP (f/2.2, 1.12 µm, no AF),",
+                "Camera trước": "16 MP, f/2.0, 1.0 µm pixel size, 1080p, LED flash",
+                "Đèn Flash": "Có",
+                "Quay phim": "Geo-tagging, touch focus, face detection, panorama, auto-HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core 2.2 GHz Cortex-A53",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 630",
+                "RAM": "4/6 GB RAM",
+                "Chip đồ họa (GPU)": "Adreno 508"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "128 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Cảm ứng",
+                "Kích thước": "148.4 x 73.4 x 8 mm",
+                "Trọng lượng (g)": "163"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": "3000 mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM - 2 Sóng",
+                "Wifi": "Wi-Fi 802.11 a / b / g / n, dual band, hotspot",
+                "GPS": "Có, với A-GPS",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm, có mic chống ồn",
+                "NFC": "Có",
+                "Kết nối USB": "Type-C 1.0 reversible connector",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C 1.0 reversible connector"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4/DivX/XviD/WMV/H.264 player",
+                "Nghe nhạc": "Định dạng MP3/WAV/AAX+/AIFF",
+                "Cổng sạc": "Type-C 1.0 reversible connector",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

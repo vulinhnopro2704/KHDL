@@ -1,0 +1,110 @@
+{
+    "url": "https://cellphones.com.vn/vivo-s17t.html",
+    "name": "Vivo S17t",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz, HDR10+",
+                    "Corning Gorilla Glass"
+                ],
+                "Loại màn hình": "Màn hình"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.9, 1/1.56\", 1.0µm, PDAF, OIS",
+                    "Camera góc siêu rộng: 8 MP, f/2.2"
+                ],
+                "Quay video": "4K@30fps, 1080p@30fps",
+                "Tính năng camera": "Ring-LED flash, panorama, HDR"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 50 MP, f/2.0, 22mm, AF",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Mediatek Dimensity 8050 (6 nm)",
+                "GPU": "Mali-G77 MC9"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1), GLONASS (G1), BDS (B1I), GALILEO (E1), QZSS (L1)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4600 mAh",
+                "Công nghệ sạc": "Sạc nhanh 80W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.2 x 74.4 x 7.5 mm",
+                "Trọng lượng": "186 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6",
+                "Bluetooth": "v5.2, A2DP, LE, aptX HD"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "05/2023"
+            }
+        }
+    ]
+}

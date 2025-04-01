@@ -1,0 +1,97 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-k50-ultra.html",
+    "name": "Xiaomi Redmi K50 Ultra",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.66 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "OLED, 1B màu, 120Hz, HDR10 +, 800 nits (HBM)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera gốc rộng: 50 MP, f/1.9",
+                    "Camera gốc siêu rộng: 8 MP, f/2.2, 120˚",
+                    "Camera macro: 2 MP, f/2.4"
+                ],
+                "Quay video": "4K@30/60fps, 1080p@30/60/120fps, 720p@960fps, HDR"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20 MP, f/2.4",
+                "Quay video trước": "1080p@30/60fps, 720p@120fps, HDR"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8+ gen 1 (4 nm)",
+                "GPU": "Adreno 730"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 5000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 100W",
+                    "Power Delivery 3.0",
+                    "Quick Charge 3+"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12, MIUI 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3,19 GHz Cortex-X2 & 3x2,75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a / b / g / n / ac / 6e",
+                "Bluetooth": "5.2, A2DP, LE"
+            }
+        }
+    ]
+}

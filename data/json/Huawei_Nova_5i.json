@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/huawei/huawei-nova-5i.html",
+    "name": "Huawei Nova 5i",
+    "price": "6950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie), EMUI 9.1",
+                "Ngôn ngữ": "Tiếng Anh, Tiếng Trung"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "IPS LCD, 6.4 inches, 1080 x 2310 pixels",
+                "Độ phân giải": "1080 x 2310 pixels",
+                "Màn hình rộng": "6.4 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 camera ( 24 MP 8 MP 2 MP 2 MP)",
+                "Camera trước": "24 MP, f/2.0",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "A.I Camera, Chụp ảnh xóa phông Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Làm đẹp (Beautify)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Hisilicon Kirin 710F",
+                "RAM": "6/8 GB RAM",
+                "Chip đồ họa (GPU)": "Mali-G51 MP4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128 GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "512 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế 2 mặt kính, màn hình Infinity 0",
+                "Kích thước": "159.1 x 75.9 x 8.3 mm",
+                "Trọng lượng (g)": "178"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-on",
+                "Dung lượng pin": "4000 mAh",
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Hybrid Dual SIM",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, BDS",
+                "Bluetooth": "4.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "2.0, Type-C 1.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "3GP, MP4, AVI, WMV",
+                "Nghe nhạc": "AMR, MP3, WAV, WMA, AAC, OGG, FLAC",
+                "Cổng sạc": "2.0, Type-C 1.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

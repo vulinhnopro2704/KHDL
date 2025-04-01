@@ -1,0 +1,93 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-realme-note-50.html",
+    "name": "realme Note 50",
+    "price": "2.790.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.74 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1600 pixel"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 13 MP & Phụ 0.08 MP",
+                "Quay video": "FullHD 1080p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc Tiger T612"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": [
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 2 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 10 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi hotspot",
+                    "Dual-band (2.4 GHz/5 GHz)"
+                ],
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "01/2024"
+            }
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-14.html",
+    "name": "Xiaomi Redmi Note 14 6GB 128GB",
+    "price": "4.590.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tốc độ làm mới: Lên đến 120Hz",
+                    "Độ sáng: 1800 nits đỉnh",
+                    "Tỷ lệ tương phản: 5.000.000:1"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Hệ thống camera AI 108MP",
+                    "Camera đo chiều sâu 2MP - f/2.4",
+                    "Camera cận cảnh 2MP - f/2.4"
+                ],
+                "Quay video": [
+                    "HD 720p@30fps",
+                    "FullHD 1080p@60fps",
+                    "FullHD 1080p@30fps"
+                ],
+                "Tính năng camera": "Google Gemini, Xóa vật thể AI, AI Sky, AI Beautify"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera trước 20MP - f/2.2"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G99-Ultra",
+                "GPU": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "QZSS, GPS, GLONASS, GALILEO, BEIDOU"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5500mAh",
+                "Công nghệ sạc": "Sạc turbo 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân, lên đến 2.2GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.25mm x 76.55mm x 8.16mm",
+                "Trọng lượng": "196.5g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Công nghệ âm thanh": [
+                    "Loa kép",
+                    "Dolby Atmos®"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay dưới màn hình",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi hotspot, Wi-Fi Direct, Wi-Fi 802.11 a/b/g/n/ac",
+                "Bluetooth": "5.3"
+            }
+        }
+    ]
+}

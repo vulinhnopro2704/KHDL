@@ -1,0 +1,121 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-k50-pro.html",
+    "name": "Xiaomi Redmi K50 Pro (Dimensity 9000, Sạc 120W)",
+    "price": "7450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, MIUI 13",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt sau khi up ROM"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "OLED, 120Hz, Dolby Vision, HDR10+, 1200 nits",
+                    "6.67 inches, 2K (1440 x 3200 pixels)",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP (góc rộng), PDAF, OIS",
+                    "8 MP, 119˚ (góc siêu rộng)",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps, 720p@960fps; gyro-EIS"
+                ],
+                "Camera trước": [
+                    "20MP (góc rộng)",
+                    "Quay phim: 1080p@30/120fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, 720p@960fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.05 GHz & 3x2.85 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 9000 (4 nm)",
+                    "8 nhân (1x3.05 GHz & 3x2.85 GHz & 4x1.80 GHz)",
+                    "GPU: Mali-G710 MC10"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Mali-G710 MC10"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa, 2 mặt kính",
+                    "Kháng nước. bụi IP53"
+                ],
+                "Kích thước": "163.1 x 76.15 x 8.48 mm",
+                "Trọng lượng (g)": "201 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000mAh",
+                    "Sạc nhanh 120W, 100% trong 19ph (Quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 18, 19, 26, 34, 38, 39, 40, 41, 42",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS. Up to tri-band: GLONASS (1), BDS (3), GALILEO (2), QZSS (2), NavIC",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

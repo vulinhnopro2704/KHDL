@@ -1,0 +1,95 @@
+{
+    "url": "https://cellphones.com.vn/realme-v3.html",
+    "name": "Realme V3",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "IPS LCD capacitive touchscreen, 16M colors",
+                "Kích thước màn hình": "6.5 inches",
+                "Độ phân giải màn hình": "720 x 1600 pixel"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "13 MP, f/2.2, 26mm (wide), PDAF",
+                    "2 MP, f/2.4, (macro)",
+                    "2 MP, f/2.4, (depth)"
+                ],
+                "Quay video": [
+                    "Trước: 1080p@30fps",
+                    "Sau: 4K@30/60fps, 1080p@30/60fps"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP, f/2.0, 26mm (wide)"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 720 5G (7 nm)",
+                "GPU": "Mali-G57 MC3"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "64 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 5000 mAh, Fast charging 18W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10, realme UI"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.4 x 76 x 8.6 mm",
+                "Trọng lượng": "189.5 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.0, A2DP, LE"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Cảm biến vân tay, cảm biến tiệm cận, gia tốc kế, la bàn, con quay hồi chuyển"
+            }
+        }
+    ]
+}

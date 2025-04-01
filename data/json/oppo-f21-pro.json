@@ -1,0 +1,114 @@
+{
+    "url": "https://cellphones.com.vn/oppo-f21-pro.html",
+    "name": "OPPO F21 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.43 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "AMOLED, 90Hz, 430 nits (typ)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera gốc rộng: 64 MP, f / 1.7, PDAF",
+                    "Camera macro: 2 MP, f / 3.3",
+                    "Camera chân dung: 2 MP, f / 2.4"
+                ],
+                "Quay video": "1080p @ 30 khung hình / giây,",
+                "Tính năng camera": [
+                    "Đèn flash LED",
+                    "HDR, toàn cảnh"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera gốc rộng: 32 MP, f / 2.4",
+                "Quay video trước": "1080p @ 30 khung hình / giây,"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "GPU": "Adreno 610"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "GPS": "Có, với A-GPS, GLONASS, BDS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4500 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 33W",
+                    "Sạc ngược"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 11",
+                    "ColorOS 12.1"
+                ]
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4x2,4 GHz Kryo 265 Gold & 4x1,9 GHz Kryo 265 Silver"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "159.9 x 73.2 x 7.5 mm",
+                "Trọng lượng": "175g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi 802.11 a / b / g / n / ac",
+                    "Băng tần kép",
+                    "Wi-Fi Direct",
+                    "đ Đểm phát sóng"
+                ],
+                "Bluetooth": "5.1, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-civi-2.html",
+    "name": "Xiaomi Civi 2",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "OLED"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 64 MP & Phụ 8 MP, 2 MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 778G+ 5G 8 nhân"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500 mAh55 W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        }
+    ]
+}

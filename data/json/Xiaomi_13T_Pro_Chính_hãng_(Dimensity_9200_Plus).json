@@ -1,0 +1,142 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-13t-pro-chinh-hang.html",
+    "name": "Xiaomi 13T Pro Chính hãng (Dimensity 9200 Plus)",
+    "price": "15990000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, MIUI 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 68 tỷ màu, 144Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 2600 nits (tối đa)",
+                    "6.67 inches, 1.5K (1220 x 2712 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~446 ppi",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1220 x 2712 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 24mm (góc rộng), PDAF, OIS",
+                    "50 MP, f/1.9, 50mm (tele), PDAF, OIS, zoom quang 2x",
+                    "12 MP, f/2.2, 15mm (góc siêu rộng)",
+                    "Quay phim: 8K@24fps, 4K@24/30/60fps, 4K/1080p@30fps HDR10+, 1080p@30/60/120/240fps; 10-bit LOG, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "20 MP, f/2.2 (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps, HDR10+"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Leica lens, LED flash, HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@24/30/60fps, 4K/1080p@30fps HDR10+, 1080p@30/60/120/240fps; 10-bit LOG, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.35 GHz Cortex-X3",
+                    "3x3.0 GHz Cortex-A715",
+                    "4x2.0 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 9200+ (4 nm)",
+                    "8 nhân (1x3.35 & 3x3.0 GHz & 4x2.0 GHz)",
+                    "GPU: Immortalis-G715 MC11"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Immortalis-G715 MC11"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm",
+                    "Mặt lưng kính/da",
+                    "Kính trước Gorilla Glass 5",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": [
+                    "Kính: 162.2 x 75.7 x 8.49 mm",
+                    "Silicon Polymer: 162.2 x 75.7 x 8.62 mm"
+                ],
+                "Trọng lượng (g)": [
+                    "Kính: 206 g",
+                    "Silicon Polymer: 200 g"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 120W, PD3.0, QC4",
+                    "Sạc 100% pin trong 19 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66",
+                "Loại Sim": [
+                    "2 SIM, Nano SIM",
+                    "Hoặc Nano SIM và eSIM"
+                ],
+                "Khe gắn Sim": [
+                    "2 SIM, Nano SIM",
+                    "Hoặc Nano SIM và eSIM"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), NavIC (L5), BDS",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

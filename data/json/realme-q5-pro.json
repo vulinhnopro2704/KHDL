@@ -1,0 +1,33 @@
+{
+    "url": "https://cellphones.com.vn/realme-q5-pro.html",
+    "name": "Realme Q5 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.2 inches",
+                "Công nghệ màn hình": "AMOLED"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "64MP + 8MP + 2MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Chip Snapdragon 870"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,000mAh",
+                "Công nghệ sạc": "hỗ trợ sạc nhanh 80W"
+            }
+        }
+    ]
+}

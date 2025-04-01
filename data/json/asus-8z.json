@@ -1,0 +1,127 @@
+{
+    "url": "https://cellphones.com.vn/asus-8z.html",
+    "name": "ASUS 8z",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "5.9 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Độ sáng tối đa 1100 nits",
+                    "112% DCI-P3",
+                    "107% NTSC",
+                    "151.9% sRGB",
+                    "Hỗ trợ màn hình luôn bật",
+                    "Hỗ trợ cảm ứng găng tay"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 64 MP, f/1.73",
+                    "16 MP"
+                ],
+                "Quay video": [
+                    "Video 8K UHD (7680 x 4320) ở tốc độ 24 khung hình / giây cho camera chính",
+                    "4K UHD (3840 x 2160) ở tốc độ 30/60 khung hình / giây cho camera phụ"
+                ],
+                "Tính năng camera": [
+                    "Tự động lấy nét",
+                    "Hình ảnh quang học",
+                    "Đèn flash LED",
+                    "Máy ảnh siêu rộng",
+                    "Hỗ trợ chụp macro 4 cm",
+                    "Chân dung",
+                    "Toàn cảnh",
+                    "Ban đêm"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm® Snapdragon™ 888 5G",
+                "GPU": "Adreno™ 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4000 mAh",
+                "Công nghệ sạc": "Hỗ trợ sạc nhanh",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "148 x 68.5 x 8.9 mm",
+                "Trọng lượng": "169 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "-"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP65"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "WiFi 6/6E* (802.11 a/b/g/n/ac/ax, 2x2 MIMO)",
+                    "Hỗ trợ tri-band 2.4 GHz / 5 GHz/ 6 GHz WiFi"
+                ],
+                "Bluetooth": "5.2 (EDR + A2DP), hỗ trợ LDAC, Qualcomm® aptX™, aptX™ HD, aptX™ Adaptive, AAC"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "url": "https://cellphones.com.vn/huawei-y6-s-2019.html",
+    "name": "Huawei Y6S 2019",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.1 inches"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "32 GB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "9"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Cảm biến vân tay"
+            }
+        }
+    ]
+}

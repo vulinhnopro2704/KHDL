@@ -1,0 +1,125 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/blu-bold-n3-dimensity-7050.html",
+    "name": "BLU Bold N3 5G (Dimensity 7050)",
+    "price": "6150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz",
+                    "6.78 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9; mật độ điểm ảnh ~388 ppi"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9 (góc rộng), PDAF",
+                    "8 MP, f/2.2, 112˚ (góc siêu rộng)",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5, (góc rộng)",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.6 GHz Cortex-A78",
+                    "6x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek MT6877V Dimensity 7050 (6 nm)",
+                    "8 nhân (2x2.6 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G68 MC4"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Mali-G68 MC4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm bo cong",
+                    "Mặt lưng kính cong",
+                    "Màn hình cong",
+                    "Vân tay trong màn hình"
+                ],
+                "Kích thước": "164.2 x 74.7 x 8.8 mm",
+                "Trọng lượng (g)": "180 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4700 mAh",
+                    "Sạc nhanh 66W",
+                    "Sạc 1-100% pin trong 39 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+                "4G": "2, 4, 5, 12, 13, 17, 25, 26, 41, 66, 71",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC, FM radio",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/samsung-galaxy-s21-ultra.html",
+    "name": "Samsung Galaxy S21 Ultra",
+    "price": "25450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, One UI 3.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Dynamic AMOLED 2X",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Dynamic AMOLED 2X, 120Hz, HDR10+, 1500 nits",
+                    "6.8 inches, QHD+ (1440 x 3200 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass Victus",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.8 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.8, 24mm (wide), PDAF, Laser AF, OIS",
+                    "10 MP, f/4.9, 240mm (periscope telephoto), dual pixel PDAF, OIS, 10x optical zoom",
+                    "10 MP, f/2.4, 72mm (telephoto), 1/3.24\", 1.22µm, dual pixel PDAF, OIS, 3x optical zoom",
+                    "12 MP, f/2.2, 13mm (ultrawide), dual pixel PDAF, Super Steady video",
+                    "Quay phim: 8K@24fps, 4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS"
+                ],
+                "Camera trước": [
+                    "40 MP, f/2.2, 26mm (wide), PDAF",
+                    "Quay phim: 4K@30/60fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.9 GHz & 3x2.80 GHz & 4x2.2 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Exynos 2100 (5 nm)",
+                    "8 nhân (1x2.9 GHz & 3x2.80 GHz & 4x2.2 GHz)",
+                    "GPU: Mali-G78 MP14"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Mali-G78 MP14"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Khung kim loại + 2 mặt kính",
+                "Kích thước": "165.1 x 75.6 x 8.9 mm",
+                "Trọng lượng (g)": "227 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-lon",
+                "Dung lượng pin": [
+                    "Li-Ion 5000 mAh",
+                    "Sạc nhanh 25W",
+                    "Sạc nhanh không dây 15W",
+                    "Sạc ngược không dây 4.5W",
+                    "USB Power Delivery 3.0"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 30, 38, 39, 40, 41, 46, 48, 66, 71 - SM-G998U1",
+                "Loại Sim": "1 SIM, Nano SIM",
+                "Khe gắn Sim": "1 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C 3.2"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C 3.2",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

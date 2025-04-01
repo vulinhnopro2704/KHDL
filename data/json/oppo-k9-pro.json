@@ -1,0 +1,51 @@
+{
+    "url": "https://cellphones.com.vn/oppo-k9-pro.html",
+    "name": "Oppo K9 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.43 inches",
+                "Công nghệ màn hình": "AMOLED"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "64MP + 8MP+ 2MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Dimensity 1200"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4,500 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "url": "https://cellphones.com.vn/oppo-find-n3.html",
+    "name": "OPPO Find N3 16GB 512GB",
+    "price": "32.490.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "7.82 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "2268 x 2440 pixels",
+                "Tính năng màn hình": [
+                    "Màn hình chính: 7.82 inches, 2K+ (2268 x 2440 Pixels), OLED, 120Hz, 2800 nit, 1 tỷ màu, Kính UTG",
+                    "Màn hình phụ: 6.31 inches, FHD+ (1116 x 2484 Pixels), 120Hz, Kính siêu mỏng Nanocrystal"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Màn hình gập"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 48MP, f/1.7, OIS",
+                    "Camera góc rộng: 48MP, f/2.2",
+                    "Camera Tele: 64MP, f/2.6"
+                ],
+                "Quay video": [
+                    "HD 720p@30fps",
+                    "FullHD 1080p@60fps",
+                    "FullHD 1080p@30fps",
+                    "4K 2160p@30fps",
+                    "4K 2160p@60fps",
+                    "HD 720p@240fps",
+                    "FullHD 1080p@240fps",
+                    "HD 720p@60fps",
+                    "HD 720p@480fps"
+                ],
+                "Tính năng camera": [
+                    "Quay video hiển thị kép",
+                    "Trôi nhanh thời gian",
+                    "FlexCam",
+                    "Quay chậm",
+                    "Xóa phông",
+                    "Toàn cảnh",
+                    "Chống rung quang học (OIS)",
+                    "Ban đêm",
+                    "Chuyên nghiệp",
+                    "HDR",
+                    "Phơi sáng",
+                    "Zoom quang học",
+                    "Siêu độ phân giải",
+                    "Làm đẹp",
+                    "Nhãn dán (AR Stickers)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "Màn hình chính: 20MP, f/2.2",
+                    "Màn hình ngoài: 32MP, f/2.4"
+                ],
+                "Quay video trước": "1080p@30fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2 8 nhân",
+                "GPU": "Adreno 740"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Nano-SIM + eSIM",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": [
+                    "BEIDOU",
+                    "QZSS",
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "16 GB",
+                "Bộ nhớ trong": "512 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4805 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 67W",
+                    "Tiết kiệm pin",
+                    "Sạc ngược không dây",
+                    "Sạc siêu nhanh SuperVOOC"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Màu Vàng",
+                    "Khi mở: 153.4 x 143.1 x 5.9 (màn hình ngoài)/5.8 (mặt lưng) mm",
+                    "Khi gập: 153.4 x 73.3 x 11.7 mm",
+                    "Màu Đen",
+                    "Khi mở: 153.4 x 143.1 x 5.9 (màn hình ngoài)/6.0 (mặt lưng) mm",
+                    "Khi gập: 153.4 x 73.3 x 11.9 mm\""
+                ],
+                "Trọng lượng": "245 g (kính) | 239 g (da)"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IPX4",
+                "Công nghệ - Tiện ích": [
+                    "Cử chỉ thông minh",
+                    "Công nghệ hình ảnh Dolby Vision",
+                    "Ứng dụng kép (Nhân bản ứng dụng)"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6/7",
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "10/2023"
+            }
+        }
+    ]
+}

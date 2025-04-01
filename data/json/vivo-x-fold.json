@@ -1,0 +1,107 @@
+{
+    "url": "https://cellphones.com.vn/vivo-x-fold.html",
+    "name": "vivo X Fold",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "8.03 inches",
+                "Công nghệ màn hình": "LTPO AMOLED",
+                "Độ phân giải màn hình": "1916 x 2160 pixels",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz, HDR10+",
+                    "Màn hình phụ: AMOLED, 120Hz, 6.53 inches, 1080 x 2520 pixels, 21:9 ratio"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.8, 1.0µm, Laser AF, OIS",
+                    "Kính viễn vọng: 8 MP, f/3.4, 125mm, PDAF, OIS",
+                    "Camera tele: 12MP, f/2.0, 47mm",
+                    "Camera góc siêu rộng: 48MP, f/2.2, 14mm, 114˚"
+                ],
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": "HDR"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 16 MP, f/2.5"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+                "GPU": "Adreno 730"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Nano-SIM",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, GLONASS, BDS, GALILEO, QZSS, NavIC"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4600mAh",
+                "Công nghệ sạc": "Sạc nhanh 66W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Khi mở ra: 162 x 144,9 x 6,3 mm",
+                    "Khi gập lại: 162 x 74,5 x 14,6 mm"
+                ],
+                "Trọng lượng": "311 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6",
+                "Bluetooth": "v5.2"
+            }
+        }
+    ]
+}

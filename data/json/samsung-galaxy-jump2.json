@@ -1,0 +1,111 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-jump2.html",
+    "name": "Samsung Galaxy Jump2",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "120Hz",
+                "Tần số quét": "60Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50 MP",
+                    "Camera góc rộng: 5 MP",
+                    "Camera xoá phông: 2 MP",
+                    "Camera cận cảnh: 2 MP"
+                ],
+                "Quay video": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 1280 (5 nm)",
+                "GPU": "Mali-G68"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Có, hỗ trợ A-GPS, GLONASS, GALILEO, BDS, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "microSD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12, One UI 4.1"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "165.4 x 76.9 x 9.4 mm",
+                "Trọng lượng": "215 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn",
+                "Tính năng đặc biệt": "Bảo mật vân tay"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac",
+                "Bluetooth": "v5.1"
+            }
+        }
+    ]
+}

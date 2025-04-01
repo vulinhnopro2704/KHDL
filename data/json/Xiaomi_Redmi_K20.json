@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-k20.html",
+    "name": "Xiaomi Redmi K20",
+    "price": "3950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); MIUI 10",
+                "Ngôn ngữ": "Tiếng Anh, Tiếng Trung"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "AMOLED, Full HD+ (1080x2340 pixels), 6.39 inches, Corning Gorilla Glass 5",
+                "Độ phân giải": "1080x2340 pixels",
+                "Màn hình rộng": "6.39 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "3 Camera: 48 MP + 13 MP (Góc rộng) + 8 MP (telephoto)",
+                "Camera trước": "Pop-up 20 MP, f/2.2, 0.8µm",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "2160p@30fps",
+                "Quay phim": "2160p@30fps, 1080p@30/120/240fps, 1080p@960fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz",
+                "Số nhân": "8 Nhân",
+                "Chipset": "Snapdragon 730 (8 nm)",
+                "RAM": "6GB - 8GB",
+                "Chip đồ họa (GPU)": "Adreno 618"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB - 128GB - 256GB",
+                "Thẻ nhớ ngoài": "Không hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Mặt lưng thay đổi màu sắc, màn hình Fullview",
+                "Kích thước": "156.7 x 74.3 x 8.8 mm",
+                "Trọng lượng (g)": "191g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-on",
+                "Dung lượng pin": "4000 mAh, sạc nhanh 18W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C 1.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "3GP, MP4, AVI, WMV",
+                "Nghe nhạc": "AMR, MP3, WAV, WMA, AAC, OGG, FLAC",
+                "Cổng sạc": "Type-C 1.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

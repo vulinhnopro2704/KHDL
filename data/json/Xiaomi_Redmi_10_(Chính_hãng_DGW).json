@@ -1,0 +1,101 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-10.html",
+    "name": "Xiaomi Redmi 10 (Chính hãng DGW)",
+    "price": "3650000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt khi up ROM"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "LTPS LCD, 90Hz",
+                    "6.5 inchs, ( tỷ lệ 19.5:9), 396 ppi",
+                    "Full HD+( 1080 x 2340 px)"
+                ],
+                "Độ phân giải": [
+                    "LTPS LCD, 90Hz",
+                    "6.5 inchs, ( tỷ lệ 19.5:9), 396 ppi",
+                    "Full HD+( 1080 x 2340 px)"
+                ],
+                "Màn hình rộng": "6.5",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f1/1.8 (góc rộng)",
+                    "8 MP (góc siêu rộng)",
+                    "2 MP (macro)",
+                    "2 MP (xoá phông)"
+                ],
+                "Camera trước": "8 MP (góc rộng)",
+                "Đèn Flash": "Có",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "MediaTek Helio G88",
+                    "8 nhân (2x 2.0 GHz + 6x 1.8 GHz)"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek Helio G88",
+                "RAM": "4GB",
+                "Chip đồ họa (GPU)": "Mali-G52"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-128GB",
+                "Thẻ nhớ ngoài": "Có"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + cảm ứng"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-ion",
+                "Dung lượng pin": "5000mAh, sạc nhanh 18W",
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có",
+                "Kết nối USB": "Type-C",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-gt-6t-5g-do-sang-6000nit.html",
+    "name": "Realme GT 6T 5G (Snapdragon 7+ Gen 3 - Sạc 120W)",
+    "price": "9550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Realme UI 5.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, HDR, 1000 nits (typ), 1600 nits (HBM), 6000 nits (tối đa)",
+                    "6.78 inches, 1.5K (1264 x 2780 pixels)",
+                    "Mật độ điểm ảnh ~450",
+                    "Kính bảo vệ Corning Gorilla Glass Victus 2"
+                ],
+                "Độ phân giải": "1264 x 2780 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 26mm (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, 16mm, 112˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5, 21mm (góc rộng), Panorama",
+                    "Quay phim: 4K@30fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.8 GHz Cortex-X4",
+                    "4x2.6 GHz Cortex-A720",
+                    "3x1.9 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7675 Snapdragon 7+ Gen 3 (4 nm)",
+                    "8 nhân (1x2.8 GHz & 4x2.6 GHz & 4x 1.9 GHz)",
+                    "GPU: Adreno 732"
+                ],
+                "RAM": "8-12GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 732 (950MHz)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128GB - UFS 3.1",
+                    "256-512GB - UFS 4.0"
+                ],
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vát phẳng",
+                    "Mặt lưng nhựa cong;",
+                    "Kính màn hình Gorilla Glass Victus 2 cong",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": "162 x 75.1 x 8.7 mm",
+                "Trọng lượng (g)": "191 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5500 mAh",
+                    "Sạc siêu nhanh 120W",
+                    "Sạc 1-50% pin trong 10 Ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+                "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res audio"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC, cổng hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

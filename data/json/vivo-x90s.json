@@ -1,0 +1,19 @@
+{
+    "url": "https://cellphones.com.vn/vivo-x90s.html",
+    "name": "Vivo X90S",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Dimensity 9200 Plus"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-7a.html",
+    "name": "Xiaomi Redmi 7A",
+    "price": "2050000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); MIUI 10",
+                "Ngôn ngữ": "Tiếng Anh, Tiếng Trung"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 Triêu màu",
+                "Chuẩn màn hình": "IPS LCD, HD+ (720x1440 pixels), 5.45 inches",
+                "Độ phân giải": "720 x 1440 pixels",
+                "Màn hình rộng": "5.45 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "13 MP, f/2.2, 1.12µm, PDAF",
+                "Camera trước": "5 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "HDR, 1080p@30fps",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.0 GHz Cortex-A53 & 6x1.45 GHz Cortex A53",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 439 (12 nm)",
+                "RAM": "2GB - 3GB",
+                "Chip đồ họa (GPU)": "Adreno 505"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "16GB - 32GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế mỏng nhẹ, màu sắc trẻ trung",
+                "Kích thước": "146.3 x 70.4 x 9.6 mm",
+                "Trọng lượng (g)": "165g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-on",
+                "Dung lượng pin": "4000mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "Có",
+                "Loại Sim": "Nano Sim",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, BDS",
+                "Bluetooth": "4.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Không",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "microUSB 2.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "3GP, MP4, AVI, WMV",
+                "Nghe nhạc": "AMR, MP3, WAV, WMA, AAC, OGG, FLAC",
+                "Cổng sạc": "microUSB 2.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

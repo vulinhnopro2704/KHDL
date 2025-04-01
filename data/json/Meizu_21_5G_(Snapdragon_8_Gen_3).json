@@ -1,0 +1,128 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/meizu-21-thiet-ke-sieu-dep.html",
+    "name": "Meizu 21 5G (Snapdragon 8 Gen 3)",
+    "price": "11750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, Flyme 10.5",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz, HDR10+, 600 nits (typ), 1100 nits (HBM), 1800 nits (tối đa)",
+                    "6.55 inches, Full HD+ (1080 x 2340 pixels)",
+                    "Tỷ lệ 19.5:9, mật độ điểm ảnh ~393 ppi"
+                ],
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.55 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "200 MP, f/1.7, 22mm (góc rộng), PDAF, OIS",
+                    "13 MP, f/2.4, 15mm, 122˚ (góc siêu rộng/macro)",
+                    "5 MP, f/2.4, 27mm (tele)",
+                    "Quay phim: 8K, 4K, 1080p; gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.4 (góc rộng), HDR",
+                    "Thuật toán trang điểm và làm đẹp cảnh thật",
+                    "Chụp ảnh selfie ngược sáng HDR",
+                    "Cảnh siêu đêm phía trước",
+                    "Mở khóa nhận dạng khuôn mặt",
+                    "Quay phim: Có"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring-LED flash, panorama, HDR",
+                "Quay phim": "8K, 4K, 1080p; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "5x3.2 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 5x3.2 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Vuông vức, sang trọng",
+                    "Kháng nước, bụi IP54"
+                ],
+                "Kích thước": "156.7 x 75.3 x 7.9 mm",
+                "Trọng lượng (g)": "198 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4800 mAh",
+                    "Sạc nhanh Super mCharge 80W",
+                    "PD3 PPS, QC4+,"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+                "4G": "1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 а/b/g/n/ac/6e/7, dual-band",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

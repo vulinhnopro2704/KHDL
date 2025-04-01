@@ -1,0 +1,114 @@
+{
+    "url": "https://cellphones.com.vn/nubia-redmagic-8s-pro-16gb-512gb-transparent.html",
+    "name": "Nubia Redmagic 8s Pro 16GB 512GB Transparent",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.8 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1116 x 2480 pixels",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz, 1300 nits",
+                    "Corning® Gorilla® Glass",
+                    "Tỷ lệ khung hình: 20:9"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "50MP, f/1.88, 82°",
+                    "8MP, f/2.2, 120°",
+                    "2MP, f/2.4, 78°"
+                ],
+                "Quay video": "7680x4320@30fps, 3840x2160@30fps, 3840x2160@60fps,1920x1080@30fps, 1920x1080@60fps,1280x720@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP, 1.12μm"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2",
+                "GPU": "Adreno™"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, AGPS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "16 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 65W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13.0"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "up to 3.36 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.98 x 76.35 x 9.47 mm",
+                "Trọng lượng": "228 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Hệ thống làm mát đa chiều ICE 12"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến trọng lực"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 7 802.11b/g/n/ac/ax/be",
+                "Bluetooth": "v5.3"
+            }
+        }
+    ]
+}

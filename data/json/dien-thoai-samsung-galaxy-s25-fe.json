@@ -1,0 +1,19 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-s25-fe.html",
+    "name": "Samsung Galaxy S25 FE",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 2500"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Hỗ trợ mạng": "5G"
+            }
+        }
+    ]
+}

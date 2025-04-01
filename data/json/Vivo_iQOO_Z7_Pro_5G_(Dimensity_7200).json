@@ -1,0 +1,124 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-iqoo-z7-pro-5g-sac-sieu-nhanh.html",
+    "name": "Vivo iQOO Z7 Pro 5G (Dimensity 7200)",
+    "price": "7050000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, Funtouch 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED,1 tỷ màu, 120Hz, HDR10+, 1300 nits (tối đa)",
+                    "6.78 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9; Asahi Glass"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.8, 26mm (góc rộng), PDAF",
+                    "2 MP, f/2.4 (độ sâu)",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring-LED flash, panorama, HDR",
+                "Quay phim": "4K@30fps, 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.8 GHz & 6x 2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 7200 (4 nm)",
+                    "8 nhân (2x2.8 GHz & 6x 2.0 GHz)",
+                    "GPU: Mali-G610 MC4"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Mali-G610 MC4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa",
+                    "Hai mặt kính trước/sau",
+                    "Kháng nước, bụi IP52",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": "164.1 x 74.8 x 7.4 mm",
+                "Trọng lượng (g)": "175 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4600 mAh",
+                    "Sac nhanh 66W",
+                    "Sạc 50% pin trong 22 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700 / 2100",
+                "4G": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz"
+                ],
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

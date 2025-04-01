@@ -1,0 +1,131 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-poco-f7-pro.html",
+    "name": "Xiaomi POCO F7 Pro (Snapdragon 8 Gen 3)",
+    "price": "12850000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, HyperOS 2.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 68 tỷ màu, 120Hz, Dolby Vision, HDR10+, 1800 nits (HBM), 3200 nits (peak)",
+                    "6.67 inches, 2K (1440 x 3200 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~526 ppi",
+                    "Kính cường lực Corning Gorilla 7i"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6, 24mm (góc rộng), 1/1.55\", 1.0µm, dual pixel PDAF, OIS",
+                    "8 MP, f/2.2 (góc siêu rộng)",
+                    "Quay phim: 8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "20 MP (góc rộng), HDR",
+                    "Quay phim: 1080p@30/60fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Color spectrum sensor, LED flash, HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "3x3.2 GHz Cortex-A720",
+                    "2x3.0 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 3x3.2 GHz & 2x3.0 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "12GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới han",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 4.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm phẳng",
+                    "Mặt lưng kính phẳng",
+                    "Màn hình đục lỗ kính Corning Gorilla 7i phẳng",
+                    "Kháng nước, bụi IP68",
+                    "Cảm biến vân tay siêu âm dưới màn hình"
+                ],
+                "Kích thước": "160.3 x 75 x 8.1 mm",
+                "Trọng lượng (g)": "206 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "6000 mAh",
+                    "Sạc nhanh 90W, PD3.0, QC3+",
+                    "Sạc đầy 100% trong 37 phút"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không có jack 3.5 mm",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res & Hi-Res Wireless audio",
+                    "Snapdragon Sound"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "NFC, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

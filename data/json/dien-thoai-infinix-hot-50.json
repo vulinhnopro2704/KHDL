@@ -1,0 +1,87 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-infinix-hot-50.html",
+    "name": "Infinix Hot 50 8GB 256GB",
+    "price": "3.790.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Độ phân giải màn hình": "1080x2460 pixels",
+                "Tính năng màn hình": [
+                    "1080p IPS",
+                    "120Hz",
+                    "800nit"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50MP + 2MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G100"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "G-Sensor / E-Compass / Gyro / Light Sensor / Proximity"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 18W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Trọng lượng": "187 gr"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Kháng nước, kháng bụi"
+            }
+        }
+    ]
+}

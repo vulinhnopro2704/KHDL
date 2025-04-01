@@ -1,0 +1,70 @@
+{
+    "url": "https://cellphones.com.vn/vivo-iqoo-neo-7-pro.html",
+    "name": "iQOO Neo 7 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": "Tần số quét màn hình 120 Hz.",
+                "Loại màn hình": "Màn hình"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "50 MP",
+                    "Camera góc siêu rộng 8 MP",
+                    "Camera macro: 2 MP"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 8+ Gen 1"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 120 W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "GPU Adreno 730"
+            }
+        }
+    ]
+}

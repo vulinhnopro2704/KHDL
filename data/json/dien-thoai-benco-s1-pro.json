@@ -1,0 +1,85 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-benco-s1-pro.html",
+    "name": "Benco S1 Pro 8GB 256GB",
+    "price": "4.290.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.8 inches",
+                "Độ phân giải màn hình": "1080 x 2640 pixels",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "64MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc T616",
+                "GPU": "Mali-G57"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8GB + Mở rộng 8GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "8.47 x 74.91 x 166.91mm",
+                "Trọng lượng": "204.5g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng",
+                "Tính năng đặc biệt": "Bảo mật vân tay"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac"
+            }
+        }
+    ]
+}

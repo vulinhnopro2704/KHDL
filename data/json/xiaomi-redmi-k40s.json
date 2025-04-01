@@ -1,0 +1,113 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-k40s.html",
+    "name": "Xiaomi Redmi K40S",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.66 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Super AMOLED",
+                    "120Hz",
+                    "HDR10+",
+                    "1300 nits"
+                ],
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8µm, PDAF",
+                    "8 MP, f/2.2, 119˚ (ultrawide)",
+                    "5 MP, f/2.4, 50mm (macro), 1/5.0\", 1.12µm"
+                ],
+                "Quay video": "4K@30fps, 1080p@30/60/120/240/960fps, gyro-EIS",
+                "Tính năng camera": [
+                    "Đèn flash LED",
+                    "HDR",
+                    "Toàn cảnh"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20 MP, f/2.5, (wide), 1/3.4\", 0.8µm",
+                "Quay video trước": "1080p@30fps, 720p@120fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
+                "GPU": "Adreno 650"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS băng tần kép, GLONASS, BDS, GALILEO, QZSS, NavIC"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4520 mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W, 100% trong 52 phút",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.7 x 76.4 x 7.8 mm",
+                "Trọng lượng": "196 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển",
+                "Tính năng đặc biệt": "Hỗ trợ 5G"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.1, A2DP, LE"
+            }
+        }
+    ]
+}

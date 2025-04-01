@@ -1,0 +1,122 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/moondrop-miad-01-5g-dimensity-7050.html",
+    "name": "MoonDrop MIAD 01 5G (Dimensity 7050)",
+    "price": "10500000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz",
+                    "6.7 inches, Full HD+ (1080 x 2460 pixels)",
+                    "Tỷ lệ 20.5:9, mật độ điểm ảnh ~401 ppi"
+                ],
+                "Độ phân giải": "1080 x 2460 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP",
+                    "8 MP",
+                    "Quay phim: Có"
+                ],
+                "Camera trước": [
+                    "32 MP",
+                    "Quay phim: Có"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Rear Single Flash",
+                "Quay phim": "Có",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 7050 (6 nm)",
+                    "8 nhân (2x2.6 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G68 MC4"
+                ],
+                "RAM": "12GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Mali-G68 MC4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "2T"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Mặt lưng vát phẳng nửa dưới",
+                    "Màn hình cong"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 33W"
+                ],
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Có",
+                "GPS": "Có",
+                "Bluetooth": [
+                    "Có",
+                    "Bộ giải mã SBC/AAC/LDAC"
+                ],
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "4.4 mm balanced",
+                    "Loa kép (Loa phía trên được tích hợp micro)"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

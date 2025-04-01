@@ -1,0 +1,100 @@
+{
+    "url": "https://mobilecity.vn/leeco/leeco-le-2-pro-prd1304.html",
+    "name": "LeEco Le 2 Pro RAM 4GB",
+    "price": "3050000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android v6.0 Marshmallow",
+                "Ngôn ngữ": "Đa ngôn ngữ hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Full HD",
+                "Độ phân giải": "1080 x 1920 pixels, mật độ điểm ảnh ~ 401 ppi",
+                "Màn hình rộng": "5.5",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm (10 điểm)"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "21 MP",
+                "Camera trước": "8 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét, nhận diện khuôn mặt, chụp ảnh HDR, Panorama",
+                "Quay phim": "2160p - 30fps, 1080p - 30fps, 720p - 120fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Deca-core (2x2.5 GHz Cortex-A72, 4x2 GHz Cortex-A53, 4x1.4 GHz Cortex-A53)",
+                "Số nhân": "10 nhân",
+                "Chipset": "Mediatek MT6797T Helio X25",
+                "RAM": "4 GB",
+                "Chip đồ họa (GPU)": "Mali-T880 MP4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "32 GB",
+                "Thẻ nhớ ngoài": "Không hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Cảm ứng",
+                "Kích thước": "151.1 x 74.2 x 7.5 mm",
+                "Trọng lượng (g)": "153"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": "3000 mAh",
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800)",
+                "Loại Sim": "Micro - SIM",
+                "Khe gắn Sim": "2 sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n, dual-band, WiFi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS/ BDS",
+                "Bluetooth": "v4.1, A2DP, EDR, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "không hỗ trợ",
+                "NFC": "Có",
+                "Kết nối USB": "Type-C 1.0 reversible connector",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Micro USB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "Định dạng MP4/H.264",
+                "Nghe nhạc": "Định dạng MP3/WAV/AAX+/AIFF",
+                "Cổng sạc": "Micro USB",
+                "Ghi âm": "Có",
+                "FM radio": "Không",
+                "Chức năng khác": "Cảm biến vân tay"
+            }
+        }
+    ]
+}

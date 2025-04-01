@@ -1,0 +1,94 @@
+{
+    "url": "https://mobilecity.vn/oppo/realme-x50.html",
+    "name": "Realme X50 5G",
+    "price": "5750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10.0; ColorOS 7",
+                "Ngôn ngữ": "Tiếng Việt, Tiếng Anh, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "IPS LCD, Full HD+ (1080 x 2400 pixels), 6.57 inches, 120Hz, Corning Gorilla Glass 5",
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 Camera sau: 64MP + 13MP (zoom) + 8MP (góc rộng) + 2MP (cận cảnh)",
+                "Camera trước": "2 Camera : 16MP + 8MP (góc rộng)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Góc siêu rộng (Ultrawide), Góc rộng (Wide), Chống rung điện tử kỹ thuật số (EIS), Zoom quang học, A.I Camera, Lấy nét theo pha (PDAF), Quay siêu chậm (Super Slow Motion), Xoá phông, Tự động lấy nét (AF), Chạm lấy nét, Nhận diện khuôn mặt, HDR, Toàn cảnh (Panorama), Làm đẹp (Beautify)",
+                "Quay phim": "Quay phim siêu chậm 960 fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 765G (7nm)",
+                "RAM": "6GB - 8GB",
+                "Chip đồ họa (GPU)": "Adreno 620"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB - 256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Trọng lượng (g)": "185 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "4200 mAh - sạc nhanh 30W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano sim",
+                "Khe gắn Sim": "2 sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi hotspot",
+                "GPS": "BDS, A-GPS, GLONASS",
+                "Bluetooth": "A2DP, LE, v5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "không",
+                "NFC": "Có",
+                "Kết nối USB": "có",
+                "Kết nối khác": "OTG & NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

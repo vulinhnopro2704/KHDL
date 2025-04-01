@@ -1,0 +1,114 @@
+{
+    "url": "https://cellphones.com.vn/realme-11.html",
+    "name": "realme 11 8GB 128GB",
+    "price": "4.590.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.4 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "90Hz, dộ sáng tối đa 1000nit, mặt kính Corning Gorilla Glass 5,16.7 triệu màu",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính Prolight 108MP + Chân dung 2MP",
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": "Chế độ 108MP, Chụp đêm, Toàn cảnh, Chuyên gia, HDR, Nhận dạng cảnh AI, Làm đẹp AI, Bộ lọc màu, Tùy chỉnh hiệu ứng Bokeh, Chụp đường phố, Quét lấy dữ liệu, Mô hình, Chế độ ảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Chip Helio G99",
+                "GPU": "ARM G57 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8GB + Mở rộng 8GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh SuperVOOC 67W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "realme UI 4.0 Trên nền tảng Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Lõi tám nhân, 2*A76 2.2 GHz，6*A55 2.0 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "159.9mm x 73.3mm x 7.95mm",
+                "Trọng lượng": "178g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Bảo mật vân tay"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 5, Wi-Fi 4 & 802.11 a/b/g/n/ac",
+                "Bluetooth": "Bluetooth 5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "07/2023"
+            }
+        }
+    ]
+}

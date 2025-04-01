@@ -1,0 +1,98 @@
+{
+    "url": "https://cellphones.com.vn/honor-x40i.html",
+    "name": "Honor X40i",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "1080 x 2388 pixels"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.8, PDAF",
+                    "Camera góc sâu: 2 MP, f/2.4"
+                ],
+                "Quay video": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 8 MP, f/2.0",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek MT6833 Dimensity 700 (7 nm)",
+                "GPU": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Có, với A-GPS, GLONASS, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 44W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12, Magic UI 6.1, không có Dịch vụ của Google Play"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2x2,2 GHz Cortex-A76 & 6x2,0 GHz Cortex-A55"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162,9 x 74,5 x 7,4 mm",
+                "Trọng lượng": "175 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, La bàn, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.1, A2DP, LE"
+            }
+        }
+    ]
+}

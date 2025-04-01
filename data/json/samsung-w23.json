@@ -1,0 +1,22 @@
+{
+    "url": "https://cellphones.com.vn/samsung-w23.html",
+    "name": "Samsung W23",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.2 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "2176 x 1812 pixels (QXGA+)",
+                "Tính năng màn hình": "tần số quét 120 Hz."
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        }
+    ]
+}

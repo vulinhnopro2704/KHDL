@@ -1,0 +1,107 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-x100-pro.html",
+    "name": "vivo X100 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "LTPO AMOLED",
+                "Tính năng màn hình": "Tần số quét 120Hz,1B colors, 3000 nits"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.8,, PDAF, Laser AF, OIS",
+                    "Camera tele kính tiềm vọng: 50 MP, f/2.5, PDAF, OIS, zoom quang 4,3x",
+                    "Camera góc siêu rộng: 50 MP, f/2.0, 119˚"
+                ],
+                "Quay video": "8K, 4K, 1080p, gyro-EIS, Cinematic mode (4K)",
+                "Tính năng camera": "Quang học Zeiss, lớp phủ ống kính Zeiss T*, đèn flash LED, toàn cảnh, HDR, nhập 3D LUT"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 32 MP, f/2.0",
+                "Quay video trước": "1080p"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Mediatek Dimensity 9300 (4 nm)",
+                "GPU": "Immortalis-G720 MC12"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5400 mAh",
+                "Công nghệ sạc": "Sạc nhanh 100W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.25 GHz Cortex-X4 & 3x2.85 GHz Cortex-X4 & 4x2.0 GHz Cortex-A720"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164,1 x 75,3 x 8,9 mm hoặc 9,1 mm",
+                "Trọng lượng": "221g hoặc 225g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ âm thanh": "Loa âm thanh nổi"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6/7",
+                "Bluetooth": "v5.4, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

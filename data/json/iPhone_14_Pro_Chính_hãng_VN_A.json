@@ -1,0 +1,129 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/iphone-14-pro.html",
+    "name": "iPhone 14 Pro Chính hãng VN/A",
+    "price": "24850000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "iOS 16",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO Super Retina XDR OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)",
+                    "6.1 inches, 1.5K (1179 x 2556 pixels), tỷ lệ19.5:9",
+                    "Kính thủy tinh gốm chống xước, phủ oleophobic",
+                    "Always-On display"
+                ],
+                "Độ phân giải": "1179 x 2556 pixels",
+                "Màn hình rộng": "6.1",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.8, 24mm (góc rộng), dual pixel PDAF, sensor-shift OIS",
+                    "12 MP, f/2.8, 77mm (tele), PDAF, OIS, 3x optical zoom",
+                    "12 MP, f/2.2, 13mm, 120˚ (góc siêu rộng), dual pixel PDAF",
+                    "TOF 3D máy quét LiDAR (depth)",
+                    "Quay phim: 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@30fps), stereo sound rec."
+                ],
+                "Camera trước": [
+                    "12 MP, f/1.9, 23mm (góc rộng), PDAF",
+                    "SL 3D, (cảm biến độ sâu/sinh trắc học)",
+                    "Quay phim: 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "LED flash (adaptive), HDR (photo/panorama) (sau);",
+                    "HDR, Cinematic mode (4K@30fps) (trước)"
+                ],
+                "Quay phim": "4K@24/30/60fps, 1080p@30/60/120/240fps, 10‑bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode, stereo sound rec.",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x3.3 GHz & 4x1.9 GHz",
+                "Số nhân": "6 nhân",
+                "Chipset": [
+                    "Apple A16 Bionic (4 nm)",
+                    "6 nhân",
+                    "GPU: Apple GPU (5-core graphics)",
+                    "16‑core Neural Engine"
+                ],
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Apple GPU (5-core graphics)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB-1TB, NVMe",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Khung thép + Mặt lưng kính",
+                "Kích thước": "147.5 x 71.5 x 7.9 mm",
+                "Trọng lượng (g)": "206 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 3200 mAh",
+                    "Sạc nhanh 20W, sạc 50% trong 30ph (Quảng cáo)",
+                    "Sạc nhanh tối đa: Đang cập nhật",
+                    "Sạc không dây MagSafe 15W",
+                    "Sạc nhanh không dây Qi từ tính 7.5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "LTE",
+                "Loại Sim": "NanoSim/eSim",
+                "Khe gắn Sim": "1 Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+                "GPS": "dual-band A-GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "Lightning, USB 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Lightning",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

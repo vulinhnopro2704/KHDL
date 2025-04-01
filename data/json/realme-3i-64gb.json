@@ -1,0 +1,83 @@
+{
+    "url": "https://cellphones.com.vn/realme-3i-64gb.html",
+    "name": "Realme 3i 64GB",
+    "price": "Giá liên hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "IPS LCD",
+                "Kích thước màn hình": "6.2 inches",
+                "Độ phân giải màn hình": "720 x 1520 pixels"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 13 MP & Phụ 2 MP",
+                "Quay video": "Quay phim FullHD 1080p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "13 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio P60 8 nhân 64-bit",
+                "GPU": "Mali-G72 MP3"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Pin chuẩn Li-Ion 4230 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.0 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Dài 156.1 mm - Ngang 75.6 mm - Dày 8.3 mm",
+                "Trọng lượng": "175 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi hotspot",
+                "Bluetooth": "A2DP, LE, v4.2"
+            }
+        }
+    ]
+}

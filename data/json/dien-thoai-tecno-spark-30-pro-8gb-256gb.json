@@ -1,0 +1,102 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-tecno-spark-30-pro-8gb-256gb.html",
+    "name": "TECNO SPARK 30 Pro 8GB 256GB Transformer - Chỉ có tại CellphoneS",
+    "price": "4.590.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": "120Hz, 1700 nits"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "WiFi 2.4+5G",
+                "Bluetooth": "BT5.4"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "108MP, f/1.75",
+                "Tính năng camera": [
+                    "2 đèn Flash",
+                    "Làm đẹp chi tiết khuôn mặt (chế độ chân dung)",
+                    "Bộ lọc màu"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "13MP"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Hồng ngoại": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Công nghệ sạc": "Sạc nhanh 33W",
+                "Cổng sạc": "USB Type-C",
+                "Pin": "5000 mAh"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "IP54",
+                "Tiện ích khác": "Tecno AI",
+                "Công nghệ âm thanh": "Loa kép Dolby Atmos"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "01/2025"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G100"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "166.6 x 77 x 7.4mm"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        }
+    ]
+}

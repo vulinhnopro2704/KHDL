@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-8a.html",
+    "name": "Xiaomi Redmi 8A",
+    "price": "2300000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); MIUI 10",
+                "Ngôn ngữ": "Tiếng Việt, đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "IPS LCD 720 x 1520 pixels 6.2 inches",
+                "Độ phân giải": "720 x 1520 pixels",
+                "Màn hình rộng": "6.2 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "12 MP, f/1.8",
+                "Camera trước": "8 MP, f/2.0",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53",
+                "Số nhân": "8 nhân, 14nm",
+                "Chipset": "Snapdragon 439",
+                "RAM": "3-4GB",
+                "Chip đồ họa (GPU)": "Adreno 505"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "32-64GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "512 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế nguyên khối, màu sắc trẻ trung",
+                "Kích thước": "156.5 x 75.4 x 9.4 mm",
+                "Trọng lượng (g)": "188 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-ion",
+                "Dung lượng pin": "5000 mAh - Sạc nhanh 18W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano - Sim",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "WiFi Dual-band 2.4 / 5GHz, 802.11 a / b / g / n / ac",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "4.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

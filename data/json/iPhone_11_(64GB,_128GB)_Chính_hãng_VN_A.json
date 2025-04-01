@@ -1,0 +1,127 @@
+{
+    "url": "https://mobilecity.vn/apple/iphone-11.html",
+    "name": "iPhone 11 (64GB, 128GB) Chính hãng VN/A",
+    "price": "9600000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "iOS 13, được cập nhật lên iOS 15.3",
+                "Ngôn ngữ": "Tiếng Việt, đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Liquid Retina IPS LCD",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": [
+                    "Liquid Retina IPS LCD, 625 nits",
+                    "6.1 inches, HD+ (828 x 1792 pixels), tỷ lệ 19.5:9",
+                    "Kính chống xước, phủ oleophobic"
+                ],
+                "Độ phân giải": "828 x 1792 pixels",
+                "Màn hình rộng": "6.1",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "12 MP, f / 1.8, 26mm (góc rộng)",
+                    "12 MP, f / 2.4, 120˚, 13mm (góc siêu rộng)",
+                    "Quay phim: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, ghi âm stereo"
+                ],
+                "Camera trước": [
+                    "12 MP, f/2.2, 23mm (góc rộng)",
+                    "Quay phim: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+                "Quay phim": "4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, ghi âm stereo",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.65 GHz + 4x1.8 GHz",
+                "Số nhân": "6 nhân",
+                "Chipset": [
+                    "Apple A13 Bionic (7 nm+)",
+                    "6 nhân (2x2.65 GHz + 4x1.8 GHz)",
+                    "GPU: Apple GPU (4 nhân đồ họa)"
+                ],
+                "RAM": "4GB",
+                "Chip đồ họa (GPU)": "Apple GPU (4 nhân đồ họa)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "64-256GB",
+                    "NVMe"
+                ],
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Khung kim loại + Hai mặt kính",
+                "Kích thước": "150.9 x 75.7 x 8.3 mm",
+                "Trọng lượng (g)": "194g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-ion",
+                "Dung lượng pin": [
+                    "Li-Ion 3110 mAh",
+                    "Sạc nhanh 18W, 50% trong 30 phút (quảng cáo)",
+                    "Sạc không dây Qi"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": [
+                    "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66 - A2221",
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 29, 30, 34, 38, 39, 40, 41, 42, 46, 48, 66, 71 - A2111, A2223"
+                ],
+                "Loại Sim": "Nano-SIM/eSIM",
+                "Khe gắn Sim": "Nano-SIM/eSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+                "GPS": "A-GPS, GLONASS, GALILEO, QZSS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "Lightning, USB 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "Có",
+                "Nghe nhạc": "Có",
+                "Cổng sạc": "Lightning",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

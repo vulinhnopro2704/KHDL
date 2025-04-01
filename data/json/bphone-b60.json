@@ -1,0 +1,87 @@
+{
+    "url": "https://cellphones.com.vn/bphone-b60.html",
+    "name": "Bphone B60",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Đang cập nhật",
+                "Quay video": "Quay phim FullHD 1080p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 660 8 nhân",
+                "GPU": "Adreno 512"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A2DP, v4.2"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.2 GHz & 4 nhân 1.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Đang cập nhật",
+                "Trọng lượng": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Wi-Fi hotspot",
+                "Bluetooth": "A-GPS, GLONASS"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Đang cập nhật"
+            }
+        }
+    ]
+}

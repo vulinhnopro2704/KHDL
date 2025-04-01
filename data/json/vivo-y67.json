@@ -1,0 +1,110 @@
+{
+    "url": "https://cellphones.com.vn/vivo-y67.html",
+    "name": "Vivo Y67",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "5.5 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1280 pixels",
+                "Tính năng màn hình": "Corning Gorilla Glass 3"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "13 MP, f/2.2, AF",
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": "LED flash, HDR, panorama"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 16 MP, f/2.0, 26mm, 1/3.06\", 1.0µm",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Mediatek MT6750 (28 nm)",
+                "GPU": "Mali-T860MP2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "32 GB",
+                "Khe cắm thẻ nhớ": "microSDXC"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3000 mAh",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 6.0"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "153.8 x 75.5 x 7.6 mm",
+                "Trọng lượng": "154 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kim loại",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trước màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 b/g/n",
+                "Bluetooth": "v4.0, A2DP"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "2016"
+            }
+        }
+    ]
+}

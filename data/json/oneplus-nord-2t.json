@@ -1,0 +1,47 @@
+{
+    "url": "https://cellphones.com.vn/oneplus-nord-2t.html",
+    "name": "OnePlus Nord 2T",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.43 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Camera chính 50 MP, camera 8 MP và camera phụ 2 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Dimensity 1300"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4.500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 80W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "OxygenOS 12, Android 12"
+            }
+        }
+    ]
+}

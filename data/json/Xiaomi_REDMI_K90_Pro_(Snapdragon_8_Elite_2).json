@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-redmi-k90-pro.html",
+    "name": "Xiaomi REDMI K90 Pro (Snapdragon 8 Elite 2)",
+    "price": "14950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 16, HyperOS 3.0",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "OLED, 68 tỷ màu, 120Hz, Dolby Vision, HDR10+",
+                    "6.67 inches, 2K (1440 x 3200 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~526 ppi"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), dual pixel PDAF, OIS",
+                    "50 MP, 60mm (tele tiềm vọng), OIS, zoom quang 2.5x",
+                    "32 MP (góc siêu rộng)",
+                    "Quay phim: 8K, 4K, 1080p, 720p, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "20 MP (wide)",
+                    "Quay phim: 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K, 4K, 1080p, 720p, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 8 Elite 2 (3 nm)",
+                    "8 nhân"
+                ],
+                "RAM": "12-16GB, LPDDR5X"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 6000mAh",
+                    "Sạc siêu nhanh 120W",
+                    "Sạc không dây 50W"
+                ],
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "Loại Sim": "2 Nano SIM",
+                "Khe gắn Sim": "2 Nano SIM",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

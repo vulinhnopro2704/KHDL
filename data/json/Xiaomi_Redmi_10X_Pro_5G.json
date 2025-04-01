@@ -1,0 +1,97 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-10x-pro-5g.html",
+    "name": "Xiaomi Redmi 10X Pro 5G",
+    "price": "7550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android v10.0, MiUI 12 (Tháng 6/2020)",
+                "Ngôn ngữ": "Tiếng Anh, Up tiếng Việt sau 7 ngày."
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED Mini Camera",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "FHD+, 2400×1080, 20:9",
+                "Độ phân giải": "2400×1080, 20:9",
+                "Màn hình rộng": "6.57",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "48MP, f/1.8 - 8MP (3X Zoom) - 8 MP, f/2.2, 119˚ (góc rộng) - 5MP, (macro)",
+                "Camera trước": "20MP, 26mm",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60fps, 720p@960fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "(4x2.6 GHz Cortex-A76 & 4x2.0 GHz Cortex-A55)",
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek MT6875 Dimensity 820 5G (7 nm)",
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Mali-G57 MC5"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "164.2 x 75.8 x 9 mm",
+                "Trọng lượng (g)": "208"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "4520 mAh - Sạc nhanh 22.5W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "802.11 a/b/g/n/ac WLAN：2.4G WiFi/5G WiFi",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.1, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

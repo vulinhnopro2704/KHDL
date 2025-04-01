@@ -1,0 +1,69 @@
+{
+    "url": "https://cellphones.com.vn/masstel-izi-300.html",
+    "name": "masstel izi 300",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "2.4 inches",
+                "Công nghệ màn hình": "TFT LCD",
+                "Độ phân giải màn hình": "240 x 320 pixels",
+                "Tính năng màn hình": "QVGA, Mặt kính 2.5D"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "0.08 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "SC6531E"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Jack tai nghe 3.5": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "2500 mAh",
+                "Công nghệ sạc": "Sạc 2.5 W",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "127 x 53 x 14.5 mm",
+                "Trọng lượng": "134.3 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 16 GB"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "10/2019"
+            }
+        }
+    ]
+}

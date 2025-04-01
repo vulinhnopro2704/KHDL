@@ -1,0 +1,20 @@
+{
+    "url": "https://cellphones.com.vn/realme-c55-8gb-128gb-54813.html",
+    "name": "Realme C55 8GB 128GB",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        }
+    ]
+}

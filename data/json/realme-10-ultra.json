@@ -1,0 +1,26 @@
+{
+    "url": "https://cellphones.com.vn/realme-10-ultra.html",
+    "name": "Realme 10 Ultra",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "OLED"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "200 megapixel và làm mờ PWM 2160 Hz"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2"
+            }
+        }
+    ]
+}

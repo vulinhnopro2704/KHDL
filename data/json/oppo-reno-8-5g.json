@@ -1,0 +1,146 @@
+{
+    "url": "https://cellphones.com.vn/oppo-reno-8-5g.html",
+    "name": "OPPO Reno8 5G (8GB 256GB)",
+    "price": "13.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.4 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Kính cường lực Corning Gorilla Glass 5",
+                    "Tần số quét 90 Hz",
+                    "600 nits, 16.7 triệu màu, 409 PPI"
+                ],
+                "Tần số quét": "90Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50 MP, f/1.8",
+                    "Camera phụ: 8 MP f/2.4",
+                    "Camera Marco: 2 MP f/2.2"
+                ],
+                "Quay video": [
+                    "8K 4320p@30fps",
+                    "FullHD 1080p@30fps",
+                    "FullHD 1080p@60fps",
+                    "HD 720p@30fps",
+                    "HD 720p@60fps"
+                ],
+                "Tính năng camera": [
+                    "HDR",
+                    "Quay chậm (Slow Motion)",
+                    "Toàn cảnh (Panorama)",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Xóa phông"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP, f/2.4",
+                "Quay video trước": "1080p/720p @ 30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 1300 8 nhân",
+                "GPU": "Mali-G77 MC9"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Có, BEIDOU GALILEO GLONASS GPS QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4500 mAh",
+                "Công nghệ sạc": "Sạc siêu nhanh SuperVOOC 80 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân với độ mượt tối đa đến 3.0 GHz (1 lõi siêu lớn + 3 lõi lớn + 4 lõi nhỏ)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "160 x 73.4 x 7.67 mm",
+                "Trọng lượng": "179 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Tiện ích khác": [
+                    "Chế độ đơn giản (Giao diện đơn giản)",
+                    "Cử chỉ thông minh",
+                    "Chạm 2 lần tắt/sáng màn hình",
+                    "Chặn cuộc gọi",
+                    "Ứng dụng kép (Nhân bản ứng dụng)",
+                    "Trợ lý ảo Google Assistant",
+                    "Chế độ trẻ em (Không gian trẻ em)",
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Cử chỉ mà"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wifi 6, 2.4G/5G, 802.11 a/b/g/n/ac/ac wave 2/ax",
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "08/2022"
+            }
+        }
+    ]
+}

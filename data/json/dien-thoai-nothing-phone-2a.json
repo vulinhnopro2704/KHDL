@@ -1,0 +1,114 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-nothing-phone-2a.html",
+    "name": "Nothing Phone 2A 5G 8GB 128GB - Chỉ có tại CellphoneS",
+    "price": "6.790.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "Flexible AMOLED On-cell",
+                "Độ phân giải màn hình": "1080 x 2412 pixels",
+                "Tính năng màn hình": [
+                    "Corning® Gorilla® Glass 5",
+                    "Tỷ lệ tương phản: 1,000,000:1",
+                    "394 PPI",
+                    "1300 nits",
+                    "120 Hz"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.88, 1/1.56\"",
+                    "50 MP, f/2.2, 1/2.76\", 114° FOV"
+                ],
+                "Quay video": [
+                    "4K@30fps",
+                    "1080p@60/120fps"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP, f/2.2, 1/2.74\""
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 7200 Pro (4nm TSMC process)"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1), GLONASS (G1), BDS (B1I), GALILEO (E1), QZSS (L1)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 45W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Up to 2.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161.74 x 76.32 x 8.55 mm",
+                "Trọng lượng": "190 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "802.11 a/b/g/n/ac or ax (Wi-Fi 6)",
+                    "2.4 GHz / 5 GHz"
+                ],
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Kháng nước, kháng bụi"
+            }
+        }
+    ]
+}

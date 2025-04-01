@@ -1,0 +1,130 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-poco-f7-ultra.html",
+    "name": "Xiaomi POCO F7 Ultra (Snapdragon 8 Elite)",
+    "price": "16590000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, HyperOS 2.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 68 tỷ màu, 120Hz, Dolby Vision, HDR10+, 1800 nits (HBM), 3200 nits (peak)",
+                    "6.67 inches, 2K (1440 x 3200 pixels)",
+                    "Tỷ lệ 20;9, mật độ điểm ảnh ~526 ppi",
+                    "Kính cường lực Poco Shield"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6, 24mm (góc rộng), 1/1.55\", 1.0µm, dual pixel PDAF, OIS",
+                    "50 MP, f/2.0, 60mm (tele), 1/2.76\", 0.64µm, PDAF (10cm - ∞), OIS, zoom quang 2.5x",
+                    "32 MP, f/2.2, 15mm, 120˚ (góc siêu rộng)",
+                    "Quay phim: 8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng), HDR",
+                    "Quay phim: 1080p@30/60fps, 720p@120fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Color spectrum sensor, LED flash, HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x4.32 GHz Oryon V2 Phoenix L",
+                    "6x3.53 GHz Oryon V2 Phoenix M"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+                    "8 nhân (2x4.32 GHz & 6x3.53 GHz)",
+                    "GPU: Adreno 830"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 830"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 4.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm phẳng",
+                    "Mặt lưng kính cong nhẹ",
+                    "Màn hình phẳng đục lỗ kính Poco Shield",
+                    "Cảm biến vân tay siêu âm dưới màn hình",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "160.3 x 75 x 8.4 mm",
+                "Trọng lượng (g)": "212 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5300 mAh",
+                    "Sạc nhanh 120W (HyperCharge), PD3.0, QC3+",
+                    "Sạc không dây 50W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res & Hi-Res Wireless audio",
+                    "Snapdragon Sound"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "NFC, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

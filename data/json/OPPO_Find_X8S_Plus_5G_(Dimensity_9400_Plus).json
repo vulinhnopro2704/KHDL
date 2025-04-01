@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-find-x8s-plus-cao-cap.html",
+    "name": "OPPO Find X8S Plus 5G (Dimensity 9400 Plus)",
+    "price": "15450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, ColorOS 15",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR10+",
+                    "6.6 inches, 1.5K (1256 x 2760 pixels)"
+                ],
+                "Độ phân giải": "1256 x 2760 pixels",
+                "Màn hình rộng": "6.6 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "50 MP (tiềm vọng tele), zoom quang 3x",
+                    "50 MP (góc siêu rộng)",
+                    "Quay phim: 4K, 1080p; gyro-EIS; HDR, 10‑bit video, Dolby Vision"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng), PDAF, Panorama",
+                    "Quay phim: 4K, 1080p, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Laser AF, Hasselblad Color Calibration, LED flash, HDR, panorama",
+                "Quay phim": "4K, 1080p; gyro-EIS; HDR, 10‑bit video, Dolby Vision",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 9400 Plus (3 nm)",
+                    "8 nhân x GHz",
+                    "GPU: Immortalis-G9xx"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Immortalis-G9xx"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "Si/C 5860 mAh",
+                    "Sạc nhanh 80W (PD, PPS, UFCS)",
+                    "Sạc không dây 50W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

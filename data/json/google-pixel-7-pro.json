@@ -1,0 +1,120 @@
+{
+    "url": "https://cellphones.com.vn/google-pixel-7-pro.html",
+    "name": "Google Pixel 7 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Độ phân giải màn hình": "1440 x 3120 pixels",
+                "Tính năng màn hình": "LTPO AMOLED, 120Hz, HDR10 +, 1000 nits (HBM), 1500 nits (đỉnh)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera rộng: 50MP, f/1.9, 25mm, 1.2µm, PDAF đa hướng, Laser AF, OIS",
+                    "Camera siêu rộng; 12MP, f/2.2, 1.25µm, AF",
+                    "Camera tele: 48MP, f/3.5, 0,7µm, đa -directional PDAF, OIS, zoom quang 5x"
+                ],
+                "Quay video": [
+                    "4K@30/60fps",
+                    "1080p@30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+                ],
+                "Tính năng camera": "Đèn flash LED kép, Pixel Shift, Auto-HDR, ảnh toàn cảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera siêu rộng: 10,8MP, f/2.2, 21mm, 1,22µm",
+                "Quay video trước": "4K@30/60fps, 1080p@30/60fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Google Tensor G2 (5 nm)",
+                "GPU": "Mali-G710 MC10"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Có, với A-GPS băng tần kép, GLONASS, GALILEO, QZSS, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 23W",
+                    "Sạc không dây nhanh 23W",
+                    "Sạc không dây ngược",
+                    "USB Power Delivery 3.0"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "(2x2,85 GHz Cortex-X1 & 2x2,35 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162,9 x 76,6 x 8,9 mm",
+                "Trọng lượng": "212 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a / b / g / n / ac / 6e, ba băng tần, Wi-Fi Direct, điểm phát sóng",
+                "Bluetooth": "v5.2, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

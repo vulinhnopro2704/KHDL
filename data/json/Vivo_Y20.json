@@ -1,0 +1,132 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-y20.html",
+    "name": "Vivo Y20",
+    "price": "3450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, Funtouch 11",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, tỷ lệ 20:9",
+                    "6.51 inches, HD+ (720 x 1600 pixels)",
+                    "Corning Gorilla Glass 3"
+                ],
+                "Độ phân giải": "HD+ (720 x 1600 pixels)",
+                "Màn hình rộng": "6.51 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "13 MP, f/2.2, (Góc rộng), PDAF",
+                    "2 MP, f/2.4, (Cận cảnh)",
+                    "2 MP, f/2.4, (Chiều sâu)",
+                    "HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "8 MP, f/1.8, (Góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "- AI Camera",
+                    "- Chuyên nghiệp (Pro)",
+                    "- Chạm lấy nét",
+                    "- Góc rộng (Wide)",
+                    "- HDR",
+                    "- Làm đẹp",
+                    "- Lấy nét theo pha (PDAF)",
+                    "- Nhận diện khuôn mặt",
+                    "- Quay chậm (Slow Motion)",
+                    "- Siêu cận (Macro)",
+                    "- Trôi nhanh thời gian (Time Lapse)",
+                    "- Tự động lấy nét (AF)",
+                    "- Xóa phông"
+                ],
+                "Quay phim": "Quay phim: 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x1.8 GHz & 4x1.6 GHz",
+                "Số nhân": "8 Nhân",
+                "Chipset": [
+                    "Qualcomm SM4250 Snapdragon 460 (11 nm)",
+                    "8 nhân (4x1.8 GHz & 4x1.6 GHz)",
+                    "GPU Adreno 610"
+                ],
+                "RAM": "3-4-6GB",
+                "Chip đồ họa (GPU)": "Adreno 610"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB",
+                "Thẻ nhớ ngoài": "MicroSD, hỗ trợ tối đa 512 GB",
+                "Hỗ trợ thẻ tối đa": "eMMC 5.1 hỗ trợ tối đa 512 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Nguyên khối - Khung & Mặt lưng nhựa Polyme cao cấp",
+                "Kích thước": "164.4 x 76.3 x 8.4 mm",
+                "Trọng lượng (g)": "192 gram"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000mAh",
+                    "Sạc 10W",
+                    "Hỗ trợ sạc nhanh 18W (cho bản 2021)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "Có",
+                "Loại Sim": "Nano Sim",
+                "Khe gắn Sim": "2 Sim, Nano Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Không",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Không",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "OTG",
+                "Cổng sạc": "microUSB 2.0, USB On-The-Go"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "microUSB 2.0, USB On-The-Go",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-8.html",
+    "name": "Xiaomi Redmi 8",
+    "price": "2450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); MIUI 11",
+                "Ngôn ngữ": "Tiếng Anh, Tiếng Trung"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "IPS LCD, HD+ (720 x 1520 pixels), 6.22 inch, Corning Gorilla Glass 5",
+                "Độ phân giải": "720 x 1520 pixels",
+                "Màn hình rộng": "6.22 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "2 Camera: 12 MP + 2 MP (Đo chiều sâu)",
+                "Camera trước": "8 MP, f/2.0",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "Quay phim Full HD (1080p@30fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1.95 GHz Cortex-A53",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 439 (12 nm)",
+                "RAM": "3-4GB",
+                "Chip đồ họa (GPU)": "Adreno 505"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "32-64GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế nguyên khối, màn hình giọt nước",
+                "Kích thước": "156.5 x 75.4 x 9.4 mm",
+                "Trọng lượng (g)": "188 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-ion",
+                "Dung lượng pin": "5000 mAh - Sạc nhanh 18W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 b/g/n 2.4G, WiFi Direct / WiFi Display, wireless FM radio",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "4.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, MKV, H264, MPEG4, VC-1",
+                "Nghe nhạc": "PCM, AAC/AAC+/eAAC+, MP3, AMR-NB And WB, FLAC, WAV",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

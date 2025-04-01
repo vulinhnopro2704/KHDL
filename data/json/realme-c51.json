@@ -1,0 +1,125 @@
+{
+    "url": "https://cellphones.com.vn/realme-c51.html",
+    "name": "realme C51 4GB 128GB",
+    "price": "2.390.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.74 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1600 pixel",
+                "Tính năng màn hình": "16.7 triệu màu, độ sáng tối đa 560nits",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 50 MP & Phụ 0.3 MP",
+                "Quay video": [
+                    "1080P/30fps",
+                    "720P/30fps",
+                    "480P/30fps"
+                ],
+                "Tính năng camera": [
+                    "Quay chậm (Slow Motion)",
+                    "Xóa phông)",
+                    "Toàn cảnh (Panorama))",
+                    "Ban đêm (Night Mode))",
+                    "Trôi nhanh thời gian (Time Lapse))",
+                    "Chuyên nghiệp (Pro))",
+                    "HDR)",
+                    "Siêu độ phân giải Bộ lọc màu"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5M, f/2.22"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc UNISOC T612",
+                "GPU": "Mali-G57"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS /AGPS / GLONASS / Galileo"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4GB + Mở rộng 4GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 2 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W SUPERVOOC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "realme UI T Edition - Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "12nm process, Octa-core, Up to 1.82GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "167.2mm x 76.7mm x 7.99mm*",
+                "Trọng lượng": "186g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, Con quay hồi chuyển",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "2.4/5GHz Wi-Fi",
+                "Bluetooth": "5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2023"
+            }
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/samsung-galaxy-z-fold-special-edition.html",
+    "name": "Samsung Galaxy Z Fold Special Edition",
+    "price": "51250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 14, One UI 6.1.1",
+                    "Hỗ trợ cập nhật 7 bản Android chính"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Màn trong: Foldable Dynamic LTPO AMOLED 2X",
+                    "Màn ngoài: Dynamic LTPO AMOLED 2X"
+                ],
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Màn trong: Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)",
+                    "8.0 inches, 2.1K (1968 x 2184 pixels)",
+                    "Mật độ điểm ảnh ~367 ppi",
+                    "Kính Ultra Flexible Glass (UFG)",
+                    "Màn ngoài: Dynamic LTPO AMOLED 2X, 120Hz, 2600 nits (peak)",
+                    "6.5 inches, Full HD+ (1080 x 2520 pixels)",
+                    "Kính Corning Gorilla Glass Victus 2"
+                ],
+                "Độ phân giải": [
+                    "Màn trong: 1968 x 2184 pixels",
+                    "Màn ngoài: 1080 x 2520 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Màn trong: 8.0 inches",
+                    "Màn ngoài: 6.5 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "200 MP, f/1.8 (góc rộng), PDAF, OIS",
+                    "10 MP, f/2.4, 66mm (telephoto), 1.0µm, PDAF, OIS, zoom quang 3x",
+                    "12 MP, f/2.2, 123˚, 12mm (góc siêu rộng), 1.12µm, AF",
+                    "Quay phim: 8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+"
+                ],
+                "Camera trước": [
+                    "Selfie màn trong: 4 MP, f/1.8, 26mm (góc rộng), 2.0µm",
+                    "Selfie màn ngoài: 10 MP, f/2.2, 24mm (góc rộng), 1/3\", 1.22µm",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.39GHz Cortex-X4",
+                    "3x3.1GHz Cortex-A720",
+                    "2x2.9GHz Cortex-A720",
+                    "2x2.2GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - For Galaxy",
+                    "8 nhân (1x3.39GHz & 3x3.1GHz & 2x2.9GHz & 2x2.2GHz)",
+                    "GPU: Adreno 750 (1 GHz)"
+                ],
+                "RAM": "16GB",
+                "Chip đồ họa (GPU)": "Adreno 750 (1 GHz)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung viền nhôm phẳng",
+                    "Mặt kính màn hình và sau Gorilla Victus 2",
+                    "Màn hình trong phủ kính siêu dẻo (UFG)",
+                    "Kháng nước, bụi IP48"
+                ],
+                "Kích thước": [
+                    "Mở ra: 157.9 x 142.6 x 4.9 mm",
+                    "Gấp lại: 157.9 x 72.8 x 10.6 mm"
+                ],
+                "Trọng lượng (g)": "236 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4400 mAh",
+                    "Sạc 25W (đây)",
+                    "Sạc không dây 15W",
+                    "Sạc ngược (không dây) 4.5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "HSPA, LTE (CA), 5G",
+                "Loại Sim": [
+                    "Nano SIM, eSIM",
+                    "Hoặc 2 eSIM"
+                ],
+                "Khe gắn Sim": [
+                    "Nano SIM, eSIM",
+                    "Hoặc 2 eSIM"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, ba băng tần, Wi-Fi Direct",
+                "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo",
+                    "32-bit/384kHz audio",
+                    "Tinh chỉnh bởi AKG"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

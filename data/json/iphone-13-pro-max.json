@@ -1,0 +1,136 @@
+{
+    "url": "https://cellphones.com.vn/iphone-13-pro-max.html",
+    "name": "iPhone 13 Pro Max 128GB | Chính hãng VN/A",
+    "price": "22.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "Super Retina XDR OLED",
+                "Độ phân giải màn hình": "2778 x 1284 pixel",
+                "Tính năng màn hình": "Tần số quét 120 Hz, 1200 nits, Super Retina XDR với ProMotion 6.1‑inch, OLED, 458 pp, HDR display, True Tone, Wide color (P3), Haptic Touch",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Tai thỏ"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 12MP, ƒ/1.5",
+                    "Camera góc siêu rộng: 12MP, ƒ/1.8",
+                    "Camera tele : 12MP, /2.8"
+                ],
+                "Quay video": [
+                    "4K@24/30/60fps",
+                    "1080p FullHD @24/30/60fps",
+                    "720p HD@30fps"
+                ],
+                "Tính năng camera": [
+                    "Chạm lấy nét",
+                    "HDR",
+                    "Nhận diện khuôn mặt",
+                    "Quay chậm (Slow Motion)",
+                    "Toàn cảnh (Panorama)",
+                    "Tự động lấy nét (AF)",
+                    "Xóa phông",
+                    "Nhãn dán (AR Stickers)",
+                    "Nhận diện khuôn mặt"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12MP, ƒ/2.2"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Apple A15 Bionic 6 nhân",
+                "GPU": "GPU 5 nhân"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, GLONASS, Galileo, QZSS, and BeiDou"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4352mAh",
+                "Công nghệ sạc": "Sạc nhanh 20W, Sạc không dây, Sạc không dây MagSafe, Tiết kiệm pin",
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "iOS15"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "3.22 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "160.8 x 78.1 x 7.65mm",
+                "Trọng lượng": "240g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": "Mở khoá khuôn mặt Face ID",
+                "Công nghệ âm thanh": "Ghi âm có microphone chuyên dụng chống ồn"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi MIMO, Wi-Fi hotspot, Wi-Fi 802.11 a/b/g/n/ac/ax, Dual-band (2.4 GHz/5 GHz)",
+                "Bluetooth": "v5.0, LE, A2DP"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2021"
+            }
+        }
+    ]
+}

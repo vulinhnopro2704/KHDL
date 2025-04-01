@@ -1,0 +1,49 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-oppo-find-n4-flip.html",
+    "name": "OPPO Find N4 Flip",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "LTPO OLED",
+                "Độ phân giải màn hình": "1080 x 2640 pixels",
+                "Tính năng màn hình": "Tần số quét 120 Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "64 MP + 2 MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP + 32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8+ Gen 2"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "18 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "microSD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4.800 mAh",
+                "Công nghệ sạc": "Sạc nhanh 88 W"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-honor-magic-v3.html",
+    "name": "Honor Magic V3",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "7,92 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": "1.800 nits, tỷ lệ 20:9"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP",
+                    "Camera telephoto: 50MP",
+                    "Camera góc siêu rộng: 40MP"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Elite"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5150mAh",
+                "Công nghệ sạc": "Công suất tối đa 66W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Mở ra: 4,4 mm",
+                    "Gập vào: 9,3 mm"
+                ],
+                "Trọng lượng": "226 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Da thuần chay"
+            }
+        }
+    ]
+}

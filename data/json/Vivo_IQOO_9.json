@@ -1,0 +1,121 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-iqoo-9.html",
+    "name": "Vivo IQOO 9",
+    "price": "13450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, Origin OS Ocean",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz, HDR10+",
+                    "6.78 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.78",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, (góc rộng), PDAF, OIS",
+                    "12 MP, f/2.0, (xoá phông), PDAF, 2x optical zoom",
+                    "13 MP, f/2.2, (siêu rộng)",
+                    "Quay phim: 4K@30fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5, (góc rộng)",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Lấy nét theo pha, chống rung quang học, chống rung điện tử.",
+                "Quay phim": [
+                    "Sau: 4K@30fps, 1080p@30fps, gyro-EIS",
+                    "Trước: 1080p@30fps, gyro-EIS"
+                ],
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.00 GHz & 3x2.50 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+                    "8 nhân (1x3.00 GHz & 3x2.50 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 730"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 730"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + cảm ứng",
+                "Kích thước": "164.5 x 76.7 x 8.4 mm",
+                "Trọng lượng (g)": "206g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4700 mAh",
+                    "Sạc nhanh 120W, 100% trong 19 phút (quảng cáo)",
+                    "Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Type-C",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

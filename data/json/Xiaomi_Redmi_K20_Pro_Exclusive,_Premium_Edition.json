@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-k20-pro-premium-edition.html",
+    "name": "Xiaomi Redmi K20 Pro Exclusive, Premium Edition",
+    "price": "8650000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); MIUI 10",
+                "Ngôn ngữ": "Tiếng Anh, tiếng Trung"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Super AMOLED, Full HD+(1080 x 2340 pixels), 6.39 inches, Corning Gorilla Glass 5, DCI-P3, HDR10",
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.39 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "3 Camera: 48 MP + 16 MP (Góc rộng) + 8 MP (Telephoto)",
+                "Camera trước": "20MP, f/2.2",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét, chụp ảnh góc siêu rộng, chụp xoá phông",
+                "Quay phim": "Quay phim 4K (2160p@60fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2.96 GHz, Kryo 485",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 855+ (7 nm)",
+                "RAM": "12GB",
+                "Chip đồ họa (GPU)": "Adreno 640 (700 MHz)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "512GB",
+                "Thẻ nhớ ngoài": "Không hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế cao cấp 2 mặt kính, màn hình fullview Camera Selfie thò thụt",
+                "Kích thước": "156.7 x 74.3 x 8.8 mm",
+                "Trọng lượng (g)": "191 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "4000 mAh - sạc nhanh 27W (Quick Charge 4+)",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Có, 24-bit/192kHz audio",
+                "NFC": "Có",
+                "Kết nối USB": "2.0",
+                "Cổng sạc": "Type-C 1.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, WMV, H.263, H.264(MPEG4-AVC), Xvid, DivX",
+                "Nghe nhạc": "MP3, WAV, WMA, AAC, AC3, FLAC",
+                "Cổng sạc": "Type-C 1.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

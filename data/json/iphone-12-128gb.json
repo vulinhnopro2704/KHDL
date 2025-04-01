@@ -1,0 +1,148 @@
+{
+    "url": "https://cellphones.com.vn/iphone-12-128gb.html",
+    "name": "iPhone 12 128GB | Chính hãng VN/A",
+    "price": "9.990.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "OLED",
+                "Kích thước màn hình": "6.1 inches",
+                "Độ phân giải màn hình": "1170 x 2532 pixels",
+                "Tính năng màn hình": [
+                    "HDR10",
+                    "Dolby Vision",
+                    "True-tone"
+                ],
+                "Tần số quét": "60Hz",
+                "Kiểu màn hình": "Tai thỏ"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS",
+                    "12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\""
+                ],
+                "Quay video": [
+                    "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS",
+                    "Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 30fps), stereo sound rec."
+                ],
+                "Tính năng camera": [
+                    "Ban đêm (Night Mode)",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Quay chậm (Slow Motion)",
+                    "Xóa phông",
+                    "Toàn cảnh (Panorama)",
+                    "Tự động lấy nét (AF)",
+                    "Nhận diện khuôn mặt",
+                    "HDR",
+                    "Zoom kỹ thuật số",
+                    "Góc rộng (Wide)",
+                    "Góc siêu rộng (Ul"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "12 MP, f/2.2, 23mm (wide), 1/3.6\"",
+                    "SL 3D, (depth/biometrics sensor)"
+                ],
+                "Quay video trước": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Apple A14 Bionic (5 nm)",
+                "GPU": "Apple GPU (4-core graphics)"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 20W",
+                    "Power Delivery 2.0"
+                ],
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Hexa-core"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "146.7 x 71.5 x 7.4 mm",
+                "Trọng lượng": "164 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Không",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+                "Bluetooth": "5.0, A2DP, LE"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Face ID, cảm biến gia tốc, cảm biến tiệm cận, con quay hồi chuyển, cảm biên sáng"
+            }
+        }
+    ]
+}

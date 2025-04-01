@@ -1,0 +1,95 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-m16-5g.html",
+    "name": "Samsung Galaxy M16 5G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.5 inches",
+                "Độ phân giải màn hình": "720 x 1600 pixel",
+                "Tính năng màn hình": "Mặt kính cong 2.5D"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "48 MP & Phụ 5 MP, 2 MP, 2 MP",
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": "Siêu cận (Macro), Góc rộng (Wide), Góc siêu rộng (Ultrawide), Nhãn dán (AR Stickers), Xoá phông, Tự động lấy nét (AF), Chạm lấy nét, Nhận diện khuôn mặt, HDR, Toàn cảnh (Panorama), Làm đẹp (Beautify), Chuyên nghiệp (Pro)"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP, f/2.0, (wide)"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 2100",
+                "GPU": "Mali-G52"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Có, A-GPS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "microSD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "7000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25W",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân 2.0 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "159.2 x 75.1 x 8.9 mm",
+                "Trọng lượng": "191 g (6.74 oz)"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi hotspot",
+                "Bluetooth": "apt-X, A2DP, LE, EDR, v4.2"
+            }
+        }
+    ]
+}

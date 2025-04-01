@@ -1,0 +1,126 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/motorola-edge-2023-man-hinh-cong.html",
+    "name": "Motorola Edge (2023) (Màn P-OLED 144Hz)",
+    "price": "12250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "P-OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "P-OLED, 1 tỷ màu, 144Hz, HDR10+, 1200 nits (tối đa)",
+                    "6.6 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~402 ppi"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.6 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.4 (góc rộng), PDAF đa hướng, OIS",
+                    "13 MP, f/2.2, 120˚ (góc siêu rộng), AF",
+                    "Quay phim: 4K@30fps, 1080p@30/60fps, HDR, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.4 (góc rộng), HDR",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60fps, HDR, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.5 GHz Cortex-A78",
+                    "6x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 7030 (6 nm)",
+                    "8 nhân (2x2.5 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G610 MC3"
+                ],
+                "RAM": "8GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Mali-G610 MC3"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm bo cong",
+                    "Mặt lưng da bo cong",
+                    "Màn hình cong bằng kính",
+                    "Kháng nước, bụi IP68",
+                    "Cảm biến vân tay trong màn hình"
+                ],
+                "Kích thước": "158.4 x 72 x 7.6 mm",
+                "Trọng lượng (g)": "168 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4400 mAh",
+                    "Sạc nhanh 68W",
+                    "Sạc không dây 15W",
+                    "Sạc ngược không dây 5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 29, 30, 38, 39, 40, 41, 48, 66, 71",
+                "Loại Sim": "Nano SIM, eSIM",
+                "Khe gắn Sim": "Nano SIM, eSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/k/v/r, tri-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Loa kép âm thanh nổi, Dolby Atmos",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

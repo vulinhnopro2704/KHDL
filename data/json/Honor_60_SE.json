@@ -1,0 +1,111 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/honor-60-se.html",
+    "name": "Honor 60 SE",
+    "price": "7950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, Magic UI 5.0",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "OLED, 120Hz, tỷ lệ 20:9",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "64 MP, (góc rộng), PDAF",
+                "Camera trước": "Đang cập nhật",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "Đang cập nhật",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.4 GHz & 6x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek MT6877 Dimensity 900 5G (6 nm)",
+                    "8 nhân (2x2.4 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G68 MC4"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Mali-G68 MC4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-265GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Khung kim loại + 2 mặt kính",
+                "Kích thước": "Đang cập nhật",
+                "Trọng lượng (g)": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4300 mAh",
+                    "Sạc nhanh 66W",
+                    "Sạc ngược 5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "LTE",
+                "Loại Sim": "Nano SIM, 2 SIM",
+                "Khe gắn Sim": "Nano SIM, 2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, BDS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "url": "https://cellphones.com.vn/vivo-y97.html",
+    "name": "Vivo Y97",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.3 inches",
+                "Độ phân giải màn hình": "1080 x 2280 pixels (FullHD+)",
+                "Tính năng màn hình": "Mặt kính cong 2.5D"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Camera chính 16 MP & Phụ 2 MP",
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": [
+                    "Xóa phông",
+                    "Toàn cảnh (Panorama)",
+                    "Tự động lấy nét (AF)",
+                    "Làm đẹp (Beautify)",
+                    "Chuyên nghiệp (Pro)",
+                    "Chạm lấy nét",
+                    "HDR",
+                    "AI Camera"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio P60 8 nhân",
+                "GPU": "Mali-G72 MP3"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, GLONASS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3240 mAh",
+                "Công nghệ sạc": [
+                    "Sạc pin nhanh",
+                    "Tiết kiệm pin",
+                    "Siêu tiết kiệm pin"
+                ],
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Trọng lượng": "162 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac",
+                "Bluetooth": "A2DP, LE"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ - Tiện ích": "Mở khoá khuôn mặt",
+                "Tiện ích khác": [
+                    "Chạm 2 lần sáng màn hình",
+                    "Vẽ lên màn hình để mở nhanh ứng dụng",
+                    "Chặn cuộc gọi",
+                    "Chạm 2 lần tắt màn hình",
+                    "Chặn tin nhắn",
+                    "Ứng dụng kép (Nhân bản ứng dụng)",
+                    "Trợ lý ảo Jovi"
+                ]
+            }
+        }
+    ]
+}

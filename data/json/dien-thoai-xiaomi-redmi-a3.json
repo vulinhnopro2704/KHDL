@@ -1,0 +1,99 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-xiaomi-redmi-a3.html",
+    "name": "Xiaomi Redmi A3 4GB 128GB",
+    "price": "2.390.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.71 inches",
+                "Độ phân giải màn hình": "1650x720 pixels",
+                "Tính năng màn hình": "Tần số quét 90Hz, 268 ppi, Bảo vệ mắt, 500 nits, Corning® Gorilla® Glass 3",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Camera kép AI 8MP",
+                "Quay video": [
+                    "1080P 1920x1080 30fps",
+                    "720P 1280x720 30fps"
+                ],
+                "Tính năng camera": "Chế độ HDR, Chế độ chân dung, Time-lapse"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G36"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS | Glonass | Galileo | Beidou"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "microSD lên đến 1TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "Sạc nhanh 10W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.2GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "168.4 x 76.3 x 8.3 mm",
+                "Trọng lượng": "199g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến ánh sáng, La bàn",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "2.4GHz/5GHz Wi-Fi",
+                "Bluetooth": "5.4"
+            }
+        }
+    ]
+}

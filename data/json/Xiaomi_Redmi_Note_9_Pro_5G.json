@@ -1,0 +1,123 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-note-9-pro-5g.html",
+    "name": "Xiaomi Redmi Note 9 Pro 5G",
+    "price": "5450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, MIUI 12",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt sau 7 ngày"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 6.67 inches, 120Hz, HDR10",
+                    "(1080 x 2400 pixels), tỷ lệ: 20:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": [
+                    "IPS LCD, 6.67 inches, 120Hz, HDR10",
+                    "(1080 x 2400 pixels), tỷ lệ: 20:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Màn hình rộng": "6.67",
+                "Công nghệ cảm ứng": "Cám ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.8 (góc rộng), 26mm, 1/1.52\", 0.7µm, PDAF",
+                    "8 MP, f/2.2 (góc siêu rộng), 118˚, 1/4.0\", 1.12µm",
+                    "2 MP, f/2.4 (macro),",
+                    "2 MP, f/2.4 (độ sâu)",
+                    "Quay phim: 4K@30fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5, (góc rộng), 1/3.06\", 1.0µm",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.2 GHz & 6x1.8 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 750G 5G (8 nm), 8 nhân",
+                    "(2x2.2 GHz Kryo 570 & 6x1.8 GHz Kryo 570)",
+                    "GPU: Adreno 619"
+                ],
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Adreno 619"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB UFS 2.2",
+                    "Thẻ nhớ: hỗ trợ khe cắm thẻ nhớ microSDXC (Có: cùng khay SIM 2)."
+                ],
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế 2 mặt kính, khung nhôm",
+                "Kích thước": "165.4 x 76.8 x 9 mm",
+                "Trọng lượng (g)": "215 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4820 mAh",
+                    "Sạc nhanh 33W, đầy pin trong 58 phút (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS, GNSS",
+                "Bluetooth": "5.1, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-nubia-music.html",
+    "name": "Nubia Music NFC 4GB 128GB (Bản đặc biệt)",
+    "price": "1.990.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "1612x720 (HD+)",
+                "Tính năng màn hình": "Tần số quét 90Hz",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50MP + AI Camera"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5MP"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Jack tai nghe 3.5": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh"
+            }
+        }
+    ]
+}

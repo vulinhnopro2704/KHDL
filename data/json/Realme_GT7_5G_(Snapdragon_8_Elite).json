@@ -1,0 +1,103 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-gt7-5g-hieu-nang-sieu-manh.html",
+    "name": "Realme GT7 5G (Snapdragon 8 Elite)",
+    "price": "11450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Realme UI 5.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, 6000 nits (tối đa)",
+                    "6.78 inches, 1.5K (1264 x 2780 pixels)"
+                ],
+                "Độ phân giải": "1264 x 2780 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 26mm (wide)",
+                    "8 MP, f/2.2, 16mm, 112˚ (ultrawide)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120fps"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5, 22mm (wide)",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "4K@30/60fps, 1080p@30/60/120fps",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "3x3.2 GHz Cortex-A720",
+                    "2x3.0 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+                    "8 nhân (4.32 GHz & 6x3.53 GHz)",
+                    "GPU: Adreno 830"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Adreno 830"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "6500 mAh",
+                    "Sạc nhanh 120W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/tecno-camon-30s-4g.html",
+    "name": "Tecno CAMON 30S (Helio G100)",
+    "price": "3950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 14, HIOS 14",
+                    "(Hỗ trợ nâng cấp 2 bản Android chính)"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz, 1300 nits (HBM)",
+                    "6.78 inches, Full HD+ (1080 x 2436 pixels)",
+                    "Mật độ điểm ảnh ~393 ppi",
+                    "Kính Corning Gorilla cong"
+                ],
+                "Độ phân giải": "1080 x 2436 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, (góc siêu rộng\\), 1/1.56\", 1.0µm, PDAF, OIS",
+                    "2 MP (depth)",
+                    "Ống kính phụ trợ",
+                    "Quay phim: Có"
+                ],
+                "Camera trước": [
+                    "13 MP, có Dual-LED flash",
+                    "Quay phim: Có"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "Có",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.2 GHz Cortex-A76",
+                    "6x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Helio G100 (6 nm)",
+                    "8 nhân (2x2.2 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G57 MC2"
+                ],
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa bo cong",
+                    "Mặt lưng giả kính cong",
+                    "Kính trước Corning Gorilla Glass cong",
+                    "Kháng nước, bụi IP53",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": "164.5 x 74.6 x 7.6 mm"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 33W",
+                    "Sạc 0-100% trong 45 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA, LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Có",
+                "GPS": "GPS",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC, hồng ngoại, FM radio",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

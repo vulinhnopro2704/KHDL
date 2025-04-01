@@ -1,0 +1,98 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-sony-xperia-1-vi.html",
+    "name": "Sony Xperia 1VI 12GB 256GB",
+    "price": "25.490.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.5 inches",
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "Tần số quét 120Hz, Giảm nhòe do chuyển động 240 Hz, Tốc độ quét cảm ứng 240 Hz, Creator mode \"powered by CineAlta\", DCI-P3 100%, ITU-R BT.2020 (REC.2020), Illuminant D65 White point, 10-bit tonal gradation, Powered by BRAVIA, Sunlight Vision",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "16mm: 12 MP 1/2.5\" Exmor RS cho cảm biến di động F2.2",
+                    "24mm: 52 MP (Toàn cảnh) / 48 MP (Effective) 1/1.35\" Exmor T cho cảm biến di động F1.9",
+                    "85 - 170mm: 12 MP 1/3.5\" Exmor RS cho cảm biến di động F2.3 (85 mm) - F3.5 (170 mm)"
+                ],
+                "Quay video": "4K HDR 120fps",
+                "Tính năng camera": [
+                    "Ống kính chất lượng ZEISS được hiệu chỉnh riêng cho Xperia",
+                    "Tốc độ đọc 120 fps, Lên đến 30 fps AF/AE burst, Lấy nét tự động lên đến 60 lần trên giây, Real-time Eye AF, Real-time Tracking, OIS photo, Hybrid zoom 21.3x, HDR, Chụp đêm, Creative look"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "24mm: 12MP 1/2.9\" Exmor RS cho cảm biến di động F2.0"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 3 Mobile Platform"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Jack tai nghe 3.5": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Thẻ nhớ MicroSD lên đến 1.5TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Xperia Sạc Thích Ứng, Battery Care, STAMINA Mode, Sạc không dây Qi, Chia sẻ Pin",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162 x 74 x 8.2 mm",
+                "Trọng lượng": "192 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Công nghệ làm mát bằng buồn hơi",
+                "Chỉ số kháng nước, bụi": "Chịu nước IPX5/X8, chống bụi IP6X",
+                "Công nghệ - Tiện ích": [
+                    "Elite Gaming, Game Enhancer với khả năng Live streaming",
+                    "Tích hợp AI vào camera"
+                ],
+                "Công nghệ âm thanh": "Hi-Resolution Audio, High-Resolution Audio Wireless (LDAC), 360 Reality Audio Certified, 360 Reality Audio Upmix, Loa âm thanh nổi Full-stage, Dolby Atmos, DSEE Ultimate, Stereo Recording, Qualcomm aptX Adaptive"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Tính năng đặc biệt": "Sạc không dây, Bảo mật vân tay, Kháng nước, kháng bụi"
+            }
+        }
+    ]
+}

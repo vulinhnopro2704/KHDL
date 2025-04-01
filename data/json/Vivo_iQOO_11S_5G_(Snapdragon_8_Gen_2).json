@@ -1,0 +1,125 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-iqoo-11s-sieu-manh.html",
+    "name": "Vivo iQOO 11S 5G (Snapdragon 8 Gen 2)",
+    "price": "12450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, OriginOS 3 (China)",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO4 AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO4 AMOLED, 1 tỷ màu, 144Hz, HDR10+, 1800 nits (tối đa)",
+                    "6.78 inches, QHD+ (1440 x 3200 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, IMX866, f/1.9, 23mm (góc rộng), PDAF, OIS",
+                    "13 MP, f/2.5, 47mm (tele), PDAF, zoom quang 2x",
+                    "8 MP, f/2.2, 16mm (góc siêu rộng)",
+                    "Quay phim: 8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5 (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, 1TB UFS 4.0",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung kim loại",
+                    "Mặt lưng kính / da"
+                ],
+                "Kích thước": "164.9 x 77.1 x 8.4 mm (kính) / 8.7 mm (da)",
+                "Trọng lượng (g)": "207g (da) / 210 g (kính)"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4700 mAh",
+                    "Sạc siêu nhanh 200W",
+                    "PD3.0, UFCS"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, NavIC",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

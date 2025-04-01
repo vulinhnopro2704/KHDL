@@ -1,0 +1,45 @@
+{
+    "url": "https://cellphones.com.vn/huawei-nova-8i.html",
+    "name": "Huawei Nova 8i",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.66 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 64 MP & Phụ 8 MP, 2 MP, 2 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 662 8 nhân"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "EMUI 11 (Android 10 không có Google)"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Công nghệ sạc": "Sạc 66W"
+            }
+        }
+    ]
+}

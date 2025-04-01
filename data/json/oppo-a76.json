@@ -1,0 +1,142 @@
+{
+    "url": "https://cellphones.com.vn/oppo-a76.html",
+    "name": "OPPO A76",
+    "price": "4.190.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1612 (HD+)",
+                "Tính năng màn hình": "Tần số quét 90Hz, Kính cường lực AGC DT-Pro, 16.7 triệu màu, 269PPI",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 13MP，f/2.2, FOV 80°, ống kính 5P, AF",
+                    "Xoá phông: 2MP, f/2.4, FOV 89.1°, ống kính 3P+IR, FF"
+                ],
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": [
+                    "AI Camera",
+                    "Chuyên nghiệp (Pro)",
+                    "HDR",
+                    "Toàn cảnh (Panorama)",
+                    "Ban đêm (Night Mode)",
+                    "Nhãn dán (AR Stickers)",
+                    "Làm đẹp",
+                    "Google Lens",
+                    "Bộ lọc màu",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Xóa phông",
+                    "Zoom kỹ thuật số"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8MP, f/2.0; FOV: 79°; ống kính: 5P",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 680 4G (6 nm)",
+                "GPU": "Adreno 610"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "microSDXC"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11, ColorOS 11.1"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.4 x 75.7 x 8.4 mm",
+                "Trọng lượng": "189 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Bảo mật vân tay"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac",
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tiện ích khác": [
+                    "Cử chỉ thông minh",
+                    "Ứng dụng kép (Nhân bản ứng dụng)",
+                    "Tối ưu game (Không gian trò chơi)",
+                    "Cử chỉ màn hình tắt",
+                    "Chạm 2 lần sáng màn hình",
+                    "Mở rộng bộ nhớ RAM"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "2/2022"
+            }
+        }
+    ]
+}

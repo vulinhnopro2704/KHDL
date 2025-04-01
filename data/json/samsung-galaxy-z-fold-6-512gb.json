@@ -1,0 +1,134 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-z-fold-6-512gb.html",
+    "name": "Samsung Galaxy Z Fold6 12GB 512GB",
+    "price": "40.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "7.6 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "2160 x 1856 (QXGA+)",
+                "Tính năng màn hình": [
+                    "Màn hình chính: 7.6\", Dynamic AMOLED 2X, 120Hz, độ sâu màu sắc 16M, 2600nits",
+                    "Màn hình phụ: 6.3\", 968 x 2376 (HD+), Dynamic AMOLED 2X",
+                    "Kính cường lực Corning® Gorilla® Glass Victus® 2"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50.0 MP, f/1.8, Thu phóng quang học 2x",
+                    "Camera chụp góc siêu rộng: 12.0 MP, f/2.2",
+                    "Camera ống kính tele: 10.0 MP, f/2.4, Thu phóng Quang học 3x"
+                ],
+                "Quay video": [
+                    "UHD 8K (7680 x 4320)@30fps",
+                    "240fps @FHD, 120fps @FHD, 120fps @UHD"
+                ],
+                "Tính năng camera": "Tự động lấy nét, Zoom quang học 3x, Tính năng Dual Preview, Chế độ FlexMode, Tính năng Capture View"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "Camera bên ngoài:10 MP, f/2.2",
+                    "Camera bên trong: 4 MP, F1.8"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 3 for Galaxy Tăng lên 42% AI"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, Glonass, Beidou, Galileo, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4400 mAh",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân 3.39 GHz, 3.1GHz, 2.9GHz, 2.2GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Kích thước: 153.5 x 132.6 x 5.6 mm",
+                    "Kích thước gập: 153.5 x 68.1 x 12.1 mm"
+                ],
+                "Trọng lượng": "239 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tương thích": "Hỗ trợ S Pen",
+                "Chỉ số kháng nước, bụi": "IP48",
+                "Công nghệ - Tiện ích": [
+                    "Samsung Care+",
+                    "Samsung Health",
+                    "Samsung Wallet"
+                ],
+                "Tiện ích khác": "Tích hợp ứng dụng Google Gemini",
+                "Công nghệ âm thanh": "Hỗ Trợ Âm Thanh Nổi"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Cảm biến áp kế, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "802.11a/b/g/n/ac/ax",
+                    "2.4GHz+5GHz+6GHz"
+                ],
+                "Bluetooth": "v5.3"
+            }
+        }
+    ]
+}

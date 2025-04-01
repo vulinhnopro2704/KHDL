@@ -1,0 +1,103 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oneplus-ace-5v-chip-manh.html",
+    "name": "OnePlus Ace 5V (Dimensity 9300 - Pin 7000mAh)",
+    "price": "7450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, ColorOS 15",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, 1100 nits (HBM), 2150 nits (peak)",
+                    "6.74 inches, 1.5K (1240 x 2772 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~451 ppi"
+                ],
+                "Độ phân giải": "1240 x 2772 pixels",
+                "Màn hình rộng": "6.74 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF đa hướng, OIS",
+                    "8 MP (góc siêu rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.4 (góc rộng)",
+                    "Quay phim: 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K, 1080p",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.25 GHz Cortex-X4",
+                    "3x2.85 GHz Cortex-X4",
+                    "4x2.0 GHz Cortex-A720"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 9300 (4 nm)",
+                    "8 nhân (1x3.25 GHz & 3x2.85 GHz & 4x2.0 GHz)",
+                    "GPU: Immortalis-G720 MC12"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Immortalis-G720 MC12"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 7000 mAh",
+                    "Sạc nhanh 100W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 Nano SIM",
+                "Khe gắn Sim": "2 Nano SIM",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

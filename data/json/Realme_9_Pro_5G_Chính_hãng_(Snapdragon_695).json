@@ -1,0 +1,123 @@
+{
+    "url": "https://mobilecity.vn/realme/realme-9-pro.html",
+    "name": "Realme 9 Pro 5G Chính hãng (Snapdragon 695)",
+    "price": "6450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, Realme UI 3.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 120Hz, tỷ lệ 20:9",
+                    "6.6 inches, Full HD+ (1080 x 2412 pixels)"
+                ],
+                "Độ phân giải": "1080 x 2412 pixels",
+                "Màn hình rộng": "6.6 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.8, 26mm (góc rộng)",
+                    "8 MP, f/2.2, 119˚, 16mm (góc siêu rộng)",
+                    "2 MP, f/2.4, (macro)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.1, 26mm (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.2 GHz & 6x1.7 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+                    "8 nhân (2x2.2 GHz & 6x1.7 GHz)",
+                    "GPU: Adreno 619"
+                ],
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Adreno 619"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128GB",
+                    "UFS 2.2"
+                ],
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "164.3 x 75.6 x 8.5 mm",
+                "Trọng lượng (g)": "195 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 33W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+                "GPS": "A-GPS, GLONASS, BDS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "24-bit/192kHz audio"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "Có",
+                "Nghe nhạc": "Có",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

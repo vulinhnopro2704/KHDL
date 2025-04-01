@@ -1,0 +1,70 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-oppo-reno12-f-12gb-256gb.html",
+    "name": "OPPO Reno12 F 5G 12GB-256GB",
+    "price": "Giá liên hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "Tần số quét 120Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "50MP + OIS",
+                    "Camera góc rộng: 8MP",
+                    "Camera xóa phông: 2MP"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Dimensity 6300 6nm"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 45W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ âm thanh": "Loa kép"
+            }
+        }
+    ]
+}

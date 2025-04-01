@@ -1,0 +1,115 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/tecno-pova-3.html",
+    "name": "Tecno POVA 3",
+    "price": "4350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, HIOS",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 90Hz",
+                    "6.9 inches, Full HD+ (1080 x 2460 pixels)"
+                ],
+                "Độ phân giải": "1080 x 2460 pixels",
+                "Màn hình rộng": "6.9 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6 (góc rộng), PDAF",
+                    "2 MP (macro)",
+                    "2 MP (đo chiều sâu)",
+                    "Quay phim: 1440p@30fps, 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "8 MP, f/2.0",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Quad-LED flash, HDR",
+                "Quay phim": "1440p@30fps, 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x 2.0 GHz & 6x 1.8 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Helio G88 (12nm)",
+                    "8 nhân (2x 2.0 GHz & 6x 1.8 GHz)",
+                    "CPU: Mali-G52 MC2"
+                ],
+                "RAM": "4-6GB",
+                "Chip đồ họa (GPU)": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-128GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "173.1 x 78.5 x 9.4 mm",
+                "Trọng lượng (g)": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 7000 mAh",
+                    "Sạc nhanh 25W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+                "GPS": "A-GPS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-k10-pro.html",
+    "name": "OPPO K10 Pro",
+    "price": "8950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, ColorOS 12",
+                "Ngôn ngữ": "Tiếng VIệt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "OLED, 120Hz, HDR10+, 1300 nits",
+                    "6.62 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.62 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), multi-directional PDAF, OIS",
+                    "8 MP, f/2.2, 119˚ (góc siêu rộng)",
+                    "2 MP, f/2.4, (macro)",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5, 26mm (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "1080p@30fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+                    "8 nhân (1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 660"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 660"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "162.9 x 75.8 x 8.6 mm",
+                "Trọng lượng (g)": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000mAh",
+                    "Sạc nhanh 80W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C 2.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C 2.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

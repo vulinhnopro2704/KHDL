@@ -1,0 +1,117 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-iqoo-8.html",
+    "name": "Vivo iQOO 8 (Snap 888)",
+    "price": "10950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, OriginOS 1.0",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED, 120Hz, HDR10",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz, HDR10",
+                    "6.56 inches, Full HD+ (1080 x 2376 pixels), tỷ lệ 20:9",
+                    "Vân tay trên màn hình"
+                ],
+                "Độ phân giải": "1080 x 2376 pixels",
+                "Màn hình rộng": "6.56",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 23mm (góc rộng), PDAF",
+                    "13 MP, f/2.2, 50mm (chân dung), PDAF",
+                    "13 MP, f/2.2, 120˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5, (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "8 nhân (1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz)",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+                    "8 nhân (1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 660"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 660"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Gaming phone",
+                "Kích thước": "159 x 75.1 x 8.6 mm",
+                "Trọng lượng (g)": "200 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4350 mAh",
+                    "Sạc nhanh 120W, 100% trong 18ph (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "AAC、MIDI、OGG、FLAC、WMA、WAV、APE、MP3",
+                "Nghe nhạc": "AAC、MIDI、OGG、FLAC、WMA、WAV、APE、MP3",
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

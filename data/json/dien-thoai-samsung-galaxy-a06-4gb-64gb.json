@@ -1,0 +1,20 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-a06-4gb-64gb.html",
+    "name": "Samsung A06 5G 4GB-64GB",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Hỗ trợ mạng": "5G"
+            }
+        }
+    ]
+}

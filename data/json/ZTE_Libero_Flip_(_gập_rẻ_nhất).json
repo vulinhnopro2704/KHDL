@@ -1,0 +1,137 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/zte-libero-flip-dien-thoai-gap-re-nhat.html",
+    "name": "ZTE Libero Flip ( gập rẻ nhất)",
+    "price": "4950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 13",
+                    "(Android thuần)"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Màn chính: OLED, 120Hz, HDR10",
+                    "6.9 inches, Full HD+ (1188 x 2790 pixels)",
+                    "Tỷ lệ 21:9, mật độ điểm ảnh ~439 ppi",
+                    "Màn phụ: 1.43 inches, 466 x 466 pixels",
+                    "Hỗ trợ Widevine L1"
+                ],
+                "Độ phân giải": [
+                    "Chính: 1188 x 2790 pixels",
+                    "Phụ: 466 x 466 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Chính: 6.9 inches",
+                    "Phụ: 1.43 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng)",
+                    "2 MP (đo độ sâu)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Camera trước": [
+                    "16 MP (góc rộng)",
+                    "Quay phim: 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét, Ổn định hình ảnh",
+                "Quay phim": "4K, 1080p",
+                "Videocall": "Không"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.4 GHz Cortex-A710",
+                    "3x2.36 GHz Cortex-A710",
+                    "4x1.8 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm)",
+                    "8 nhân (1x2.4 GHz & 3x2.36 GHz & 4x1.8 GHz)",
+                    "GPU: Adreno 644"
+                ],
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Adreno 644"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm phẳng",
+                    "Mặt lưng kính cường lực",
+                    "Kháng nước IPX4",
+                    "Cảm biến vân tay cạnh bên tích hợp với nút nguồn"
+                ],
+                "Kích thước": [
+                    "Khi mở: 170 x 76 x 7.3 mm",
+                    "Khi đóng: 88 x 76 x 15.5 mm"
+                ],
+                "Trọng lượng (g)": "214 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "4310 mAh",
+                    "Sạc nhanh 33W"
+                ],
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "5G/LTE/AXGP",
+                "Loại Sim": "NanoSIM/eSIM",
+                "Khe gắn Sim": "NanoSIM/eSIM",
+                "Wifi": "Có",
+                "GPS": "Có",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "url": "https://cellphones.com.vn/huawei-enjoy-20-plus.html",
+    "name": "Huawei Enjoy 20 Plus",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "IPS LCD capacitive touchscreen, 16M colors",
+                "Kích thước màn hình": "6.5 inches",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF",
+                    "8 MP, f/2.4, 120˚ (ultrawide)",
+                    "2 MP, f/2.4, (macro)"
+                ],
+                "Quay video": [
+                    "Trước: 1080p@30fps",
+                    "Sau: 4K@30fps, 1080p@30fps"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP, f/2.0"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Đang cập nhật",
+                "GPU": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "Yes, with A-GPS, GLONASS, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "NM (Nano Memory), up to 256GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10, EMUI 10.1, no Google Play Services"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Đang cập nhật",
+                "Trọng lượng": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.1, A2DP, LE"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Cảm biến vân tay, cảm biến gia tốc, con quay hồi chuyển, cảm biến tiệm cận, la bàn, cảm biến áp kế"
+            }
+        }
+    ]
+}

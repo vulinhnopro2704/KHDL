@@ -1,0 +1,128 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-redmi-note-14-5g-quoc-te.html",
+    "name": "Xiaomi REDMI Note 14 5G (Quốc tế - 3 camera 50MP)",
+    "price": "5450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, HyperOS",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz, HDR10+, 2100 nits (peak)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~395 ppi",
+                    "Always-on Display"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.5, 26mm (góc rộng), 1/1.95\", 0.8µm, PDAF, OIS",
+                    "8 MP, f/2.2, 21mm (góc siêu rộng)",
+                    "2 MP, f/2.4, (macro)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "20 MP, f/2.2 (góc rộng), 1/4.0\", 0.7µm",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.5 GHz Cortex-A78",
+                    "6x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 7025 Ultra (6 nm)",
+                    "8 nhân (2x2.5 GHz & 2x2.0 GHz)",
+                    "GPU: IMG BXM-8-256"
+                ],
+                "RAM": "8GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "IMG BXM-8-256"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS2.2",
+                "Thẻ nhớ ngoài": "MicroSD"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa phẳng",
+                    "Mặt lưng nhựa cong",
+                    "Màn hình phẳng kính Corning Gorilla 5",
+                    "Kháng nước, bụi IP64",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": "162.4 x 75.7 x 7.99 mm",
+                "Trọng lượng (g)": "190 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5110 mAh",
+                    "Sạc nhanh 45W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res audio"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC (tùy thuộc vào thị trường/khu vực), hồng ngoại, FM radio",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

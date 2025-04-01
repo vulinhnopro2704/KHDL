@@ -1,0 +1,114 @@
+{
+    "url": "https://cellphones.com.vn/vivo-s1.html",
+    "name": "Vivo S1",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.38 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)",
+                "Tính năng màn hình": "Tốc độ làm mới 90 Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 16 MP, f/1.8, 1/2.8\", 1.12µm, PDAF",
+                    "Camera góc siêu rộng:8 MP, f/2.2, 13mm, 1/4.0\", 1.12µm",
+                    "Camera đo độ sâu: 2 MP, f/2.4"
+                ],
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": "LED flash, HDR, panorama"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 32 MP, f/2.0, 26mm, 1/2.8\", 0.8µm",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Mediatek MT6768 Helio P65 (12nm)",
+                "GPU": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, GLONASS, GALILEO, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "microSDXC"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 18W",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 9.0"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "159.5 x 75.2 x 8.1 mm",
+                "Trọng lượng": "179 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac",
+                "Bluetooth": "v5.0, A2DP, LE"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "Tháng 7/2019"
+            }
+        }
+    ]
+}

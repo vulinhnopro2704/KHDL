@@ -1,0 +1,143 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-iqoo-12-pro-5g.html",
+    "name": "Vivo iQOO 12 Pro 5G (Snapdragon 8 Gen 3)",
+    "price": "16850000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 14, OriginOS 4 (China)",
+                    "Funtouch 14 (Quốc tế)"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED (Samsung E7), 1 tỷ màu, 144Hz, HDR10+, 1600 nits (HBM), 3000 nits (tối đa)",
+                    "6.78 inches, QHD+ (1440 x 3200 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~518 ppi"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.7, 23mm (góc rộng), PDAF, OIS",
+                    "64 MP (tele tiềm vọng), PDAF, OIS, zoom quang 3x",
+                    "50 MP, f/2.0, 15mm, 119˚ (góc siêu rộng), AF",
+                    "Quay phim: 8K@30fps, 4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP. f/2.5 (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "8K@30fps, 4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "5x3.2 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 5x3.2 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung hợp kim nhôm, hỗ trợ IP68",
+                    "Mặt lưng kính (Trắng, Đen), da (Đỏ)",
+                    "Màn hình cong",
+                    "Cảm biến vân tay siêu âm trong màn hình",
+                    "Nhận dạng khuôn mặt Face Wake"
+                ],
+                "Kích thước": [
+                    "164.63 ×75.4 × 8.58 mm (kính)",
+                    "164.63 ×75.4 × 8.75mm (da)"
+                ],
+                "Trọng lượng (g)": [
+                    "210 g (kính)",
+                    "205 g (da)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5100 mAh",
+                    "Sạc siêu nhanh 120W",
+                    "Sạc không dây 50W",
+                    "Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 32-bit/384kHz"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "url": "https://cellphones.com.vn/google-pixel-3.html",
+    "name": "Google Pixel 3",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "5.5 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1080 x 2160 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Kính cường lực Corning Gorilla Glass 5",
+                    "Màn hình luôn bật"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Camera góc rộng: 12,2 MP, f/1.8, 28mm, 1 / 2.55 \", 1.4µm, PDAF pixel kép, OIS",
+                "Quay video": [
+                    "4K@30fps, 1080p@30/60/120fps",
+                    "1080p @ 30fps (gyro-EIS)"
+                ],
+                "Tính năng camera": "Đèn flash LED kép, Pixel Shift, Auto-HDR, ảnh toàn cảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "Camera góc rộng: 8 MP, f/1.8, 28 mm, PDAF",
+                    "Camera góc siêu rộng: 8 MP, f/2.2, 19 mm, không có AF"
+                ],
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+                "GPU": "Adreno 630"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Nano-SIM + eSIM",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, GLONASS, BDS, GALILEO"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "2915 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 18W",
+                    "USB Power Delivery 2.0",
+                    "Sạc không dây"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie), có thể nâng cấp lên Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4x2,5 GHz Kryo 385 Gold & 4x1,6 GHz Kryo 385 Silver"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "145,6 x 68,2 x 7,9 mm",
+                "Trọng lượng": "148 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a / b / g / n / ac, băng tần kép, Wi-Fi Direct, DLNA, điểm phát sóng",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

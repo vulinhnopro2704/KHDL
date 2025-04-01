@@ -1,0 +1,92 @@
+{
+    "url": "https://cellphones.com.vn/huawei-nova-y70-plus.html",
+    "name": "Huawei Nova Y70 Plus",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.75 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1600 pixel",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.8, 26mm (wide), PDAF",
+                    "5 MP, f/2.2, 120˚ (ultrawide)",
+                    "2 MP, f/2.4, (depth)"
+                ],
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": [
+                    "LED flash",
+                    "HDR",
+                    "Chụp toàn cảnh"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP, f/2.0",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "microSDXC"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 6000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 22.5W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "EMUI 12, Không có dịch vụ Google Play"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "168.3 x 77.7 x 9 mm",
+                "Trọng lượng": "199 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn",
+                "Tính năng đặc biệt": "Bảo mật vân tay"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 b/g/n, hotspot",
+                "Bluetooth": "5.1, A2DP, LE"
+            }
+        }
+    ]
+}

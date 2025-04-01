@@ -1,0 +1,127 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-mi-11x-pro.html",
+    "name": "Xiaomi Mi 11X Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.66 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz",
+                    "Hỗ trợ HDR10+",
+                    "Độ sáng 1300 nits"
+                ],
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Ống kính góc rộng: 108 MP, f/1.8",
+                    "Ống kính góc siêu rộng: 8 MP, f/2.2",
+                    "Ống kính macro 5 MP, f/2.4"
+                ],
+                "Quay video": [
+                    "8K@30fps",
+                    "4K@30/60fps",
+                    "1080p@30/60/120/240/960fps",
+                    "gyro-EIS",
+                    "HDR10+"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20 MP, f/2.5",
+                "Quay video trước": [
+                    "1080p@30fps",
+                    "720p@120fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 888 5G (5 nm)",
+                "GPU": "Adreno 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, BDS, NavIC"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4520 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 33W (sạc 100% trong 52 phút)",
+                    "Power Delivery 3.0",
+                    "Quick Charge 3+"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.7 x 76.4 x 7.8 mm",
+                "Trọng lượng": "196 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "2.4G/5G",
+                    "Wi-Fi 802.11 a/b/g/n/ac/6 dual-band"
+                ],
+                "Bluetooth": "5.2, A2DP, LE"
+            }
+        }
+    ]
+}

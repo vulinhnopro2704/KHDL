@@ -1,0 +1,125 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-a54-pin-5000-mah.html",
+    "name": "OPPO A54 Chính hãng (Pin 5000mAh - 3 camera sau)",
+    "price": "2150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, ColorOS 7.2",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 60Hz",
+                    "6.51 inches, HD+ (720 x 1600 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~270 ppi"
+                ],
+                "Độ phân giải": "720 x 1600 pixels",
+                "Màn hình rộng": "6.51 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "13 MP, f/2.2, 25mm (góc rộng), 1/3.06\", 1.12µm, PDAF",
+                    "2 MP, f/2.4, (macro)",
+                    "2 MP, f/2.4, (depth)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.0 (góc rộng), 1/3.06\", 1.0µm, HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "4x2.35 GHz Cortex-A53",
+                    "4x1.8 GHz Cortex-A53"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek MT6765 Helio P35 (12 nm)",
+                    "8 nhân (4x2.35 GHz & 4x1.8 GHz)",
+                    "GPU: PowerVR GE8320"
+                ],
+                "RAM": "4-6GB",
+                "Chip đồ họa (GPU)": "PowerVR GE8320"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-128GB",
+                "Thẻ nhớ ngoài": "microSDXC"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa bo cong",
+                    "Mặt lưng nhựa cong",
+                    "Màn hình đục lỗ phẳng"
+                ],
+                "Kích thước": "163.6 x 75.7 x 8.4 mm",
+                "Trọng lượng (g)": "192 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 18W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA, LTE",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, băng tần kép, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Loa đơn"
+                ],
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "FM radio",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

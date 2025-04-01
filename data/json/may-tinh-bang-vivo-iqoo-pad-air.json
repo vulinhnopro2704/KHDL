@@ -1,0 +1,76 @@
+{
+    "url": "https://cellphones.com.vn/may-tinh-bang-vivo-iqoo-pad-air.html",
+    "name": "vivo iQOO Pad Air",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "11.5 inches",
+                "Công nghệ màn hình": "LCD",
+                "Tính năng màn hình": [
+                    "Tốc độ làm mới lên tới 144Hz",
+                    "2,800 x 1,840 pixel, 500 nits, HDR10, tỷ lệ khung hình 3:2"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "8MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 870"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "8,500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 44W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "259.743 x 176 x 6.67mm",
+                "Trọng lượng": "530 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v5.2"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ âm thanh": "4 loa"
+            }
+        }
+    ]
+}

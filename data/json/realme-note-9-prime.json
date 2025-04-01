@@ -1,0 +1,20 @@
+{
+    "url": "https://cellphones.com.vn/realme-note-9-prime.html",
+    "name": "Realme Note 9 Prime",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        }
+    ]
+}

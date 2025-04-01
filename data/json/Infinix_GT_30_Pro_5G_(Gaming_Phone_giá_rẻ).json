@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/infinix-gt-30-pro-gaming-phone-gia-re.html",
+    "name": "Infinix GT 30 Pro 5G (Gaming Phone giá rẻ)",
+    "price": "7950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, XOS 15",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 144Hz",
+                    "6.78 inches, Full HD+ (1080 x 2436 pixels)",
+                    "Mật độ điểm ảnh ~388 ppi"
+                ],
+                "Độ phân giải": "1080 x 2436 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP (góc rộng), AF, OIS",
+                    "2 MP (độ sâu)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng)",
+                    "Dual-LED flash",
+                    "Quay phim: 1440p, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K, 1080p",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.35 GHz Cortex-A715",
+                    "3x3.20 GHz Cortex-A715",
+                    "4x2.20 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 8300 Ultimate (4nm)",
+                    "8 nhân (1x3.35 GHz & 3x3.20 GHz & 4x2.20 GHz)",
+                    "GPU: Mali G615-MC6"
+                ],
+                "RAM": "8-12GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Mali G615-MC6"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "6000 mAh",
+                    "Sạc nhanh 45W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

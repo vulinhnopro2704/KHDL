@@ -1,0 +1,104 @@
+{
+    "url": "https://cellphones.com.vn/oneplus-9.html",
+    "name": "OnePlus 9",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.55 inches",
+                "Công nghệ màn hình": "Fluid AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Kính cường lực Corning Gorilla Glass"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 50 MP & Phụ 48 MP, 2 MP",
+                "Quay video": [
+                    "4K 2160p@30fps",
+                    "4K 2160p@60fps",
+                    "8K 4320p@30fps",
+                    "FullHD 1080p@240fps",
+                    "FullHD 1080p@30fps",
+                    "FullHD 1080p@60fps"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 888",
+                "GPU": "Adreno 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, BDS, GALILEO, GLONASS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-po 4500 mAh",
+                "Công nghệ sạc": "Sạc nhanh",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 2.84 GHz, 3 nhân 2.42 GHz & 4 nhân 1.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "160 x 74.2 x 8.7 x 192 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Dual-band (2.4 GHz/5 GHz)",
+                    "Wi-Fi 802.11 a/b/g/n/ac/ax",
+                    "Wi-Fi Direct",
+                    "Wi-Fi hotspot"
+                ],
+                "Bluetooth": "A2DP, LE, v5.2"
+            }
+        }
+    ]
+}

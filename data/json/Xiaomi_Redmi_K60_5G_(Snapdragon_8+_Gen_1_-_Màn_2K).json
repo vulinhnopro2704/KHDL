@@ -1,0 +1,119 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-redmi-k60.html",
+    "name": "Xiaomi Redmi K60 5G (Snapdragon 8+ Gen 1 - Màn 2K)",
+    "price": "6350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, MIUI 14",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "OLED, 68 tỷ màu, 120Hz, Dolby Vision, HDR10+, 1400 nits (tối đa)",
+                    "6.67 inches, 2K (1440 x 3200 pixels)",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.8, (góc rộng), PDAF, OIS",
+                    "8 MP, 120˚ (góc siêu rộng)",
+                    "2 MP, f/2.4, (macro)",
+                    "Quay phim: 8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP (góc rộng)",
+                    "Quay phim:1080p@30/60/120fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.2 GHz & 3x2.75 GHz & 4x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                    "8 nhân (1x3.2 GHz & 3x2.75 GHz & 4x2.0 GHz)",
+                    "GPU: Adreno 730"
+                ],
+                "RAM": "8-16GB",
+                "Chip đồ họa (GPU)": "Adreno 730"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "162.8 x 75.4 x 8.6 mm / 8.8 mm",
+                "Trọng lượng (g)": "199 g / 204 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5500 mAh",
+                    "Sạc nhanh 67W, PD3.0, QC3+",
+                    "Sạc không dây 30W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 3, 4, 5, 8, 18, 19, 26, 34, 38, 39, 40, 41, 42",
+                "Loại Sim": "Nano SIM, 2 SIM",
+                "Khe gắn Sim": "Nano SIM, 2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1), GLONASS (G1), BDS (B1I+B1c), GALILEO (E1), QZSS (L1)",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

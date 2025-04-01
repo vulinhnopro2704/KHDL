@@ -1,0 +1,125 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/zte-axon-a41-5g-snapdragon-870.html",
+    "name": "ZTE Axon A41 5G (Snapdragon 870)",
+    "price": "3550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 11, MyOS 11.5",
+                    "Có thể được lên Android 14"
+                ],
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "1.07 tỷ màu",
+                "Chuẩn màn hình": [
+                    "OLED, 1 tỷ màu, 90Hz",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~395 ppi"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung 10 điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP (góc rộng)",
+                    "8 MP (góc siêu rộng)",
+                    "5 MP (macro)",
+                    "Quay phim: Có"
+                ],
+                "Camera trước": [
+                    "44 MP (góc rộng)",
+                    "Hoặc 32 MP (góc rộng)",
+                    "Quay phim: Có"
+                ],
+                "Đèn Flash": "Có",
+                "Quay phim": "Có",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.2 GHz Kryo 58",
+                    "3x2.42 GHz Kryo 585",
+                    "4x1.80 GHz Kryo 585"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
+                    "8 nhân (1x3.2 GHz & 3x2.42 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 650"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung viền nhựa bo cong",
+                    "Mặt lưng giả da cong về 2 cạnh bên",
+                    "Màn hình đục lỗ phẳng"
+                ],
+                "Kích thước": "163.9 x 76.2 x 9.5mm",
+                "Trọng lượng (g)": "203 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 66W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "WI-FI 802.11 a/b/g/n/ac/ax, 2x2 MIMO (2.4GHz và 5GHz)",
+                "GPS": "Beidou/GPS (L1+L5)/A-GPS/Galileo/Glonass/QZSS",
+                "Bluetooth": "Bluetooth 5.1",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1 (Gen 1)",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

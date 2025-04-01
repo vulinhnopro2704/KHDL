@@ -1,0 +1,38 @@
+{
+    "url": "https://cellphones.com.vn/vivo-iqoo-neo-7.html",
+    "name": "iQOO Neo 7",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "Tốc độ làm tươi 120Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc T107"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Công nghệ sạc": "Sạc 120W"
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-a05s-6gb-128gb.html",
+    "name": "Samsung Galaxy A05S 6GB 128GB",
+    "price": "3.190.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "PLS LCD",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tốc độ làm mới 90 Hz, 500 nits, Kính cường lực",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP, f/1.8",
+                    "Camera chân dung: 2 MP, f/2.4",
+                    "Camera macro: 2 MP, f/2.4"
+                ],
+                "Quay video": [
+                    "FullHD 1080p@60/30fps",
+                    "HD 720p@120fps"
+                ],
+                "Tính năng camera": [
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Zoom kỹ thuật số",
+                    "Quay chậm (Slow Motion)",
+                    "Xóa phông",
+                    "Toàn cảnh (Panorama)",
+                    "Tự động lấy nét (AF)",
+                    "Ban đêm (Night Mode)",
+                    "Chuyên nghiệp (Pro)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "13 MP, f/2.0",
+                "Quay video trước": [
+                    "FullHD 1080p@60/30fps",
+                    "HD 720p@120fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 680 8 nhân",
+                "GPU": "Adreno 610"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": [
+                    "BEIDOU",
+                    "QZSS",
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.4 GHz & 4 nhân 1.9 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "168 x 77.8 x 8.8 mm",
+                "Trọng lượng": "194 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac 2.4G+5GHz, VHT80",
+                "Bluetooth": "v5.1"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2023"
+            }
+        }
+    ]
+}

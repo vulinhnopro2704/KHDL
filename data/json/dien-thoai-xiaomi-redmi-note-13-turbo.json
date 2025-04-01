@@ -1,0 +1,46 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-13-turbo.html",
+    "name": "Xiaomi Redmi Note 13 Turbo",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": "Tần số quét 120 Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "64 MP + 32 MP + 5 MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 1000+"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.255 mAh",
+                "Công nghệ sạc": "Sạc nhanh 66 W"
+            }
+        }
+    ]
+}

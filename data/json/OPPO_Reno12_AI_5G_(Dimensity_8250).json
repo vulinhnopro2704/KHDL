@@ -1,0 +1,130 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-reno12-ai-5g-dimensity-8250.html",
+    "name": "OPPO Reno12 AI 5G (Dimensity 8250)",
+    "price": "6150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, ColorOS 14.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10+, 1200 nits (tối đa)",
+                    "6.7 inches, Full HD+ (1080 x 2412 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~394 ppi",
+                    "Corning Gorilla Glass"
+                ],
+                "Độ phân giải": "1080 x 2412 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), 1/1.95\", PDAF, OIS",
+                    "50 MP, f/2.0, 47mm (tele), PDAF, zoom quang học 2x",
+                    "8 MP, f/2.2, 16mm, 112˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, HDR"
+                ],
+                "Camera trước": [
+                    "50 MP, f/2.0, (góc rộng), AF",
+                    "Panorama, HDR, AI",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama, AI",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.1 GHz Cortex-A78",
+                    "3x3.0 GHz Cortex-A78",
+                    "4x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 8250 (4 nm)",
+                    "8 nhân (1x3.1 GHz & 3x3.0 GHz & 4x2.0 GHz)",
+                    "GPU: Mali-G610 MC6"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Mali-G610 MC6"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Cấu trúc kim cương độ bền cao",
+                    "Khung nhựa vuông vức; Măt lưng phẳng",
+                    "Màn hình phẳng kính Corning Gorilla Glass",
+                    "Kháng nước, bụi IP65",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": [
+                    "161.4 x 74.8 x 7.25 mm (Đen)",
+                    "161.4 x 74.8 x 7.30 mm (Hồng và Bạc)"
+                ],
+                "Trọng lượng (g)": "179 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 80W, PD",
+                    "Sạc ngược (dây)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 1700(AWS) / 2100",
+                "4G": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC (eSE, HCE, NFC-SIM, eID), hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

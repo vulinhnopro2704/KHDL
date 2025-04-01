@@ -1,0 +1,124 @@
+{
+    "url": "https://cellphones.com.vn/honor-magic-v.html",
+    "name": "Honor Magic V",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "7.9 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1984 x 2272 pixels",
+                "Tính năng màn hình": "Tần số quét 90Hz, 10.7 tỷ màu, HDR10+"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP, f/1.9, 23mm, PDAF, Laser AF",
+                    "Camera góc rộng: 50 MP, f/2.0, 20mm, PDAF",
+                    "Camera góc siêu rộng: 50 MP, f/2.2, 13mm, 122˚"
+                ],
+                "Quay video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR10+",
+                "Tính năng camera": "Đèn flash hai tông màu LED kép, HDR, toàn cảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 42 MP, f/2.4",
+                "Quay video trước": "4K@30fps, 1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 1 (4 nm)",
+                "GPU": "Adreno 730"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4750 mAh",
+                "Công nghệ sạc": "Sạc nhanh 66W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 × Cortex-X2 2.995GHz + 3 × Cortex-A710 2.496GHz + 4 × Cortex-A510 1.785GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Khi mở ra: 160.4 x 141.1 x 6.7 mm",
+                    "Khi gập lại: 160,4 x 72,7 x 14,3 mm"
+                ],
+                "Trọng lượng": "288 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6",
+                "Bluetooth": "v5.2"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ âm thanh": "Stereo Amplifier"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "Tháng 1 - năm 2022"
+            }
+        }
+    ]
+}

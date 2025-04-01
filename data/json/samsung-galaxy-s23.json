@@ -1,0 +1,147 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-s23.html",
+    "name": "Samsung Galaxy S23 8GB 256GB",
+    "price": "24.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.1 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 120Hz, Kính cường lực Corning Gorilla Glass Victus 2, Độ sáng tối đa: 1750 nits",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Camera chính 50 MP, f/1.8 & Phụ 12 MP, f/2.2, 10 MP, f/2.4",
+                "Quay video": "FullHD 1080p@30fps, 4K 2160p@60fps, HD 720p@30fps, 8K 4320p@24fps, 8K 4320p@30fps",
+                "Tính năng camera": [
+                    "Quay Siêu chậm",
+                    "AI Camera",
+                    "Chuyên nghiệp (Pro)",
+                    "Tự động lấy nét (AF)",
+                    "Toàn cảnh (Panorama)",
+                    "Chống rung quang học (OIS)",
+                    "Ảnh Raw",
+                    "Ban đêm (Night Mode)",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Zoom quang học",
+                    "Nhãn dán (AR Stickers)",
+                    "Làm đẹ"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12MP, f/2.2"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2",
+                "GPU": "Adreno 740"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM + eSIM",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GLONASS, GPS, GALILEO, BEIDOU"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3900 mAh",
+                "Công nghệ sạc": "Sạc pin nhanh, Sạc không dây, Sạc ngược không dây",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 3.36 GHz, 4 nhân 2.8 GHz & 3 nhân 2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "146.3 x 70.9 x 7.6 mm",
+                "Trọng lượng": "168 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tương thích": "Không hỗ trợ Spen",
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": "Galaxy AI tiện ích - Khoanh vùng search đa năng, trợ lý chỉnh ảnh, trợ lý chat thông minh, phiên dịch trực tiếp",
+                "Tiện ích khác": [
+                    "Ghi âm cuộc gọi",
+                    "Samsung Pay",
+                    "Chạm 2 lần tắt/sáng màn hình",
+                    "Trợ lý ảo Samsung Bixby",
+                    "Chặn cuộc gọi",
+                    "Chặn tin nhắn",
+                    "Samsung DeX",
+                    "(Kết nối màn hình sử dụng giao diện tương tự PC)",
+                    "Âm thanh AKG",
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Tối ưu game"
+                ],
+                "Công nghệ âm thanh": "Âm thanh Dolby Atmos"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Dual-band (2.4 GHz/5 GHz), Wi-Fi Direct, Wi-Fi 802.11 a/b/g/n/ac/ax, 6 GHz",
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "02/2023"
+            }
+        }
+    ]
+}

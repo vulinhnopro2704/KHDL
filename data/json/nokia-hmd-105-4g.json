@@ -1,0 +1,52 @@
+{
+    "url": "https://cellphones.com.vn/nokia-hmd-105-4g.html",
+    "name": "Nokia HMD 105 4G",
+    "price": "650.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "2.4 inches",
+                "Tính năng màn hình": "QVGA"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc 8910 & T127"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "128 MB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1450 mAh",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v5.0"
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/google-pixel-8-5g.html",
+    "name": "Google Pixel 8 5G (Chip Tensor G3)",
+    "price": "17050000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "OLED, 120Hz, HDR10+, 1400 nits (HBM), 2000 nits (tối đa)",
+                    "6.2 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~428 ppi",
+                    "Corning Gorilla Glass Victus",
+                    "Always-on Display"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.2 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.7, 25mm (góc rộng), multi-directional PDAF, Laser AF, OIS",
+                    "12 MP, f/2.2, 126˚ (góc siêu rộng)",
+                    "Quay phim: 4K@24/30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+                ],
+                "Camera trước": [
+                    "10.5 MP, f/2.2, 20mm (góc siêu rộng), PDAF",
+                    "Auto-HDR, panorama",
+                    "Quay phim: 4K@24/30/60fps, 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, Pixel Shift, Ultra-HDR, panorama",
+                "Quay phim": "4K@24/30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.0 GHz Cortex-X3",
+                    "4x2.45 GHz Cortex-A715",
+                    "4x2.15 GHz Cortex-A510"
+                ],
+                "Số nhân": "9 nhân",
+                "Chipset": [
+                    "Google Tensor G3 (4 nm)",
+                    "9 nhân (1x3.0 GHz & 4x2.45 GHz & 4x2.15 GHz)",
+                    "GPU: Immortalis-G715s MC10"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Immortalis-G715s MC10"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm",
+                    "Kính trước/sau Gorilla Glass Victus",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "150.5 x 70.8 x 8.9 mm",
+                "Trọng lượng (g)": "187 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 4575 mAh",
+                    "Sạc nhanh 27W, PD3.0, PPS",
+                    "Sạc 50% trong 30 ph (QC)",
+                    "Sạc không dây 18W",
+                    "Hỗ trợ sạc ngược"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 46, 48, 66, 71 - GKWS6, G9BQD",
+                "Loại Sim": "Nano SIM và eSIM",
+                "Khe gắn Sim": "Nano SIM và eSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

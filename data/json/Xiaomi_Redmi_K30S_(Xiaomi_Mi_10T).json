@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-k30s.html",
+    "name": "Xiaomi Redmi K30S (Xiaomi Mi 10T)",
+    "price": "8450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, MIUI 12",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD, 144Hz, HDR10+, 500 nits (typ), 650 nits (peak)",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "6.67 inches, Full HD+ (1080 x 2400 pixels), 20:9 ratio",
+                "Độ phân giải": "6.67 inches, Full HD+ (1080 x 2400 pixels), 20:9 ratio",
+                "Màn hình rộng": "6.67",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "64 MP, f/1.9 - 13 MP, f/2.4, 123˚ (góc rộng) - 5 MP, f/2.4, (macro)",
+                "Camera trước": "20 MP, f/2.2",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm SM8250 Snapdragon 865 (7 nm+)",
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB UFS 3.1",
+                "Thẻ nhớ ngoài": "No"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + cảm ứng",
+                "Kích thước": "165.1 x 76.4 x 9.3 mm",
+                "Trọng lượng (g)": "216"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "5000 mAh, sạc nhanh 33W, Power Delivery 3.0",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "No",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

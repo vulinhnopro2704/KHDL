@@ -1,0 +1,107 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-nothing-cmf-phone-1-8gb-256gb.html",
+    "name": "Nothing Phone CMF 1 8GB 256GB",
+    "price": "7.090.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "395 ppi, Màu 8-bit, 2000 nits",
+                    "120 Hz, HDR10+"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50 MP, f/1.8 + cảm biến chân dung",
+                "Quay video": [
+                    "4K@30 FPS",
+                    "1080p@30/60 FPS"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 7300 5G",
+                "GPU": "4nm TSMC process"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1), GLONASS (G1), BDS (B1I), GALILEO (E1), QZSS (L1)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 33W",
+                    "Sạc ngược có dây 5W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8-core up to 2.5 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164 x 77 x 8 mm / 9 mm (da tiêu chuẩn / da thuần chay)",
+                "Trọng lượng": "197 g / 202 g (da tiêu chuẩn / thuần chay)"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP52"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac /ax (Wi-Fi 6), 2.4 GHz / 5 GHz dual-band, MU-MIMO",
+                "Bluetooth": "v5.3, A2DP, BLE"
+            }
+        }
+    ]
+}

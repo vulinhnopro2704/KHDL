@@ -1,0 +1,120 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-11t.html",
+    "name": "Xiaomi 11T 5G (Chính hãng DGW)",
+    "price": "8150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12.5 có thể update lên Android 13, MIUI 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ."
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED 1 tỷ màu, 120Hz, HDR10+",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inch",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.8, 26mm (góc rộng), PDAF",
+                    "8 MP, f/2.2, 120˚ (siêu rộng)",
+                    "5 MP, f/2.4, 50mm (telephoto macro), AF",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5, (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek MT6893 Dimensity 1200 5G (6 nm)",
+                    "8 nhân (1x3.0 GHz & 3x2.6 GHz & 4x2.0 GHz)",
+                    "GPU: Mali-G77 MC9"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Mali-G77 MC9"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB, UFS 3.1",
+                    "Thẻ nhớ: không"
+                ],
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "164.1 x 76.9 x 8.8 mm",
+                "Trọng lượng (g)": "203 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 67W, đầy pin trong 36ph (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+                "4G": "4G, 5G",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Chuẩn Wi-Fi 6: 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "dual-band A-GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "Type C",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4，MKV，AVI，WMV，WEBM，3GP，ASF HDR10",
+                "Nghe nhạc": "MP3, FLAC, APE, AAC, OGG, WAV, WMA, AMR, AWB Hi-Res Audio",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

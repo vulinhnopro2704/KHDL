@@ -1,0 +1,108 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-note-12t-pro.html",
+    "name": "Xiaomi Redmi Note 12T Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "1080x2460 pixels",
+                "Tính năng màn hình": "Tốc độ làm mới 144 Hz, 1 tỷ màu, HDR10, Dolby Vision, 650 nits",
+                "Loại màn hình": "Màn hình"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 64 MP, f/1.8, 23mm, 1/2\", 0.7µm, PDAF",
+                    "Camera góc siêu rộng: 8 MP, 120˚",
+                    "Camera macro: 2 MP"
+                ],
+                "Quay video": "4K@30fps, 1080p@30/60/120/240fps",
+                "Tính năng camera": "LED flash, HDR, panorama"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP",
+                "Quay video trước": "1080p@30/60/120fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Mediatek Dimensity 8200 Ultra (4 nm)",
+                "GPU": "Mali-G610 MC6"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1), GLONASS (G1), BDS (B1I+B1c), GALILEO (E1), QZSS (L1)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5080 mAh",
+                "Công nghệ sạc": "Sạc nhanh 67 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP53",
+                "Công nghệ âm thanh": "Loa âm thanh nổi"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6",
+                "Bluetooth": "v5.3, A2DP, LE"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "05/2023"
+            }
+        }
+    ]
+}

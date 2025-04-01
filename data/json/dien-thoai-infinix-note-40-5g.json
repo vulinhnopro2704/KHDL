@@ -1,0 +1,81 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-infinix-note-40-5g.html",
+    "name": "Infinix Note 40 5G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": "1,300 nits và tốc độ làm mới 120Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính 108MP hỗ trợ OIS",
+                    "Camera độ sâu 2MP",
+                    "Ống kính macro 2MP"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 7020"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Hồng ngoại": "Có",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc có dây công suất 33W",
+                    "Sạc không dây 15W"
+                ]
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "XOS 14"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP53",
+                "Công nghệ âm thanh": "Loa âm thanh nổi"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay dưới màn hình"
+            }
+        }
+    ]
+}

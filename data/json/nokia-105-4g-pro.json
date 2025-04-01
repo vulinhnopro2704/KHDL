@@ -1,0 +1,54 @@
+{
+    "url": "https://cellphones.com.vn/nokia-105-4g-pro.html",
+    "name": "Nokia 105 4G Pro",
+    "price": "650.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "1.77 inches",
+                "Công nghệ màn hình": "IPS LCD"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc T107"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "128 MB",
+                "Khe cắm thẻ nhớ": "MicroSD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1450mAh"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "121.5 x 50 x 14.4 mm",
+                "Trọng lượng": "93g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v5.0"
+            }
+        }
+    ]
+}

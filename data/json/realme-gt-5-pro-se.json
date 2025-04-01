@@ -1,0 +1,55 @@
+{
+    "url": "https://cellphones.com.vn/realme-gt-5-pro-se.html",
+    "name": "realme GT 5 Pro SE",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.74 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1240 x 2772 pixels",
+                "Tính năng màn hình": "Tần số quét 144 Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50 MP + 8 MP + 2 MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 8 Gen 3",
+                "GPU": "GPU Adreno 750"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4.700 mAh",
+                "Công nghệ sạc": "Sạc nhanh 240 W"
+            }
+        }
+    ]
+}

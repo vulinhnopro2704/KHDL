@@ -1,0 +1,89 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-iqoo-z10-turbo-pro.html",
+    "name": "Vivo iQOO Z10 Turbo Pro (Snapdragon 8s Elite - Pin 7500mAh)",
+    "price": "8450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, OriginOS 5",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 144Hz, HDR",
+                    "6.78 inches, 1.5K (1260 x 2800 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~453 ppi"
+                ],
+                "Độ phân giải": "1260 x 2800 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "8 MP (góc siêu rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Camera trước": [
+                    "16 MP f/2.5 (góc rộng)",
+                    "Quay phim: 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K@30/60fps, 1080p, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 8s Elite",
+                "RAM": "12-16GB"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 7500 mAh",
+                    "Sạc nhanh 90W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

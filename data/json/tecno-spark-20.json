@@ -1,0 +1,109 @@
+{
+    "url": "https://cellphones.com.vn/tecno-spark-20.html",
+    "name": "TECNO SPARK 20 8GB 128GB",
+    "price": "3.050.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1612 (HD+)",
+                "Tính năng màn hình": "Tần số quét 90Hz, Dymanic Port hiển thị thông tin tiện ích",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50MP, f/1.6 | PDAF | 6P",
+                "Tính năng camera": "2 đèn Flash Selfie màu, Làm đẹp khuôn mặt, Làm đẹp cơ thể, Chân dung xoá phông, Quay video 2K"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G85",
+                "GPU": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "Có hỗ trợ"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8GB + Mở rộng 8GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 18W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.69 x 75.6 x 8.45mm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP53",
+                "Tiện ích khác": "Dùng cử chỉ tay để nghe máy, Tự động nghe máy khi tai áp vào máy, Cảnh báo khi tắt nguồn, Màn hình chống nhìn trộm",
+                "Công nghệ âm thanh": "2 loa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "WIFI 2.4+5GHz",
+                "Bluetooth": "v5.2"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "1/2024"
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-y200-gt.html",
+    "name": "vivo Y200 GT",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": [
+                    "Độ phân giải 1.5K",
+                    "Tốc độ làm mới 144Hz"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Cảm biến chính 50MP",
+                    "Ống kính chân dung 2MP"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 7 Gen 3"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Jack tai nghe 3.5": "Không"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6,000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 80W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.72 x 75.88 x 7.98mm",
+                "Trọng lượng": "194 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v5.4"
+            }
+        }
+    ]
+}

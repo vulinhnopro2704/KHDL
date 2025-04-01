@@ -1,0 +1,140 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-iqoo-z9s-pro-5g-quoc-te.html",
+    "name": "Vivo iQOO Z9s Pro 5G (Quốc tế - Snapdragon 7 Gen 3)",
+    "price": "7450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 14, Funtouch 14",
+                    "(Nâng cấp tối đa 2 bản Android chính)"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10+, 4500 nits (peak)",
+                    "6.77 inches, Full HD+ (1080 x 2392 pixels)",
+                    "Tỷ lệ: 19.9:9; Mật độ điểm ảnh ~388 ppi",
+                    "Kính bảo vệ: Schott Xensation"
+                ],
+                "Độ phân giải": "1080 x 2392 pixels",
+                "Màn hình rộng": "6.77 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8 (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, 120˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K@30/60fps, 1080p, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.63 GHz Cortex-A715",
+                    "4x2.4 GHz Cortex-A715",
+                    "3x1.8 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+                    "8 nhân (1x2.63 GHz & 4x2.40 GHz & 3x1.80 GHz)",
+                    "GPU: Adreno 720"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 720"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa bo cong",
+                    "Mặt lưng cong giả da, giả kính",
+                    "Màn hình cong kính Schott Xensation",
+                    "Kháng nước, bụi IP64",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": [
+                    "163.7 x 75 x 7.5 mm (màu Trắng)",
+                    "163.7 x 75 x 8.0 mm (màu Cam)"
+                ],
+                "Trọng lượng (g)": [
+                    "185 g (màu Trắng)",
+                    "190 g (màu Cam)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 5500 mAh",
+                    "Sạc nhanh 80W, 50% pin trong 21 ph (QC)",
+                    "Sạc ngược (dây) 7.5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+                "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép",
+                    "Âm thanh Hi-Res 24-bit/192kHz"
+                ],
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "FM radio",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

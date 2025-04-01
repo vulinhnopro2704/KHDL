@@ -1,0 +1,147 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-mix-flip-dien-thoai-gap.html",
+    "name": "Xiaomi MIX Flip 5G (Snapdragon 8 Gen 3)",
+    "price": "21150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, HyperOS",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Màn chính: Foldable LTPO AMOLED",
+                    "Màn hình phụ: AMOLED"
+                ],
+                "Màu màn hình": [
+                    "Màn chính: 1 tỷ màu",
+                    "Màn phụ: 68 tỷ màu"
+                ],
+                "Chuẩn màn hình": [
+                    "Màn chính: Foldable LTPO AMOLED, 1 tỷ màu, 120Hz, HDR10+, Dolby Vision, 3000 nits (tối đa)",
+                    "6.86 inches, 1224 x 2912 pixels, mật độ điểm ảnh ~460 ppi",
+                    "Màn phụ: AMOLED, 68 tỷ màu, 120Hz, Dolby Vision, HDR10+, 1600 nits (HBM), 3000 nits (tối đa)",
+                    "4 inches, 1392 x 1208 pixels, mật độ điểm ảnh ~460 ppi"
+                ],
+                "Độ phân giải": [
+                    "Màn chính: 1224 x 2912 pixels",
+                    "Màn phụ: 1392 x 1208 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Màn chính: 6.86 inches",
+                    "Màn phụ: 4 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.7, 23mm (góc rộng), PDAF, OIS",
+                    "50 MP, f/2.0, 47mm (tele), PDAF (9cm - ∞), zoom quang 2x",
+                    "Quay phim: 8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, Dolby Vision HDR"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.0, 21mm (góc rộng)",
+                    "Dolby Vision HDR",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR, Leica lenses",
+                "Quay phim": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, Dolby Vision HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "3x3.2 GHz Cortex-A720",
+                    "2x3.0 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 3x3.2 GHz & 2x3.0 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Điện thoại gập vỏ sò",
+                    "Khung nhôm, mặt lưng kính, bản lề thép",
+                    "Màn hình ngoài kính",
+                    "Màn hình trong kính dẻo"
+                ],
+                "Kích thước": [
+                    "Mở: 167.5 x 74 x 7.6 mm",
+                    "Gập: 74 x 74 x 16 mm"
+                ],
+                "Trọng lượng (g)": "190 g hoặc 192 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "4780 mAh",
+                    "Sạc nhanh 67W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép",
+                    "24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

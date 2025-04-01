@@ -1,0 +1,109 @@
+{
+    "url": "https://cellphones.com.vn/vivo-y01.html",
+    "name": "Vivo Y01",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.51 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1600 pixel",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "8 MP",
+                "Quay video": "FullHD 1080p@30fps",
+                "Tính năng camera": [
+                    "Làm đẹp",
+                    "Trôi nhanh thời gian (Time Lapse)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5 MP"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": [
+                    "BEIDOU",
+                    "GALILEO",
+                    "GLONASS",
+                    "GPS"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "2 GB",
+                "Bộ nhớ trong": "32 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 5000 mAh",
+                "Công nghệ sạc": "Tiết kiệm pin",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11 (Go Edition)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "MediaTek Helio P35 8 nhân 2.3 GHz"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "GPU": "IMG PowerVR GE8320"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.96 x 75.2 x 8.28 mm (Dài x Ngang x Dày)",
+                "Trọng lượng": "178 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Dual-band (2.4 GHz/5 GHz)",
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Tính năng đặc biệt": "Nhận diện khuôn mặt"
+            }
+        }
+    ]
+}

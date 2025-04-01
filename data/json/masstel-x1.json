@@ -1,0 +1,83 @@
+{
+    "url": "https://cellphones.com.vn/masstel-x1.html",
+    "name": "Masstel x1",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "4.95 inches",
+                "Độ phân giải màn hình": "480 x 960 pixel",
+                "Tính năng màn hình": "FWVGA, Công nghệ màn hình TN, 16 triệu màu, Mặt cảm ứng cong 2.5D"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "5.0MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "2.0MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Spreadtrum 7731E",
+                "GPU": "Mali T820"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "Micro-SIM",
+                "Hỗ trợ mạng": "3G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "1 GB",
+                "Bộ nhớ trong": "8 GB",
+                "Khe cắm thẻ nhớ": "Micro SD 64GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "2000 mAh",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 8.1 Oreo (Go Edition)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "137*67*9.5mm",
+                "Trọng lượng": "140g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 b/g/n"
+            }
+        }
+    ]
+}

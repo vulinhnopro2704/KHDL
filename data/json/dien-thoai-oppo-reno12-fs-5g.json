@@ -1,0 +1,21 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-oppo-reno12-fs-5g.html",
+    "name": "OPPO Reno12 FS 5G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        }
+    ]
+}

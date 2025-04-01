@@ -1,0 +1,58 @@
+{
+    "url": "https://cellphones.com.vn/mobell-m331-4g.html",
+    "name": "Mobell M331 4G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "2.4 inches",
+                "Độ phân giải màn hình": "240 x 320 pixels"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "0.8 MP"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1000 mAH"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "124.6 x 51 x 14 mm",
+                "Trọng lượng": "65 g"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Khe cắm thẻ nhớ": "Hỗ trợ tối đa 64 GB"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "Có"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tiện ích khác": "Danh bạ: 2000 số"
+            }
+        }
+    ]
+}

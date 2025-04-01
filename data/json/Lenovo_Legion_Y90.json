@@ -1,0 +1,115 @@
+{
+    "url": "https://mobilecity.vn/lenovo/lenovo-legion-y90.html",
+    "name": "Lenovo Legion Y90",
+    "price": "10450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, ZUI 13",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED 144Hz, 1300 nits",
+                    "6.92 inches, 113.7 cm2",
+                    "Full HD+ (1080 x 2460 pixels)",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Độ phân giải": "1080 x 2460 pixels",
+                "Màn hình rộng": "6.92 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.9 (góc rộng), PDAF",
+                    "13 MP, f/2.2, 123˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps"
+                ],
+                "Camera trước": "16 MP, f/2.2, (góc rộng)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, panorama, HDR",
+                "Quay phim": "4K@30/60fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.00 GHz & 3x2.50 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+                    "8 nhân (1x3.00 GHz & 3x2.50 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 730"
+                ],
+                "RAM": "12-18GB",
+                "Chip đồ họa (GPU)": "Adreno 730"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "640GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Gaming Phone",
+                "Kích thước": "177 x 78.4 x 10.14 mm",
+                "Trọng lượng (g)": "252g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5600mAh",
+                    "Sạc nhanh 68W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 b/g/n/ac/6, dual-band ,Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "Yes, v5.2, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "Yes, USB Type-C",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

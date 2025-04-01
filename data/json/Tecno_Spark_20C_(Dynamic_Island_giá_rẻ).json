@@ -1,0 +1,128 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/tecno-spark-20c-dynamic-island.html",
+    "name": "Tecno Spark 20C (Dynamic Island giá rẻ)",
+    "price": "2450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 90Hz",
+                    "6.6 inches, HD+ (720 x 1612 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~276 ppi"
+                ],
+                "Độ phân giải": "720 x 1612 pixels",
+                "Màn hình rộng": "6.6 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF",
+                    "AI-CAM",
+                    "Quay phim: Có"
+                ],
+                "Camera trước": [
+                    "8 MP, Dual Flash",
+                    "Quay phim: Có"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual Flash, HDR",
+                "Quay phim": "Có",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Arm Cortex-A53 2.2GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek",
+                    "8 nhân 2.2GHz",
+                    "GPU: PowerVR GE8320"
+                ],
+                "RAM": [
+                    "4-8GB",
+                    "Hỗ trợ mở rộng RAM 4-8GB"
+                ],
+                "Chip đồ họa (GPU)": "PowerVR GE8320"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng nhựa phẳng",
+                    "Màn hình đục lỗ phẳng",
+                    "Cảm biến vân tay cạnh bên"
+                ],
+                "Kích thước": [
+                    "163.69 x 75.6 x 8.55 mm (nhựa)",
+                    "163.69 x 75.6 x 8.75 mm (da tổng hợp)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000mAh",
+                    "Sạc nhanh 18W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Có",
+                "GPS": "Có",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Loa kép DTS"
+                ],
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "FM radio",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

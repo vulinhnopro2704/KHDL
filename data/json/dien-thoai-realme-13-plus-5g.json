@@ -1,0 +1,127 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-realme-13-plus-5g.html",
+    "name": "realme 13+ 5G 8GB 256GB",
+    "price": "7.690.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "16.7 triệu màu, 2000nits, 120Hz",
+                    "AGC DT STAR2"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50MP 882 OIS + 2MP + Flicker",
+                "Quay video": "4K@ 30fps, 1080p @ 60fps/30fps, 720p @ 60fps/30fps",
+                "Tính năng camera": "Chế độ Ảnh, Chế độ Video, Chế độ Chân dung, Chế độ Chụp đêm, Chế độ Chụp toàn cảnh, Chế độ Quay tua nhanh thời gian, Chế độ Quay video hiển thị kép"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP, f/2.4",
+                "Quay video trước": "1080p @ 30fps, 720p @ 30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Dimensity 7300 Energy 5G",
+                "GPU": "Arm® Mali-G615"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, Glonass, Beidou, Galileo, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Hỗ trợ thẻ nhớ tối đa 2TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh Ultra 80W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Lõi tám nhân 4*A78 @2.5 GHz，4*A55 @2.5 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161.7 x 74.7 x 7.6 mm",
+                "Trọng lượng": "185g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Tản nhiệt VC",
+                "Chỉ số kháng nước, bụi": "IP65",
+                "Công nghệ âm thanh": "Loa kép 3D"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay dưới màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, Con quay hồi chuyển",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "2.4/5GHz Wi-Fi",
+                    "Wi-Fi 6"
+                ],
+                "Bluetooth": "v5.4"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "11/2024"
+            }
+        }
+    ]
+}

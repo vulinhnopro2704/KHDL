@@ -1,0 +1,133 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-13t-pro.html",
+    "name": "Xiaomi 13T Pro 5G 12GB 512GB - Chỉ có tại CellphoneS",
+    "price": "Giá liên hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1220 x 2712 pixels",
+                "Tính năng màn hình": [
+                    "Tần số quét 144 Hz, 446 ppi, 1200 nit, 68 tỷ màu",
+                    "Màn hình TrueColor",
+                    "Corning®️ Gorilla®️ Glass 5"
+                ],
+                "Tần số quét": "Từ 144Hz trở lên"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính góc rộng: 50 MP, 1/1.22\"",
+                    "Camera góc siêu rộng: 12 MP",
+                    "Camera Tele: 50 MP"
+                ],
+                "Quay video": "8K@24fps (HDR), 4K@24/30/60fp, 1080p@30/120/240/960fps, 1080p@1920fps, gyro-EIS",
+                "Tính năng camera": [
+                    "Chế độ ban đêm",
+                    "HDR",
+                    "Chế độ chân dung",
+                    "Tính năng chụp ảnh bằng lòng bàn tay",
+                    "Chụp liên tục có hẹn giờ",
+                    "Khung hình phim",
+                    "Bộ hẹn giờ tự chụp chân dung"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20 MP, f/2,2",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 9200+",
+                "GPU": "Arm Immortalis-G715"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano SIM hoặc 1 Nano + 1 eSIM",
+                "Hồng ngoại": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 120 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x Arm Cortex-X3, lên đến 3,35GHz3x Arm Cortex-A715, lên đến 3,0GHz4x Arm Cortex-A510, lên đến 2,0GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Kính: 162,2mm x 75,7mm x 8,49mm",
+                    "PU: 162,2mm x 75,7mm x 8,62mm"
+                ],
+                "Trọng lượng": [
+                    "Kính: 206g",
+                    "PU: 200g"
+                ]
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Công nghệ tản nhiệt LiquidCool",
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ âm thanh": [
+                    "Loa kép",
+                    "Dolby Atmos®"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "2,4 GHz/Wi-Fi 5GHz",
+                    "Wi-Fi 6"
+                ],
+                "Bluetooth": "v5.4"
+            }
+        }
+    ]
+}

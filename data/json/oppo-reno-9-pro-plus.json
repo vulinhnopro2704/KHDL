@@ -1,0 +1,57 @@
+{
+    "url": "https://cellphones.com.vn/oppo-reno-9-pro-plus.html",
+    "name": "OPPO Reno9 Pro Plus",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": "tần số quét 120 Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50MP, f/1.8",
+                    "Camera góc siêu rộng: 8 MP, f/2.2",
+                    "Camera tele: 2 MP, f/2.4"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP, f/2.4"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 9000."
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 80W"
+            }
+        }
+    ]
+}

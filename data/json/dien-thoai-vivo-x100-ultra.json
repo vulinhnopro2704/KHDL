@@ -1,0 +1,87 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-x100-ultra.html",
+    "name": "vivo X100 Ultra",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "LTPO AMOLED",
+                "Độ phân giải màn hình": "1440 x 3200 pixels (QHD+)",
+                "Tính năng màn hình": [
+                    "Độ phân giải 4k(1440 x 3200 pixels)",
+                    "Tỷ lệ 20:9",
+                    "Tốc độ làm mới 120Hz, 3000 nits"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50 MP, 200MP, 50 MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "50MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 3"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM",
+                "GPS": "GPS (L1+L5)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "16 GB",
+                "Bộ nhớ trong": "1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 80W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.1 x 75.6 x 9.2 mm",
+                "Trọng lượng": "229 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ âm thanh": "Loa kép stereo (24-bit/192kHz Hi-Res audio)"
+            }
+        }
+    ]
+}

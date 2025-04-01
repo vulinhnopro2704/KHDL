@@ -1,0 +1,27 @@
+{
+    "url": "https://cellphones.com.vn/motorola-rizr-rollable.html",
+    "name": "Motorola Rizr Rollable",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "5.0 inches",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 120 Hz"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3,000 mAh"
+            }
+        }
+    ]
+}

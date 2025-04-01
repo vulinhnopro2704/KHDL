@@ -1,0 +1,133 @@
+{
+    "url": "https://cellphones.com.vn/oppo-a98-5g.html",
+    "name": "OPPO A98 5G",
+    "price": "5.790.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.72 inches",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 120Hz, 680 nits, Kính cường lực Panda"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 64 MP & Phụ 2 MP, 2 MP",
+                "Quay video": [
+                    "HD 720p@30/120fps",
+                    "FullHD 1080p@30fps"
+                ],
+                "Tính năng camera": [
+                    "Zoom kỹ thuật số",
+                    "Xóa phông",
+                    "Toàn cảnh (Panorama)",
+                    "Siêu độ phân giải",
+                    "Quay video hiển thị kép",
+                    "Nhãn dán (AR Stickers)",
+                    "Làm đẹp",
+                    "HDR"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 695 5G 8 nhân",
+                "GPU": "Adreno 619"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": [
+                    "QZSS",
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO",
+                    "BEIDOU"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 33 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "165.6 x 76.1 x 8.2 mm",
+                "Trọng lượng": "192 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IPX4",
+                "Tiện ích khác": [
+                    "Chế độ đơn giản (Giao diện đơn giản)",
+                    "Chế độ trẻ em (Không gian trẻ em)"
+                ],
+                "Công nghệ âm thanh": "Loa kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi 802.11 a/b/g/n/ac",
+                    "Dual-band (2.4 GHz/5 GHz)"
+                ],
+                "Bluetooth": "v5.1"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "06/2023"
+            }
+        }
+    ]
+}

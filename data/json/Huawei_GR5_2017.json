@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/huawei/huawei-gr5-2017.html",
+    "name": "Huawei GR5 2017",
+    "price": "3890000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 6.0 (Marshmallow)",
+                "Ngôn ngữ": "Đa ngôn ngữ hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Full HD",
+                "Độ phân giải": "1080 x 1920 pixels",
+                "Màn hình rộng": "5.5",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "12.0 MP và 2.0 MP(Dual camera)",
+                "Camera trước": "8.0 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét, xóa phông, chụp tước lấy nét.",
+                "Quay phim": "Quay phim FullHD 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1.7 GHz & 2.1 GHz",
+                "Số nhân": "Quad-Core 1.7GHz & Quad-Core 2.1GHz",
+                "Chipset": "HiSilicon Kirin 655",
+                "RAM": "3 GB",
+                "Chip đồ họa (GPU)": "Mali-T830"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "32 GB",
+                "Thẻ nhớ ngoài": "MicroSD",
+                "Hỗ trợ thẻ tối đa": "256 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Nguyên khối, mặt kính cong 2.5D",
+                "Kích thước": "150.9 x 76.2 x 7.9 mm",
+                "Trọng lượng (g)": "162"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Lithium polyme",
+                "Dung lượng pin": "3340mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "2 Micro SIM",
+                "Khe gắn Sim": "2 SIM - 2 Sóng",
+                "Wifi": "802.11 b/g/n/ac, 2.4 GHz, Wi-Fi hotspot",
+                "GPS": "có",
+                "Bluetooth": "v4.1",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Cổng sạc": "Micro USB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "H.265, 3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC), DivX, WMV9, Xvid",
+                "Nghe nhạc": "Midi, Lossless, MP3, WAV, WMA9, WMA, AAC, AAC+, AAC++, eAAC+, OGG, AC3, FLAC",
+                "Cổng sạc": "Micro USB",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-x-fold-3-pro-5g.html",
+    "name": "Vivo X Fold 3 Pro 5G (Màn hình gập siêu cao cấp)",
+    "price": "34350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, OriginOS 4",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Foldable LTPO AMOLED E7",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "Màn chính: Samsung E7 Foldable LTPO AMOLED, 120Hz, HDR10+, Dolby Vision, 4500 nits (tối đa)",
+                    "8.03 inches, 2K (2200 x 2480 pixels)",
+                    "Màn phụ: AMOLED, 120Hz, HDR10+, Dolby Vision, 4500 nits (tối đa)",
+                    "6.53 inches, 1.5K (1172 x 2748 pixels)"
+                ],
+                "Độ phân giải": [
+                    "Màn chính: 2200 x 2480 pixels",
+                    "Màn phụ: 1172 x 2748 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Màn chính: 8.03 inches",
+                    "Màn phụ: 6.53 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50MP, f/1.7, 23mm (góc rộng), PDAF, Laser AF, OIS",
+                    "64MP, f/2.6, 70mm (tiềm vọng tele), PDAF, OIS, zoom quang 3x",
+                    "50 MP, f/2.0, 119˚ (góc siêu rộng), PDAF",
+                    "Quay phim: 8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "Màn chính: 32 MP, f/2.4 (góc rộng)",
+                    "Màn phụ: 32 MP, f/2.4 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Zeiss optics, Zeiss T* lens coating, Dual-LED flash, panorama",
+                "Quay phim": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "3x3.2 GHz Cortex-A720",
+                    "2x3.0 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 3x3.2 GHz & 2x3.0 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "512GB, 1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Điện thoại gập kiểu quyển sổ",
+                    "Bản lề sợi carbon siêu bền",
+                    "Chống nước IPX8"
+                ],
+                "Kích thước": [
+                    "Khi mở ra: 160 x 142.4 x 5.2 mm",
+                    "Khi gấp lại: 160 x 72.6 x 11.2 mm"
+                ],
+                "Trọng lượng (g)": "236 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si-Ca",
+                "Dung lượng pin": [
+                    "Si-Ca 5.700 mAh",
+                    "Sạc nhanh 100W, sạc 1-100% trong 31 phút (QC)",
+                    "Sạc không dây 50W",
+                    "Hỗ trợ sạc ngươc không dây"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "24-bit/192kHz Hi-Res audio",
+                    "Snapdragon Sound"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2 Gen 2, OTG",
+                "Kết nối khác": "NFC, cổng hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

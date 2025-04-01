@@ -1,0 +1,121 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-reno7-pro-chinh-hang.html",
+    "name": "OPPO Reno7 Pro",
+    "price": "17450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, ColorOS 12",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 90Hz, HDR10+, 920 nits (tối đa)",
+                    "6.5 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.5",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), PDAF",
+                    "8 MP, f/2.2, 119˚ (góc siêu rộng)",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.4, 22mm (góc rộng)",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.0 GHz & 3x2.6 GHz & 4x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 1200 Max (6 nm)",
+                    "8 nhân (1x3.0 GHz & 3x2.6 GHz & 4x2.0 GHz)",
+                    "GPU: ARM G77 MC9"
+                ],
+                "RAM": "12GB",
+                "Chip đồ họa (GPU)": "ARM G77 MC9"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "256GB",
+                    "UFS 3.1"
+                ],
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Khung kim loại + Mặt lưng kính",
+                "Kích thước": "158.2 x 73.2 x 7.45 mm",
+                "Trọng lượng (g)": "180 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4500 mAh",
+                    "Sạc nhanh 65W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "UMTS (WCDMA) băng tần 1/2/4/5/6/8/19",
+                "4G": "LTE FDD băng tần 1/2/3/4/5/7/8/28A/28B/12/17/18/19/20/26",
+                "Loại Sim": "2 Sim, NanoSIM",
+                "Khe gắn Sim": "2 Sim, NanoSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS. Up to dual-band: GLONASS (1), BDS (2), GALILEO (2), QZSS (2), NavIC",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "Có",
+                "Nghe nhạc": "Có",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

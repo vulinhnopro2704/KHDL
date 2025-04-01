@@ -1,0 +1,71 @@
+{
+    "url": "https://cellphones.com.vn/masstel-lux-10.html",
+    "name": "Masstel Lux 10",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "2.4 inches",
+                "Công nghệ màn hình": "TFT LCD",
+                "Độ phân giải màn hình": "240 x 320 pixels",
+                "Tính năng màn hình": "QVGA"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc T107"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "128 MB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 32 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1400 mAh",
+                "Công nghệ sạc": "Sạc 2.5 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "126.5 x 53.8 x 13.4 mm",
+                "Trọng lượng": "137.6 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "12/2022"
+            }
+        }
+    ]
+}

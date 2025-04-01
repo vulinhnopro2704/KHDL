@@ -1,0 +1,87 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/nothing-phone-3-man-oled.html",
+    "name": "Nothing Phone (3) (Snapdragon 8s Gen 3)",
+    "price": "14990000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, Nothing OS",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO OLED, 120Hz, 120Hz",
+                    "6.5 inches, Full HD+ (1080 x 2412 pixels)",
+                    "Always-on Display"
+                ],
+                "Độ phân giải": "1080 x 2412 pixels",
+                "Màn hình rộng": "6.5 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "50 MP (góc siêu rộng), AF",
+                    "Quay phim: 4K, 1080p, gyro-EIS, live HDR, OIS"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K, 1080p, gyro-EIS, live HDR, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 8s Gen 3 (4 nm)",
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 710"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 45W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

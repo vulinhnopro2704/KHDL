@@ -1,0 +1,127 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/asus-zenfone-10-gia-re.html",
+    "name": "Asus Zenfone 10 5G (Snapdragon 8 Gen 2)",
+    "price": "20490000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super AMOLED, 144Hz, HDR10+, 800 nits (HBM), 1100 nits (tối đa)",
+                    "5.92 inches, FullHD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass Victus",
+                    "Always-on display",
+                    "(144Hz chỉ khả dụng trong các trò chơi được hỗ trợ)"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "5.92 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 24mm (góc rộng), multi-directional PDAF, gimbal OIS",
+                    "13 MP, f/2.2, 120° (góc siêu rộng)",
+                    "Quay phim: 8K@24fps, 4K@30/60fps, 1080p@30/60fps; gyro-EIS, HDR"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@30/60fps, 1080p@30/60fps; gyro-EIS, HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": "8-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB, UFS 4,0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung vuông vức",
+                    "Mặt lung nhựa",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "146.5 x 68.1 x 9.4 mm",
+                "Trọng lượng (g)": "172 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4300mAh",
+                    "Sạc nhanh 30W, PD3.0, PPS, QC4",
+                    "Sạc không dây 15W",
+                    "Sạc ngược có dây 5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42",
+                "Loại Sim": "2 SIM, nano SIM",
+                "Khe gắn Sim": "2 SIM, nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Âm thanh 24-bit/192kHz",
+                    "Loa kép Stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

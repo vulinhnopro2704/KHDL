@@ -1,0 +1,122 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-gt3-sac-sieu-nhanh-240w.html",
+    "name": "Realme GT3 Chính hãng (Snapdragon 8+ Gen 1, sạc 240W)",
+    "price": "15450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, Realme UI 4.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 144Hz, HDR10+, 500 nits (typ), 1100 nits (HBM), 1400 nits (tối đa)",
+                    "6.74 inches, 1.5K+ (1240 x 2772 pixels), tỷ lệ 20:9"
+                ],
+                "Độ phân giải": "1240 x 2772 pixels",
+                "Màn hình rộng": "6.74 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 24mm (góc rộng) PDAF, OIS",
+                    "8 MP, f/2.2, 16mm, 112˚ (góc siêu rộng)",
+                    "2 MP, f/3.3, 20mm (kính hiển vi)",
+                    "Quay Phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5, 25mm (góc rộng)",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.19 GHz & 3x2.75 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                    "8 nhân (1x3.19 GHz & 3x2.75 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 730"
+                ],
+                "RAM": "8-16GB",
+                "Chip đồ họa (GPU)": "Adreno 730"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-512GB, 1TB",
+                    "UFS 3.1"
+                ],
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa, mặt lưng nhựa giả kính",
+                    "LED RGB dạng chữ C (ở mặt sau)"
+                ],
+                "Kích thước": "163,9 x 75,8 x 8,9 mm",
+                "Trọng lượng (g)": "199 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4600 mAh",
+                    "Sạc siêu nhanh 240W, PD,",
+                    "Sạc 1-50% trong 4 ph, 1-100% trong 10 ph (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+                "GPS": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC (dual side)",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

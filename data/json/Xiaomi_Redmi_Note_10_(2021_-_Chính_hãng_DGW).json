@@ -1,0 +1,133 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-note-10.html",
+    "name": "Xiaomi Redmi Note 10 (2021 - Chính hãng DGW)",
+    "price": "3850000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 11, MIUI 12",
+                    "Được lên Android 12, MIUI 14"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super AMOLED, 450 nits (typ), 1100 nits (peak)",
+                    "6.43 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ: 20:9, mật độ điểm ảnh ~409 ppi",
+                    "Corning Gorilla Glass 3"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.43 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.8, 26mm (góc rộng), 1/2.0\", 0.8µm, PDAF",
+                    "8 MP, f/2.2, 118˚ (góc siêu rộng), 1/4.0\", 1.12µm",
+                    "2 MP, f/2.4 (macro)",
+                    "2 MP, f/2.4 (độ sâu)",
+                    "Quay phim: 4K@30fps, 1080p@30/60fps"
+                ],
+                "Camera trước": [
+                    "13 MP, f/2.5 (góc rộng), 1/3.06\", 1.12µm",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.2 GHz Kryo 460 Gold",
+                    "6x1.7 GHz Kryo 460 Silver"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 678 (11 nm)",
+                    "8 nhân (2x2.2 GHz & 6x1.7 GHz)",
+                    "GPU: Adreno 612"
+                ],
+                "RAM": "4-6GB",
+                "Chip đồ họa (GPU)": "Adreno 612"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-128GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa, mặt lưng nhựa giả kính",
+                    "Kính trước Gorilla Glass 3",
+                    "Kháng nước, bụi IP53"
+                ],
+                "Kích thước": "160.5 x 74.5 x 8.3 mm",
+                "Trọng lượng (g)": "178.8 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 33W",
+                    "Sạc đầy pin trong 74 phút (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "HSPA, LTE (CA)",
+                "Loại Sim": "2 Nano SIM",
+                "Khe gắn Sim": "2 Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, băng tần kép, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res audio"
+                ],
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "FM radio, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

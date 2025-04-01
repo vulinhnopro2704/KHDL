@@ -1,0 +1,134 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oneplus-ace-5-5g-chip-snapdragon.html",
+    "name": "OnePlus Ace 5 5G (Snapdragon 8 Gen 3)",
+    "price": "8550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, ColorOS 15",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, HDR10+, Dolby Vision, 800 nits (typ), 1600 nits (HBM), 4500 nits (peak)",
+                    "6.78 inches, 1.5K (1264 x 2780 pixels)",
+                    "Mật độ điểm ảnh ~450 ppi"
+                ],
+                "Độ phân giải": "1264 x 2780 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), 1/1.56\", 1.0µm, PDAF, OIS",
+                    "8 MP, f/2.2, 16mm, 112˚ (góc siêu rộng), 1/4.0\", 1.12µm",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.4, 24mm (góc rộng), 1/3\", 1.0µm",
+                    "HDR, panorama",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "3x3.2 GHz Cortex-A720",
+                    "2x3.0 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 3x3.2 GHz & 2x3.0 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung viền nhôm phẳng",
+                    "Mặt lưng kính Crystal Shield/sứ Geramic",
+                    "Kính trước Crystal Shield phẳng",
+                    "Kháng nước, bụi IP65"
+                ],
+                "Kích thước": "161.7 x 75.8 x 8.1 mm",
+                "Trọng lượng (g)": [
+                    "206 g (Đen, Titan)",
+                    "223 g (Xanh)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 6415 mAh",
+                    "Sạc nhanh 80W, 18W PD",
+                    "Sạc đầy 100% trong 35 phút (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+                "4G": "HSPA, LTE (CA), 5G",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, 2 băng tần",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không (jack 3.5 mm)",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC (HCE, eSE, NFC-SIM), hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

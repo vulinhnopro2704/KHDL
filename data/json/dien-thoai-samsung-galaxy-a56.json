@@ -1,0 +1,126 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-a56.html",
+    "name": "Samsung Galaxy A56 5G 8GB 128GB",
+    "price": "9.490.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)",
+                "Tính năng màn hình": "16 triệu màu, 120 Hz, 1200 nit, kính cường lực Corning Gorilla Glass Victus+",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50.0 MP, F/1.8 + 12.0 MP, F/2.2 + 5.0 MP, F/2.4",
+                "Quay video": [
+                    "UHD 4K (3840 x 2160)@30fps",
+                    "240fps @HD"
+                ],
+                "Tính năng camera": [
+                    "HDR",
+                    "Tự động lấy nét",
+                    "OIS",
+                    "Quay chậm",
+                    "Zoom kĩ thuật số lên đến 10x",
+                    "Đèn Flash camera",
+                    "Chụp góc rộng",
+                    "Chụp macro"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12.0 MP, F/2.2"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 1580"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, Glonass, Beidou, Galileo, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân 2.9GHz, 2.6GHz, 1.9GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162.2 x 77.5 x 7.4 mm",
+                "Trọng lượng": "198g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP67",
+                "Công nghệ - Tiện ích": [
+                    "Khoanh vùng search đa năng",
+                    "Chạm 2 lần sáng màn hình"
+                ],
+                "Công nghệ âm thanh": "Hỗ Trợ Âm Thanh Nổi"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay dưới màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE80, MIMO, 1024-QAM",
+                "Bluetooth": "v5.3"
+            }
+        }
+    ]
+}

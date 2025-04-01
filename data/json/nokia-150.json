@@ -1,0 +1,69 @@
+{
+    "url": "https://cellphones.com.vn/nokia-150.html",
+    "name": "Nokia 150",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "2.4 inches",
+                "Tính năng màn hình": "Độ phân giải:QVGA"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "VGA Camera"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4MB",
+                "Bộ nhớ trong": "4MB",
+                "Khe cắm thẻ nhớ": "MicroSD lên đến:32 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": [
+                    "1.020 mAh",
+                    "Tháo ráp"
+                ],
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "Mini-SIM",
+                "Jack tai nghe 3.5": "Có"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "S30+"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "MTK"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "111.5 x 48.4 x 14.2mm"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v3.0"
+            }
+        }
+    ]
+}

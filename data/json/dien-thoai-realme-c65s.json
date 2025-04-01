@@ -1,0 +1,146 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-realme-c65s.html",
+    "name": "realme C65s 8GB 256GB",
+    "price": "4.890.000 đ",
+    "specifications": [
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 2 TB",
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.745 inches",
+                "Độ phân giải màn hình": "1600 x 720 pixels (HD+)",
+                "Công nghệ màn hình": "IPS LCD",
+                "Tính năng màn hình": [
+                    "Tần số quét 90 Hz",
+                    "560 nits",
+                    "Kính cường lực Panda"
+                ],
+                "Tần số quét": "90Hz"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi hotspot",
+                    "Dual-band (2.4 GHz/5 GHz)"
+                ],
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 50 MP & Cảm biến Flicker",
+                "Tính năng camera": [
+                    "Xóa phông",
+                    "Làm đẹp",
+                    "Đèn Flash camera sau",
+                    "HDR",
+                    "Chụp hẹn giờ",
+                    "Bộ lọc màu"
+                ],
+                "Quay video": [
+                    "SD 480p@30fps",
+                    "HD 720p@30fps",
+                    "FullHD 1080p@30fps"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": [
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO",
+                    "BEIDOU"
+                ]
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Công nghệ sạc": [
+                    "Sạc nhanh 45W",
+                    "Sạc siêu nhanh SuperVOOC"
+                ],
+                "Cổng sạc": "USB Type-C",
+                "Pin": "5000 mAh"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Tiện ích khác": [
+                    "Ứng dụng kép (Nhân bản ứng dụng)",
+                    "Vùng an toàn riêng tư",
+                    "Viên mang mini",
+                    "Trợ lý ảo Google Assistant",
+                    "Thu nhỏ màn hình sử dụng một tay"
+                ],
+                "Công nghệ - Tiện ích": [
+                    "Mở khoá vân tay cạnh viền",
+                    "Mở khoá khuôn mặt"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "08/2024"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc Tiger T612",
+                "GPU": "Mali-G57"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Dài 167.26 mm - Ngang 76.67 mm - Dày 7.74 mm",
+                "Trọng lượng": "191 g"
+            }
+        }
+    ]
+}

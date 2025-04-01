@@ -1,0 +1,119 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/honor-x5b-chinh-hang-pin-5200mah.html",
+    "name": "Honor X5b Chính hãng (Pin 5200mAh - Màn 90Hz)",
+    "price": "2150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Magic OS 8",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "TFT LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "TFT LCD, 90Hz, 530 nits (HBM)",
+                    "6.56 inches, HD+ (720 x 1612 pixels)",
+                    "Mật độ điểm ảnh ~269 ppi"
+                ],
+                "Độ phân giải": "720 x 1612 pixels",
+                "Màn hình rộng": "6.56 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "13 MP, f/1.8 (góc rộng)",
+                    "Ống kính phụ",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "5 MP, f/2.2 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Zoom kỹ thuật số 10X, Chân dung (bao gồm chế độ làm đẹp và hiệu ứng bokeh), ĐỘ PHÂN GIẢI CAO, Hình mờ",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Helio G36 (12 nm)",
+                    "8 nhân (4x2.2 GHz & 4x1.6 GHz)",
+                    "GPU: PowerVR GE8320"
+                ],
+                "RAM": "4GB",
+                "Chip đồ họa (GPU)": "PowerVR GE8320"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB",
+                "Thẻ nhớ ngoài": "microSDXC"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhực phẳng",
+                    "Mặt lưng nhựa phẳng",
+                    "Màn hình giọt nước phẳng",
+                    "Cảm biến vân tay cạnh bên"
+                ],
+                "Kích thước": "163.9 x 75.8 x 8.7 mm",
+                "Trọng lượng (g)": "194 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5200 mAh",
+                    "Sạc cơ bản 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "HSPA, LTE",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band (2.4 GHz/ 5 GHz), Wi-Fi Direct",
+                "GPS": "GALILEO, GLONASS, GPS, BDS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-mobell-m539-4g.html",
+    "name": "Mobell M539 4G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "2000 mAH"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G"
+            }
+        }
+    ]
+}

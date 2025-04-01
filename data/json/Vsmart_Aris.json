@@ -1,0 +1,94 @@
+{
+    "url": "https://mobilecity.vn/vsmart/vsmart-aris.html",
+    "name": "Vsmart Aris",
+    "price": "3450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Full HD+",
+                "Độ phân giải": "1080 x 2340 Pixels",
+                "Màn hình rộng": "6.39''",
+                "Công nghệ cảm ứng": "Cám ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "Chính 64 MP & Phụ 8 MP, 8 MP, 2 MP",
+                "Camera trước": "20 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "A.I Camera, Ban đêm (Night Mode), Trôi nhanh thời gian (Time Lapse), Quay chậm (Slow Motion), Xoá phông, Nhãn dán (AR Stickers), Làm đẹp, Google Lens, Siêu cận (Macro), Góc siêu rộng (Ultrawide), Tự động lấy nét (AF), Chạm lấy nét, Nhận diện khuôn mặt, HDR, Chuyên nghiệp (Pro)",
+                "Quay phim": "Quay phim HD 720p@120fps, Quay phim FullHD 1080p@30fps, Quay phim 4K 2160p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2 nhân 2.2 GHz & 6 nhân 1.8 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 730",
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Adreno 618"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "Dài 156.2 mm - Ngang 75.04 mm - Dày 8.55 mm",
+                "Trọng lượng (g)": "178 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "4000mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS",
+                "Bluetooth": "LE, A2DP, v5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type C",
+                "Cổng sạc": "USB Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

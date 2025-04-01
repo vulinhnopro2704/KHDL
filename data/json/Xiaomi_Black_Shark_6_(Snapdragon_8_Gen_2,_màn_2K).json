@@ -1,0 +1,114 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-black-shark-6-chinh-hang.html",
+    "name": "Xiaomi Black Shark 6 (Snapdragon 8 Gen 2, màn 2K)",
+    "price": "13450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, Joy UI 14",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "OLED, 1 tỷ màu, 144Hz, HDR10+",
+                    "6.67 inches, QHD+ (1440 x 3200 pixels), tỷ lệ 20:9",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP Sony IMX686, f/1.8, (góc rộng), PDAF",
+                    "13 MP, f/2.4, 120˚ (góc siêu rộng)",
+                    "5 MP, f/2.4, (tele macro), AF",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps, 1080p@960fps; HDR10+"
+                ],
+                "Camera trước": [
+                    "16 MP (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps, 1080p@960fps; HDR10+",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "256-512GB",
+                    "UFS 4.0"
+                ],
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Gaming phone",
+                    "Trigger vật lý"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 120W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, video output",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

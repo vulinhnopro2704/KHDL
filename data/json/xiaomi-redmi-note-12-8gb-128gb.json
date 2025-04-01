@@ -1,0 +1,131 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-note-12-8gb-128gb.html",
+    "name": "Xiaomi Redmi Note 12 8GB 128GB",
+    "price": "4.290.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz, độ sáng 1200nits",
+                    "Corning® Gorilla® Glass 3"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP, f/1.8",
+                    "Camera góc rộng: 8MP, f/2.2, 120°",
+                    "Camera Macro: 2MP, f/2.4"
+                ],
+                "Quay video": "1080p@30fps, 720p@30fps",
+                "Tính năng camera": [
+                    "Chân dung",
+                    "Toàn cảnh",
+                    "Chế độ chuyên nghiệp",
+                    "Chế độ ban đêm",
+                    "Hình mờ tùy chỉnh",
+                    "Chế độ tài liệu",
+                    "HDR",
+                    "Phát hiện cảnh AI",
+                    "Bùng nổ thời gian",
+                    "Google Ống kính",
+                    "Hình mờ AI",
+                    "Chế độ Video ngắn",
+                    "Thời Gian Trôi Đi",
+                    "khung phim",
+                    "Video vĩ"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "13MP, f/2.45",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 685",
+                "GPU": "Adreno 610"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, GLONASS, Compass, Galileo E1"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Micro SD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2X Cortex-A78 @ 2.0GHz ; 6X Cortex-A55 @ 1.8GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "165.66 x 75.96 x 7.85 mm",
+                "Trọng lượng": "183.5 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP53",
+                "Tiện ích khác": "Mở khoá khuôn mặt, Mở khoá vân tay cạnh viền"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac",
+                "Bluetooth": "v5.0"
+            }
+        }
+    ]
+}

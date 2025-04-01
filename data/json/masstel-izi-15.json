@@ -1,0 +1,73 @@
+{
+    "url": "https://cellphones.com.vn/masstel-izi-15.html",
+    "name": "Masstel Izi 15 4G",
+    "price": "450.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "1.77 inches",
+                "Tính năng màn hình": "QQVGA"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc UMS9117",
+                "GPU": "RAM 48 MB, ROM 128 MB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1000 mAh"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "120 x 50 x 14 mm",
+                "Trọng lượng": "76 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 128 GB"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v5.1"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tiện ích khác": "Danh bạ: 2000 số, Mạng di động: Hỗ trợ 4G VoLTE,FM"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "2023"
+            }
+        }
+    ]
+}

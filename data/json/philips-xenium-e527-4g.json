@@ -1,0 +1,39 @@
+{
+    "url": "https://cellphones.com.vn/philips-xenium-e527-4g.html",
+    "name": "Điện thoại Philips E527",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "2.4 inches",
+                "Công nghệ màn hình": "TFT LCD"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "0.3MP VGA；Sensor：GC032A，SPI PIN"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1700mAh 3.7V"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Khe cắm thẻ nhớ": "T-Flash Card hỗ trợ tối đa 64GB"
+            }
+        }
+    ]
+}

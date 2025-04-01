@@ -1,0 +1,98 @@
+{
+    "url": "https://cellphones.com.vn/oppo-a2x.html",
+    "name": "OPPO A2x",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1612 (HD+)",
+                "Tính năng màn hình": [
+                    "16,7 triệu màu, hỗ trợ gam màu rộng (P3), Độ sáng tối đa 720 nits",
+                    "Tần số quét 90Hz"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Camera chính: 13 MP: ƒ/2.2, hỗ trợ lấy nét tự động AF, sử dụng động cơ lấy nét vòng hở",
+                "Quay video": [
+                    "1080p@30fps",
+                    "720@30fps"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5 MP, ƒ/2.2",
+                "Quay video trước": [
+                    "1080p@30fps",
+                    "720@30fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 6020 8 nhân",
+                "GPU": "Mali-G57 MP2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Hỗ trợ Beidou (B1I), GPS (L1), GLONASS (G1), GALILEO (E1), QZSS (L1)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,000 mAh",
+                "Công nghệ sạc": "Sạc 10W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163,8 x 75,1 x 8,12 mm",
+                "Trọng lượng": "185 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Cảm biến trọng lực"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 5 (802.11ac), 802.11a/b/g/n",
+                "Bluetooth": "v5.3"
+            }
+        }
+    ]
+}

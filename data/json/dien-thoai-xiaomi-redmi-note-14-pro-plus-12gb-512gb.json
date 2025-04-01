@@ -1,0 +1,20 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-14-pro-plus-12gb-512gb.html",
+    "name": "Xiaomi Redmi Note 14 Pro Plus 12GB 512GB",
+    "price": "Giá liên hệ",
+    "specifications": [
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Tính năng đặc biệt": "Kháng nước, kháng bụi"
+            }
+        }
+    ]
+}

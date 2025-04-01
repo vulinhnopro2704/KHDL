@@ -1,0 +1,115 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-black-shark-4s-pro.html",
+    "name": "Xiaomi Black Shark 4S Pro (Màn 144 Hz)",
+    "price": "16950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, Joy UI 12.8",
+                "Ngôn ngữ": "Tiếng Anh, Up tiếng Việt sau khi Unlock"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED, 144Hz, HDR10+, 1300 nits",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super AMOLED, 144Hz, HDR10 +",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ: 20:9",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67",
+                "Công nghệ cảm ứng": "Cảm ứng lực"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.8, (góc rộng), PDAF",
+                    "8 MP, f/2.2, 120˚ (góc siêu rộng)",
+                    "5 MP, f/2.4, (macro), AF",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps, 1080p@960fps; HDR10+"
+                ],
+                "Camera trước": [
+                    "20 MP, f/2.5, (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps, 1080p@960fps; HDR10+",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "(1x3.0 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8350 Snapdragon 888+ 5G (5 nm)",
+                    "8 nhân (1x3.0 GHz & 3x2.42 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 660"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Adreno 660"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Gaming Phone",
+                "Kích thước": "163.8 x 76.4 x 9.9 mm",
+                "Trọng lượng (g)": "210 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4500 mAh",
+                    "Sạc nhanh 120W, 50% trong 5ph, 100% trong 15ph (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, QZSS, BDS",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

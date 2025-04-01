@@ -1,0 +1,142 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-mi-11t.html",
+    "name": "Xiaomi 11T",
+    "price": "10.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tốc độ làm mới: 120 Hz, HDR10+, TrueColor, True Display, Corning®️ Gorilla®️ Glass Victus™"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 108MP, f/1.75",
+                    "Camera góc siêu rộng: 8MP ultra-wide, 120° FOV f/2.2",
+                    "Camera cận cảnh: 5 MP, f/2.4 AF (3cm-7cm)"
+                ],
+                "Quay video": [
+                    "4K 3840x2160 ở tốc độ 30fps",
+                    "1080p 1920x1080 ở tốc độ 60fps",
+                    "1080p 1920x1080 ở tốc độ 30fps",
+                    "720p 1280x720 ở tốc độ 30fps"
+                ],
+                "Tính năng camera": [
+                    "Audio zoom",
+                    "One-click AI cinema",
+                    "Cinematic video filters",
+                    "HDR video",
+                    "Pro Time-lapse",
+                    "Video pro mode",
+                    "Slow motion video"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP, f/2.45",
+                "Quay video trước": [
+                    "1080p 1920x1080 ở tốc độ 30fps",
+                    "720p 1280x720 ở tốc độ 30fps",
+                    "Hỗ trợ quay video chậm với độ phân giải 720p ở tốc độ 120fps và 1080p ở tốc độ 120fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 1200-Ultra",
+                "GPU": "Mali-G77 MC9"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Công nghê sạc nhanh Xiaomi HyperCharge 67W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12.5"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.1 x 76.9 x 8.8 mm",
+                "Trọng lượng": "203 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Công nghệ làm mát Buồng hơi",
+                "Tiện ích khác": "Hỗ trợ phát video HDR10+, Ứng dụng kép (Nhân bản ứng dụng), Không gian thứ hai",
+                "Công nghệ âm thanh": [
+                    "Loa kép",
+                    "Hỗ trợ công nghệ Dolby Atmos®",
+                    "Chứng nhận âm thanh độ phân giải cao"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 6",
+                "Bluetooth": "Bluetooth 5.2"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "10/2021"
+            }
+        }
+    ]
+}

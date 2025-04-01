@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/oppo/realme-x2.html",
+    "name": "Realme X2 (Snapdragon 730G)",
+    "price": "4650000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); ColorOS 6",
+                "Ngôn ngữ": "Tiếng Việt, đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "Super AMOLED, FHD+ (1080 x 2340 pixels), 6.4 inches, Corning Gorilla Glass 5",
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.4 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 Camera: 64 MP + 8 MP (góc siêu rộng) + 2 MP (macro lens) + 2 MP (đo chiều sâu)",
+                "Camera trước": "32 MP, f/2.0",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "Quay phim 4K (2160p@30fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 730G (8 nm)",
+                "RAM": "6GB - 8GB",
+                "Chip đồ họa (GPU)": "Adreno 618"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB - 128GB - 256GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế nguyên khối, mặt lưng hoa văn cách điệu",
+                "Kích thước": "158.7 x 75.2 x 8.6 mm",
+                "Trọng lượng (g)": "182g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "4000 mAh, sạc nhanh 30W (VOOC Flash Charge 4.0)",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano Sim",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm, Dolby Atmos",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, WMV, H.263, H.264(MPEG4-AVC), Xvid, DivX",
+                "Nghe nhạc": "MP3, WAV, WMA, AAC, AC3, FLAC",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

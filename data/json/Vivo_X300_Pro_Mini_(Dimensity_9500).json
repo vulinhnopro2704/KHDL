@@ -1,0 +1,100 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-x300-pro-mini.html",
+    "name": "Vivo X300 Pro Mini (Dimensity 9500)",
+    "price": "15950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 16, OriginOS 6",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, HDR10+, 4500 nits (peak)",
+                    "6.31 inches, 1.5K (1216 x 2640 pixels)"
+                ],
+                "Độ phân giải": "1216 x 2640 pixels",
+                "Màn hình rộng": "6.31 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "50 MP (tiềm vọng tele), PDAF, OIS, zoom quang 3x",
+                    "50 MP (góc siêu rộng), AF",
+                    "Quay phim: 4K, 1080p, gyro-EIS, HDR"
+                ],
+                "Camera trước": [
+                    "32 MP (góc siêu rộng), HDR",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Laser AF, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR",
+                "Quay phim": "4K, 1080p, gyro-EIS, HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x4 GHz Cortex-X930",
+                    "6x Cortex-A730"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 9500 (3 nm)",
+                    "8 nhân lên tới 4 GHz",
+                    "GPU: Immortalis-G9xx"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Immortalis-G9xx"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 5700 mAh",
+                    "Sạc nhanh 90W",
+                    "Sạc không dây 30W",
+                    "Hỗ trợ sạc ngược không dây"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

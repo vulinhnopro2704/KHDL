@@ -1,0 +1,134 @@
+{
+    "url": "https://cellphones.com.vn/oppo-a77s.html",
+    "name": "OPPO A77s 8GB 128GB",
+    "price": "4.690.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1612 (HD+)",
+                "Tính năng màn hình": "90Hz, 600 nits (typ), Tỷ lệ màn hình 89.8%, 16.7 triệu màu",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.8, PDAF",
+                    "Camera chân dung: 2 MP, f/2.4"
+                ],
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": "Ban đêm, Chuyên gia, Panorama, Chân dung, Time-lapse, Sticker, Quay chậm, Quét văn bản, ống kính Google, Siêu HD"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP, f/2.0",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 680 4G",
+                "GPU": "Adreno 610"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, BDS, GLONASS, GALILEO và hệ thống định vị QZSS có hỗ trợ"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,000mAh",
+                "Công nghệ sạc": "Sạc nhanh VOCC 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.8 x 75 x 8 mm",
+                "Trọng lượng": "187 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kim loại",
+                "Chất liệu khung viền": "Kính"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Tiện ích khác": [
+                    "Cử chỉ thông minh",
+                    "Chạm 2 lần tắt/sáng màn hình",
+                    "Ứng dụng kép (Nhân bản ứng dụng)",
+                    "Chế độ trẻ em (Không gian trẻ em)",
+                    "Khoá ứng dụng",
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Loa kép",
+                    "Tối ưu game (Không gian trò chơi)",
+                    "Cử chỉ màn hình tắt",
+                    "Mở rộng"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Cảm biến áp kế, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "10/2022"
+            }
+        }
+    ]
+}

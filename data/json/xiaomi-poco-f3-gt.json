@@ -1,0 +1,97 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-poco-f3-gt.html",
+    "name": "Xiaomi Poco F3 GT",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.66 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 120 Hz, 500 nits"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính góc rộng: 64 MP, f/1.7, PDAF",
+                    "Camera góc siêu rộng: 8 MP, f/2.2",
+                    "Camera cận cảnh: 2 MP, f/2.4"
+                ],
+                "Quay video": "4K 2160p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP",
+                "Quay video trước": "DRQuay video Full HD"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 1200 8 nhân",
+                "GPU": "Mali-G77 MC9"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5065 mAh",
+                "Công nghệ sạc": "Sạc nhanh 67W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 3 GHz, 3 nhân 2.6 GHz & 4 nhân 2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161.9 x 76.9 x 8.3 mm",
+                "Trọng lượng": "205 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, La bàn, Con quay hồi chuyển"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.1, A2DP, LE"
+            }
+        }
+    ]
+}

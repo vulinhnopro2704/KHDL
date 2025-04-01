@@ -1,0 +1,37 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-12-lite-zoom.html",
+    "name": "Xiaomi 12 Lite Zoom",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "camera chính (góc rộng)",
+                    "camera góc siêu rộng",
+                    "camera tele"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 778G 5G 6 nm"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "120 Hz"
+            }
+        }
+    ]
+}

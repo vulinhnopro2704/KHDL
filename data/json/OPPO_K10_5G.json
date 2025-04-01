@@ -1,0 +1,124 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-k10.html",
+    "name": "OPPO K10 5G",
+    "price": "7150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, ColorOS 12.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 120Hz, tỷ lệ 20:9, 480 nits, 600 nits (tối đa)",
+                    "6.59 inches, Full HD+ (1080 x 2412 pixels)",
+                    "Panda Yiqiang Glass MN228"
+                ],
+                "Độ phân giải": "1080 x 2412 pixels",
+                "Màn hình rộng": "6.59",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.7, (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, (góc siêu rộng)",
+                    "2 MP, f/2.4, (macro)",
+                    "Quay phim: 4K@30fps,1080P@60fps/30fps,720P@60fps/30fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.0, 26mm (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps,1080P@60fps/30fps,720P@60fps/30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.85 GHz & 4x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 8000 Max (5 nm)",
+                    "8 nhân (4x2.75 GHz & 4x1.9 GHz)",
+                    "GPU: ARM Odin MC6 700MHz"
+                ],
+                "RAM": [
+                    "8-12GB",
+                    "LPDDR5"
+                ],
+                "Chip đồ họa (GPU)": "Mali-G610 MC6"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB",
+                    "UFS3.1"
+                ],
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "164.3 x 75.8 x 8.73mm",
+                "Trọng lượng (g)": "205 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 67W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 6 (802.11ax), Wi-Fi 5 (802.11ac), 802.11a/b/g/n/",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "Có",
+                "Nghe nhạc": "Có",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

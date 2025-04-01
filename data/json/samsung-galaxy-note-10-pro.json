@@ -1,0 +1,78 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-note-10-pro.html",
+    "name": "Samsung Galaxy Note 10 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "Super AMOLED"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 9820 8 nhân 64-bit",
+                "GPU": "Mali-G72 MP18"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "BDS, A-GPS, GLONASS"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Pin chuẩn Li-Ion"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2 nhân 2.7 GHz, 2 nhân 2.3 GHz và 4 nhân 1.9 GHz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Quay video": "Quay phim siêu chậm 960 fps, Quay phim FullHD 1080p@240fps, Quay phim 4K 2160p@60fps"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Đang cập nhật",
+                "Trọng lượng": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 512 GB"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi hotspot",
+                "Bluetooth": "LE, apt-X, A2DP, v5.0"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Mở khóa bằng khuôn mặt, Mở khoá vân tay dưới màn hình"
+            }
+        }
+    ]
+}

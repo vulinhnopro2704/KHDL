@@ -1,0 +1,142 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/samsung-galaxy-s24-plus-thiet-ke-dep.html",
+    "name": "Samsung Galaxy S24 Plus Chính hãng (Exynos 2400)",
+    "price": "18950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, One UI 6.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Dynamic LTPO AMOLED 2X",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (tối đa)",
+                    "6.7 inches, QHD+ (1440 x 3120 pixels), tỷ lệ 19.5:9",
+                    "Corning Gorilla Glass Victus 2",
+                    "Always-on Display"
+                ],
+                "Độ phân giải": "1440 x 3120 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), Dual Pixel PDAF, OIS",
+                    "10 MP, f/2.4, 67mm (tele), PDAF, OIS, zoom quang 3x",
+                    "12 MP, f/2.2, 13mm, 120˚ (góc siêu rộng), Super Steady video",
+                    "Quay phim: 8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/240fps, 1080p@960fps, HDR10+, stereo sound rec., gyro-EIS"
+                ],
+                "Camera trước": [
+                    "12 MP, f/2.2, 26mm (góc rộng), Dual Pixel PDAF",
+                    "Dual video call, Auto-HDR, HDR10+",
+                    "Quay phim: 4K@30/60fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama",
+                "Quay phim": "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/240fps, 1080p@960fps, HDR10+, stereo sound rec., gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.2 GHz Cortex-X4",
+                    "2x2.90 GHz Cortex-A720",
+                    "3x2.60 GHz Cortex-A720",
+                    "4x2.0 GHz Cortex-A520"
+                ],
+                "Số nhân": "10 nhân",
+                "Chipset": [
+                    "Exynos 2400 (4 nm)",
+                    "10 nhân (1x3.2 GHz & 2x2.90 GHz & 3x2.60 GHz & 4x2.0 GHz)",
+                    "GPU: Xclipse 940"
+                ],
+                "RAM": "12GB",
+                "Chip đồ họa (GPU)": "Xclipse 940"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm vuông vức",
+                    "Hai mặt kính Gorilla Glass Victus 2",
+                    "Kháng nước, bụi IP68",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": "158.5 x 75.9 x 7.7 mm",
+                "Trọng lượng (g)": "196 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 4900 mAh",
+                    "Sạc dây 45W, PD3.0, 65% trong 30 ph",
+                    "Sạc không dây 15W (Qi/PMA)",
+                    "Sạc ngược không dây 4.5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International",
+                "Loại Sim": [
+                    "1 SIM Nano và eSIM",
+                    "Hoặc 2 SIM nano và eSIM"
+                ],
+                "Khe gắn Sim": [
+                    "1 SIM Nano và eSIM",
+                    "Hoặc 2 SIM nano và eSIM"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "32-bit/384kHz audio",
+                    "Tuned by AKG"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2 Gen 1, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

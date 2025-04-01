@@ -1,0 +1,46 @@
+{
+    "url": "https://cellphones.com.vn/realme-gt-neo-3t.html",
+    "name": "Realme GT Neo 3T",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.62 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": "Tần số quét 120 Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "64MP + 8MP + 2MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 870"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "5000 mAh"
+            }
+        }
+    ]
+}

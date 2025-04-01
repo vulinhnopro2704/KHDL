@@ -1,0 +1,126 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-14-pro-8gb-256gb.html",
+    "name": "Xiaomi 14 Pro 8GB 256GB",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.73 inches",
+                "Công nghệ màn hình": "LTPO AMOLED",
+                "Độ phân giải màn hình": "1440 x 3200 pixels (QHD+)",
+                "Tính năng màn hình": "Tần số quét 120Hz, 68 tỷ màu , Dolby Vision, HDR10+, 3000 nits (peak)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.4-f/4.0, 23mm, 1/1.31\", 1.2µm, dual pixel PDAF, Laser AF, OIS",
+                    "Camera tele: 50 MP, f/2.0, 75mm, PDAF (10cm - ∞), OIS, 3.2x optical zoom",
+                    "Camera góc siêu rộng: 50 MP, f/2.2, 14mm, 115˚, AF"
+                ],
+                "Quay video": "8K@24fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Tính năng camera": "Ống kính Leica, đèn flash hai tông màu LED kép, HDR, toàn cảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 32 MP",
+                "Quay video trước": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 8 Gen 3 (4 nm)",
+                "GPU": "Adreno 750"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano SIM hoặc 1 Nano + 1 eSIM",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4880 mAh",
+                "Công nghệ sạc": [
+                    "Sạc có dây 120W",
+                    "Sạc không dây 50W",
+                    "Sạc đảo ngược không dây 10W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.3 GHz Cortex-X4 & 5x3.2 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161.4 x 75.3 x 8.5 mm",
+                "Trọng lượng": "223 g hoặc 230 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ âm thanh": "Loa âm thanh nổi"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6e/7",
+                "Bluetooth": "v5.4, A2DP, LE, aptX HD, aptX Adaptive"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "10/2023"
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "url": "https://cellphones.com.vn/oppo-a78.html",
+    "name": "OPPO A78 4G 8GB 256GB",
+    "price": "3.990.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.43 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 90Hz, Độ sáng tối đa: 430 nits",
+                    "Mặt kính cảm ứng: Kính cường lực Corning Gorilla Glass 5"
+                ],
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50 MP (chính) + 2 MP (Xóa phông)",
+                "Quay video": [
+                    "HD 720p@120fps",
+                    "FullHD 1080p@30fps",
+                    "HD 720p@30fps"
+                ],
+                "Tính năng camera": [
+                    "Chuyên nghiệp (Pro)",
+                    "Làm đẹp",
+                    "Google Lens",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Toàn cảnh (Panorama)",
+                    "Tự động lấy nét (AF)",
+                    "Ban đêm (Night Mode)",
+                    "Quay chậm (Slow Motion)",
+                    "Xóa phông"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 680, tối đa 2.4GHz",
+                "GPU": "Adreno 610"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GLONASS, GPS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Siêu sạc nhanh SUPERVOOC 67W , tiết kiệm pin",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "ColorOS 13.1.1, nền tảng Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.4 GHz & 4 nhân 1.9 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Đen: 160 x 73.23 x 7.93 mm",
+                    "Xanh: 160 x 73.23 x 7.99 mm"
+                ],
+                "Trọng lượng": "180g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Công nghệ - Tiện ích": "Cử chỉ thông minh, Ứng dụng kép (Nhân bản ứng dụng), Mở rộng bộ nhớ RAM",
+                "Công nghệ âm thanh": "Loa kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, Con quay hồi chuyển, Cảm biến áp kế, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Dual-band (2.4 GHz/5 GHz)",
+                    "Wi-Fi hotspot",
+                    "Wi-Fi Direct",
+                    "Wi-Fi 802.11 a/b/g/n/ac"
+                ],
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "2023"
+            }
+        }
+    ]
+}

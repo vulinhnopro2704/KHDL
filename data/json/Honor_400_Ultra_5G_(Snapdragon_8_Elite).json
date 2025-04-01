@@ -1,0 +1,106 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/honor-400-ultra-5g.html",
+    "name": "Honor 400 Ultra 5G (Snapdragon 8 Elite)",
+    "price": "14950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, MagicOS 9",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "OLED, 1 tỷ màu, 120Hz, HDR, 4000 nits (peak)",
+                    "6.78 inches, 1.5K (1224 x 2700 pixels)",
+                    "(dự kiến)"
+                ],
+                "Độ phân giải": "1224 x 2700 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "50 MP (tele tiềm vọng), zoom quang 3.8x",
+                    "12 MP (góc siêu rộng)",
+                    "Quay phim: 4K, 1080p",
+                    "(dự kiến)"
+                ],
+                "Camera trước": [
+                    "50 MP (góc rộng)",
+                    "2 MP (depth)",
+                    "Quay phim: 4K, 1080p",
+                    "(dự kiến)"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K, 1080p, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x4.32 GHz Oryon V2 Phoenix L",
+                    "6x3.53 GHz Oryon V2 Phoenix M"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+                    "8 nhân (2x4.32 GHz + 6x3.53 GHz)",
+                    "GPU: Adreno 830",
+                    "(dự kiến)"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Adreno 830"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 7000 mAh",
+                    "Sạc nhanh 100W",
+                    "Sạc không dây 80W",
+                    "Sạc ngược 5W (dây) + không dây",
+                    "(dự kiến)"
+                ],
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "url": "https://cellphones.com.vn/zte-nubia-z60-ultra.html",
+    "name": "ZTE Nubia Z60 Ultra",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.8 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1116 x 2480 pixels",
+                "Tính năng màn hình": "1 tỷ màu, Tần số quét 120Hz, HDR10+, 1500 nits"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP,",
+                    "Tele kính viễn vọng: 64 MP, f/3.3, PDAF, OIS, 3.3x optical zoom (vs. 26mm cam)",
+                    "Camera góc siêu rộng: 50MP,, f/1.8, AF"
+                ],
+                "Quay video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60fps, gyro-EIS, HDR10, 10‑bit video",
+                "Tính năng camera": "Ring-LED, đèn flash hai tông màu, toàn cảnh, HDR"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 12 MP",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                "GPU": "Adreno 750"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (L1+L2+L5), GALILEO, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 80W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14, MyOS 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164 x 76.4 x 8.8 mm",
+                "Trọng lượng": "246 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ âm thanh": "Loa âm thanh nổi"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6e/7",
+                "Bluetooth": "v5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "12/2023"
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-find-n5.html",
+    "name": "OPPO Find N5 (Snapdragon 8 Elite)",
+    "price": "31650000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, ColorOS 15",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Màn hình trong: Foldable LTPO OLED",
+                    "Màn hình ngoài: LTPO OLED"
+                ],
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "Màn trong: Foldable LTPO AMOLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR10+, HDR Vivid, 1400 nits (HBM), 2100 nits (peak)",
+                    "8.12 inches, 2248 x 2480 pixels, mật độ điểm ảnh ~412 ppi",
+                    "Màn ngoài: LTPO OLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR10+, HDR Vivid, 1600 nits (HBM), 2450 nits (peak)",
+                    "6.62 inches, 1.5K (1140 x 2616 pixels), 431 ppi",
+                    "Hỗ trợ hình ảnh Ultra HDR"
+                ],
+                "Độ phân giải": [
+                    "Màn trong: 2248 x 2480 pixels",
+                    "Màn ngoài: 1140 x 2616 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Màn trong: 8.12 inches",
+                    "Màn ngoài: 6.62 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 21mm (góc rộng), 1/1.56”, PDAF, OIS",
+                    "50 MP, f/2.7, 75mm (tele tiềm vọng), 1/2.75\", zoom quang 3x, PDAF (10cm - ∞), OIS",
+                    "8 MP, f/2.2, 15mm, 116˚ (góc siêu rộng), 1/4.0”, 1.12µm, AF",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps gyro-EIS, HDR10+, Dolby Vision"
+                ],
+                "Camera trước": [
+                    "Selfie màn trong: 8MP, f/2.4, 21mm (góc siêu rộng)",
+                    "Selfie màn ngoài: 8MP, f/2.4, 21mm (góc siêu rộng)",
+                    "Quay phim: 4K@30fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Hasselblad Color Calibration, color spectrum sensor, LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps gyro-EIS, HDR10+, Dolby Vision",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x4.32 GHz Oryon V2 Phoenix L",
+                    "6x3.53 GHz Oryon V2 Phoenix M"
+                ],
+                "Số nhân": "7 nhân",
+                "Chipset": [
+                    "Qualcomm SM8750-3-AB Snapdragon 8 Elite (3 nm)",
+                    "7 nhân (2x4.32 & 5x3.53 GHz)",
+                    "GPU: Adreno 830"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 830"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Hỗ trợ bút stylus (cả hai màn hình)",
+                    "Kính màn hình ngoài Nanocrystal Glass",
+                    "Khung nhôm phẳng; Bản lề hợp kim titan",
+                    "Mặt lưng kính/da",
+                    "Kháng nước, bụi IPX8/IPX9"
+                ],
+                "Kích thước": [
+                    "Mở ra: 160.9 x 145.6 x 4.2 mm",
+                    "Gấp lại: 160.9 x 74.4 x 8.9 mm"
+                ],
+                "Trọng lượng (g)": "229 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin Li-Ion",
+                "Dung lượng pin": [
+                    "Pin Li-Ion 5600mAh",
+                    "Sạc nhanh 80W (100% trong 50 phút)",
+                    "Sạc không dây 50W",
+                    "Hỗ trợ sạc ngược có dây"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "HSPA, LTE (CA), 5G",
+                "Loại Sim": [
+                    "2 SIM Nano + eSIM",
+                    "Hoặc 2 SIM Nano"
+                ],
+                "Khe gắn Sim": [
+                    "2 SIM Nano + eSIM",
+                    "Hoặc 2 SIM Nano"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, 2 bằng tần hoặc 3 băng tần",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo",
+                    "Tăng cường Dolby Atmos"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1 Gen2, OTG",
+                "Kết nối khác": "NFC, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

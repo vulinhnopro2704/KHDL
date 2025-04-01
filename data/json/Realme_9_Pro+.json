@@ -1,0 +1,118 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-9-pro-plus.html",
+    "name": "Realme 9 Pro+",
+    "price": "9450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, Realme UI 3.0",
+                "Ngôn ngữ": "Tiếng Việt, đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super AMOLED, 90Hz, tỷ lệ 20:9",
+                    "6.4 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Màn hình theo dõi nhịp tim"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.4 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, 119˚, 16mm (góc siêu rộng)",
+                    "2 MP, f/2.4, (macro)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120/480fps, 720p@960fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.4, 27mm (góc rộng)",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120/480fps, 720p@960fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.5 GHz & 6x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 920 5G (6 nm)",
+                    "8 nhân (2x2.5 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G68 MC4"
+                ],
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Mali-G68 MC4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB",
+                    "UFS 2.2"
+                ],
+                "Thẻ nhớ ngoài": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + cảm ứng",
+                "Kích thước": "160.2 x 73.3 x 8 mm",
+                "Trọng lượng (g)": "182 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4500 mAh",
+                    "Sạc nhanh 60W, 100% trong 44ph (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 66",
+                "Loại Sim": "Nano SIM, 2 SIM",
+                "Khe gắn Sim": "Nano SIM, 2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+                "GPS": "A-GPS, GLONASS, BDS",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

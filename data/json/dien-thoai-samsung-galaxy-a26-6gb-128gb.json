@@ -1,0 +1,20 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-a26-6gb-128gb.html",
+    "name": "Samsung A26 5G 6GB - 128GB",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Hỗ trợ mạng": "5G"
+            }
+        }
+    ]
+}

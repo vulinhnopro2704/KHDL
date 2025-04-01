@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/vsmart/vsmart-star-3.html",
+    "name": "Vsmart Star 3 (Chính Hãng)",
+    "price": "1590000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie)",
+                "Ngôn ngữ": "Tiếng Việt, đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "IPS LCD, HD+ (720 x 1560 pixels), 6.09 inches",
+                "Độ phân giải": "720 x 1560 pixels",
+                "Màn hình rộng": "6.09 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "2 Camera: 8 MP + 5 MP",
+                "Camera trước": "8 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama, Dual video call, gyro-EIS & OIS, dual-video rec.",
+                "Quay phim": "Quay phim 2160p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Cortex-A53 1.3 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 215",
+                "RAM": "2G RAM",
+                "Chip đồ họa (GPU)": "Adreno 308"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "16 GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "128 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kê nguyên khối, màn hình giọt nước",
+                "Kích thước": "156.7x73.9x8.6 mm",
+                "Trọng lượng (g)": "150g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-ion",
+                "Dung lượng pin": "3520 mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "Bluetooth 4.2",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Micro USB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Micro USB",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

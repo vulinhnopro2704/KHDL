@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/lenovo/lenovo-legion-2-pro.html",
+    "name": "Lenovo Legion 2 Pro",
+    "price": "10250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, Legion OS",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED, 144Hz, HDR10+",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "AMOLED, 6.92 inches, Full HD+ (1080 x 2460 pixels), 144Hz",
+                "Độ phân giải": "AMOLED, 6.92 inches, Full HD+ (1080 x 2460 pixels), 144Hz",
+                "Màn hình rộng": "6.92",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "64 MP f/1.9 (wide), 16 MP f/2.2 (ultrawide)",
+                "Camera trước": "Pop-up 44 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, panorama, HDR",
+                "Quay phim": "4K@30fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 888 5G (5 nm)",
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Adreno 660"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256-512GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Gaming Phone",
+                "Kích thước": "176 x 78.5 x 9.9 mm",
+                "Trọng lượng (g)": "259 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "5500 mAh - Sạc nhanh 45W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "Two USB Type-C, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

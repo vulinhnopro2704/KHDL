@@ -1,0 +1,116 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-poco-m4-pro-5g.html",
+    "name": "Xiaomi Poco M4 Pro 5G (Chính hãng DGW)",
+    "price": "4450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12.5",
+                "Ngôn ngữ": "Tiếng Việt, đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 90Hz, 450 nits",
+                    "6.6 inches, 105.2 cm2",
+                    "Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass 3"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.6 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 26mm (góc rộng), PDAF",
+                    "8 MP, f/2.2, 119˚ (góc siêu rộng)",
+                    "Quay phim: 1080p@30/60fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1080p@30/60fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.4 GHz & 6x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 810 5G (6 nm)",
+                    "8 nhân (2x2.4 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G57 MC2"
+                ],
+                "RAM": "4-6GB",
+                "Chip đồ họa (GPU)": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-128GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh, cảm ứng",
+                "Kích thước": "163.6 x 75.8 x 8.8 mm",
+                "Trọng lượng (g)": "195 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 33W, sạc đầy 100% trong 59ph (Quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 32, 38, 40, 41, 66",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.1, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Có",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

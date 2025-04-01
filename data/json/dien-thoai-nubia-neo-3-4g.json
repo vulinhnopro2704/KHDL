@@ -1,0 +1,97 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-nubia-neo-3-4g.html",
+    "name": "Nubia Neo 3 4G 8GB 128GB",
+    "price": "3.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.8 inches",
+                "Tính năng màn hình": [
+                    "Độ phân giải màn hình: 900 x 2030 pixel (FHD)",
+                    "Tần số: 120Hz",
+                    "Độ sáng: 530 nits",
+                    "16.7 tỷ màu",
+                    "IPS"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50MP + 2MP",
+                "Tính năng camera": "AI Super Night, Chụp ảnh nhanh AI Sport, AI HDR, chỉnh sửa AI Magic, Cảm biến CMOS, Tự động lấy nét"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc T8100",
+                "GPU": "G57@4C 650MHz"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS/AGPS/GLONASS/Galileo"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6000mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-Core (4*Cortex-A76 @ 2.2GHz + 4*Cortex-A55 @2.0GHz)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "168.3 x 76.5 x 8.3mm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Tiện ích khác": "AI Game Space 3.0, AI Gaming Companion, AI Trigger, AI Behavioral Learning, AI Real-time Translate, AI Conversation Transtate",
+                "Công nghệ âm thanh": "Loa stereo kép với DTS:X Ultra"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11a/b/g/n/ac, 2.4GHz & 5 GHz",
+                "Bluetooth": "BT5.2"
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "url": "https://mobilecity.vn/oppo/oppo-reno-3-pro.html",
+    "name": "OPPO Reno 3 Pro 5G",
+    "price": "7500000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10",
+                "Ngôn ngữ": "Đa ngôn ngữ hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Amoled",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Amoled, Full HD+ (1080 x 2400), 6.5 inches, 90Hz, Corning Gorilla Glass 5",
+                "Độ phân giải": "1080 x 240",
+                "Màn hình rộng": "6.5 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 Camera: 48 MP + 13 MP + 8 MP + 2 MP",
+                "Camera trước": "32 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Lấy nét theo pha (PDAF), A.I Camera, Ban đêm (Night Mode), Trôi nhanh thời gian (Time Lapse), Quay chậm (Slow Motion), Xoá phông, Zoom quang học, Chống rung điện tử kỹ thuật số (EIS), Góc rộng (Wide), Góc siêu rộng (Ultrawide), Tự động lấy nét (AF), Chạm lấy nét, Nhận diện khuôn mặt, HDR, Toàn cảnh (Panorama), Chống rung quang học (OIS), Làm đẹp (Beautify), Chuyên nghiệp (Pro)",
+                "Quay phim": "Quay phim HD 720p@30fps, Quay phim FullHD 1080p@30fps, Quay phim FullHD 1080p@60fps, Quay phim 4K 2160p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 765G (7nm)",
+                "RAM": "8GB - 12GB",
+                "Chip đồ họa (GPU)": "Adreno 620"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB - 256GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "256 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "159.4 x 72.4 x 7.7 mm",
+                "Trọng lượng (g)": "171g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "4025 mAh - sạc nhanh VOOC 30W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano sim",
+                "Khe gắn Sim": "2 sim (sim 2 chung thẻ nhớ)",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi hotspot",
+                "GPS": "BDS, A-GPS, GLONASS",
+                "Bluetooth": "A2DP, LE, v5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "có",
+                "Kết nối khác": "OTG",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

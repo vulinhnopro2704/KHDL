@@ -1,0 +1,20 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-y18s-8gb-256gb.html",
+    "name": "vivo Y18S 8GB 256GB",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/iphone-16e-apple-a18.html",
+    "name": "iPhone 16e Chính hãng VN/A",
+    "price": "16990000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "iOS 18.4",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super Retina XDR OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super Retina XDR OLED, HDR10, 800 nits (HBM), 1200 nits (peak)",
+                    "6.1 inches, 1.5K (1170 x 2532 pixels)",
+                    "Tỷ lệ 19.5:9, mật độ điểm ảnh ~457 ppi"
+                ],
+                "Độ phân giải": "1170 x 2532 pixels",
+                "Màn hình rộng": "6.1 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.6, 26mm (góc rộng), PDAF, OIS",
+                    "Quay phim: 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, OIS, stereo sound rec."
+                ],
+                "Camera trước": [
+                    "12 MP, f/1.9 (góc rộng)",
+                    "SL 3D, (độ sâu/sinh trắc học)",
+                    "Quay phim: 4K@24/25/30/60fps, 1080p@25/30/60/120fps, HDR"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "Dual-LED dual-tone flash, HDR, panorama, 3D (spatial) audio (camera sau)",
+                    "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec. (camera trước)"
+                ],
+                "Quay phim": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, OIS, stereo sound rec.",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x4.04 GHz + 4x2.20 GHz",
+                "Số nhân": "6 nhân",
+                "Chipset": [
+                    "Apple A18 (3 nm)",
+                    "6 nhân (2x4.04 GHz + 4x2.20 GHz)",
+                    "GPU: Apple GPU (4 lõi đồ họa)"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Apple GPU (4 lõi đồ họa)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm phẳng",
+                    "2 mặt kính cường lực phẳng (Ceramic Shield)",
+                    "Kháng nước, bụi IP68 (dưới 6m trong 30 phút)"
+                ],
+                "Kích thước": "146.7 x 71.5 x 7.8 mm",
+                "Trọng lượng (g)": "167 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 4005 mAh",
+                    "Sạc nhanh (dây) >20W",
+                    "Sạc không dây (Qi) 7.5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "HSPA, LTE (CA), 5G",
+                "Loại Sim": "Nano SIM + eSIM",
+                "Khe gắn Sim": "Nano SIM + eSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, 2 băng tần, hotspot",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

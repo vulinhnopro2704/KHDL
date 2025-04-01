@@ -1,0 +1,26 @@
+{
+    "url": "https://cellphones.com.vn/vivo-y31.html",
+    "name": "Vivo Y31",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 662",
+                "GPU": "Adreno 610"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.0 GHz & 4 nhân 1.8 GHz"
+            }
+        }
+    ]
+}

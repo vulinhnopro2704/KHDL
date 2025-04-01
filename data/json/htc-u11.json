@@ -1,0 +1,111 @@
+{
+    "url": "https://cellphones.com.vn/htc-u11.html",
+    "name": "HTC U11",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "5.5 inches",
+                "Độ phân giải màn hình": "1440 x 2560 pixels",
+                "Tính năng màn hình": "Kính cường lực Corning Gorilla Glass 5"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "12 MP",
+                "Quay video": "4K 2160p@30fps",
+                "Tính năng camera": [
+                    "Đèn LED 2 tông màu",
+                    "Chạm lấy nét",
+                    "HDR",
+                    "Lấy nét bằng laser",
+                    "Toàn cảnh (Panorama)",
+                    "Chống rung quang học (OIS)",
+                    "Tự động lấy nét (AF)",
+                    "Nhận diện khuôn mặt"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 835 8 nhân",
+                "GPU": "Adreno 540"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GLONASS, GPS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 2 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3000 mAh",
+                "Công nghệ sạc": "Sạc nhanh Quick Charge 3.0",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.45 GHz & 4 nhân 1.9"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Trọng lượng": "169 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "802.11 a/b/g/n/ac",
+                    "Dual-band (2.4 GHz/5 GHz)"
+                ],
+                "Bluetooth": "v4.2, A2DP"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "5/2017"
+            }
+        }
+    ]
+}

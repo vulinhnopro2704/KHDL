@@ -1,0 +1,129 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-14t-pro.html",
+    "name": "Xiaomi 14T Pro 12GB 512GB",
+    "price": "14.490.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1220 x 2712 pixels",
+                "Tính năng màn hình": [
+                    "144Hz, 446 ppi, 4000 nits",
+                    "Độ sâu màu 12 bit",
+                    "Làm mờ PWM lên đến 3840",
+                    "HDR10+, Dolby Vision®",
+                    "Mặt sau cong 3D"
+                ],
+                "Tần số quét": "Từ 144Hz trở lên",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Máy ảnh chính: 50MP, 23mm, ƒ/1 6",
+                    "Máy ảnh góc siêu rộng: 12MP, 15mm, ƒ/2 2",
+                    "Máy ảnh tele: 50MP, 60mm, ƒ/2 0"
+                ],
+                "Tính năng camera": [
+                    "Chế độ quay phim",
+                    "MasterCinema",
+                    "Chế độ đạo diễn",
+                    "Hình ảnh Leica đích thực",
+                    "Thấu kính quang học Leica Summilux"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "32MPƒ/2,0",
+                    "Độ dài tiêu cự tương đương 25 mm",
+                    "FOV 80,8˚",
+                    "Chế độ ban đêm",
+                    "HDR",
+                    "Tính năng chụp ảnh bằng lòng bàn tay"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 9300+",
+                "GPU": "Immortalis-G720 MC12"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": [
+                    "HyperCharge 120W",
+                    "HyperCharge không dây 50W"
+                ]
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 x Cortex-X4, tối đa 3,4GHz; 3 x Cortex-X4, lên đến 2,85GHz; 4 x Cortex-A720, lên đến 2.0GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "160,4 x 75,1 x 8,39 mm",
+                "Trọng lượng": "209g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Hợp kim"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP686",
+                "Công nghệ âm thanh": [
+                    "Chứng nhận âm thanh Hi-Res & Hi-Res không dây",
+                    "Loa âm thanh nổi",
+                    "Dolby Atmos"
+                ]
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 7",
+                "Bluetooth": "v5.4"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        }
+    ]
+}

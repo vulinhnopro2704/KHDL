@@ -1,0 +1,86 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-itel-p55-plus.html",
+    "name": "Itel P55 Plus 8GB 128GB",
+    "price": "2.790.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Tính năng màn hình": "Tần số quét 90Hz",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Camera góc rộng: 50 MP",
+                "Tính năng camera": [
+                    "Chế độ toàn cảnh",
+                    "Chế độ siêu đêm",
+                    "Chân dung AI rõ nét",
+                    "Chế độ chuyên nghiệp",
+                    "Chế độ tua nhanh thời gian"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc T606"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "Sạc 45W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core Processor"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ - Tiện ích": "Dynamic Bar"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Tính năng đặc biệt": "Bảo mật vân tay"
+            }
+        }
+    ]
+}

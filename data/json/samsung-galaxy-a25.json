@@ -1,0 +1,141 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-a25.html",
+    "name": "Samsung Galaxy A25 5G 6GB 128GB",
+    "price": "5.390.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.5 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120 Hz Độ sáng tối đa: 1000 nits",
+                    "Kính cường lực Corning Gorilla Glass 5"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 50 MP & Phụ 8 MP, 2 MP",
+                "Quay video": "FullHD 1080p@30fps, HD 720p@120fps",
+                "Tính năng camera": [
+                    "Ban đêm (Night Mode)",
+                    "Chuyên nghiệp (Pro)",
+                    "Góc siêu rộng (Ultrawide)",
+                    "Quay Siêu chậm (Super Slow Motion)",
+                    "Siêu cận (Macro)",
+                    "Toàn cảnh (Panorama)",
+                    "Tự động lấy nét (AF)",
+                    "Xóa phông"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "13 MP",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 1280 8 nhân",
+                "GPU": "Mali-G68"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": [
+                    "BEIDOU",
+                    "GALILEO",
+                    "GLONASS",
+                    "GPS",
+                    "QZSS"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2 nhân 2.4 GHz & 6 nhân 2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161 x 76.5 x 8.3 mm",
+                "Trọng lượng": "197 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Dual-band (2.4 GHz/5 GHz)",
+                    "Wi-Fi 802.11 a/b/g/n/ac",
+                    "Wi-Fi Direct"
+                ],
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ - Tiện ích": "Chạm 2 lần sáng màn hình, Ghi âm mặc định, Ghi âm cuộc gọi"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "12/2023"
+            }
+        }
+    ]
+}

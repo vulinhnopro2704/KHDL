@@ -1,0 +1,128 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-a5-5g-pin-6500-mah.html",
+    "name": "OPPO A5 5G (Pin 6500mAh - Siêu bền)",
+    "price": "4650000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, ColorOS 15",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, 600 nits (typ), 1200 nits (HBM)",
+                    "6.7 inches, Full HD+ (1080 x 2412 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~394 ppi"
+                ],
+                "Độ phân giải": "1080 x 2412 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 27mm (góc rộng), PDAF",
+                    "2 MP, f/2.4, (depth)",
+                    "Quay phim: 4K@30fps, 1080p@30/120fps, con quay hồi chuyển-EIS"
+                ],
+                "Camera trước": [
+                    "8 MP, f/2.0, 25mm (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Cảm biến quang phổ màu, LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/120fps, con quay hồi chuyển-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "4x2.2 GHz Cortex-A78",
+                    "4x1.8 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+                    "8 nhân (4x2.2 GHz & 4x1.8 GHz)",
+                    "GPU: Adreno 710"
+                ],
+                "RAM": "8-12GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Adreno 710"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Vuông vức; Khung nhựa phẳng",
+                    "Mặt lưng nhựa giả kính phẳng",
+                    "Kính trước Crystal Shield",
+                    "Kháng nước, bui IP68/IP69",
+                    "Độ bền tiêu chuẩn GJB 150.18A",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": "161.6 x 74.5 x 7.7 mm",
+                "Trọng lượng (g)": [
+                    "185 g (Tím đậm)",
+                    "189 g (Xanh nhạt, Tím hồng)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C Li-Ion",
+                "Dung lượng pin": [
+                    "Si/C Li-Ion 6500 mAh",
+                    "Sạc 45W, 13.5W PD"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, băng tần kép",
+                "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, BLE Audio",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Loa kép stereo",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

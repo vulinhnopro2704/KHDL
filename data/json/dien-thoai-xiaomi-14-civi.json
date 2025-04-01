@@ -1,0 +1,21 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-xiaomi-14-civi.html",
+    "name": "Xiaomi 14 Civi",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        }
+    ]
+}

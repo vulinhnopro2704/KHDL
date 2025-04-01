@@ -1,0 +1,119 @@
+{
+    "url": "https://mobilecity.vn/oppo/oppo-reno6-z.html",
+    "name": "OPPO Reno6 Z",
+    "price": "7550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, ColorOS 11.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 6.4 inches",
+                    "FullHD+ (1080 x 2400 pixels), tỷ lệ 20:9"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.4",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP (góc rộng), PDAF",
+                    "8 MP (góc siêu rộng)",
+                    "2 MP (macro)",
+                    "Quay phim: 4K@30fps, 1080p@30/120fps"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét, HDR, chống rung điện tử",
+                "Quay phim": [
+                    "Sau:4K@30fps, 1080p@30/120fps",
+                    "Trước: 1080p@30fps"
+                ],
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek MT6853 Dimensity 800U 5G",
+                    "8 nhân (2x2.4 GHz & 6x2.0 GHz )",
+                    "GPU: Mali-G57 MC3"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Mali-G57 MC3"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + cảm ứng",
+                "Kích thước": "160.2 x 73.4 x 7.9 mm",
+                "Trọng lượng (g)": "173"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po",
+                    "4310 mAh",
+                    "Sạc nhanh 30W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 39, 40, 41, 66",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "1 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Có",
+                "Kết nối USB": "có",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

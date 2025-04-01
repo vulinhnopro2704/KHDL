@@ -1,0 +1,40 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-xiaomi-15-5g-12gb-256gb.html",
+    "name": "Xiaomi 15 5G 12GB 256GB",
+    "price": "Giá liên hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.36 inches",
+                "Công nghệ màn hình": "LTPO OLED",
+                "Tính năng màn hình": "120Hz"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Extreme Edition"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5240 mAh"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Hỗ trợ mạng": "5G"
+            }
+        }
+    ]
+}

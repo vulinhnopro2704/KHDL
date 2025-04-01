@@ -1,0 +1,44 @@
+{
+    "url": "https://cellphones.com.vn/huawei-p50-pocket-s.html",
+    "name": "Huawei P50 Pocket S",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 778G"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Harmony OS"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Tính năng màn hình": "Tần số quét 120 Hz",
+                "Tần số quét": "120Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Tính năng camera": "Đèn flash LED"
+            }
+        }
+    ]
+}

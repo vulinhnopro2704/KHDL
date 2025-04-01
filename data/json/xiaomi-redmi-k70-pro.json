@@ -1,0 +1,33 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-k70-pro.html",
+    "name": "Xiaomi Redmi K70 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 3"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,120 mAh",
+                "Công nghệ sạc": "Sạc nhanh 120W"
+            }
+        }
+    ]
+}

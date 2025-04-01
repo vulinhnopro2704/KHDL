@@ -1,0 +1,26 @@
+{
+    "url": "https://cellphones.com.vn/mobell-f209-4g.html",
+    "name": "Mobell F209 4G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1600 mAH"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "Có"
+            }
+        }
+    ]
+}

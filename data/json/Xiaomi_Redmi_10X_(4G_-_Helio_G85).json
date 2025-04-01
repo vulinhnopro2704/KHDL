@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-10x.html",
+    "name": "Xiaomi Redmi 10X (4G - Helio G85)",
+    "price": "4150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android v10.0, MiUI 12 (Tháng 6/2020)",
+                "Ngôn ngữ": "Tiếng Anh, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "IPS LCD, 6.53 inchs, Full HD+ 1080 x 2340 pixels",
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.53",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "48 MP, f/1.8 - 8 MP, f/2.2 (góc rộng) - 2 MP, f/2.4, (macro) - 2 MP, f/2.4, (xóa phông)",
+                "Camera trước": "13 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek Helio G85 (12nm)",
+                "RAM": "4-6GB",
+                "Chip đồ họa (GPU)": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB UFS 2.1",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Màn hình đục lỗ",
+                "Kích thước": "162.3 x 77.2 x 8.9mm",
+                "Trọng lượng (g)": "199"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "5020 mAh - sạc 18W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano-SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11, b/g/n",
+                "GPS": "with A-GPS, Glonass",
+                "Bluetooth": "v5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "MP3, WAV",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

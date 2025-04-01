@@ -1,0 +1,31 @@
+{
+    "url": "https://cellphones.com.vn/nokia-2760-flip.html",
+    "name": "Nokia 2760 Flip 4G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1.450 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "KaiOS (3.0)"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Độ phân giải màn hình": "240 x 320 pixels"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "110 x 58 x 19 mm"
+            }
+        }
+    ]
+}

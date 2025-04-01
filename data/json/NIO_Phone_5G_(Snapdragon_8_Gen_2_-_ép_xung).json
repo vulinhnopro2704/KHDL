@@ -1,0 +1,127 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/nio-phone-snapdragon-8-gen-2.html",
+    "name": "NIO Phone 5G (Snapdragon 8 Gen 2 - ép xung)",
+    "price": "21699000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "SkyUI",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "LTPO OLED, 120Hz, HDR10+, 1800 nits (tối đa)",
+                    "6.81 inches, QHD+ (1440 x 3088 pixels)",
+                    "Tỷ lệ 19.3:9; mật độ điểm ảnh ~500 ppi"
+                ],
+                "Độ phân giải": "1440 x 3088 pixels",
+                "Màn hình rộng": "6.81 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, 23mm (góc rộng), PDAF, OIS",
+                    "50 MP, f/2.8, 65mm (tiềm vọng tele), PDAF, OIS, zoom quang 2.8x",
+                    "50 MP, 15mm, 110˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120fps, gyro-EIS"
+                ],
+                "Camera trước": "Có",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring-LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.36 GHz Cortex-X3",
+                    "2x2.8 GHz Cortex-A715",
+                    "2x2.8 GHz Cortex-A710",
+                    "3x2.0 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.36 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "512GB-1TB, UFS 4.1",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung kim loại, 2 mặt kính",
+                    "Màn hình cong; Kháng nước, bụi IP68",
+                    "Cảm biến vân tay trong màn hình"
+                ],
+                "Kích thước": "x",
+                "Trọng lượng (g)": "x"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5200 mAh",
+                    "Sạc nhanh 66W, PD3.0, QC4",
+                    "Sạc không dây 50W",
+                    "Sạc ngược (dây) 10W"
+                ],
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS",
+                "GPS": "Có",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

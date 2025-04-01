@@ -1,0 +1,122 @@
+{
+    "url": "https://cellphones.com.vn/vivo-y1s.html",
+    "name": "Vivo Y1s",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.22 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1520 pixels",
+                "Tính năng màn hình": [
+                    "Tần số quét 60 Hz",
+                    "Mặt kính cong 2.5D"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "13 MP",
+                "Quay video": [
+                    "HD 720p@30fps",
+                    "FullHD 1080p@30fps"
+                ],
+                "Tính năng camera": [
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Xóa phông",
+                    "Tự động lấy nét (AF)",
+                    "Nhận diện khuôn mặt",
+                    "Chạm lấy nét"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio P35 8 nhân",
+                "GPU": "IMG PowerVR GE8320"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "2 GB",
+                "Bộ nhớ trong": "32 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4030 mAh",
+                "Công nghệ sạc": "Sạc 10 W",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.3 GHz & 4 nhân 1.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "155.11 x 75.09 x 8.28 mm",
+                "Trọng lượng": "161 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi 802.11 a/b/g/n",
+                    "Wi-Fi Direct",
+                    "Wi-Fi hotspot"
+                ],
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "07/2020"
+            }
+        }
+    ]
+}

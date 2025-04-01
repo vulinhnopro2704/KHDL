@@ -1,0 +1,115 @@
+{
+    "url": "https://cellphones.com.vn/google-pixel-2.html",
+    "name": "Google Pixel 2",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "5.0 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 1920 pixels (FullHD)",
+                "Tính năng màn hình": [
+                    "Kính cường lực Corning Gorilla Glass 5",
+                    "Màn hình luôn bật"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Camera góc rộng: 12,2MP, f/1.8, 27mm, 1 / 2.55 \", 1.4µm, PDAF pixel kép, Laser AF, OIS",
+                "Quay video": "4K@30fps (gyro-EIS), 1080p@30/60/120fps (gyro-EIS), 720p@240fps (gyro-EIS)",
+                "Tính năng camera": "Đèn flash LED kép, HDR, toàn cảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 8MP, f/2.4, 27mm, 1 / 3.2 \", 1.4µm",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm MSM8998 Snapdragon 835 (10 nm)",
+                "GPU": "Adreno 540"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Nano-SIM + eSIM",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, GLONASS, BDS, GALILEO"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "2700 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh (giới hạn ở 10,5W)",
+                    "USB Power Delivery 2.0"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 8.0"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4x2,35 GHz Kryo & 4x1,9 GHz Kryo"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "145,7 x 69,7 x 7,8 mm",
+                "Trọng lượng": "143 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP67"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay mặt lưng",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a / b / g / n / ac",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

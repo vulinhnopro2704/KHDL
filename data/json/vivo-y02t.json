@@ -1,0 +1,129 @@
+{
+    "url": "https://cellphones.com.vn/vivo-y02t.html",
+    "name": "vivo Y02t 4GB 64GB",
+    "price": "2.990.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.51 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "1600 x 720 pixels (HD+)",
+                "Tính năng màn hình": "Tần số quét 60 Hz, 400 nits, Kính cường lực Panda",
+                "Kiểu màn hình": "Giọt nước",
+                "Loại màn hình": "Màn hình"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "8 MP, f/2.0",
+                "Quay video": [
+                    "FullHD 1080p@30fps",
+                    "HD 720p@30fps"
+                ],
+                "Tính năng camera": "Đèn Flash camera sau, Chế độ làm đẹp, Chụp ảnh, Quay video, Quay tua nhanh thời gian"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5 MP, f/2.2"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio P35 8 nhân",
+                "GPU": "IMG PowerVR GE8320"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "QZSS, GPS, BeiDou, GLONASS, Galileo"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 10W",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13 (Go Edition)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.3 GHz & 4 nhân 1.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.99 × 75.63 × 8.49 mm",
+                "Trọng lượng": "186g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP52",
+                "Tiện ích khác": [
+                    "Chế độ đơn giản (Giao diện đơn giản)",
+                    "Chạm 2 lần tắt/sáng màn hình",
+                    "Chặn cuộc gọi",
+                    "Chặn tin nhắn",
+                    "Trợ lý ảo Google Assistant",
+                    "Mở khoá khuôn mặt"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Dual-band (2.4 GHz/5 GHz)",
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "08/2023"
+            }
+        }
+    ]
+}

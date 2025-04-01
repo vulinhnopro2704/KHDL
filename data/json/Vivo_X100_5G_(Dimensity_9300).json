@@ -1,0 +1,133 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-x100-5g-cau-hinh-manh.html",
+    "name": "Vivo X100 5G (Dimensity 9300)",
+    "price": "13550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 14, OriginOS 4 (China)",
+                    "Funtouch 14 (Quốc tế)"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, 3000 nits (tối đa)",
+                    "6.78 inches, 1.5K (1260 x 2800 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~453 ppi"
+                ],
+                "Độ phân giải": "1260 x 2800 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6 (góc rộng), PDAF, Laser AF, OIS",
+                    "64 MP, f/2.6, 70mm (tele tiềm vọng), PDAF, OIS, zoom quang 3x",
+                    "50 MP, f/2.0, 15mm, 119˚ (góc siêu rộng), AF",
+                    "Quay phim: 4K, 1080p, gyro-EIS, Cinematic mode (1080p)"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.0(wide), HDR",
+                    "Quay phim: Có"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+                "Quay phim": "4K, 1080p, gyro-EIS, Cinematic mode (1080p)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.25 GHz Cortex-X4",
+                    "3x2.85 GHz Cortex-X4",
+                    "4x2.0 GHz Cortex-A720"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 9300 (4 nm)",
+                    "8 nhân (1x3.25 GHz & 2.85 GHz & 4x2.0 GHz)",
+                    "GPU: Immortalis-G720 MC12"
+                ],
+                "RAM": "12-16GB, LPDDR5X/LPDDR5T",
+                "Chip đồ họa (GPU)": "Immortalis-G720"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung kim loại",
+                    "2 mặt kính, Màn hình cong",
+                    "Hỗ trợ kháng nước, bụi IP68"
+                ],
+                "Kích thước": [
+                    "164.1 x 75.2 x 8.49 mm (Đen và Xanh dương)",
+                    "164.1 x 75.2 x 8.74 mm (Cam)"
+                ],
+                "Trọng lượng (g)": [
+                    "206 g (Đen và Xanh dương)",
+                    "202 g (Cam)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 120W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

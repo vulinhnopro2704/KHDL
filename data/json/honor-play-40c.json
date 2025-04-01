@@ -1,0 +1,70 @@
+{
+    "url": "https://cellphones.com.vn/honor-play-40c.html",
+    "name": "Honor Play 40C",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Độ phân giải màn hình": "720 x 1612 (HD+)",
+                "Tính năng màn hình": "Tần số quét 90Hz, gam màu 70% NTSC"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "13 MP",
+                "Tính năng camera": "Flash LED"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 480 Plus"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,200 mAh",
+                "Công nghệ sạc": "Sạc nhanh 10W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Dày 8.35mm",
+                "Trọng lượng": "188 g"
+            }
+        }
+    ]
+}

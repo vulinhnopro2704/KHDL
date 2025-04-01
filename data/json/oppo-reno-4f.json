@@ -1,0 +1,87 @@
+{
+    "url": "https://cellphones.com.vn/oppo-reno-4f.html",
+    "name": "Oppo Reno 4F",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "Super AMOLED, 16t triệu màu, Corning Gorilla Glass 3, độ sáng 430 nits",
+                "Kích thước màn hình": "6.43 inches",
+                "Độ phân giải màn hình": "1176 x 2400 pixel"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.7, 26mm (wide), 1/2.0\", 0.8µm, PDAF",
+                    "8 MP, f/2.2, 119˚ (ultrawide), 1/4.0\", 1.12µm",
+                    "2 MP, f/2.4, (depth)",
+                    "2 MP, f/2.4, (depth)"
+                ],
+                "Quay video": [
+                    "Trước: 1080p@30fps",
+                    "4K@30fps, 1080p@30/120fps, gyro-EIS"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "8 MP, (wide)",
+                    "2 MP, f/2.4, (depth)"
+                ]
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "microSDXC"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4000 mAh, sạc nhanh 18W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10, ColorOS 7.2"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "160.1 x 73.7 x 7.4 mm",
+                "Trọng lượng": "164 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.0, A2DP, LE"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Cảm biến vân tay, cảm biến tiệm cận, gia tốc kế, la bàn, con quay hồi chuyển"
+            }
+        }
+    ]
+}

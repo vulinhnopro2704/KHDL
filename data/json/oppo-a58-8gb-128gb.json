@@ -1,0 +1,150 @@
+{
+    "url": "https://cellphones.com.vn/oppo-a58-8gb-128gb.html",
+    "name": "OPPO A58 8GB 128GB",
+    "price": "4.790.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.72 inches",
+                "Độ phân giải màn hình": "1080 x 2412 pixels",
+                "Tính năng màn hình": [
+                    "Tần số quét 60 Hz",
+                    "680 nits, Kính cường lực Panda"
+                ],
+                "Tần số quét": "60Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Cảm biến chính 50MP",
+                    "Cảm biến độ sâu 2MP"
+                ],
+                "Quay video": [
+                    "HD 720p@30fps",
+                    "FullHD 1080p@30fps"
+                ],
+                "Tính năng camera": [
+                    "Xóa phông",
+                    "Tự động lấy nét (AF)",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Toàn cảnh (Panorama)",
+                    "Nhãn dán (AR Stickers)",
+                    "Làm đẹp",
+                    "Hiệu ứng Bokeh",
+                    "Chuyên nghiệp (Pro)",
+                    "Ban đêm (Night Mode)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G85 8 nhân",
+                "GPU": "Mali-G52 MP2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": [
+                    "QZSS",
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO",
+                    "BEIDOU"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,000mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh có dây 33W",
+                    "Sạc siêu nhanh SuperVOOC"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.0 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "165.65 x 75.98 x 7.99 mm",
+                "Trọng lượng": "192 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Thuỷ tinh hữu cơ",
+                "Chất liệu khung viền": "Hợp kim"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Công nghệ - Tiện ích": [
+                    "Ứng dụng kép (Nhân bản ứng dụng)",
+                    "Mở rộng bộ nhớ RAM",
+                    "Cử chỉ thông minh"
+                ],
+                "Công nghệ âm thanh": "Loa stereo kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac",
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "08/2023"
+            }
+        }
+    ]
+}

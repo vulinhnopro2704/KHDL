@@ -1,0 +1,120 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-reno13-f-5g-chinh-hang.html",
+    "name": "OPPO Reno13 F 5G Chính hãng (Snapdragon 6 Gen 1)",
+    "price": "7990000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, ColorOS 15",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz, 1200 nits (peak)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9; mật độ điểm ảnh ~395 ppi"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng)",
+                    "8 MP (góc siêu rộng)",
+                    "2 MP (macro)",
+                    "Quay phim: 1080p@30/60/120fps"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng)",
+                    "Quay phim: 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Làm đẹp AI, Ban đêm (Night Mode), Chống rung quang học (OIS), Toàn cảnh (Panorama), Xóa phông, Trôi nhanh thời gian (Time Lapse), Siêu cận (Macro), HDR, Góc siêu rộng (Ultrawide)",
+                "Quay phim": "1080p@30/60/120fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+                    "8 nhân (4x2.2 GHz & 4x1.8 GHz)",
+                    "GPU: Adreno 710"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 710"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB",
+                "Thẻ nhớ ngoài": "MicroSD",
+                "Hỗ trợ thẻ tối đa": "2TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa phẳng",
+                    "Mặt lưng nhựa phẳng; Kính trước AGC DT-Star2",
+                    "Màn hình đục lỗ + Cảm biến vân tay",
+                    "Kháng nước, bụi IP66, IP68, IP69"
+                ],
+                "Kích thước": "162.2 x 75.1 x 7.8 mm",
+                "Trọng lượng (g)": "192 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "Pin 5800 mAh",
+                    "Sạc nhanh 45W",
+                    "(Tiết kiệm pin, Sạc siêu nhanh SuperVOOC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi 5, 2.4 GHz/5 GHz, Wi-Fi hotspot",
+                "GPS": "QZSS, GPS, GLONASS, GALILEO, BEIDOU",
+                "Bluetooth": "5.1",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có",
+                "Kết nối USB": "Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

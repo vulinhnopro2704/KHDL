@@ -1,0 +1,99 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-14-ultra-8gb-256gb.html",
+    "name": "Xiaomi 14 Ultra 8GB 256GB",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.73 inches",
+                "Công nghệ màn hình": "LTPO AMOLED",
+                "Độ phân giải màn hình": "1440 x 3200 pixels (QHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz, 1 tỷ màu, Dolby Vision, 2600 nits (tối đa)",
+                    "Tỷ lệ 20:9",
+                    "Corning Gorilla Glass Victus 2"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, PDAF, Laser AF, OIS",
+                    "Camera tele: 50 MP, f/3.0, 120mm",
+                    "Camera góc siêu rộng: 50 MP, f/1.8",
+                    "Camera tiềm vọng: 50 MP, f/3.0"
+                ],
+                "Quay video": "8K@24fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Tính năng camera": "Leica lenses, Dual-LED flash, HDR, panorama, 67mm filter ring holder (optional)"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 32 MP, f/2.0, 22mm",
+                "Quay video trước": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 8 Gen 3 (4 nm)",
+                "GPU": "Adreno 750"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5300 mAh",
+                "Công nghệ sạc": "Có dây 90W, không dây 80W, sạc ngược 10W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ âm thanh": "Loa âm thanh nổi"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "10/2023"
+            }
+        }
+    ]
+}

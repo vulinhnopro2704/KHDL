@@ -1,0 +1,102 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/iphone-se-4.html",
+    "name": "iPhone SE 4 (Camera 48MP)",
+    "price": "12950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "iOS 18",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super Retina XDR OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (typ), 2000 nits (peak)",
+                    "6.1 inches, 1.5K (1170 x 2532 pixels)"
+                ],
+                "Độ phân giải": "1170 x 2532 pixels",
+                "Màn hình rộng": "6.1 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP (góc rộng), dual pixel PDAF, sensor-shift OIS",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Camera trước": [
+                    "12 MP (góc rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+                "Quay phim": "4K, 1080p",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x4.04 GHz + 4x2.20 GHz",
+                "Số nhân": "6 nhân",
+                "Chipset": [
+                    "Apple A18 (3 nm)",
+                    "6 nhân (2x4.04 GHz + 4x2.20 GHz)",
+                    "GPU: Apple GPU (5 lõi)"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Apple GPU (5 lõi)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa phẳng",
+                    "Mặt lưng phẳng (kính)",
+                    "Màn hình Dynamic Island (phẳng)",
+                    "Bảo mật Face ID)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": "Đang cập nhật",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "Loại Sim": "Nano SIM + eSIM",
+                "Khe gắn Sim": "Nano SIM + eSIM",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

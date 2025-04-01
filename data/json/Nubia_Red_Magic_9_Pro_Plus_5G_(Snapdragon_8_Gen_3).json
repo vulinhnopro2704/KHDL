@@ -1,0 +1,132 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/zte-nubia-red-magic-9-pro-plus-5g-snapdragon-8-gen-3.html",
+    "name": "Nubia Red Magic 9 Pro Plus 5G (Snapdragon 8 Gen 3)",
+    "price": "18450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Redmagic OS 9",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, 1600 nits (tối đa)",
+                    "6.8 inches, Full HD+ (1116 x 2480 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~400 ppi"
+                ],
+                "Độ phân giải": "1116 x 2480 pixels",
+                "Màn hình rộng": "6.8 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "50 MP (góc siêu rộng)",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: 8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.0, (góc rộng), ẩn dưới màn hình",
+                    "HDR",
+                    "Quay phim: 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "5x3.2 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 5x3.2 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "16-24GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Vuông vức, khung nhôm hàng không",
+                    "Phím hỗ trợ chơi game cảm ứng 520Hz",
+                    "Quạt làm mát tích hợp"
+                ],
+                "Kích thước": "164 x 76.4 x 8.9 mm",
+                "Trọng lượng (g)": "229 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5500 mAh",
+                    "Sạc siêu nhanh 165W, PD3.0",
+                    "Sạc 100% pin trong 16 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Âm thanh 32-bit/384kHz"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2,OTG, đầu nối phụ kiện, DisplayPort",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

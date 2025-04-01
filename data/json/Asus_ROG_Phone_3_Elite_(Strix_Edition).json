@@ -1,0 +1,95 @@
+{
+    "url": "https://mobilecity.vn/asus/asus-rog-phone-3-strix.html",
+    "name": "Asus ROG Phone 3 Elite (Strix Edition)",
+    "price": "10750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, ROG UI",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 Tỷ màu",
+                "Chuẩn màn hình": "6.59 inches, Full HD+ 1080 x 2340 pixels, 19.5:9, Corning Gorilla Glass 6, HDR10+ 144Hz, Độ sáng 650 nits",
+                "Độ phân giải": "6.59 inches, Full HD+ 1080 x 2340 pixels, 19.5:9, Corning Gorilla Glass 6, HDR10+ 144Hz, Độ sáng 650 nits",
+                "Màn hình rộng": "6.59",
+                "Công nghệ cảm ứng": "Cám ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "64 MP, f/1.8 - 13 MP, f/2.4 (Siêu rộng) - 5 MP, f/2.0, (Macro)",
+                "Camera trước": "24 MP, f/2.0",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K@30fps, 4K@30/60/120fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84GHz & 3x2.42GHz & 4x1.8GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm SM8250 Snapdragon 865 (7 nm+)",
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Gaming Phone",
+                "Kích thước": "171 x 78 x 9.9 mm",
+                "Trọng lượng (g)": "240"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "6000mAh Sạc nhanh 30W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS, GNSS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "Two (side 3.1, bottom 2.0) Type-C",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

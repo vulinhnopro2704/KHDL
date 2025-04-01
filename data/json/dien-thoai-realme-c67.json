@@ -1,0 +1,140 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-realme-c67.html",
+    "name": "realme C67 8GB 128GB",
+    "price": "4.290.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.72 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 90 Hz",
+                    "950 nits",
+                    "Mặt kính cảm ứng: Kính cường lực Panda"
+                ],
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera AI: 108MP, f/1.8",
+                    "2MP, f/2.4"
+                ],
+                "Quay video": [
+                    "FullHD 1080p@30fps",
+                    "HD 720p@120/30fps"
+                ],
+                "Tính năng camera": [
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Chụp đêm",
+                    "Làm đẹp",
+                    "Quay video Full HD",
+                    "Toàn cảnh (Panorama)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP, f/2.05",
+                "Quay video trước": [
+                    "FullHD 1080p@30fps",
+                    "HD 720p@120/30fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 685 8 nhân",
+                "GPU": "Adreno 610"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "BEIDOU, QZSS, GPS, GLONASS, GALILEO"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 2 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc pin nhanh SuperVOOC 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.6 x 75.4 x 7.89 mm",
+                "Trọng lượng": "185 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Công nghệ - Tiện ích": "Ứng dụng kép (Nhân bản ứng dụng), Thu nhỏ màn hình sử dụng một tay, Mở rộng bộ nhớ RAM, Chặn tin nhắn, Chặn cuộc gọi",
+                "Công nghệ âm thanh": "Loa kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi hotspot, Dual-band (2.4 GHz/5 GHz)",
+                "Bluetooth": "v5.1"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "12/2023"
+            }
+        }
+    ]
+}

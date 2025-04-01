@@ -1,0 +1,124 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-black-shark-3s.html",
+    "name": "Xiaomi Black Shark 3S 5G (Snapdragon 865)",
+    "price": "4750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz, HDR10+, 500 nits (typ)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.8, 26mm (góc rộng), PDAF",
+                    "13 MP, f/2.3, 120˚ (góc siêu rộng)",
+                    "5 MP, f/2.2 (độ sâu)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps, 720p@1920fps"
+                ],
+                "Camera trước": [
+                    "20 MP, f/2.0 (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps, 720p@1920fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8250 Snapdragon 865 (7 nm+)",
+                    "8 nhân (1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 650"
+                ],
+                "RAM": "12GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm,",
+                    "Mặt lưng nhôm và kính xen kẽ",
+                    "Mặt trước bằng kính cường lực",
+                    "Cảm biến vân tay trong màn hình"
+                ],
+                "Kích thước": "168.7 x 77.3 x 10.4 mm",
+                "Trọng lượng (g)": "222 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4729 mAh",
+                    "Sạc nhanh 65W, đầy pin trong 38 phút (QC)",
+                    "Sạc không dây từ tính 18W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800/850/900/1700(AWS)/1900/2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 3, 4, 5, 7, 8, 12, 17, 20, 34, 38, 39, 40, 4",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, QZSS, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

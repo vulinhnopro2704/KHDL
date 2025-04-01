@@ -1,0 +1,107 @@
+{
+    "url": "https://cellphones.com.vn/honor-magic-5.html",
+    "name": "Honor Magic 5",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.73 inches",
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "1.07 tỷ màu"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính góc rộng: 54MP, f/1.9",
+                    "Camera chính góc siêu rộng: 50MP, f/2.0",
+                    "Camera Telephoto: 32MP, f/2.4, 2.5x Optical Zoom, 50x Digital Zoom, OIS"
+                ],
+                "Quay video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR10+",
+                "Tính năng camera": "Đèn flash LED đơn phía sau, Chụp cảm biến chuyển động AI"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12MP",
+                "Quay video trước": "4K@30/60fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2",
+                "GPU": "Adreno 740"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS /AGPS/GLONASS/BeiDou/Galileo"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5100 mAh",
+                "Công nghệ sạc": "Sạc nhanh 66W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1×Cortex-X3 3.19GHz+2×Cortex-A715 2.8GHz+2×Cortex-A710 2.8GHz+3×Cortex-A510 2.0GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161.4 x 75.5 x 7.80 mm",
+                "Trọng lượng": "191 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến trọng lực"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/ax/be",
+                "Bluetooth": "v5.2"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ âm thanh": "DTS:X® Ultra sound effects"
+            }
+        }
+    ]
+}

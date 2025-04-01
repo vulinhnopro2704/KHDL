@@ -1,0 +1,96 @@
+{
+    "url": "https://cellphones.com.vn/nubia-neo-5g.html",
+    "name": "Nubia Neo 8GB 256GB",
+    "price": "3.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "1080 x 2408 pixels",
+                "Tính năng màn hình": "Tần số quét 120Hz",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50M AF,f/1.8 +2M, f/2.4",
+                "Quay video": "1080p@30fps HD 720p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8M, f/2.0, FF"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Chip Unisoc T820",
+                "GPU": "G57@4C 850MHz"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500mAh",
+                "Công nghệ sạc": "Sạc nhanh 22.5W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS(L1)/AGPS/GLONASS/Galileo"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-Core,2.7GHz 1*A76@2.7GHz+3*A76@2.3GHz+4*A55@2.1GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.7 x 75 x 7.98mm",
+                "Trọng lượng": "192 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Bảo mật vân tay"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "WiFi 2.4G/5G, Hotspot, 802.11 a/b/g/n/ac",
+                "Bluetooth": "v5.2"
+            }
+        }
+    ]
+}

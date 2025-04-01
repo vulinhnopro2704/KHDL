@@ -1,0 +1,114 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/tecno-spark-30-helio-g91.html",
+    "name": "Tecno Spark 30 (Helio G91)",
+    "price": "3150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, HIOS 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 90Hz, 800 nits (peak)",
+                    "6.78 inches, Full HD+ (1080 x 2460 pixels)",
+                    "Tỷ lệ 20.5:9"
+                ],
+                "Độ phân giải": "1080 x 2460 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "64MP (Sony IMX682)",
+                "Camera trước": "13 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "Bốn đèn flash phía sau",
+                    "Đèn flash nhiệt độ màu kép phía trước"
+                ],
+                "Quay phim": "Có",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.0 GHz Cortex-A75",
+                    "6x1.8 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Helio G91 Ultra (12 nm)",
+                    "8 nhân (2x2.0 GHz & 6x1.8 GHz)",
+                    "GPU: Mali-G52 MC2"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng nhựa phẳng",
+                    "Màn hình đục lỗ kính",
+                    "Kháng nước, bụi IP64"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000mAh",
+                    "Sạc nhanh 18W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Có",
+                "GPS": "Có",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Loa kép âm thanh nổi, Dolby Atmos",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

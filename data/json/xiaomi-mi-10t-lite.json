@@ -1,0 +1,103 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-mi-10t-lite.html",
+    "name": "Xiaomi Mi 10T Lite",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "IPS LCD, 16 triệu màu, 120Hz, 450nits",
+                "Kích thước màn hình": "6.66 inches",
+                "Độ phân giải màn hình": "1176 x 2400 pixel"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF",
+                    "8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm",
+                    "2 MP, f/2.4, (macro)",
+                    "2 MP, f/2.4, (depth)"
+                ],
+                "Quay video": [
+                    "Trước: 1080p@30fps",
+                    "Sau: 4K, 1080p, gyro-EIS"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP, f/2.5, 25mm (wide), 1/3.06\" 1.0µm"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM7225 Snapdragon 750 5G (8 nm)",
+                "GPU": "Adreno 619"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4820 mAh, sạc nhanh 33W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10, MIUI 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core (2x2.2 GHz Kryo 570 & 6x1.8 GHz Kryo 570)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "165.3 x 76.8 x 9 mm",
+                "Trọng lượng": "214.5 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.1, A2DP, LE"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hồng ngoại": "true"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Cảm biến vân tay, cảm biến tiệm cận, gia tốc kế, la bàn, con quay hồi chuyển"
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-viettel-t2-4g.html",
+    "name": "Viettel T2 4G",
+    "price": "490.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "2.4 inches",
+                "Tính năng màn hình": "2.4'' QVGA TN",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "0.08MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "T107"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "48MB",
+                "Bộ nhớ trong": "128 MB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1400 mAh",
+                "Công nghệ sạc": "5V=500mA sạc qua cáp",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Mocor(RTOS)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "131.2 x 54 x 12 mm"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ - Tiện ích": "Viettel apn,Viettel volte",
+                "Tiện ích khác": "BT/Wireless FM"
+            }
+        }
+    ]
+}

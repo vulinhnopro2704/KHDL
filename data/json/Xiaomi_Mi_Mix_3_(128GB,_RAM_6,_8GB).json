@@ -1,0 +1,104 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-mi-mix-3.html",
+    "name": "Xiaomi Mi Mix 3 (128GB, RAM 6, 8GB)",
+    "price": "6950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie)",
+                "Ngôn ngữ": "Đa ngôn ngữ hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Super AMOLED, Full HD (1080 x 2340 pixels), 6.4 inches",
+                "Độ phân giải": "1080 x 2340 pixels (mật độ điểm ảnh ~ 403 ppi )",
+                "Màn hình rộng": "6.4",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "Dual 12 MP + 12 MP (Telephoto)",
+                "Camera trước": "Dual 24 MP + 2 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "kích thước cảm biến, geo-tagging, tập trung liên lạc, nhận diện khuôn mặt, HDR, toàn cảnh",
+                "Quay phim": "2160p - 30/60fps, 1080p - 30/60fps, 1080p - 960fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 845 (10nm)",
+                "RAM": "6GB - 8GB - 10GB",
+                "Chip đồ họa (GPU)": "Adreno 630"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB - 256GB - 512GB",
+                "Thẻ nhớ ngoài": "Không hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế trượt độc đáo, màn hình fullview",
+                "Kích thước": "157.9 x 74.7 x 8.5 mm",
+                "Trọng lượng (g)": "218"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": "3200 mAh, sạc nhanh 18W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+                "4G": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 29(700), 30(2300), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500), 66(1700/2100)",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM - 2 Sóng",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.0, A2DP, aptX HD, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Cổng sạc": "Micro USB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "XviD/MP4/H.265 player",
+                "Nghe nhạc": "MP3/WAV/eAAC+/Flac player",
+                "Cổng sạc": "Micro USB",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": [
+                    "- Fast battery charging (Quick Charge 4.0+)",
+                    "- Wireless charging",
+                    "- Photo/video editor",
+                    "- Document viewer"
+                ]
+            }
+        }
+    ]
+}

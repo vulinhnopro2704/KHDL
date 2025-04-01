@@ -1,0 +1,87 @@
+# 📱 Phân Tích Ảnh Hưởng của Phần Cứng và Thương Hiệu đến Giá Điện Thoại Di Động
+
+## 📊 1. Tổng Quan
+
+Phân tích mức độ ảnh hưởng của các thông số phần cứng và thương hiệu đến giá bán của điện thoại di động. Dự án này tập trung vào thu thập dữ liệu, tiền xử lý và phân tích để chuẩn bị cho việc xây dựng mô hình dự đoán giá.
+
+## 📚 2. Nguồn Dữ Liệu
+
+Dữ liệu được thu thập từ hai trang thương mại điện tử uy tín:
+
+-   🛒 [MobileCity](https://mobilecity.vn/dien-thoai)
+-   🛍️ [CellphoneS](https://cellphones.com.vn/mobile.html)
+
+## 🎯 3. Mục Tiêu Phân Tích
+
+Khảo sát tính khả thi cho việc xây dựng mô hình dự đoán biến mục tiêu "Giá - Price" dựa trên các đặc trưng về phần cứng và thương hiệu. Với biến mục tiêu là biến liên tục, bài toán được định hướng theo mô hình hồi quy (regression).
+
+## 🔍 4. Phương Pháp Tiếp Cận
+
+### 4.1. Quy Trình Thực Hiện
+
+1. **🔎 Khai thác dữ liệu** (Data Exploration)
+2. **🧹 Tiền xử lý dữ liệu** (Data Preprocessing)
+3. **📊 Phân tích dữ liệu** (Data Analysis)
+4. **📈 Xây dựng mô hình hồi quy** (Regression Model Building) - _sẽ được thực hiện ở bài tập sau_
+
+### 4.2. Thứ Tự Thực Thi File
+
+1. `craw_data.ipynb` - Thu thập dữ liệu từ CellphoneS
+2. `craw_data_2.ipynb` - Thu thập dữ liệu từ MobileCity
+3. `data_preprocessing.ipynb` - Tiền xử lý dữ liệu
+4. `data_analysis.ipynb` - Phân tích dữ liệu
+
+## 📁 5. Cấu Trúc Dữ Liệu
+
+-   Dữ liệu chi tiết của từng sản phẩm được lưu trong thư mục `json`
+-   Dữ liệu tổng hợp được lưu trong file `data.csv`
+
+## 📂 6. Cấu Trúc Thư Mục
+
+```
+phone-price-analysis/
+│
+├── 📓 notebooks/
+│   ├── craw_data.ipynb          # Thu thập dữ liệu từ CellphoneS
+│   ├── craw_data_2.ipynb        # Thu thập dữ liệu từ MobileCity
+│   ├── data_preprocessing.ipynb # Tiền xử lý dữ liệu
+│   └── data_analysis.ipynb      # Phân tích dữ liệu và trực quan hóa
+│
+├── 📊 data/
+│   ├── raw/                     # Dữ liệu thô đã thu thập được
+│   ├── json/                    # Dữ liệu chi tiết từng sản phẩm đã thu thập
+│   ├── processed/               # Dữ liệu sau xử lý
+│   └── data.csv                 # Dữ liệu đã tổng hợp
+│
+├── 📈 visualizations/           # Các biểu đồ và hình ảnh
+│
+└── 📝 README.md                 # Tài liệu dự án
+```
+
+## 🚀 7. Hướng Dẫn Thực Thi
+
+1. **Cài đặt môi trường**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2. **Thu thập dữ liệu**
+
+    ```bash
+    jupyter notebook notebooks/craw_data.ipynb
+    jupyter notebook notebooks/craw_data_2.ipynb
+    ```
+
+3. **Tiền xử lý và phân tích**
+    ```bash
+    jupyter notebook notebooks/data_preprocessing.ipynb
+    jupyter notebook notebooks/data_analysis.ipynb
+    ```
+
+## 🔧 8. Công Nghệ Sử Dụng
+
+-   **Python**: Ngôn ngữ lập trình chính
+-   **Pandas & NumPy**: Xử lý và phân tích dữ liệu
+-   **Matplotlib & Seaborn**: Trực quan hóa dữ liệu
+-   **Selenium**: Thu thập dữ liệu web

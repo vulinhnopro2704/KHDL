@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/oppo/realme-v5.html",
+    "name": "Realme V5 5G Chính hãng",
+    "price": "4950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, Realme UI 1.0",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "6.5 inches, Full HD+ 1080 x 2400 pixels, 20:9, 90Hz",
+                "Độ phân giải": "6.5 inches, Full HD+ 1080 x 2400 pixels, 20:9, 90Hz",
+                "Màn hình rộng": "6.5",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "48 MP, f/1.8 - 8 MP, f/2.3, 119˚ (Siêu rộng) - 2 MP, f/2.4, (Macro) - 2 MP, f/2.4, (Xóa phông)",
+                "Camera trước": "16 MP, f/2.1",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek Dimensity 720 5G (7 nm)",
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Mali-G57 MC3"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB UFS 2.1",
+                "Thẻ nhớ ngoài": "microSDXC (uses shared SIM slot)",
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh cảm ứng",
+                "Kích thước": "162.1 x 75 x 9.1 mm",
+                "Trọng lượng (g)": "194"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "5000mAh, Sạc nhanh 30W, 100% trong 65ph",
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Có",
+                "Kết nối USB": "2.0, Type-C",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

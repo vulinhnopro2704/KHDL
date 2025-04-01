@@ -1,0 +1,85 @@
+{
+    "url": "https://cellphones.com.vn/huawei-nova-y71.html",
+    "name": "Huawei Nova Y71",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.75 inches",
+                "Công nghệ màn hình": "TFT LCD",
+                "Độ phân giải màn hình": "1600 x 720 pixels (HD+)",
+                "Tính năng màn hình": "16,7 triệu màu",
+                "Loại màn hình": "Màn hình"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 48 MP, f/1.8",
+                    "Camera góc siêu rộng: 5 MP, f/2.2",
+                    "Camera đo độ sâu: 2 MP, f/2.4"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8MP, f/2.0"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, AGPS, Glonass, BeiDou, Galileo, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Micro SD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 22,5 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "EMUI 12"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "168.3 x 77.7 x 8.98 mm",
+                "Trọng lượng": "199 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến ánh sáng, La bàn, Cảm biến trọng lực"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11b/g/n, 2.4 GHz",
+                "Bluetooth": "v5.1"
+            }
+        }
+    ]
+}

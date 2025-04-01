@@ -1,0 +1,111 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/samsung-galaxy-m16-5g-chinh-hang.html",
+    "name": "Samsung Galaxy M16 5G Chính hãng",
+    "price": "4990000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, One UI 7",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super AMOLED, 90Hz, 800 nits (HBM)",
+                    "6.5 inches, Full HD+ (1080 x 2340 pixels)"
+                ],
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.5 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), AF",
+                    "5 MP (góc siêu rộng)",
+                    "2 MP (macro)",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "13 MP (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "1080p@30fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.4 GHz Cortex-A76",
+                    "6x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 6300 (6 nm)",
+                    "8 nhân (2x2.4 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G57 MC2"
+                ],
+                "RAM": "4-8GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng nhựa phẳng",
+                    "Cảm biến vân tay cạnh bên"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "6000 mAh",
+                    "Sạc nhanh 15W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "url": "https://cellphones.com.vn/vivo-v25e.html",
+    "name": "vivo V25e 8GB 128GB",
+    "price": "5.690.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.44 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "2404×1080 (FHD+)",
+                "Tính năng màn hình": "1300 nits, Tần số quét 90 Hz, Kính cường lực Schott Xensation UP",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 64 MP, f/1.79",
+                    "Camera góc siêu rộng: 2 MP, f/2.4",
+                    "Camera Macro: 2 MP, f/2.4"
+                ],
+                "Quay video": "FullHD 1080p@24fps, FullHD 1080p@30fps, FullHD 1080p@60fps, HD 720p@24fps, HD 720p@30fps, HD 720p@60fps",
+                "Tính năng camera": [
+                    "AI Camera",
+                    "Ban đêm (Night Mode)",
+                    "Bộ lọc màu",
+                    "Chuyên nghiệp (Pro)",
+                    "Chân dung AI",
+                    "Chống rung quang học (OIS)",
+                    "HDR",
+                    "Live Photo",
+                    "Làm đẹp",
+                    "Nhãn dán (AR Stickers)",
+                    "Quay chậm",
+                    "Quay video hiển thị kép",
+                    "Siêu cận",
+                    "Siêu độ phân giải"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP, f/2.0"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G99",
+                "GPU": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, BEIDOU, GLONASS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500mAh",
+                "Công nghệ sạc": "Siêu tiết kiệm pin, Sạc pin nhanh 44 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2 nhân 2.2 GHz & 6 nhân 2.0 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "159.20 × 74.20 × 7.79mm",
+                "Trọng lượng": "183g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Không",
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Tiện ích khác": [
+                    "Trợ lý ảo Jovi",
+                    "Chế độ đơn giản (Giao diện đơn giản)",
+                    "Cử chỉ thông minh",
+                    "Chế Độ Rung 4D",
+                    "Thiết kế Ăng-ten Trò Chơi"
+                ],
+                "Công nghệ âm thanh": "Âm thanh Hi-Res Audio"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "2.4GHz, 5GHz",
+                "Bluetooth": "v5.2"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "10/2022"
+            }
+        }
+    ]
+}

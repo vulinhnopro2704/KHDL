@@ -1,0 +1,109 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-oppo-reno-12f-4g.html",
+    "name": "OPPO Reno12 F 4G 8GB 256GB",
+    "price": "Giá liên hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tỉ lệ màn hình 92.2%",
+                    "120Hz",
+                    "Chế độ sống động: độ phủ 100% DCI-P3",
+                    "Chế độ bình thường: độ phủ 100% sRGB",
+                    "16.7 triệu màu, 394PPI"
+                ],
+                "Tần số quét": "120Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP; f/1.8; FOV 76°; ống kinh 5P",
+                    "Góc mở rộng: 8MP; f/2.2; FOV 112°; ống kính 5P",
+                    "Macro camera: 2MP; f/2.4; FOV 89°; ống kính 3P"
+                ],
+                "Quay video": "1080p@30fps và 720p@30fps",
+                "Tính năng camera": "Chụp ảnh, quay Video, Chụp ban đêm, Pano, Chụp Chân dung, Time-lapse, Sticker."
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32MP; f/2.4; FOV 82°; ống kính 5P lens",
+                "Quay video trước": "1080p/720p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm® KryoTM 685",
+                "GPU": "AdrenoTM 610@1.26GHz"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "SUPERVOOCTM, VOOC, PPS và PD2",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 Nano-SIM",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "BeiDou, GPS, GLONASS, Galileo, and QZSS"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.1mm x 75.8mm x 7.69mm",
+                "Trọng lượng": "187g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi 5 (802.11ac), 802.11 a/b/g/n/",
+                    "WLAN 2.4G/WLAN 5G"
+                ],
+                "Bluetooth": "v5.0"
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "url": "https://cellphones.com.vn/vivo-s16.html",
+    "name": "Vivo S16",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 870"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-y04-6gb-128gb.html",
+    "name": "vivo Y04 6GB 128GB",
+    "price": "3.790.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.74 inches",
+                "Công nghệ màn hình": "LCD",
+                "Độ phân giải màn hình": "1600 x 720 pixels (HD+)",
+                "Tính năng màn hình": [
+                    "Hỗ trợ 90Hz",
+                    "70% NTSC",
+                    "260 PPI",
+                    "570 nits"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "13MP + 0.08MP",
+                    "khẩu độ f/2.2 (13MP) + f/3.0 (0.08MP)"
+                ],
+                "Quay video": "FullHD 1080p@30fps",
+                "Tính năng camera": "Chụp đêm, Chân dung, Toàn cảnh, Live Photo, Chuyển động chậm, Chụp ảnh chuyển động, Tua nhanh thời gian, Chế độ chuyên nghiệp, Xoá phông"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "5MP",
+                    "khẩu độ f/2.2"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc T7225 8 nhân",
+                "GPU": "Mali-G52"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Jack tai nghe 3.5": "Có",
+                "GPS": "GPS, BeiDou, GLONASS, Galileo, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 2 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5500mAh",
+                "Công nghệ sạc": "Sạc nhanh 15W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Funtouch OS 14 phiên bản Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân 12nm, 2 × 1.8GHz + 6 × 1.8GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "167.30 × 76.95 × 8.19 mm",
+                "Trọng lượng": "199g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP64"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, Cảm biến trọng lực"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi 5",
+                    "2.4GHz / 5GHz"
+                ],
+                "Bluetooth": "5.2"
+            }
+        }
+    ]
+}

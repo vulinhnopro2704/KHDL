@@ -1,0 +1,133 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-narzo-70-turbo-dimensity-7300-energy.html",
+    "name": "Realme Narzo 70 Turbo (Dimensity 7300 Energy)",
+    "price": "4950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Realme UI 5.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "OLED, 120Hz, HDR, 600 nits (typ), 2000 nits (peak)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~395 ppi",
+                    "Hỗ trợ hình ảnh HDR"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 27mm (góc rộng), PDAF",
+                    "2 MP, f/2.4 (độ sâu)",
+                    "Ống kính phụ (cảm biến flicker)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.4 (góc rộng), Panorama",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "4x2.5 GHz Cortex-A78",
+                    "4x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 7300 Energy (4 nm)",
+                    "8 nhân (4x2.5 GHz & 4x2.0 GHz)",
+                    "GPU: Mali-G615 MC2"
+                ],
+                "RAM": [
+                    "6-12GB, LPDDR4X",
+                    "Hỗ trợ RAM ảo Dynamic RAM 12GB+14GB"
+                ],
+                "Chip đồ họa (GPU)": "Mali-G615 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 3.1",
+                "Thẻ nhớ ngoài": [
+                    "microSDXC",
+                    "(dùng chung với khe SIM 2)"
+                ]
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng nhựa phẳng",
+                    "Màn hình đục lỗ phẳng",
+                    "Kháng nước, bụi IP65"
+                ],
+                "Kích thước": "161.7 x 74.7 x 7.6 mm",
+                "Trọng lượng (g)": "185 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 45W",
+                    "Sạc 50% pin trong 30 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, băng tần kép (2.4 GHz và 5 GHz)",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

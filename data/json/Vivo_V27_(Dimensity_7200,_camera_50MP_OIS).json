@@ -1,0 +1,130 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-v27-dimensity-7200.html",
+    "name": "Vivo V27 (Dimensity 7200, camera 50MP OIS)",
+    "price": "9350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, Funtouch 13",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10+",
+                    "6.78 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Cảm biến vân tay trong màn hình"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9 (góc rộng) PDAF, OIS",
+                    "8 MP, f/2.2, 16mm, 120˚ (góc siêu rộng)",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: 4K@30/60fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "50 MP, f/2.5 (góc rộng), AF",
+                    "Dual-LED flash, HDR",
+                    "Quay phim: 4K@30/60fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring-LED flash, panorama, HDR",
+                "Quay phim": "4K@30/60fps, 1080p@30fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.8 GHz & 6x 2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 7200 (4 nm)",
+                    "8 nhân (2x2.8 GHz & 6x 2.0 GHz)",
+                    "GPU: Mali-G610 MC4"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Mali-G610 MC4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB",
+                    "UFS 3.1"
+                ],
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa, 2 mặt kính",
+                    "Đèn LED thay đổi màu sắc phía sau",
+                    "Màn hình cong viền siêu mỏng"
+                ],
+                "Kích thước": "164.1 x 74.8 x 7.4 mm",
+                "Trọng lượng (g)": "180 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4600 mAh",
+                    "Sạc nhanh 66W, 50% trong 19 ph (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - quốc tế",
+                    "HSDPA 850 / 900 / 2100 - Asia"
+                ],
+                "4G": [
+                    "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 39, 40, 41 - Quốc tế",
+                    "1, 3, 5, 8, 28, 38, 40, 41 - Asia"
+                ],
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

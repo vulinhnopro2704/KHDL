@@ -1,0 +1,25 @@
+{
+    "url": "https://cellphones.com.vn/asus-rog-phone-6d-ultimate.html",
+    "name": "ROG Phone 6D Ultimate",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "OLED"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 9000+"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        }
+    ]
+}

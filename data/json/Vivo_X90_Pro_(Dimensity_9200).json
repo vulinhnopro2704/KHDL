@@ -1,0 +1,130 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-x90-pro-man-hinh-2k.html",
+    "name": "Vivo X90 Pro (Dimensity 9200)",
+    "price": "17450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 13, Funtouch 13 (Global)",
+                    "Origin OS 3 (China)"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10+, 1300 nits (tối đa)",
+                    "6.78 inches, 1.5K (1260 x 2800 pixels), tỷ lệ 20:9"
+                ],
+                "Độ phân giải": "1260 x 2800 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50.3 MP, f/1.8, 23mm (góc rộng), 1.0\"-type, Dual Pixel PDAF, Laser AF, OIS",
+                    "50 MP, f/1.6, 50mm (tele), no AF, 2x optical zoom, OIS",
+                    "12 MP, f/2.0, 108˚ (góc siêu rộng), AF",
+                    "Quay phim: 8K, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5, 24mm (góc rộng)",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Zeiss optics, Zeiss T* lens coating, Pixel Shift, dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K, 4K@30/60fps, 1080p@30/60fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.05 GHz & 3x2.50 GHz & 4x1.80 GHz",
+                    "1x3.05 GHz & 3x2.85 GHz & 4x1.80 GHz"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 9200 (4 nm)",
+                    "8 nhân (1x3.05 GHz & 3x2.50 GHz & 4x1.80 GHz)",
+                    "8 nhân (1x3.05 GHz & 3x2.85 GHz & 4x1.80 GHz)",
+                    "GPU: Arm Immortalis-G715"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Arm Immortalis-G715"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "256-512GB",
+                    "UFS 4.0"
+                ],
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "164.1 x 74.5 x 9.3 mm",
+                "Trọng lượng (g)": "214.9 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4870 mAh",
+                    "Sạc nhanh 120W, 50% trong 8 phút (quảng cáo)",
+                    "Sạc nhanh không dây 50W",
+                    "Hỗ trợ sạc ngược"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM. Nano SIM",
+                "Khe gắn Sim": "2 SIM. Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS, NavIC",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

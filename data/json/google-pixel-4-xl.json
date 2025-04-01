@@ -1,0 +1,124 @@
+{
+    "url": "https://cellphones.com.vn/google-pixel-4-xl.html",
+    "name": "Google Pixel 4 XL",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.3 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "3040 x 1440 pixels",
+                "Tính năng màn hình": [
+                    "Kính cường lực Corning Gorilla Glass 5",
+                    "Màn hình luôn bật"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 12,2 MP, f/1.7, 27mm, 1 / 2.55 \", 1.4µm, PDAF pixel kép, OIS",
+                    "Camera tele; 16 MP, f/2.4, 50mm, 1 / 3.6\", 1.0µm, PDAF, OIS, 2x zoom quang học"
+                ],
+                "Quay video": [
+                    "4K@30fps, 1080p@30/60/120fps",
+                    "1080p@30fps (gyro-EIS)"
+                ],
+                "Tính năng camera": "Đèn flash LED kép, Pixel Shift, Auto-HDR, ảnh toàn cảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "Camera rộng: 8 MP, f/2.0, 22mm, 1,22µm, không AF",
+                    "TOF 3D"
+                ],
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+                "GPU": "Adreno 640"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Nano-SIM + eSIM",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, GLONASS, BDS, GALILEO"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3700 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 18W",
+                    "USB Power Delivery 2.0",
+                    "Sạc không dây"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x2,84 GHz Kryo 485 & 3x2,42 GHz Kryo 485 & 4x1,78 GHz Kryo 485"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "160,4 x 75,1 x 8,2 mm",
+                "Trọng lượng": "193 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a / b / g / n / ac, băng tần kép, Wi-Fi Direct, DLNA, điểm phát sóng",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD"
+            }
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "url": "https://mobilecity.vn/apple/iphone-13-pro-max-chinh-hang-vn-a.html",
+    "name": "iPhone 13 Pro Max (Chính hãng VN/A) (128GB, 256GB, 512GB)",
+    "price": "20950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "iOS 15",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super Retina",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision",
+                    "6.7 inches (1284 x 2778 pixels), tỷ lệ 19.5:9",
+                    "Kính cường lực Ceramic Shield",
+                    "True-tone"
+                ],
+                "Độ phân giải": "1284 x 2778 pixels",
+                "Màn hình rộng": "6.7",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "12 MP, f/1.5, 26mm (góc rộng), dual pixel PDAF, sensor-shift OIS",
+                    "12 MP, f/2.8, 77mm (chân dung), PDAF, OIS, 3x optical zoom",
+                    "12 MP, f/1.8, 13mm, 120˚ (góc siêu rộng), PDAF",
+                    "Quay phim: 4K@24/30/60fps, 1080p@30/60/120/240fps, 10‑bit HDR, Cinematic mode"
+                ],
+                "Camera trước": [
+                    "12 MP, f/2.2, 23mm (góc rộng)",
+                    "SL 3D, (đo chiều sâu)",
+                    "Quay phim: 4K@24/25/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+                "Quay phim": "4K@24/30/60fps, 1080p@30/60/120/240fps, 10‑bit HDR, Cinematic mode",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x3.22 GHz Avalanche + 4xX.X GHz Blizzard",
+                "Số nhân": "6 nhân",
+                "Chipset": [
+                    "Apple A15 Bionic (5 nm)",
+                    "6 nhân (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard)",
+                    "GPU: Apple GPU (5 nhân đồ họa)"
+                ],
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Apple GPU (5 nhân đồ họa)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB-1TB NVMe",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + cảm ứng",
+                "Kích thước": "160.8 x 78.1 x 7.7 mm",
+                "Trọng lượng (g)": "240 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 4352 mAh",
+                    "Sạc nhanh 27W, 50% trong 30ph (quảng cáo)",
+                    "MagSafe wireless charging 15W",
+                    "Qi magnetic fast wireless charging 7.5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "4G": [
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66 - A2633, A2634, A2635",
+                    "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66, 71 - A2482, A2631"
+                ],
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM (1 eSIM)",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "Lightning, USB 2.0",
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Lightning",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

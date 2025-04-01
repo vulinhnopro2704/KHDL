@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/nokia/nokia-x7.html",
+    "name": "Nokia X7 2018",
+    "price": "5450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 8.1 (Oreo)",
+                "Ngôn ngữ": "Đa ngôn ngữ, có hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "FullHD+",
+                "Độ phân giải": "1080 x 2280 pixels",
+                "Màn hình rộng": "6.18",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "12MP + 13MP",
+                "Camera trước": "20 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "dual pixel PDAF, OIS, Zeiss optics, dual-LED dual-tone flash, panorama, HDR",
+                "Quay phim": "2160p@30fps, 1080p@30fps (gyro-EIS)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (2x2.2 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 710 (10 nm)",
+                "RAM": "4GB/6GB",
+                "Chip đồ họa (GPU)": "Adreno 616"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB/ 128GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "hỗ trợ tối đa 400 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "154.8 x 75.8 x 8 mm",
+                "Trọng lượng (g)": "178"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": "154.8 x 75.8 x 8 mm",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "có",
+                "4G": "Có",
+                "Loại Sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+                "Khe gắn Sim": "2 SIM - 2 Sóng",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, BDS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm, có mic chống ồn",
+                "NFC": "Có",
+                "Kết nối USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go",
+                "Cổng sạc": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4/H.264 player",
+                "Nghe nhạc": "MP3/WAV/eAAC+/FLAC player",
+                "Cổng sạc": "2.0, Type-C 1.0 reversible connector, USB On-The-Go",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

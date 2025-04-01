@@ -1,0 +1,132 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/zte-nubia-z70-ultra-5g.html",
+    "name": "ZTE Nubia Z70 Ultra (Snapdragon 8 Elite)",
+    "price": "16150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, NebulaAI OS",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 144Hz, HDR10, 2000 nits (peak)",
+                    "6.85 inches, 1.5K (1216 x 2688 pixels)",
+                    "Mật độ điểm ảnh ~431 ppi",
+                    "Kính Longxi (thế hệ 2)"
+                ],
+                "Độ phân giải": "1216 x 2688 pixels",
+                "Màn hình rộng": "6.85 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6-4.0, 35mm (tiêu chuẩn), 1/1.56\", 1.0µm, PDAF, OIS",
+                    "64 MP, f/2.5, 70mm (tiềm vọng tele), 1/2.0\", 0.7µm, PDAF (15cm - ∞), OIS, 2.7x optical zoom (vs. 26mm cam)",
+                    "50 MP, f/2.0, 13mm, 122˚ (góc siêu rộng), 1/2.88\", AF",
+                    "Quay phim: 8K@30fps, 4K@30/60/120fps, 1080p@30/60fps, gyro-EIS, HDR10, 10‑bit video"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.0, 24mm (góc rộng)",
+                    "Ẩn dưới màn hình, HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring-LED, dual-tone flash, panorama, HDR (dự kiến)",
+                "Quay phim": "8K@30fps, 4K@30/60/120fps, 1080p@30/60fps, gyro-EIS, HDR10, 10‑bit video",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x4.32 GHz Oryon V2 Phoenix L",
+                    "6x3.53 GHz Oryon V2 Phoenix M"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+                    "8 nhân (2x4.32 GHz & 6x3.53 GHz)",
+                    "GPU: Adreno 830"
+                ],
+                "RAM": "12-24GB",
+                "Chip đồ họa (GPU)": "Adreno 830"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm phẳng",
+                    "2 mặt kính phẳng",
+                    "Kháng nước, bụi IP68/IP69"
+                ],
+                "Kích thước": "164.3 x 77.1 x 8.6 mm",
+                "Trọng lượng (g)": "228 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 6150 mAh",
+                    "Sạc nhanh 80W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "HSPA, LTE (CA), 5G",
+                "Loại Sim": "2 Nano SIM",
+                "Khe gắn Sim": "2 Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, băng tần kép, Wi-Fi Direct",
+                "GPS": "GPS (L1+L2+L5), GLONASS (G1+G5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res audio",
+                    "Snapdragon Sound"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2, OTG",
+                "Kết nối khác": "NFC, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

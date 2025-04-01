@@ -1,0 +1,39 @@
+{
+    "url": "https://cellphones.com.vn/nokia-g400.html",
+    "name": "Nokia G400",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "48MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 480 5G"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Tính năng màn hình": "120Hz"
+            }
+        }
+    ]
+}

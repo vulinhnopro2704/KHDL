@@ -1,0 +1,53 @@
+{
+    "url": "https://cellphones.com.vn/nokia-x30.html",
+    "name": "Nokia X30 5G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "48 MP + 5 MP + 2 MP + 2 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 460"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.850 mAh",
+                "Công nghệ sạc": "sạc nhanh 22 W"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Tính năng đặc biệt": "Bảo mật vân tay"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kiểu màn hình": "Giọt nước"
+            }
+        }
+    ]
+}

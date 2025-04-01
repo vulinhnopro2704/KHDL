@@ -1,0 +1,56 @@
+{
+    "url": "https://cellphones.com.vn/oppo-f23-pro.html",
+    "name": "OPPO F23 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.72 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Tính năng màn hình": "Độ sáng 580 nits",
+                "Loại màn hình": "Màn hình"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Cảm biến chính 64MP",
+                    "Hai camera 2MP"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 695"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 67W"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "05/2023"
+            }
+        }
+    ]
+}

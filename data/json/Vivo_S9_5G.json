@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-s9.html",
+    "name": "Vivo S9 5G",
+    "price": "8450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, Origin OS 1.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ."
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED, 90Hz, HDR10+",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Full HD+ (1080 x 2400 pixels, 20:9 ratio), 90Hz",
+                "Độ phân giải": "Full HD+ (1080 x 2400 pixels, 20:9 ratio), 90Hz",
+                "Màn hình rộng": "6.44 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "64 MP, f/1.8 (wide), 8 MP, f/2.2 (ultrawide), 2 MP, f/2.4 (depth)",
+                "Camera trước": "44 MP, f/2.0 (wide), 8 MP, f/2.3 (ultrawide)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.6 GHz & 4x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek Dimensity 1100 5G (6 nm)",
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Mali-G77 MC9"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "158.4 x 73.9 x 7.4 mm",
+                "Trọng lượng (g)": "173 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "4000 mAh - Sạc nhanh 33W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

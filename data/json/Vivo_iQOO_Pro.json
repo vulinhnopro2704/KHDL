@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-iqoo-pro.html",
+    "name": "Vivo iQOO Pro",
+    "price": "10550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); Funtouch 9.1",
+                "Ngôn ngữ": "Tiếng Anh, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "Super AMOLED, 6.41 inches, 1080 x 2340 pixels",
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.41 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "3 Camera 48MP, 13MP, 2MP",
+                "Camera trước": "12MB",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "2160p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 855+ (7 nm)",
+                "RAM": "8/12G RAM",
+                "Chip đồ họa (GPU)": "Adreno 640 (700 MHz)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128/256 GB",
+                "Thẻ nhớ ngoài": "Không hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế 2 mặt kính, màn hình giọt nước",
+                "Kích thước": "158.8 x 75.7 x 9.3 mm",
+                "Trọng lượng (g)": "215g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-ion",
+                "Dung lượng pin": "4500 mAh - Sạc nhanh 44W",
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano Sim",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.0, A2DP, LE, aptX",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

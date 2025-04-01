@@ -1,0 +1,151 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/huawei-pura-x-ipx8.html",
+    "name": "Huawei Pura X (Thiết kế độc đáo)",
+    "price": "26550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "HarmonyOS 5.0",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Foldable LTPO2 OLED (màn chính)",
+                    "LTPO2 OLED (màn phụ)"
+                ],
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "Màn chính: Foldable LTPO2 OLED, 1 tỷ màu, HDR Vivid, 120Hz, 2500 nits (peak)",
+                    "6.3 inches, 1320 x 2120 pixels",
+                    "Tỷ lệ 16:10, mật độ điểm ảnh ~396 ppi",
+                    "Màn phụ: LTPO2 OLED, 1 tỷ màu, 120Hz",
+                    "3.5 inches, 980 x 980 pixels"
+                ],
+                "Độ phân giải": [
+                    "1320 x 2120 pixels (màn chính)",
+                    "980 x 980 pixels (màn phụ)"
+                ],
+                "Màn hình rộng": [
+                    "6.3 inches (màn chính)",
+                    "3.5 inches pixels (màn phụ)"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6, 23mm (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.4, 80mm (tele), PDAF, OIS, zoom quang 3.5x",
+                    "40 MP, f/2.2, 13mm (góc siêu rộng), AF",
+                    "1.5 MP (cảm biến chuyên dụng quang phổ màu)",
+                    "Quay phim: 4K, 1080p, chống rung con quay hồi chuyển-EIS, HDR Vivid (HDR sống động)"
+                ],
+                "Camera trước": [
+                    "10.7 MP, f/2.2 (góc rộng)",
+                    "Quay phim: 1080p, HDR sống động"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+                "Quay phim": "4K, 1080p, chống rung con quay hồi chuyển-EIS, HDR Vivid (HDR sống động)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.5 GHz Taishan Big",
+                    "3x2.15 GHz Taishan Mid",
+                    "4x1.53GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Kirin 9020",
+                    "8 nhân (1x2.5 GHz & 3x2.15 GHz & 4x1.53GHz)",
+                    "GPU: Maleoon 920"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Maleoon 920"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Điện thoại gập ngang",
+                    "Khung nhôm; Mặt lưng da hoặc kính cường lực",
+                    "Màn trong kính dẻo; màn ngoài kính cường lực",
+                    "Kháng nước IPX8",
+                    "Cảm biến vân tay cạnh bên"
+                ],
+                "Kích thước": [
+                    "Khi mở: 143.2 x 91.7 x 7.2 mm",
+                    "Khi gấp: 91.7 x 91.7 x 15.1 mm"
+                ],
+                "Trọng lượng (g)": [
+                    "193.7 g (lưng da)",
+                    "195.9 g (lưng kính)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "4720 mAh",
+                    "Sạc nhanh 66W",
+                    "Sạc không dây 40W",
+                    "Sạc ngược: 7.5W (không dây); 5W (dây)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, băng tần kép, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC",
+                "Bluetooth": "5.2, A2DP, LE, L2HC",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, OTG, DisplayPort 1.2",
+                "Kết nối khác": "NFC, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

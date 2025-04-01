@@ -1,0 +1,117 @@
+{
+    "url": "https://cellphones.com.vn/huawei-p60-pro.html",
+    "name": "Huawei P60 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.66 inches",
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "Tốc độ làm mới 120Hz, 1.07 tỷ màu"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 48MP, f/1.4, PDAF, Laser AF, OIS",
+                    "Camera kính viễn vọng: 48MP, f/2.1, PDAF, OIS",
+                    "Camera góc siêu rộng: 13MP, f/2.2"
+                ],
+                "Quay video": "4K@30/60fps, 1080p@30/60fps, 1080p@960fps; gyro-EIS",
+                "Tính năng camera": "Ống kính Leica, đèn flash LED kép, toàn cảnh, HDR"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 13MP, f/2.4, AF",
+                "Quay video trước": "4K@30fps, 1080p@30/60/240fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8+ Gen 1 4G",
+                "GPU": "Adreno 740"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4815 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 88 W",
+                    "Sạc siêu tốc không dây 50 W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "HarmonyOS 3.0"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 × Cortex-X2@3.2 GHz + 3 × Cortex-A710@2.75 GHz + 4 × Cortex-A510@2.0 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161 x 74.5 8.3mm",
+                "Trọng lượng": "200 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế, Cảm biến trọng lực"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11a/b/g/n/ac/ax",
+                "Bluetooth": "v5.2"
+            }
+        }
+    ]
+}

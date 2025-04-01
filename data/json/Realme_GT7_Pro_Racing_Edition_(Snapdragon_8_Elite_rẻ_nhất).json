@@ -1,0 +1,132 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-gt7-pro-racing-edition.html",
+    "name": "Realme GT7 Pro Racing Edition (Snapdragon 8 Elite rẻ nhất)",
+    "price": "10850000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, Realme UI 6.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED (Samsung)",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, HDR10+, Dolby Vision, 1600 nits (HBM), 6000 nits (peak)",
+                    "6.78 inches, 1.5K (1264 x 2780 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~450 ppi"
+                ],
+                "Độ phân giải": "1264 x 2780 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (Sony IMX896 - góc rộng), 1/1.56\", OIS",
+                    "8 MP, f/2.2, 16mm, 112° (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps,1080p@30/60fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5, 82.3° (góc rộng)",
+                    "Quay phim: 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Nhiếp ảnh đường phố, chân dung, cảnh đêm, chuyên nghiệp, độ phân giải cao, toàn cảnh, phim, chuyển động chậm, chụp ảnh tua nhanh thời gian, phơi sáng lâu, quay nhiều cảnh, camera dưới nước, ảnh AI ID, tài liệu, bầu trời đầy sao.",
+                "Quay phim": "4K@30/60fps,1080p@30/60fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x4.32 GHz Oryon V2 Phoenix L",
+                    "6x3.53 GHz Oryon V2 Phoenix M"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+                    "8 nhân (4.32 GHz & 6x3.53 GHz)",
+                    "GPU: Adreno 830 (1100MHz)"
+                ],
+                "RAM": [
+                    "12-16GB, LPDDR5X",
+                    "Tốc độ 8533Mbps"
+                ],
+                "Chip đồ họa (GPU)": "Adreno 830 (1100MHz)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "256-512GB, UFS 4.1",
+                    "Tốc độ 4.2GB/s"
+                ],
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm phẳng",
+                    "Mặt lưng bo cong nhẹ",
+                    "Màn hình cong nhẹ 4 cạnh, 4 góc",
+                    "Kháng nước, bụi IP68/IP69"
+                ],
+                "Kích thước": "162.5 x 76.9 x 8.6 mm",
+                "Trọng lượng (g)": "218 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 6500 mAh",
+                    "Sạc siêu nhanh 120W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Có",
+                "GPS": "Beidou (B1I+B1C+B2a), GPS (L1+L5), GLONASS (G1), Galileo (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép Stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C",
+                "Kết nối khác": "NFC, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

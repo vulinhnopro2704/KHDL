@@ -1,0 +1,133 @@
+{
+    "url": "https://cellphones.com.vn/oppo-find-n.html",
+    "name": "OPPO Find N",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "7.1 inch",
+                "Công nghệ màn hình": "LTPO AMOLED",
+                "Tính năng màn hình": [
+                    "Màn hình chính: LTPO AMOLED có thể gập lại, 1792 x 1920 pixel, tần số quét 120Hz, HDR10+, 500 nit, 1000 nit",
+                    "Màn hình phụ: 5,49 inch, 988 x 1972 pixel, AMOLED, Corning Gorilla Glass Victus"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.8, OIS",
+                    "Camera Tele: 13 MP, f/2.4, 2x optical zoom, PDAF",
+                    "Camera góc siêu rộng:16 MP, f/2.2"
+                ],
+                "Quay video": "4K@30/60fps, 1080p@30/60/240fps, con quay hồi chuyển-EIS, HDR",
+                "Tính năng camera": "Đèn flash hai tông màu LED kép, HDR, toàn cảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "Camera góc rộng: 32 MP, f/2.4",
+                    "Camera phụ: 32 MP, f/2.4"
+                ],
+                "Quay video trước": "1080p@30fps, con quay hồi chuyển-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5nm)",
+                "GPU": "Adreno 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500 mAh",
+                "Công nghệ sạc": [
+                    "Sạc có dây 33W",
+                    "Sạc ngược có dây 10W",
+                    "Sạc không dây 15W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x2,84 GHz Cortex-X1 & 3x2,42 GHz Cortex-A78 & 4x1,80 GHz Cortex-A55"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Khi mở ra: 132,6 x 140,2 x 8,0 mm",
+                    "Khi gấp lại: 132,6 x 73 x 15,9 mm"
+                ],
+                "Trọng lượng": "275 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6",
+                "Bluetooth": "v5.2, A2DP, LE, aptX HD"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ âm thanh": "Loa âm thanh nổi"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "12/2021"
+            }
+        }
+    ]
+}

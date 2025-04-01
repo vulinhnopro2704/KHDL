@@ -1,0 +1,127 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-find-x6-pro.html",
+    "name": "OPPO Find X6 Pro (Snapdragon 8 Gen 2)",
+    "price": "19950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, ColorOS 13.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO3 AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO3 AMOLED, 1 tỷ màu,120Hz, Dolby Vision, HDR10+, 800 nits (typ), 1500 nits (HBM), 2500 nits (tối đa)",
+                    "6.82 inches, QHD+ (1440 x 3168 pixels)",
+                    "Corning Gorilla Glass Victus 2"
+                ],
+                "Độ phân giải": "1440 x 3168 pixels",
+                "Màn hình rộng": "6.82 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 23mm (góc rộng), cảm biến 1\", multi-directional PDAF, Laser AF, OIS",
+                    "50 MP, f/2.6, 65mm (kính tiềm vọng tele) zoom quang 2.8x, multi-directional PDAF, OIS",
+                    "50 MP, f/2.2, 15mm, 110˚ (siêu rộng), multi-directional PDAF, OIS",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.4, 21mm (góc rộng) PDAF",
+                    "Panorama",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Hasselblad Color Calibration, LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung kim loại",
+                    "Mặt lưng kính (Gorilla Glass 5)/da sinh thái",
+                    "Kính trước cong (Gorilla Glass Victus 2)",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "164.8 x 76.2 x 9.1 / 9.5 mm",
+                "Trọng lượng (g)": "216 / 218 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 100W, 45% trong 10ph, 100% trong 30 ph (quảng cáo)",
+                    "Sạc nhanh không dây 50W, 50% trong 22 ph, 100% trong 51ph (quảng cáo)",
+                    "Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, OTG",
+                "Kết nối khác": "NFC, NFC-SIM, HCE, eSE, eID",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

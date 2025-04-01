@@ -1,0 +1,125 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-f9-sieu-re.html",
+    "name": "OPPO F9 Chính hãng (Siêu rẻ - mượt Liên Quân)",
+    "price": "750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, ColorOS 7.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 60Hz",
+                    "6.3 inches, Full HD+ (1080 x 2340 pixels)",
+                    "Tỷ lệ 19.5:9, mật độ điểm ảnh ~409 ppi"
+                ],
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.3 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "16 MP, f/1.8, 1/3.1, 1.0µm, PDAF",
+                    "2 MP, f/2.4 (depth)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "25 MP, f/2.0, 26mm (góc rộng), 1/2.8\", 0.9µm",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "4x2.0 GHz Cortex-A73",
+                    "4x2.0 GHz Cortex-A53"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek MT6771 Helio P60 (12 nm)",
+                    "8 nhân 2.0 GHz (cấu trúc 4 - 4)",
+                    "GPU: Mali-G72 MP3"
+                ],
+                "RAM": "4-6GB",
+                "Chip đồ họa (GPU)": "Mali-G72 MP3"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-128GB, eMMC 5.1",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung & Mặt lưng nhựa bo cong",
+                    "Màn hình giọt nước",
+                    "Cảm biến vân tay 1 chạm mặt lưng"
+                ],
+                "Kích thước": "156.7 x 74 x 8 mm",
+                "Trọng lượng (g)": "169 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 3500 mAh",
+                    "Sạc nhanh VOOC 20W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat13 600/100 Mbps",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, băng tần kép, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, BDS",
+                "Bluetooth": "4.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Loa đơn"
+                ],
+                "NFC": "Không",
+                "Kết nối USB": "microUSB 2.0, OTG",
+                "Kết nối khác": "FM radio",
+                "Cổng sạc": "microUSB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "microUSB",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

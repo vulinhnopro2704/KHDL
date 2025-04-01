@@ -1,0 +1,121 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-iqoo-neo-8-pro.html",
+    "name": "Vivo iQOO Neo 8 Pro 5G (Dimensity 9200+)",
+    "price": "9950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 13, Funtouch 13",
+                    "Hoặc OriginOS 3 (China)"
+                ],
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 144Hz, HDR10, 1300 nits (tối đa)",
+                    "6.78 inches, 1.5K+ (1260 x 2800 pixels), tỷ lệ 20:9",
+                    "Diện tích 111.0 cm2 chiếm ~87.5% mặt trước"
+                ],
+                "Độ phân giải": "1260 x 2800 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9 (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, 114˚ (góc siêu rộng)",
+                    "Quay phim: 8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.45 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.35 GHz & 3x3.0 GHz & 4x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 9200+ (4 nm)",
+                    "8 nhân (1x3.35 GHz & 3x3.0 GHz & 4x2.0 GHz)",
+                    "GPU: Immortalis-G715 MC11"
+                ],
+                "RAM": "16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Immortalis-G715 MC11"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa",
+                    "Mặt lưng nhựa/da"
+                ],
+                "Kích thước": "164.7 x 77 x 8.5 mm",
+                "Trọng lượng (g)": "192 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 120W, 50% trong 9 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 19, 28, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

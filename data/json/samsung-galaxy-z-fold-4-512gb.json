@@ -1,0 +1,138 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-z-fold-4-512gb.html",
+    "name": "Samsung Galaxy Z Fold4 512GB",
+    "price": "24.490.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "7.6 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "2176 x 1812 pixels (QXGA+)",
+                "Tính năng màn hình": [
+                    "Màn hình chính: 7,6 inch QXGA +, 120Hz",
+                    "Màn hình phụ: 6.2 inch HD+ AMOLED, 120Hz"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Màn hình gập"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP, f/1.8",
+                    "Camera góc siêu rộng: 12MP, f/2.2",
+                    "Camera tele: 10MP, f/2.4 (3x zoom)"
+                ],
+                "Quay video": "UHD 8K (7680 x 4320)@24fps",
+                "Tính năng camera": "AI Camera, Đèn Flash, Zoom quang học, Trôi nhanh thời gian (Time Lapse), Chống rung quang học (OIS)"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "10MP (bên ngoài) + 4MP (dưới màn hình)",
+                "Quay video trước": "960fps @HD, 240fps @FHD"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Plus Gen 1",
+                "GPU": "Adreno 670"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Hồng ngoại": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4,400 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 3.18 GHz, 3 nhân 2.7 GHz & 4 nhân 2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Kích thước khi gập lại: 155.1 x 130.1 x 6.3 mm",
+                    "Kích thước khi máy mở ra: 155.1 x 67.1 x 14.2-15.8 mm"
+                ],
+                "Trọng lượng": "263 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IPX8",
+                "Tiện ích khác": [
+                    "Màn hình luôn hiển thị AOD",
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Samsung DeX (Kết nối màn hình sử dụng giao diện tương tự PC)"
+                ],
+                "Công nghệ âm thanh": [
+                    "Hỗ Trợ Âm Thanh Nổi",
+                    "Âm thanh Dolby Atmos"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Cảm biến áp kế, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Đi kèm bút cảm ứng"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/ax 2.4G+5GHz+6GHz, HE160, MIMO, 1024-QAM",
+                "Bluetooth": "v5.2, A2DP, LE, aptX HD"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "8/2022"
+            }
+        }
+    ]
+}

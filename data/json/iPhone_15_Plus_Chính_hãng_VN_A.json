@@ -1,0 +1,145 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/iphone-15-plus-chinh-hang-man-hinh-rong.html",
+    "name": "iPhone 15 Plus Chính hãng VN/A",
+    "price": "22350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "iOS 17",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super Retina XDR OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (HBM), 2000 nits (tối đa)",
+                    "6.7 inches, 1290 x 2796 pixels, tỷ lệ 19.5:9",
+                    "Mật độ điểm ảnh ~460 ppi",
+                    "Ceramic Shield glass"
+                ],
+                "Độ phân giải": "1290 x 2796 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.6, 26mm (góc rộng), dual pixel PDAF, sensor-shift OIS",
+                    "12 MP, f/2.4, 13mm, 120˚ (góc siêu rộng)",
+                    "Quay phim: 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), Cinematic mode (4K@30fps), stereo sound rec."
+                ],
+                "Camera trước": [
+                    "12 MP, f/1.9, 23mm (góc rộng), PDAF",
+                    "SL 3D (độ sâu/sinh trắc học)",
+                    "HDR, Cinematic mode (4K@30fps)",
+                    "Quay phim: 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+                "Quay phim": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), Cinematic mode (4K@30fps), stereo sound rec.",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x3.46 GHz Everest",
+                    "4x2.02 GHz Sawtooth"
+                ],
+                "Số nhân": "6 nhân",
+                "Chipset": [
+                    "Apple A16 Bionic (4 nm)",
+                    "6 nhân (2x3.46 GHz & 4x2.02 GHz)",
+                    "GPU: Apple GPU (5 lõi đồ họa)"
+                ],
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Apple GPU (5 lõi đồ họa)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB, NVMe",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm vuông vức",
+                    "Kính sau Corning-made",
+                    "Kính trước Ceramic Shield",
+                    "Thiết kế màn hình Dynamic Island",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "160.9 x 77.8 x 7.8 mm",
+                "Trọng lượng (g)": "201 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion x mAh",
+                    "Sạc nhanh 50% trong 30 ph (QC)",
+                    "Sạc không dây (MagSafe) 15W",
+                    "Sạc không dây (Qi) 7.5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": [
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 53, 66 - A3094",
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 53, 66, 71 - A2847",
+                    "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 53, 66, 71 - A3093",
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66 - A3096"
+                ],
+                "Loại Sim": [
+                    "Nano SIM và eSIM (Quốc tế)",
+                    "Chỉ eSIM (bản Mỹ)",
+                    "2 SIM,Nano SIM (Trung Quốc)"
+                ],
+                "Khe gắn Sim": [
+                    "Nano SIM và eSIM (Quốc tế)",
+                    "Chỉ eSIM (bản Mỹ)",
+                    "2 SIM,Nano SIM (Trung Quốc)"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+                "GPS": "5.3, A2DP, LE",
+                "Bluetooth": "GPS, GLONASS, GALILEO, BDS, QZSS",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, DisplayPort",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

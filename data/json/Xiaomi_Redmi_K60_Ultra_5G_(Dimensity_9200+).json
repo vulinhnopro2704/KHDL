@@ -1,0 +1,134 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-redmi-k60-ultra-cau-hinh-sieu-cao.html",
+    "name": "Xiaomi Redmi K60 Ultra 5G (Dimensity 9200+)",
+    "price": "7550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, MIUI 14",
+                "Ngôn ngữ": "Tiếng Việt sau khi up ROM"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "68.7 tỷ màu",
+                "Chuẩn màn hình": [
+                    "OLED, 68.7 tỷ màu, 144Hz, HDR10+, Dolby Vision, 2600 nits (tối đa)",
+                    "6.67 inches, 1.5K (1220 x 2712 pixels)",
+                    "Cảm biến vân tay trong màn hình"
+                ],
+                "Độ phân giải": "1220 x 2712 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, IMX800, f/1.7, (góc rộng), 1/1.49\", PDAF, OIS",
+                    "8 MP, f/2.2, 119˚ (góc siêu rộng)",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: 8K@24fps, 4K@30/60fps, 1080p@30/60fps, 720p@30fps",
+                    "Quay video chuyển động chậm: 1080p@120/240/960fps, 720p@120fps/240fps/960fps"
+                ],
+                "Camera trước": [
+                    "20 MP (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps, 720p@60fps;",
+                    "Quay video chuyển động chậm: 1080p@120fps, 720p@120fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": [
+                    "8K@24fps, 4K@30/60fps, 1080p@30/60fps, 720p@30fps",
+                    "Quay video chuyển động chậm: 1080p@120/240/960fps, 720p@120fps/240fps/960fps"
+                ],
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.35 GHz & 3x3.0 GHz & 4x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 9200+ (4 nm)",
+                    "8 nhân (1x3.35 GHz & 3x3.0 GHz & 4x2.0 GHz)",
+                    "GPU: Immortalis-G715 MC11",
+                    "Chip đồ họa độc lập X7 (chèn khung hình 144fps ở 1.5K khi chơi game)"
+                ],
+                "RAM": "12-24GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Immortalis-G715 MC11"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vát phẳng",
+                    "Mặt lưng kính",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "162.15 x 75.7 x 8.49 mm",
+                "Trọng lượng (g)": "204 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 120W, PD2.0 / PD3.0",
+                    "Sạc 100% trong 19 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 3, 4, 5, 8, 18, 19, 26, 34, 38, 39, 40, 41, 42, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a), QZSS (L1+L5), NavIC",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

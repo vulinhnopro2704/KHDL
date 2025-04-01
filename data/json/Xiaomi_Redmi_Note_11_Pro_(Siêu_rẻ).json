@@ -1,0 +1,125 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-note-11-pro.html",
+    "name": "Xiaomi Redmi Note 11 Pro (Siêu rẻ)",
+    "price": "4950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12.5",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt sau khi chạy ROM"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super AMOLED, 120Hz, 700 nits, 1200 nits (peak)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.9, 26mm (góc rộng), dual pixel PDAF",
+                    "8 MP, f/2.2, 118˚ (góc siêu rộng)",
+                    "5 MP, f/2.4, (macro), AF",
+                    "2 MP, f/2.4, (đo chiều sâu)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps, 720p@960fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5 (góc rộng)",
+                    "Quay phim: 1080p@30/60fps, 720p@120fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, 720p@960fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.5 GHz & 6x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 920 5G (6 nm)",
+                    "8 nhân (2x2.5 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G68 MC4"
+                ],
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Mali-G68 MC4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Thanh + Cảm ứng",
+                    "Cảm biến vân tay cạnh bên",
+                    "Thiết kế vuông vức"
+                ],
+                "Kích thước": "163.7 x 76.2 x 8.3 mm",
+                "Trọng lượng (g)": "207 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5160 mAh",
+                    "Sạc nhanh 67W, 100% trong 43ph (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 2, 3, 5, 8, 19, 34, 38, 39, 40, 41, 42",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4，MKV，AVI，WMV，WEBM，3GP，ASF HDR10",
+                "Nghe nhạc": "WAV / MP3 / MP2 / AMR-NB / AMR-WB / MIDI / Vorbis / APE / FLAC",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/may-choi-game-pc-asus-rog-ally.html",
+    "name": "Máy chơi game PC Asus ROG Ally (AMD Ryzen Z1 Extreme - Win 11)",
+    "price": "16990000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Windows 11 Home",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 120Hz, sRGB 100%, Adobe 75.35%, 500nits",
+                    "7.0 inches, Full HD (1080 x 1920 pixels), tỷ lệ 16:9",
+                    "Gorilla Glass DXC; Gorilla Glass Victus",
+                    "FreeSync Premium"
+                ],
+                "Độ phân giải": "1080 x 1920 pixels",
+                "Màn hình rộng": "7.0 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "Không",
+                "Camera trước": "Không",
+                "Đèn Flash": "Không",
+                "Tính năng camera": "Không",
+                "Quay phim": "Không",
+                "Videocall": "Không"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Bộ nhớ cache 24MB, xung nhịp 5.10 GHz",
+                "Số nhân": "8 nhân /16 luồng",
+                "Chipset": [
+                    "AMD Ryzen Z1 Extreme (4 nm)",
+                    "8 nhân /16 luồng, (Bộ nhớ cache 24MB, xung nhịp 5.10 GHz)",
+                    "GPU: AMD Radeon"
+                ],
+                "RAM": "RAM 16GB LPDDR5 (kênh kép 6400MT/s)",
+                "Chip đồ họa (GPU)": [
+                    "AMD Radeon, AMD RDNA 3, 12 CU,",
+                    "Xung nhịp 2,7 GHz, tốc độ xử lý 8,6 Teraflop"
+                ]
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không",
+                "Bộ nhớ trong (ROM)": "SSD M.2 (2230) 512GB, PCIe 4.0 NVMe",
+                "Thẻ nhớ ngoài": "microSD UHS-II (hỗ trợ SD, SDXC và SDHC)"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Máy chơi game cầm tay",
+                "Kích thước": "28.0 x 11.1 x 2.12 ~ 3.24 cm",
+                "Trọng lượng (g)": "608 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-ion",
+                "Dung lượng pin": "Li-ion 40Wh, 4S1P (4-cell)",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Không",
+                "4G": "Không",
+                "Loại Sim": "Không",
+                "Khe gắn Sim": "Không",
+                "Wifi": "Wi-Fi 6E(802.11ax) (Ba băng tần)",
+                "Bluetooth": [
+                    "Bluetooth 5.2",
+                    "(phiên bản Bluetooth có thể thay đổi tuỳ theo phiên bản hệ điều hành)"
+                ],
+                "GPRS/EDGE": "Không",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": [
+                    "USB Type-C combo",
+                    "Chuẩn USB 3.2 Gen2",
+                    "DisplayPort 1.4"
+                ],
+                "Kết nối khác": "Kết nối ROG XG Mobile",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Nghe nhạc": [
+                    "Công nghệ khử ồn 2 chiều AI",
+                    "Chứng nhận Màn hình Độ phân giải cao",
+                    "Dolby Atmos",
+                    "Microphone tích hợp",
+                    "Hệ thống 2 loa với Công nghệ Smart Amplifier"
+                ],
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": [
+                    "Hệ thống Điều khiển",
+                    "Nút A B X Y",
+                    "D-pad",
+                    "Nút trigger analog trái và phải",
+                    "Nút gờ trái và phải",
+                    "Nút xem nhanh",
+                    "Nút Menu",
+                    "Nút Trung tâm Điều khiển",
+                    "Nút Armoury Crate",
+                    "2 x nút Macro ở mặt sau tay cầm có thể tuỳ chỉnh tự do",
+                    "Cần điều khiển: 2 x cần điều khiển analog kích thước đầy đủ với cảm biến điện dung",
+                    "Phản hồi xúc giác HD",
+                    "Gyro:",
+                    "6-Axis IMU"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-mi-pad-4-4g-lte.html",
+    "name": "Xiaomi Mi Pad 4 (4G-LTE)",
+    "price": "5050000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 8.1 (Oreo); MIUI 9",
+                "Ngôn ngữ": "Đa ngôn ngữ, có hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "IPS LCD, Full HD+ (1200 x 1920 pixels), 8 inches",
+                "Độ phân giải": "1200 x 1920 pixels",
+                "Màn hình rộng": "8 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "13 MP",
+                "Camera trước": "5 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Geo-tagging, touch focus, face detection, panorama, HDR",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm SDM660 Snapdragon 660 (14nm)",
+                "RAM": "4GB",
+                "Chip đồ họa (GPU)": "Adreno 512"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB",
+                "Thẻ nhớ ngoài": "microSD"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Mặt lưng nguyên khối, màn hình rộng",
+                "Kích thước": "200.2 x 120.3 x 7.9 mm",
+                "Trọng lượng (g)": "342"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin Li-Po",
+                "Dung lượng pin": "6000 mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "4G": "Có hỗ trợ 4G",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "1 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, BDS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Type-C 1.0 reversible connector",
+                "Cổng sạc": "Type-C 1.0 reversible connector"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "Xvid/MP4/H.264 player",
+                "Nghe nhạc": "MP3/WAV/eAAC+/FLAC player",
+                "Cổng sạc": "Type-C 1.0 reversible connector",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

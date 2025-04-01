@@ -1,0 +1,145 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-note-14-pro-5g-8gb-256gb.html",
+    "name": "Xiaomi Redmi Note 14 Pro 5G 8GB 256GB",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1220 x 2712 pixels",
+                "Tính năng màn hình": [
+                    "Tần số quét 120 Hz",
+                    "Độ sáng tối đa: 3000 nits",
+                    "Kính cường lực Corning Gorilla Glass Victus 2"
+                ],
+                "Tần số quét": "120Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 200 MP & Phụ 8 MP, 2 MP",
+                "Quay video": [
+                    "HD 720p@30fps",
+                    "FullHD 1080p@60fps",
+                    "FullHD 1080p@30fps",
+                    "4K 2160p@30fps",
+                    "4K 2160p@24fps"
+                ],
+                "Tính năng camera": [
+                    "Zoom kỹ thuật số",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Toàn cảnh (Panorama)",
+                    "Siêu độ phân giải",
+                    "Siêu cận (Macro)",
+                    "Quét tài liệu",
+                    "Quay chậm (Slow Motion)",
+                    "Làm đẹp",
+                    "HDR"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 7300-Ultra 8 nhân",
+                "GPU": "Mali-G615 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Hồng ngoại": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": [
+                    "QZSS",
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO",
+                    "BEIDOU"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5110 mAh",
+                "Công nghệ sạc": "Sạc nhanh 45 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Xiaomi HyperOS (Android 14)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.5 GHz & 4 nhân 2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162.33 x 74.42 x 8.4 mm (Đen, Xanh) | 8.55 mm (Tím)",
+                "Trọng lượng": "190 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Tiện ích khác": [
+                    "Xoá vật thể AI",
+                    "Trợ lý ảo Google Gemini",
+                    "Mở rộng ảnh AI",
+                    "Khoanh tròn để tìm kiếm",
+                    "Công nghệ tản nhiệt LiquidCool"
+                ],
+                "Công nghệ âm thanh": [
+                    "Âm thanh Dolby Atmos",
+                    "Loa kép"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay dưới màn hình",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 6E",
+                "Bluetooth": "v5.4"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "01/2025"
+            }
+        }
+    ]
+}

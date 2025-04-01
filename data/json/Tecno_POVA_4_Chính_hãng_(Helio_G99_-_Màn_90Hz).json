@@ -1,0 +1,114 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/tecno-pova-4-helio-g99.html",
+    "name": "Tecno POVA 4 Chính hãng (Helio G99 - Màn 90Hz)",
+    "price": "3850000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, HIOS",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 90Hz, tỷ lệ 20:9",
+                    "6.82 inches, HD+ (720 x 1600 pixels)"
+                ],
+                "Độ phân giải": "720 x 1600 pixels",
+                "Màn hình rộng": "6.82 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF",
+                    "Camera thứ 2 (nhà sản xuất không công bố thông số)",
+                    "Quay phim: 1440p@30fps, 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "8 MP (Flash LED)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual LED flash",
+                "Quay phim": "1440p@30fps, 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.2 GHz & 6x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek MT8781 Helio G99 (6nm)",
+                    "8 nhân (2x2.2 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G52 MC2"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa + Mặt lưng nhựa",
+                    "Màn hình đục lỗ giữa"
+                ],
+                "Kích thước": "170.6 x 77.5 x 8.7 mm"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 6000 mAh",
+                    "Sạc nhanh 18W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Có",
+                "GPS": "Có",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC, FM radio",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

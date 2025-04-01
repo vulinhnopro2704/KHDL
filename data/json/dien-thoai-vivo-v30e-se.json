@@ -1,0 +1,32 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-v30e-se.html",
+    "name": "vivo V30E SE",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 44 W"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Tần số quét": "120Hz"
+            }
+        }
+    ]
+}

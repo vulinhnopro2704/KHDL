@@ -1,0 +1,145 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-note-11-128gb.html",
+    "name": "Xiaomi Redmi Note 11 128GB",
+    "price": "4.090.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.43 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 90 Hz, 1000 nits, Kính cường lực Corning Gorilla Glass 3",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.8, PDAF",
+                    "Camera góc siêu rộng: 8 MP, f/2, 2FOV 118°",
+                    "Camera macro: 2MP, f/2.4",
+                    "Camera chân dung: 2MP, f/2.4"
+                ],
+                "Quay video": [
+                    "1080p 1920x1080 | 30fps",
+                    "720p 1280x720 | 30fps"
+                ],
+                "Tính năng camera": [
+                    "Zoom kỹ thuật số 10 lần",
+                    "Nhận dạng khuôn mặt",
+                    "HDR",
+                    "Máy ảnh AI 5.0",
+                    "Làm đẹp AI",
+                    "Chế độ quay phim",
+                    "Máy ảnh điều khiển bằng giọng nói",
+                    "Chế độ macro",
+                    "Trục dịch chuyển Máy ảnh đếm ngược",
+                    "Chế độ toàn cảnh"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "13 MP, f/2.5",
+                "Quay video trước": [
+                    "1080p 1920x1080 | 30fps",
+                    "720p 1280x720 | 30fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 680 8 nhân",
+                "GPU": "Adreno 610"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12.5"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.4 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "159,87 x 73,87 x 8,09 mm",
+                "Trọng lượng": "179 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tương thích": "CPU tám nhân, lên đến 2,4 GHz",
+                "Chỉ số kháng nước, bụi": "IP53",
+                "Tiện ích khác": "Loa kép",
+                "Công nghệ âm thanh": "Chứng nhận âm thanh độ phân giải cao, loa kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.0, A2DP, LE"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "01/2022"
+            }
+        }
+    ]
+}

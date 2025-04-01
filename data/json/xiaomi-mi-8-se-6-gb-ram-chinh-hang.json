@@ -1,0 +1,94 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-mi-8-se-6-gb-ram-chinh-hang.html",
+    "name": "Xiaomi Mi 8 SE 6GB RAM",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "Cảm ứng điện dung AMOLED, 16 triệu màu",
+                "Kích thước màn hình": "5.88 inches",
+                "Độ phân giải màn hình": "1080 x 2244 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "12 MP (f/1.9, 1.4µm, điểm ảnh kép PDAF, gyro-EIS) + 5 MP (f/2.0, 1.12µm), tự động lấy nét nhận diện theo giai đoạn điểm ảnh kép, LED flash",
+                "Quay video": "2160p@60fps, 1080p@30/120fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20 MP (f/2.0, 2.0µm), 1080p"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SDM710 Snapdragon 710",
+                "GPU": "Adreno 616"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 3120 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "8.1 (Oreo)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2x 2.2 GHz Kryo 360 & 6x 1.7 GHz Kryo 360"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "147.3 x 73.1 x 7.5 mm (5.80 x 2.88 x 0.30 in)",
+                "Trọng lượng": "164 g (5.78 oz)"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.0, A2DP, LE"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hồng ngoại": "true"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Vân tay, gia tốc, con quay quy hồi, khoảng cách, la bàn"
+            }
+        }
+    ]
+}

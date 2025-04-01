@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-iqoo-7.html",
+    "name": "Vivo iQOO 7 (Snap 888)",
+    "price": "12450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, OriginOS",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "120Hz, HDR10+, 6.62 inches, Full HD+ (1080 x 2400 pixels)",
+                "Độ phân giải": "120Hz, HDR10+, 6.62 inches, Full HD+ (1080 x 2400 pixels)",
+                "Màn hình rộng": "6.62",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "48 MP, f/1.8, OIS - 13 MP, f/2.5, 50mm (chân dung) - 13 MP, f/2.2, 120˚ (siêu rộng)",
+                "Camera trước": "16 MP, f/2.0, (wide)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84GHz & 3x2.42GHz & 4x1.80GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm SM8350 Snapdragon 888 (5 nm)",
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 660"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Gaming phone",
+                "Kích thước": "162.2 x 75.8 x 8.7 mm",
+                "Trọng lượng (g)": "209.5"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "4000 mAh, Sạc nhanh 120W, 100% trong 15 phút",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "AAC、MIDI、OGG、FLAC、WMA、WAV、APE、MP3",
+                "Nghe nhạc": "AAC、MIDI、OGG、FLAC、WMA、WAV、APE、MP3",
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

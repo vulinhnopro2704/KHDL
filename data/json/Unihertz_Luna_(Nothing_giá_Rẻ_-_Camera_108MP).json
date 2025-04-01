@@ -1,0 +1,121 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/unihertz-luna-camera-108mp.html",
+    "name": "Unihertz Luna (Nothing giá Rẻ - Camera 108MP)",
+    "price": "5950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD",
+                    "6.81 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Panda MN228 Glass"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.81 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.9 (camera chính)",
+                    "20 MP, f/2.2 (camera quan sát ban đêm)",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: Có"
+                ],
+                "Camera trước": [
+                    "32 MP",
+                    "Quay phim: Có"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash",
+                "Quay phim": "Có",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.2 GHz & 6x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek MT6789 Helio G99 (6nm)",
+                    "8 nhân (2x2.2 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G57 MC2"
+                ],
+                "RAM": "8GB + RAM ảo",
+                "Chip đồ họa (GPU)": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung kim loại vuông vức",
+                    "Thiết kế trong suốt"
+                ],
+                "Kích thước": "168 × 76.8 × 10.4 mm",
+                "Trọng lượng (g)": "298g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 18W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "CDMA2000 (Band BC0/BC1)",
+                "4G": [
+                    "4G FDD-LTE (Band 1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28A/28B/66)",
+                    "4G TDD-LTE (Band 34/38/39/40/41)"
+                ],
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "802.11 a/b/g/n/ac 2.4GHz/5GHz, Wi-Fi Direct, WI-FI Display, Wi-Fi Hotspot (V2.0)",
+                "GPS": "GPS + GLONASS + BeiDou + Galileo",
+                "Bluetooth": "5.3",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "FM Radio",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

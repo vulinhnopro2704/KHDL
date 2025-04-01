@@ -1,0 +1,118 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-poco-c65.html",
+    "name": "Xiaomi POCO C65",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.74 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "1600 x 720 pixels (HD+)",
+                "Tính năng màn hình": [
+                    "450 nits, tần số quét 90Hz",
+                    "DC dimming"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP, f/1.8",
+                    "Camera macro: 2MP, f/2.4"
+                ],
+                "Quay video": [
+                    "1080P 1920x1080 30fps",
+                    "720P 1280x720 30fps"
+                ],
+                "Tính năng camera": [
+                    "Chế độ HDR",
+                    "Chế độ ban đêm",
+                    "Chế độ chân dung",
+                    "Thời gian trôi đi"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8MP, f/2.0",
+                "Quay video trước": [
+                    "1080P 1920x1080 30fps",
+                    "720P 1280x720 30fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G85 processor",
+                "GPU": "Arm Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS, Glonass, Galileo, Beidou"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "microSD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 18W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "MIUI 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": [
+                    "Arm Cortex-A75 @ 2.0GHz",
+                    "Arm Cortex-A55 @ 1.8GHz"
+                ]
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "168 x 78 x 8.09mm",
+                "Trọng lượng": "192g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi: 2.4GHz | 5GHz",
+                "Bluetooth": "v5.3"
+            }
+        }
+    ]
+}

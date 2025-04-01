@@ -1,0 +1,120 @@
+{
+    "url": "https://mobilecity.vn/realme/realme-c11.html",
+    "name": "Realme C11 (2021) Chính hãng (Unisoc SC9863A, pin 5000mAh)",
+    "price": "2450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, Realme Go UI",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 400 nits (typ), tỷ lệ 20:9",
+                    "6.52 inches, HD+ (720 x 1600 pixels)"
+                ],
+                "Độ phân giải": "720 x 1600 Pixels",
+                "Màn hình rộng": "6.52 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "8 MP f2.0, AF (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "5MP f2.2 HDR (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "Sau : AI Camera, Chạm lấy nét, HDR, Làm đẹp, Nhận diện khuôn mặt, Toàn cảnh (Panorama), Trôi nhanh thời gian (Time Lapse), Tự động lấy nét (AF), Xóa phông",
+                    "Trước : HDR, Làm đẹp, Nhận diện khuôn mặt, Quay video Full HD, Quay video HD, Tự động lấy nét (AF), Xóa phông"
+                ],
+                "Quay phim": [
+                    "Sau : 480p@30fps - 1080p@30fps - 720p@30fps",
+                    "Trước : 1080p@30fps"
+                ],
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x1.6 GHz & 4x1.2 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Unisoc SC9863A",
+                    "8 nhân (4x1.6 GHz & 4x1.2 GHz)",
+                    "GPU: IMG8322"
+                ],
+                "RAM": "2-4GB",
+                "Chip đồ họa (GPU)": "IMG8322"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "32-64GB, eMMC 5.1",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "Hỗ trợ tối đa 256 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Nguyên khối - Khung & Mặt lưng nhựa",
+                "Kích thước": "165.2 x 76.4 x 8.9 mm",
+                "Trọng lượng (g)": "190 gram"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin Chuẩn Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000mAh",
+                    "Sạc 10W",
+                    "Hỗ trợ sạc ngược"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "HSDPA 850 / 900 / 1900 / 2100",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 b/g/n",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "4.2, A2DP",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "microUSB 2.0, OTG",
+                "Kết nối khác": "OTG",
+                "Cổng sạc": "Micro USB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Micro USB",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

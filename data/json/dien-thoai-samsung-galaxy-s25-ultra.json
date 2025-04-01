@@ -1,0 +1,135 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-s25-ultra.html",
+    "name": "Samsung Galaxy S25 Ultra 12GB 256GB",
+    "price": "27.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.9 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "3120 x 1440 pixels (Quad HD+)",
+                "Tính năng màn hình": [
+                    "120Hz",
+                    "2600 nits",
+                    "Corning® Gorilla® Armor 2"
+                ],
+                "Tần số quét": "120Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera siêu rộng 50MP",
+                    "Camera góc rộng 200 MP",
+                    "Camera Tele (5x) 50MP",
+                    "Camera Tele (3x) 10MP\""
+                ],
+                "Tính năng camera": [
+                    "Chế độ quay phim 10-bit HDR",
+                    "Quay Log Video",
+                    "Zoom quang học 100x",
+                    "Chụp hình Super HDR",
+                    "Chân dung",
+                    "Tự động lấy nét",
+                    "Quay Video đêm"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Elite dành cho Galaxy (3nm)"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM + eSIM",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 45W",
+                    "Super Fast Charging 2.0*",
+                    "Fast Wireless Charging 2.0",
+                    "Wireless PowerShare"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 17"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Dài 162.8mm - Ngang 77.6mm - Dày 8.2mm",
+                "Trọng lượng": "218g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Titanium"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": "Thực hiện tác vụ liên ứng dụng bằng lời nói (Seamless Actions across Apps)",
+                "Tiện ích khác": [
+                    "Biên tập Video thông minh (Auto trim)",
+                    "Khoanh tròn để tìm kiếm (Circle to Search)",
+                    "Trợ lý cuộc gọi (Call Assist)",
+                    "Trợ lý chỉnh ảnh (Photo Assist)"
+                ],
+                "Công nghệ âm thanh": "Lọc âm thanh (Audio Eraser)"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI, Đi kèm bút cảm ứng"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Có",
+                "Bluetooth": "Có"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "02-2025"
+            }
+        }
+    ]
+}

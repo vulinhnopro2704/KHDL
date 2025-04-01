@@ -1,0 +1,95 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/nothing-fold-1-sieu-dep.html",
+    "name": "Nothing Fold (1) (Dimensity 9400 - Pin 5500mAh)",
+    "price": "25750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, Nothing OS 3",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Foldable LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "Màn chính: Foldable LTPO AMOLED, 1 tỷ màu, 120Hz",
+                    "8 inches, 2.5K",
+                    "Màn phụ: OLED, 120Hz",
+                    "6.5 inches, Full HD+"
+                ],
+                "Độ phân giải": "2.5K/Full HD+",
+                "Màn hình rộng": "8 inches/6.5 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "50 MP (tele)",
+                    "10 MP (góc siêu rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K, 1080p",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 9400 (3 nm)",
+                    "8 nhân (1x3.63 GHz & 3x3.3 GHz & 4x2.4 GHz)",
+                    "GPU: Immortalis-G925"
+                ],
+                "RAM": "16GB",
+                "Chip đồ họa (GPU)": "Immortalis-G925"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5500 mAh",
+                    "Sạc nhanh 80W",
+                    "Sạc không dây (Qi2) 15W"
+                ],
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

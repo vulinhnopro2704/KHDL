@@ -1,0 +1,138 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/iphone-16-plus-chinh-hang-vn-a.html",
+    "name": "iPhone 16 Plus Chính hãng VN/A",
+    "price": "24950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "iOS 18",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super Retina XDR OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)",
+                    "6.7 inches, 1290 x 2796 pixels",
+                    "Tỷ lệ 19.5:9, Mật độ điểm ảnh ~460 ppi",
+                    "Kính bảo vệ Ceramic Shield (2004)"
+                ],
+                "Độ phân giải": "1290 x 2796 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.6, 26mm (góc rộng), dual pixel PDAF, sensor-shift OIS",
+                    "12 MP, f/2.2, 13mm, 120˚ (góc siêu rộng), dual pixel PDAF",
+                    "Quay phim: 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+                ],
+                "Camera trước": [
+                    "12 MP, f/1.9, 23mm (góc rộng), PDAF",
+                    "SL 3D, (độ sâu/cảm biến sinh trắc)",
+                    "Quay phim: 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "Dual-LED dual-tone flash, HDR (photo/panorama) - Cam sau",
+                    "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec. - Cam trước"
+                ],
+                "Quay phim": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec.",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Số nhân": "6 nhân",
+                "Chipset": [
+                    "Apple A18 (3 nm)",
+                    "6 nhân",
+                    "Apple GPU (5 nhân đồ họa)"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Apple GPU (5 nhân đồ họa)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB, NVMe",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm vuông vức",
+                    "Kính trước Ceramic Shield (2024)",
+                    "Kính sau Corning-made",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "160.9 x 77.8 x 7.8 mm",
+                "Trọng lượng (g)": "199 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion, có sạc nhanh",
+                    "Sạc không dây 25W (MagSafe) và 15W (Qi2)",
+                    "Sạc ngược 4.5W (không dây)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+                "Loại Sim": [
+                    "Quốc tế: Nano SIM và eSIM",
+                    "Mỹ: 2 eSIM với nhiều số",
+                    "Trung Quốc: 2 SIM Nano"
+                ],
+                "Khe gắn Sim": [
+                    "Quốc tế: Nano SIM và eSIM",
+                    "Mỹ: 2 eSIM với nhiều số",
+                    "Trung Quốc: 2 SIM Nano"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, băng tần kép, hotspot",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, DisplayPort",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

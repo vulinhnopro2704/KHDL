@@ -1,0 +1,123 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/tecno-spark-8c.html",
+    "name": "Tecno Spark 8C",
+    "price": "2450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11 (Go edition), HiOS 7.6",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 90Hz, tỷ lệ 20:9",
+                    "6.6 inches, HD+ (720 x 1612 pixels)"
+                ],
+                "Độ phân giải": "720 x 1612 pixels",
+                "Màn hình rộng": "6.6",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "13 MP, f/1.8, 27mm (góc rộng)",
+                    "QVGA",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "8 MP",
+                    "LED flash"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED lash, HDR",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "8x1.6 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Unisoc Tiger T606 (12 nm)",
+                    "8 nhân (8x1.6 GHz)",
+                    "GPU: ARM Mali G57 MP1"
+                ],
+                "RAM": "2-4GB",
+                "Chip đồ họa (GPU)": "ARM Mali G57 MP1"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "64GB",
+                    "eMMC 5.1"
+                ],
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "164.6 x 76 x 9 mm",
+                "Trọng lượng (g)": "193 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Có",
+                "GPS": "A-GPS",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Có",
+                "NFC": "Có",
+                "Kết nối USB": "microUSB 2.0",
+                "Kết nối khác": [
+                    "NFC",
+                    "FM radio"
+                ],
+                "Cổng sạc": "microUSB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "Có",
+                "Nghe nhạc": "Có",
+                "Cổng sạc": "microUSB",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "IPX2"
+            }
+        }
+    ]
+}

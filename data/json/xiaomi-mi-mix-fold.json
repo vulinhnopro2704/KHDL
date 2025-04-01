@@ -1,0 +1,99 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-mi-mix-fold.html",
+    "name": "Xiaomi Mi MIX Fold",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "8.0 inches",
+                "Công nghệ màn hình": "AMOLED"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "108 MP + 8 MP + 13 MP",
+                "Quay video": "8K@24/30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20 MP",
+                "Quay video trước": "1080p @ 30 / 60fps, 720p @ 120fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+                "GPU": "Adreno 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS,"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "16 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 5020 mAh",
+                "Công nghệ sạc": "Sạc nhanh 67W, 100% trong 37 phút",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10, MIUI 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Mở ra: 173,3 x 133,4 x 7,6 mm",
+                    "Gấp lại: 173,3 x 69,8 x 17,2 mm"
+                ],
+                "Trọng lượng": [
+                    "317 g (Glass)",
+                    "332 g (Ceramic)"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6e",
+                "Bluetooth": "5.2, A2DP, LE"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/samsung-galaxy-z-flip-fe.html",
+    "name": "Samsung Galaxy Z Flip FE ( gập siêu rẻ)",
+    "price": "16950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, One UI 7",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Màn Chính: Foldable Dynamic LTPO AMOLED 2X",
+                    "Màn phụ: Super AMOLED"
+                ],
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Màn Chính: Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (tối đa)",
+                    "6.7 inches, Full HD+ (1080 x 2640 pixels)",
+                    "Mật độ điểm ảnh ~426 ppi",
+                    "Màn phụ: Super AMOLED, 3.4 inches, 720 x 748 pixels",
+                    "Mật độ điểm ảnh ~306 ppi"
+                ],
+                "Độ phân giải": [
+                    "Màn Chính: 1080 x 2640 pixels",
+                    "Màn phụ: 720 x 748 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Màn Chính: 6.7 inches",
+                    "Màn phụ: 3.4 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "12 MP, f/1.8, 23mm (góc rộng), Dual Pixel PDAF, OIS",
+                    "12 MP, f/2.2, 123˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p@60/120/240fps, 720p@960fps, HDR10+"
+                ],
+                "Camera trước": [
+                    "10 MP, f/2.2, 23mm (góc rộng), HDR",
+                    "Quay phim: 4K@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@60/120/240fps, 720p@960fps, HDR10+",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.1 GHz + 2x2.9 GHz",
+                    "3x2.6 GHz + 4x1.95 GHz"
+                ],
+                "Số nhân": "10 nhân",
+                "Chipset": [
+                    "Exynos 2400e (4 nm)",
+                    "10 nhân (1x3.1 GHz + 2x2.9 GHz + 3x2.6 GHz + 4x1.95 GHz)",
+                    "GPU: Xclipse 940"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Xclipse 940"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "4000 mAh",
+                    "Sạc nhanh 25W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

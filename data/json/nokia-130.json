@@ -1,0 +1,52 @@
+{
+    "url": "https://cellphones.com.vn/nokia-130.html",
+    "name": "Nokia 130",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "1.8 inches"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "VGA Camera"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4MB",
+                "Bộ nhớ trong": "8MB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1020 mAh",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "Mini-SIM",
+                "Jack tai nghe 3.5": "Có"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "111.5 x 48.4 x 14.2mm"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v3.0"
+            }
+        }
+    ]
+}

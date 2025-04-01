@@ -1,0 +1,116 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-mix-flip-2.html",
+    "name": "Xiaomi MIX Flip 2 (Snapdragon 8 Elite)",
+    "price": "23450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, HyperOS 2.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Màn chính: Foldable LTPO AMOLED",
+                    "Màn hình phụ: AMOLED"
+                ],
+                "Màu màn hình": [
+                    "Màn chính: 1 tỷ màu",
+                    "Màn phụ: 68 tỷ màu"
+                ],
+                "Chuẩn màn hình": [
+                    "Màn chính: Foldable LTPO AMOLED, 1 tỷ màu, 120Hz",
+                    "6.86 inches, 1224 x 2912 pixels",
+                    "Màn phụ: AMOLED, 68 tỷ màu, 120Hz",
+                    "4 inches, 1392 x 1208 pixels"
+                ],
+                "Độ phân giải": [
+                    "Màn chính: 1224 x 2912 pixels",
+                    "Màn phụ: 1392 x 1208 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Màn chính: 6.86 inches",
+                    "Màn phụ: 4 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "50 MP (tele), zoom quang 2x",
+                    "Quay phim: 8K, 4K, 1080p, Dolby Vision HDR"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR, Leica lenses",
+                "Quay phim": "8K, 4K, 1080p, Dolby Vision HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x4.32 GHz Oryon V2 Phoenix L",
+                    "6x3.53 GHz Oryon V2 Phoenix M"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+                    "8 nhân (2x4.32 GHz & 6x3.53 GHz)",
+                    "GPU: Adreno 830"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 830"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Điện thoại gập vỏ sò"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "Pin 5680 mAh",
+                    "Sạc nhanh 67W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

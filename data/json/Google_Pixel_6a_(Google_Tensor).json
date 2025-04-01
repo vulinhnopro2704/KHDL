@@ -1,0 +1,124 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/google-pixel-6a.html",
+    "name": "Google Pixel 6a (Google Tensor)",
+    "price": "6250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 12",
+                    "Được lên Android 13"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "OLED, HDR, tỷ lệ 20:9",
+                    "6.1 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Corning Gorilla Glass 3",
+                    "Cảm biến vân tay dưới màn hình",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.1 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "12.2 MP, f/1.7, 27mm, (góc rộng), dual pixel PDAF, OIS",
+                    "12 MP, f/2.2, 17mm, 114˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "8 MP, f/2.0, 24mm (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, Pixel Shift, Auto-HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.80 GHz & 2x2.25 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Google Tensor (5 nm)",
+                    "8 nhân (2x2.80 GHz & 2x2.25 GHz & 4x1.80 GHz)",
+                    "GPU: Mali-G78 MP20"
+                ],
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Mali-G78 MP20"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung kim loại",
+                    "Mặt lưng kính",
+                    "Kháng nước. bụi IP67"
+                ],
+                "Kích thước": "152.2 x 71.8 x 8.9 mm",
+                "Trọng lượng (g)": "178 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4410 mAh",
+                    "Sạc nhanh 18W, PD3.0"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "Nano SIM và/hoặc eSIM",
+                "Khe gắn Sim": "Nano SIM và/hoặc eSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, GALILEO, QZSS",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

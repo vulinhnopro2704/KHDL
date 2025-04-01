@@ -1,0 +1,137 @@
+{
+    "url": "https://cellphones.com.vn/iphone-11-128gb.html",
+    "name": "iPhone 11 128GB | Chính hãng VN/A",
+    "price": "9.490.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "IPS LCD",
+                "Kích thước màn hình": "6.1 inches",
+                "Độ phân giải màn hình": "1792 x 828 pixel",
+                "Tính năng màn hình": "True-tone",
+                "Tần số quét": "60Hz",
+                "Kiểu màn hình": "Tai thỏ"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera kép 12MP:",
+                    "- Camera góc rộng: ƒ/1.8 aperture",
+                    "- Camera siêu rộng: ƒ/2.4 aperture"
+                ],
+                "Quay video": "Quay video 4K ở tốc độ 24 fps, 30 fps hoặc 60 fps",
+                "Tính năng camera": [
+                    "Retina Flash",
+                    "Nhãn dán (AR Stickers)",
+                    "Ban đêm (Night Mode)",
+                    "Chạm lấy nét",
+                    "Góc rộng (Wide)",
+                    "Góc siêu rộng (Ultrawide) HDR Nhận diện khuôn mặt",
+                    "Quay chậm (Slow Motion)",
+                    "Toàn cảnh (Panorama)",
+                    "Trôi nhanh thời gian (Time L"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12 MP, ƒ/2.2 aperture",
+                "Quay video trước": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "A13 Bionic",
+                "GPU": "Apple GPU"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Nano-SIM + eSIM",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS/GNSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3110 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 18W",
+                    "Power Delivery 2.0"
+                ],
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "iOS 13 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Hexa-core"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "150.9mm - 75.7mm - 8.3mm",
+                "Trọng lượng": "194 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Không",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11ax Wi‑Fi 6 with 2x2 MIMO",
+                "Bluetooth": "5.0"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "FaceID, Con quay hồi chuyển, Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng xung quanh"
+            }
+        }
+    ]
+}

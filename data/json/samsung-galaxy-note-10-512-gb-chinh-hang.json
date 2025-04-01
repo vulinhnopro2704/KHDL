@@ -1,0 +1,94 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-note-10-512-gb-chinh-hang.html",
+    "name": "Samsung Galaxy Note 10+ (Plus)",
+    "price": "26.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "Dynamic AMOLED QHD+ Infinity-O",
+                "Kích thước màn hình": "6.8 inches",
+                "Độ phân giải màn hình": "3040 x 1440 pixels"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "- Góc siêu rộng: 16MP (F2.2)",
+                    "- Góc rộng: 12MP OIS (F.15/F2.4)",
+                    "- Tele: 12MP OIS (F2.1)",
+                    "- Ống kính cảm biến chiều sâu TOF"
+                ],
+                "Quay video": "Quay phim siêu chậm 960 fps, Quay phim FullHD 1080p@240fps, Quay phim 4K 2160p@60fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "10 MP (F2.2)"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Samsung Exynos 9825",
+                "GPU": "Mali-G76"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "BDS, A-GPS, GLONASS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4300 mAh, Quick Charge 45W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2 nhân 2.7 GHz, 2 nhân 2.3 GHz và 4 nhân 1.9 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "77.2 mm x 162.3 mm x 7.9 mm",
+                "Trọng lượng": "196 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi hotspot",
+                "Bluetooth": "LE, apt-X, A2DP, v5.0"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Mở khóa bằng khuôn mặt, Mở khoá vân tay dưới màn hình"
+            }
+        }
+    ]
+}

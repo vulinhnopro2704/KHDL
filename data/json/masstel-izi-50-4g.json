@@ -1,0 +1,77 @@
+{
+    "url": "https://cellphones.com.vn/masstel-izi-50-4g.html",
+    "name": "Masstel Izi 50 4G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "2.4 inches",
+                "Công nghệ màn hình": "TFT LCD",
+                "Độ phân giải màn hình": "240 x 320 pixels",
+                "Tính năng màn hình": "QVGA"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "0.08 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc UMS9117"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "128 MB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 32 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "1700 mAh",
+                "Công nghệ sạc": "Sạc 2.5 W",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "122.5 x 53.8 x 15 mm",
+                "Trọng lượng": "130 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v4.2"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "12/2021"
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/thanh-hung-hero-9.html",
+    "name": "Thành Hưng Hero 9",
+    "price": "3290000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, tỷ lệ 20:9",
+                    "6.517 inches, HD+ (720 x 1600 pixels)",
+                    "Màn hình giọt nước"
+                ],
+                "Độ phân giải": "720 x 1600 pixels",
+                "Màn hình rộng": "6.517",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "13 MP (góc rộng)",
+                    "0.08 MP",
+                    "0.08 MP",
+                    "Quay phim: FullHD 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "8 MP",
+                    "Quay phim: FullHD 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét (AF), chạm lấy nét, xóa phông, HDR, làm đẹp",
+                "Quay phim": "FullHD 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x1.8 GHz & 4x1.5 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek MT6762D Helio A25 (12 nm)",
+                    "8 nhân (4x1.8 GHz & 4x1.5 GHz)",
+                    "GPU: PowerVR GE8320"
+                ],
+                "RAM": "3GB",
+                "Chip đồ họa (GPU)": "PowerVR GE8320"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "32GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "164.8 x 76.3 x 8.9 mm",
+                "Trọng lượng (g)": "205 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Hãng không công bố",
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "2 SIM, NanoSIM",
+                "Khe gắn Sim": "2 SIM, NanoSIM",
+                "Wifi": "Wi-Fi hotspot, Wifi 2.4GHz & 5GHz",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "2400-2483.5MHz",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

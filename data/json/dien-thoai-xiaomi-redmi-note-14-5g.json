@@ -1,0 +1,120 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-14-5g.html",
+    "name": "Xiaomi Redmi Note 14 5G 8GB 256GB",
+    "price": "7.290.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz",
+                    "Độ sáng 2100 nits",
+                    "Độ sâu màu 8 bit",
+                    "Độ tương phản 5.000.000:1",
+                    "Giải màu rộng DCI-P3",
+                    "960Hz PWM dimming",
+                    "Corning Gorilla Glass 5"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "108MP, ƒ/1.7",
+                    "8MP góc siêu rộng, ƒ/2.2",
+                    "2MP Macro, ƒ/2.4"
+                ],
+                "Tính năng camera": "OIS, chụp macro, chụp góc rộng, chế độ ban đêm, zoom cảm biến 3x"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20MP, ƒ/2.2"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 7025 - Ultra",
+                "GPU": "IMG BXM-8-256"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5110mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh turbo 45W",
+                    "Sạc 45W trong hộp"
+                ]
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Xiaomi HyperOS"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": [
+                    "Octa-core processor, up to 2.5GHz",
+                    "Tiền trình 6nm"
+                ]
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162.4 x 75.7 x 7.99mm",
+                "Trọng lượng": "190g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP64",
+                "Công nghệ - Tiện ích": "Google Gemini, Xoá AI, AI Sky, làm đẹp AI",
+                "Tiện ích khác": "Mở khóa khuôn mặt",
+                "Công nghệ âm thanh": [
+                    "Loa kép",
+                    "Dolby Atmos"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "5.3"
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-y03-4gb-128gb.html",
+    "name": "vivo Y03 4GB 128GB",
+    "price": "2.890.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "LCD",
+                "Độ phân giải màn hình": "1612x720 (HD+)",
+                "Tính năng màn hình": [
+                    "Hỗ trợ 60Hz, 90 Hz",
+                    "70% NTSC, 269 ppi"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "13 MP + 0.08 MP, f/2.2 (13 MP) + f/3.0 (0.08MP)",
+                "Quay video": "HD 720p@30fps, FullHD 1080p@30fps",
+                "Tính năng camera": "Xóa phông"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5 MP, f/2.2 (5 MP)"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh (TYP)",
+                "Công nghệ sạc": "Sạc nhanh 15W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Funtouch OS 14.0, Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.0GHz*2 + 1.8GHz*6"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "GPU": "Mali-G52"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.63 x 75.58 x 8.39 mm",
+                "Trọng lượng": "190g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Không",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, Cảm biến trọng lực"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi hotspotDual-band (2.4 GHz/5 GHz)",
+                "Bluetooth": "Bluetooth 5.0"
+            }
+        }
+    ]
+}

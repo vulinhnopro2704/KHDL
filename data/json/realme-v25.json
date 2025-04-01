@@ -1,0 +1,51 @@
+{
+    "url": "https://cellphones.com.vn/realme-v25.html",
+    "name": "Realme V25",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "64MP + 2MP + 2 MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 695"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,000mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12, Realme UI 3.0."
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.3 x 75.6 x 8.5mm",
+                "Trọng lượng": "195 g"
+            }
+        }
+    ]
+}

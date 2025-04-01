@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/huawei/huawei-nova-2i.html",
+    "name": "Huawei Nova 2i",
+    "price": "5800000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 7.0",
+                "Ngôn ngữ": "Tiếng việt, Tiếng Anh"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "FullHD+",
+                "Độ phân giải": "1080 x 2160 pixeL",
+                "Màn hình rộng": "5",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "16 MP + 2 MP",
+                "Camera trước": "Dual 13 MP + 2 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét, xóa phông, chụp tước lấy nét.",
+                "Quay phim": "1080p @ 30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (4x2.36 GHz Cortex-A53 và 4x1.7 GHz Cortex-A53)",
+                "Chipset": "HiSilicon Kirin 659",
+                "RAM": "4GB",
+                "Chip đồ họa (GPU)": "Mali-T830 MP2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB",
+                "Thẻ nhớ ngoài": "Có hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "256 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Cảm Ứng",
+                "Kích thước": "1080 x 2160 pixel, tỷ lệ 18: 9",
+                "Trọng lượng (g)": "164"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": "3340mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có hỗ trợ",
+                "4G": "Có hỗ trợ 4G",
+                "Loại Sim": "Micro-SIM",
+                "Khe gắn Sim": "2 Nano SIM",
+                "Wifi": "Wi-Fi 802.11 b/g/n, DLNA, Wi-Fi Direct, Wi-Fi hotspot",
+                "GPS": "A-GPS, GLONASS",
+                "Bluetooth": "v4.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "microUSB 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "microUSB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "H.265, 3GP, MP4, AVI, WMV, H.263",
+                "Nghe nhạc": "Midi, Lossless, MP3, WAV, WMA9, WMA, AAC, AAC+, AAC++, eAAC+",
+                "Cổng sạc": "microUSB",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

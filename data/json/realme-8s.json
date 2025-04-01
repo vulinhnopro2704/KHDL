@@ -1,0 +1,65 @@
+{
+    "url": "https://cellphones.com.vn/realme-8s.html",
+    "name": "Realme 8s",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.5 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Tính năng màn hình": "Tần số quét 90Hz, độ phân giải Full-HD+"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính góc rộng: 64 MP, f/1.8,PDAF",
+                    "Camera góc siêu rộng: 8 MP, f/2.3",
+                    "Camera cận cảnh: 2 MP, f/2.4",
+                    "Camera cảm biến độ sâu: 2 MP, f/2.4, (depth)"
+                ],
+                "Quay video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 810"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11, Realme UI 2.0"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Jack tai nghe 3.5": "Có"
+            }
+        }
+    ]
+}

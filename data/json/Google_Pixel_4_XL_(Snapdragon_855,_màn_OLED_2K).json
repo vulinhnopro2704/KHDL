@@ -1,0 +1,135 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/google-pixel-4-xl-cu.html",
+    "name": "Google Pixel 4 XL (Snapdragon 855, màn OLED 2K)",
+    "price": "4450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, được nâng cấp lên Android 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "P-OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "P-OLED, 90Hz, HDR",
+                    "6.3 inches, QHD+ (1440 x 3040 pixels)",
+                    "Tỷ lệ 19:9, mật độ điểm ảnh ~537 ppi",
+                    "Corning Gorilla Glass 5",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1440 x 3040 pixels",
+                "Màn hình rộng": "6.3 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "12.2 MP, f/1.7, 27mm (góc rộng), dual pixel PDAF, OIS",
+                    "16 MP, f/2.4, 50mm (tele), PDAF, OIS, zoom quang 2x",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps, 1080p@30fps (gyro-EIS)"
+                ],
+                "Camera trước": [
+                    "8 MP, f/2.0, 22mm (góc rộng)",
+                    "TOF 3D, (độ sâu/cảm biến sinh trắc)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, Pixel Shift, Auto-HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, 1080p@30fps (gyro-EIS)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.84 GHz Kryo 485",
+                    "3x2.42 GHz Kryo 485",
+                    "4x1.78 GHz Kryo 485"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+                    "8 nhân (1x2.84 GHz & 3x2.42 GHz & 4x1.78 GHz)",
+                    "GPU: Adreno 640"
+                ],
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Adreno 640"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-128GB, UFS 2.1",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm + 2 mặt lưng kính Gorilla 5",
+                    "Kháng nước, bụi IP68",
+                    "Mở khóa màn hình Face ID"
+                ],
+                "Kích thước": "60.4 x 75.1 x 8.2 mm",
+                "Trọng lượng (g)": "193 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 3700 mAh",
+                    "Sạc nhanh 18W, PD2.0",
+                    "Hỗ trợ sạc không dây"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": [
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66, 71 - Global",
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71 - USA"
+                ],
+                "Loại Sim": "1 SIM Nano + eSIM",
+                "Khe gắn Sim": "1 SIM Nano + eSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, băng tần kép, Wi-Fi Direct, DLNA",
+                "GPS": "GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "Có",
+                "Nghe nhạc": "Có",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

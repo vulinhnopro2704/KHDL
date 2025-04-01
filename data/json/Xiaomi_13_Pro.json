@@ -1,0 +1,131 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-13-pro-sac-120w.html",
+    "name": "Xiaomi 13 Pro",
+    "price": "10250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 13, MIUI 14",
+                    "Lên Android 14, HyperOS"
+                ],
+                "Ngôn ngữ": "Đa ngôn ngữ, Tiếng Việt sau khi up ROM"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 1900 nits (tối đa)",
+                    "6.73 inches, 2K (1440 x 3200 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.73 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50.3 MP, f/1.9, 23mm (góc rộng), Cảm biến 1.0\", Dual Pixel PDAF, Laser AF, OIS",
+                    "50 MP (tele), PDAF, 3.2x optical zoom",
+                    "50 MP, f/2.2, 115˚ (góc siêu rộng), PDAF",
+                    "Quay phim: 8K@24fps (HDR), 4K@30/60fps (HDR10+), 1080p@30/120/240/960fps, 720p@1920fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5, 26mm (góc rộng)",
+                    "Quay phim: 1080p@30/60fps, 720p@120fps, HDR10+"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K@24fps (HDR), 4K@30/60fps (HDR10+), 1080p@30/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": "8-12GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128GB (UFS 3.1 - 2.2GB/s)",
+                    "256GB/512GB (UFS 4.0 - 3.5GB/s)"
+                ],
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung kim loại",
+                    "Mặt lưng gốm, hoặc silicon polymer (da)",
+                    "Kính màn hình cong Gorilla Glass Victus",
+                    "IP68 (có thể kháng nước 1,5m trong 30 phút)"
+                ],
+                "Kích thước": "162.9 x 74.6 x 8.38 (gốm), 8.7 (da)",
+                "Trọng lượng (g)": "229 g (gốm), 210 g (da)"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4820 mAh",
+                    "Sạc nhanh 120W, PD3.0, QC4, 100% trong 19ph (Quảng cáo)",
+                    "Sạc nhanh không dây 50W",
+                    "Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 34, 38, 39, 40, 41, 42",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

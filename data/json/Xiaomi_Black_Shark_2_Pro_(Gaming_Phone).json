@@ -1,0 +1,129 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/black-shark-2-pro.html",
+    "name": "Xiaomi Black Shark 2 Pro (Gaming Phone)",
+    "price": "3650000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "JOY UI OS, Android 9.0 (Pie)",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED",
+                    "6.39 inches, Full HD+ (1080 x 2340 pixels)",
+                    "Tỷ lệ 19.5:9, mật độ điểm ảnh ~403 ppi",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.39 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.8, 28mm (góc rộng), PDAF",
+                    "12 MP, f/2.2, 54mm (tele), PDAF, zoom quang 2x",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120fps, 720p@1920fps"
+                ],
+                "Camera trước": [
+                    "20 MP, f/2.0 (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120fps, 720p@1920fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.96 GHz Kryo 485",
+                    "3x2.42 GHz Kryo 485",
+                    "4x1.78 GHz Kryo 485"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8150 Snapdragon 855+ (7 nm)",
+                    "8 nhân (1x2.96 GHz & 3x2.42 GHz & 4x1.78 GHz)",
+                    "GPU: Adreno 640 (700 MHz)"
+                ],
+                "RAM": "8-12GB (LPDDR4X)",
+                "Chip đồ họa (GPU)": "Adreno 640 (700 MHz)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 3.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế hầm hố, đậm chất game thủ",
+                "Kích thước": "163.6 x 75 x 8.8 mm",
+                "Trọng lượng (g)": "205 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 4000 mAh",
+                    "Sạc nhanh 27W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": [
+                    "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 34, 38, 39, 40, 41 - Global",
+                    "1, 3, 4, 5, 7, 8, 34, 38, 39, 40, 41 - China"
+                ],
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, QZSS, BDS",
+                "Bluetooth": "5.0, A2DP, aptX HD, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C 1.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263, H264, WMV",
+                "Nghe nhạc": "AAC, AMR, MIDI, OGG, FLAC, WMA, WAV, APE, MP3",
+                "Cổng sạc": "Type-C 1.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Vân tay dưới màn hình, Always-on display"
+            }
+        }
+    ]
+}

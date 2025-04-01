@@ -1,0 +1,147 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-note-11-pro-5g.html",
+    "name": "Xiaomi Redmi Note 11 Pro 5G",
+    "price": "5.590.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "120Hz, 1200 nits (tối đa)",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 108MP, f/1.9",
+                    "Camera góc siêu rộng: 8MP, f/2.2 FOV 118°",
+                    "Camera macro: 2MP, f/2.4"
+                ],
+                "Quay video": [
+                    "1080p 1920x1080 | 30fps",
+                    "720p 1280x720 | 30fps"
+                ],
+                "Tính năng camera": [
+                    "Lấy nét theo pha (PDAF)",
+                    "AI Camera Chuyên nghiệp (Pro)",
+                    "HDR",
+                    "Toàn cảnh (Panorama)",
+                    "Quay video hiển thị kép",
+                    "Ban đêm (Night Mode)",
+                    "Xóa phông",
+                    "Siêu cận (Macro)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP, f/2.4",
+                "Quay video trước": [
+                    "1080p 1920x1080 | 30fps",
+                    "720p 1280x720 | 30fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon® 695",
+                "GPU": "Qualcomm® Adreno™ 619"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS L1 | Glonass G1 | BDS B1 | Galileo E1"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "Sạc nhanh turbo với công suất 67W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "MIUI 13, Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core CPU, up to 2.2GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.19 x 76.1 x 8.12mm",
+                "Trọng lượng": "202g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Công nghệ tản nhiệt LiquidCool",
+                "Chỉ số kháng nước, bụi": "Không có",
+                "Tiện ích khác": [
+                    "Ứng dụng kép (Nhân bản ứng dụng)",
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Mở rộng bộ nhớ RAM",
+                    "Màn hình luôn hiển thị AOD",
+                    "Chạm 2 lần sáng màn hình"
+                ],
+                "Công nghệ âm thanh": "Chứng nhận âm thanh độ phân giải cao, Âm thanh Dolby Atmos, Âm thanh Hi-Res Audio"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11a/b/g/n/ac",
+                "Bluetooth": "5.1"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "2/2022"
+            }
+        }
+    ]
+}

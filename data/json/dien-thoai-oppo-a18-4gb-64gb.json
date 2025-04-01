@@ -1,0 +1,168 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-oppo-a18-4gb-64gb.html",
+    "name": "OPPO A18 4GB 64GB",
+    "price": "2.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.56 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1612 (HD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 90 Hz",
+                    "Độ sáng tối đa: 720 nits",
+                    "Mặt kính cảm ứng: Kính cường lực Panda"
+                ],
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 8 MP & Phụ 2 MP",
+                "Quay video": [
+                    "HD 720p@30fps",
+                    "FullHD 1080p@30fps"
+                ],
+                "Tính năng camera": [
+                    "Zoom kỹ thuật số",
+                    "Xóa phông",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Toàn cảnh (Panorama)",
+                    "Nhãn dán (AR Stickers)",
+                    "Làm đẹp",
+                    "HDR",
+                    "Google Lens",
+                    "Chụp hẹn giờ",
+                    "Chuyên nghiệp (Pro)",
+                    "Bộ lọc màu",
+                    "Ban đêm (Night Mode)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G85 8 nhân",
+                "GPU": "Mali-G52 MP2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": [
+                    "QZSS",
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO",
+                    "BEIDOU"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,000mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 10 W",
+                    "Tiết kiệm pin",
+                    "Siêu tiết kiệm pin"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2 nhân 2.0 GHz & 6 nhân 1.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.74 x 75.03 x 8.16 mm",
+                "Trọng lượng": "188 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Thuỷ tinh hữu cơ",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Công nghệ - Tiện ích": [
+                    "Ứng dụng kép (Nhân bản ứng dụng)",
+                    "Thanh bên thông minh",
+                    "Cử chỉ thông minh",
+                    "Cử chỉ màn hình tắt",
+                    "Chế độ đơn giản (Giao diện đơn giản)"
+                ],
+                "Tiện ích khác": [
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Tối ưu game (Không gian trò chơi)",
+                    "Mở rộng bộ nhớ RAM",
+                    "DCI-P3",
+                    "Chế độ trẻ em (Không gian trẻ em)",
+                    "Chặn tin nhắn",
+                    "Chặn cuộc gọi",
+                    "Chạm 2 lần tắt/sáng màn hình"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi 802.11 a/b/g/n/ac",
+                    "Dual-band (2.4 GHz/5 GHz)"
+                ],
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "10/2023"
+            }
+        }
+    ]
+}

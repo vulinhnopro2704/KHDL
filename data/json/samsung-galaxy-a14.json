@@ -1,0 +1,106 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-a14.html",
+    "name": "Samsung Galaxy A14 5G",
+    "price": "4.200.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "1080 x 2408 pixels",
+                "Tính năng màn hình": "Tần số quét 90Hz",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50MP, f/1.8, 26mm, PDAF",
+                    "Camera macro: 2MP, f/2.4",
+                    "Camera đo độ sâu: 2MP, f/2.4"
+                ],
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": "Đèn flash LED, toàn cảnh, HDR"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "13MP",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 700",
+                "GPU": [
+                    "SM-A146B - 2x2.4 GHz & 6x2.0 GHz",
+                    "SM-A146P - 2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55"
+                ]
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Nano-SIM",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, GLONASS, GALILEO"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "microSDXC"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 15W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core 2.2 GHz"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac",
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tiện ích khác": "Tích hợp thêm giao diện One UI 5.0 tiện lợi, hệ thống loa với âm thành vòm Dolby Atmos"
+            }
+        }
+    ]
+}

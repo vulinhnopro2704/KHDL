@@ -1,0 +1,149 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/motorola-razr-40-snapdragon-7-gen-1.html",
+    "name": "Motorola Razr 40 5G (Snapdragon 7 Gen 1)",
+    "price": "13250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Foldable LTPO AMOLED",
+                "Màu màn hình": [
+                    "Màn gập: 1 tỷ màu",
+                    "Màn phụ: 16 triệu màu"
+                ],
+                "Chuẩn màn hình": [
+                    "Màn gập: Foldable LTPO AMOLED, 1 tỷ màu, 144Hz, HDR10+, 1400 nits (tối đa)",
+                    "6.9 inches, Full HD+ (1080 x 2640 pixels), tỷ lệ 22:9",
+                    "Màn phụ: AMOLED, 1000 nits (tối đa)",
+                    "1.5 inches, 194 x 368 pixels, tỷ lệ 2:1",
+                    "Gorilla Glass Victus"
+                ],
+                "Độ phân giải": [
+                    "Màn gập: 1080 x 2640 pixels",
+                    "Màn phụ: 194 x 368 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Màn gập: 6.9 inches",
+                    "Màn phụ: 1.5 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.7, (góc rộng), PDAF, Laser AF, OIS",
+                    "13 MP, f/2.2, 120˚ (góc siêu rộng), AF",
+                    "Quay phim: 4K@30fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.4 (góc rộng), HDR",
+                    "Quay phim: 4K@30fps, 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K@30fps, 1080p@30/60fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.4 GHz & 3x2.36 GHz & 4x1.8 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm)",
+                    "8 nhân (1x2.4 GHz & 3x2.36 GHz & 4x1.8 GHz)",
+                    "GPU: Adreno 644"
+                ],
+                "RAM": "8-12GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Adreno 644"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Điện thoại gập vỏ sò",
+                    "Khung nhôm 7000 series",
+                    "Bản lề thép không gỉ",
+                    "Màn hình trong kính dẻo",
+                    "Màn hình ngoài nhựa",
+                    "Mặt lưng nhựa",
+                    "Phủ chống thấm nước"
+                ],
+                "Kích thước": [
+                    "Khi mở: 170.8 x 74 x 7.4 mm",
+                    "Khi đóng: 88.2 x 74 x 15.8 mm"
+                ],
+                "Trọng lượng (g)": "188.6 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4200 mAh",
+                    "Sạc nhanh 30W",
+                    "Sạc không dây 5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": [
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 43, 48, 66 - International",
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71 - North America"
+                ],
+                "Loại Sim": [
+                    "2 SIM, Nano SIM",
+                    "Hoặc Nano SIM, eSIM"
+                ],
+                "Khe gắn Sim": [
+                    "2 SIM, Nano SIM",
+                    "Hoặc Nano SIM, eSIM"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (tùy theo vùng)",
+                "GPS": "GPS, GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.3, A2DP, EDR, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

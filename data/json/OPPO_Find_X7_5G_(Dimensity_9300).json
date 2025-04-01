@@ -1,0 +1,136 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-find-x7-5g-hieu-nang-sieu-manh.html",
+    "name": "OPPO Find X7 5G (Dimensity 9300)",
+    "price": "11950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, ColorOS 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR10+, 1600 nits (typ), 2300 nits (HBM), 4500 nits (tối đa)",
+                    "6.78 inches, 1.5K (1264 x 2780 pixels)",
+                    "Mật độ điểm ảnh ~450 ppi",
+                    "Corning Gorilla Glass Victus 2"
+                ],
+                "Độ phân giải": "1264 x 2780 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6, 23mm (góc rộng), PDAF, OIS",
+                    "64 MP, f/2.6, 70mm (tiềm vọng tele), zoom quang 3x, PDAF, OIS",
+                    "50 MP, f/2.0, 15mm, 119˚ (góc siêu rộng), PDAF",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.4, 21mm (góc rộng), PDAF, Panorama",
+                    "Quay phim: 4K@30fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Hasselblad Color Calibration, LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.25 GHz Cortex-X4",
+                    "3x2.85 GHz Cortex-X4",
+                    "4x2.0 GHz Cortex-A720"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 9300",
+                    "8 nhân (1x3.25 GHz & 3x2.85 GHz & 4x2.0 GHz)",
+                    "GPU: Immortalis-G720 MC12"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Immortalis-G720 MC12"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm bo cong",
+                    "Mặt lưng da/kính",
+                    "Kính trước Gorilla Glass Victus 2",
+                    "Màn hình cong + cảm biến vân tay dưới màn hình",
+                    "Kháng nước, bụi IP65"
+                ],
+                "Kích thước": [
+                    "162.7 x 75.4 x 8.7 mm (Lưng kính)",
+                    "162.7 x 75.4 x 9.0 mm (Lưng da)"
+                ],
+                "Trọng lượng (g)": [
+                    "206 g (Lưng kính)",
+                    "202 g (Lưng da)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc 100W (dây)",
+                    "Sạc 100% trong 26 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 3, 4, 5 , 7, 8, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC, NFC-SIM, HCE, eSE, eID",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

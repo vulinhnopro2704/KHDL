@@ -1,0 +1,149 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/honor-magic-v3-chinh-hang.html",
+    "name": "Honor Magic V3 Chính hãng",
+    "price": "34950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 14, MagicOS 8.0.1",
+                    "được lên MagicOS 9.0"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Foldable LTPO AMOLED (màn chính)",
+                    "LTPO OLED (màn phụ)"
+                ],
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "Màn chính: Foldable LTPO AMOLED, 1 tỷ màu, HDR10+, Dolby Vision, 120Hz, 1800 nits (peak)",
+                    "7.92 inches, 2.3K (2156 x 2344 pixels)",
+                    "Mật độ điểm ảnh ~402 ppi",
+                    "Kính dẻo: King Kong Rhinoceros",
+                    "Màn phụ: LTPO OLED, 1 tỷ màu, 120Hz, Dolby Vision, 5000 nits (peak)",
+                    "6.43 inches, Full HD+ (1060 x 2376 pixels), 402 ppi",
+                    "KÍnh: Nanocrystal glass 2.0"
+                ],
+                "Độ phân giải": [
+                    "2156 x 2344 pixels (màn chính)",
+                    "1060 x 2376 pixels (màn phụ)"
+                ],
+                "Màn hình rộng": [
+                    "7.92 inches (màn chính)",
+                    "6.43 inches (màn phụ)"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6, 23mm (góc rộng), 1/1.56\", 1.0µm, PDAF, OIS",
+                    "50 MP, f/3.0, 90mm (tiềm vọng tele), 1/2.51\", 0.7µm, PDAF, OIS, zoom quang 3.5x",
+                    "40 MP, f/2.2, 16mm, 112˚ (góc siêu rộng), AF",
+                    "Quay phim: 4K@30/60fps (10-bit), 1080p@30/60fps, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "Màn chính: 20 MP, f/2.2, 90˚, 21mm (góc rộng), 0.61µm",
+                    "Màn phụ: 20 MP, f/2.2, 90˚, 21mm (góc rộng), 0.61µm",
+                    "Quay phim: 4K@30fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Laser AF, LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps (10-bit), 1080p@30/60fps, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 3x3.2 GHz & 2x3.0 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Điện thoại gập",
+                    "Khung nhôm; mặt lưng kính/sợi nylon",
+                    "Hỗ trợ bút cảm ứng stylus",
+                    "Kháng nước IPX8 (lngâm 2.5m trong 30 phút)"
+                ],
+                "Kích thước": [
+                    "Mở ra: 156.6 x 145.3 x 4.35 mm hoặc 4.4 mm",
+                    "Gấp lại: 156.6 x 74.0 x 9.2 mm hoặc 9.3 mm"
+                ],
+                "Trọng lượng (g)": "226 g hoặc 230 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 5150 mAh",
+                    "Sạc nhanh 66W",
+                    "Sạc không dây 50W",
+                    "Sạc ngược 5W (dây)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700 (AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, băng tần kép, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a)",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD, LDAC",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res audio"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, OTG, Display Port 1.2",
+                "Kết nối khác": "NFC (NFC-SIM, HCE), hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

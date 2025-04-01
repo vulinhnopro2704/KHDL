@@ -1,0 +1,130 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/motorola-edge-50-pro-snapdragon-7-gen-3.html",
+    "name": "Motorola Edge 50 Pro 5G (Snapdragon 7 Gen 3)",
+    "price": "9050000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 14, Hello UI",
+                    "3 năm nâng cấp hệ điều hành / 4 năm SMR"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "OLED, 1 tỷ màu, 144Hz, HDR10+, 2000 nits (tối đa)",
+                    "6.7 inches, 1.5K (1220 x 2712 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~446 ppi",
+                    "Corning Gorilla Glass"
+                ],
+                "Độ phân giải": "1220 x 2712 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.4 (góc rộng), đa hướng PDAF, Laser AF, OIS",
+                    "10 MP, f/2.0, 73mm (telephoto), PDAF, OIS, zoom quang 3x",
+                    "13 MP, f/2.2, 120˚, 13mm (góc siêu rộng), AF",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120/240fps, 10-bit HDR10+, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "50 MP, f/1.9 (góc rộng), HDR",
+                    "Quay phim: 4K@30fps, 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K@30fps, 1080p@30/60/120/240fps, 10-bit HDR10+, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.63 GHz Cortex-A715",
+                    "4x2.4 GHz Cortex-A715",
+                    "3x1.8 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 7 Gen 3 (4 nm)",
+                    "8 nhân (1x2.63 GHz & 4x2.4 GHz & 3x1.8 GHz)",
+                    "GPU: Adreno 720"
+                ],
+                "RAM": "8-12GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Adreno 720"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm",
+                    "Mặt trước bằng kính Gorilla Glass",
+                    "Mặt sau bằng acetate (giống gỗ)",
+                    "hoặc mặt sau bằng silicon polymer (da sinh thái)",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "161.2 x 72.4 x 8.2 mm",
+                "Trọng lượng (g)": "186 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4500 mAh",
+                    "Sạc siêu nhanh 125W, 100% trong 18 ph (QC)",
+                    "Sạc không dây 50W; Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 43, 48, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, OTG, DisplayPort 1.4",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

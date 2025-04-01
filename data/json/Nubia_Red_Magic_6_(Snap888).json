@@ -1,0 +1,119 @@
+{
+    "url": "https://mobilecity.vn/zte/nubia-red-magic-6.html",
+    "name": "Nubia Red Magic 6 (Snap888)",
+    "price": "6950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, Redmagic 4.0",
+                "Ngôn ngữ": "Tiếng Anh, Up tiếng Việt sau khi Unlock."
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 165Hz, 630 nits (typ)",
+                    "6.8 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass"
+                ],
+                "Độ phân giải": "6.8 inches, Full HD+ (1080 x 2400 pixels, 20:9 ratio), 165Hz",
+                "Màn hình rộng": "6.8",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.8, 26mm (góc rộng), PDAF",
+                    "8 MP, f/2.0, 120˚, 13mm (siêu rộng)",
+                    "2 MP, (macro)",
+                    "Quay phim 8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps"
+                ],
+                "Camera trước": [
+                    "8 MP, f/2.0 (góc rộng)",
+                    "Quay phim 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8350 Snapdragon 888 5G (5 nm), 8 nhân",
+                    "(1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)",
+                    "GPU: Adreno 660"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 660"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB, UFS 3.1",
+                    "Thẻ nhớ: không"
+                ],
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế 2 mặt kính, khung nhôm",
+                "Kích thước": "169 x 77.1 x 9.7 mm",
+                "Trọng lượng (g)": "220 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5050 mAh",
+                    "Sạc nhanh 66W, 100% trong 38 phút (quảng cáo)",
+                    "Power Delivery 3.0, Quick Charge 4"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.1, A2DP, aptX, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.0, USB On-The-Go; accessory connector",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

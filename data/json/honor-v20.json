@@ -1,0 +1,87 @@
+{
+    "url": "https://cellphones.com.vn/honor-v20.html",
+    "name": "Honor V20",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "IPS LCD, 16 triệu màu",
+                "Kích thước màn hình": "6.4 inches",
+                "Độ phân giải màn hình": "1080 x 2310 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "48 MP, f/1.8, 1/2\"",
+                "Quay video": "2160p@30fps, 1080p@30fps, 720p@960fps, (gyro-EIS)"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "25 MP, f/2.0"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "HiSilicon Kirin 980 (7 nm)",
+                "GPU": "Mali-G76 MP10"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4000 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "156.9 x 75.4 x 8.1 mm",
+                "Trọng lượng": "180 g"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Khe cắm thẻ nhớ": "microSD, hỗ trợ tối đa 400 GB"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+                "Bluetooth": "5.0, A2DP, aptX HD, LE"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Vân tay (gắn phía sau), gia tốc kế, con quay hồi chuyển, độ gần, la bàn"
+            }
+        }
+    ]
+}

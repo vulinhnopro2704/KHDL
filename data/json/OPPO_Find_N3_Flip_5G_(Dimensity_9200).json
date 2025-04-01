@@ -1,0 +1,139 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-find-n3-flip-5g-chinh-hang.html",
+    "name": "OPPO Find N3 Flip 5G (Dimensity 9200)",
+    "price": "17450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, ColorOS 13.2",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Màn chính: Foldable LTPO AMOLED",
+                    "Màn phụ: AMOLED"
+                ],
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Màn chính: Foldable LTPO AMOLED, 120Hz, HDR10+, 1200 nits (HBM), 1600 nits (tối đa)",
+                    "6.8 inches, Full HD+ (1080 x 2520 pixels), tỷ lệ 21:9",
+                    "Màn phụ: AMOLED, 800 nits (HBM), 900 nits (tối đa)",
+                    "3.26 inches, 382 x 720 pixels",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Độ phân giải": [
+                    "Màn chính: 1080 x 2520 pixels",
+                    "Màn phụ: 382 x 720 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Màn chính: 6.8 inches",
+                    "Màn phụ: 3.26 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), multi-directional PDAF, OIS",
+                    "32 MP, f/2.0, 47mm (tele), zoom quang 2x, PDAF",
+                    "48 MP, f/2.2, 14mm, 114˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/240fps; gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32MP, f/2.4, 21mm (góc rộng), AF",
+                    "HDR, panorama",
+                    "Quay phim: 4K@30fps, 1080p@30fps; gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Hasselblad, LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/240fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.05 GHz & 3x2.85 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 9200 (4 nm)",
+                    "8 nhân (1x3.05 GHz & 3x2.85 GHz & 4x1.80 GHz)",
+                    "GPU: Immortalis-G715 MC11"
+                ],
+                "RAM": "12GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Immortalis-G715 MC11"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Điện thoại gập kiểu vỏ sò",
+                    "Khung nhôm, mặt lưng nhựa"
+                ],
+                "Kích thước": [
+                    "Khi mở ra: 166.4 x 75.8 x 7.8 mm",
+                    "Khi gấp lại: 85.5 x 75.8 x 16.5 mm"
+                ],
+                "Trọng lượng (g)": "198 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4300 mAh",
+                    "Sạc nhanh 44W",
+                    "Sạc 50% trong 23 ph (QC)",
+                    "Hỗ trợ sạc ngược (dây)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct, hotspot",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC (eSE, HCE, NFC-SIM)",
+                "Cổng sạc": "Type-C 2.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C 2.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-poco-x5-Pro-5g.html",
+    "name": "Xiaomi POCO X5 Pro 5G (Snapdragon 778G - Camera 108MP)",
+    "price": "7000000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, MIUI 14 cho POCO",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR10+, 900 nits (HBM)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.9 (góc rộng), PDAF",
+                    "8 MP, f/2.2, 120˚ (góc siêu rộng)",
+                    "2 MP, f/2.4, (macro)",
+                    "Quay phim: 4K@30fps, 1080p@30/60fps, 720p@30fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.4 (góc rộng)",
+                    "Quay phim: 1080p@30/60fps, 720p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60fps, 720p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.4 GHz & 3x2.2 GHz & 4x1.9 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+                    "8 nhân (1x2.4 GHz & 3x2.2 GHz & 4x1.9 GHz)",
+                    "GPU: Adreno 642L"
+                ],
+                "RAM": [
+                    "6-8GB",
+                    "LPDDR4X"
+                ],
+                "Chip đồ họa (GPU)": "Adreno 642L"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB",
+                    "UFS 2.2"
+                ],
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Thanh + Cảm ứng",
+                    "Kháng nước/bụi IP53",
+                    "Màu sắc: Vàng, Xanh dương, Đen"
+                ],
+                "Kích thước": "162.9 x 76 x 7.9 mm",
+                "Trọng lượng (g)": "181 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 67W, PD3.0, QC4",
+                    "Sạc ngược có dây 5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C 2.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C 2.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

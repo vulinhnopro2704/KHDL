@@ -1,0 +1,26 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-xcover-pro-2.html",
+    "name": "Samsung Galaxy XCover Pro 2",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 778G 5G 8 nhân",
+                "GPU": "Adreno 642L"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        }
+    ]
+}

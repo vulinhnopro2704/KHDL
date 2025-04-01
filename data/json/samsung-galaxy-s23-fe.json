@@ -1,0 +1,157 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-s23-fe.html",
+    "name": "Samsung Galaxy S23 FE 5G 8GB 128GB",
+    "price": "14.890.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.4 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120 Hz, 1450 nits",
+                    "Kính cường lực Corning Gorilla Glass 5"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50 MP & Phụ 12 MP, 8 MP",
+                "Quay video": [
+                    "8K 4320p@24fps",
+                    "4K 2160p@60/30fps,br>FullHD 1080p@60/30fps",
+                    "HD 720p@960/30fps"
+                ],
+                "Tính năng camera": [
+                    "Quay video hiển thị kép",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Góc siêu rộng (Ultrawide)",
+                    "Zoom kỹ thuật số",
+                    "Quét tài liệu",
+                    "Quay chậm (Slow Motion)",
+                    "Xóa phông",
+                    "Toàn cảnh (Panorama)",
+                    "Chống rung quang học (OIS)",
+                    "Tự động lấy nét (AF)",
+                    "Ban đê"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "10 MP",
+                "Quay video trước": [
+                    "FullHD 1080p@60/30fps",
+                    "HD 720p@960/30fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 2200 8 nhân",
+                "GPU": "Xclipse 920"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano SIM hoặc 1 Nano + 1 eSIM",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "BEIDOU, QZSS, GPS, GLONASS, GALILEO"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 2.8 GHz, 3 nhân 2.5 GHz & 4 nhân 1.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "158 x 76.5 x 8.2 mm",
+                "Trọng lượng": "209 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": "Galaxy AI tiện ích - Khoanh vùng search đa năng, là trợ lý chỉnh ảnh, trợ lý chat thông minh, phiên dịch trực tiếp",
+                "Tiện ích khác": [
+                    "Không gian thứ hai (Thư mục bảo mật)",
+                    "Ứng dụng kép (Dual Messenger)",
+                    "Mở rộng bộ nhớ RAM",
+                    "Màn hình luôn hiển thị AOD",
+                    "Trợ lý ảo Google Assistant",
+                    "Chế độ trẻ em (Samsung Kids)",
+                    "HDR10+",
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Samsung DeX (Kết nối màn"
+                ],
+                "Công nghệ âm thanh": [
+                    "Âm thanh AKG",
+                    "Âm thanh Dolby Atmos"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/ax",
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "10/2023"
+            }
+        }
+    ]
+}

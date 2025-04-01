@@ -1,0 +1,95 @@
+{
+    "url": "https://mobilecity.vn/oppo/realme-q2-pro.html",
+    "name": "Realme Q2 Pro (màn AMOLED)",
+    "price": "5250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, Realme UI",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED, 600 nits (peak)",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "6.4 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                "Độ phân giải": "6.4 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                "Màn hình rộng": "6.4",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "48 MP, f/1.8 - 8 MP, f/2.3 (góc rộng) - 2 MP, f/2.4, (xóa phông) - 2 MP, f/2.4, (macro)",
+                "Camera trước": "16 MP, f/2.5, 26mm (wide)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek Dimensity 800U 5G (7 nm)",
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Mali-G57 MC3"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB UFS 2.1",
+                "Thẻ nhớ ngoài": "No"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + cảm ứng",
+                "Kích thước": "160.9 x 74.4 x 8.1 mm",
+                "Trọng lượng (g)": "175"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "4300 mAh, sạc nhanh 65W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, QZSS, BDS",
+                "Bluetooth": "5.1, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "No",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

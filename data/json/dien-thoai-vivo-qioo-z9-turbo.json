@@ -1,0 +1,77 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-qioo-z9-turbo.html",
+    "name": "vivo iQOO Z9 Turbo",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.72 inches",
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "Độ phân giải 1.5K, độ sáng 4500 nits, tần số quét 144Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chống rung quang học (OIS) và camera góc siêu rộng 8MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8s Gen 3"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh có dây 80W",
+                    "Sạc ngược có dây 7.5W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Tản nhiệt bằng chất lỏng VC 6K",
+                "Chỉ số kháng nước, bụi": "IP64"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 6",
+                "Bluetooth": "v5.4"
+            }
+        }
+    ]
+}

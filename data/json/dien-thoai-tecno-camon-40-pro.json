@@ -1,0 +1,92 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-tecno-camon-40-pro.html",
+    "name": "Tecno Camon 40 Pro",
+    "price": "Giá liên hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Tính năng màn hình": [
+                    "Màn hình cong đôi",
+                    "FHD+",
+                    "Tần số quét 120Hz",
+                    "Độ sáng màn hình 1300 nits",
+                    "HDR"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "50MP, ƒ/1.8",
+                    "Góc siêu rộng 8MP"
+                ],
+                "Tính năng camera": "Chụp góc rộng, Chế độ chụp FlashSnap, Chụp tự động, Chụp toàn cảnh, Chụp đêm, Chụp cận, Thu Phóng 2X, Lấy nét theo mắt AF, OIS, Cảm biến AI Snapshot"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "50MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Mediatek Helio G100 Ultimate"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5200mAh",
+                "Công nghệ sạc": "Sạc nhanh 45W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 15"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164,44 x 74,32 x 7,31mm",
+                "Trọng lượng": "178g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Tản nhiệt thông minh E-Sports Pro",
+                "Chỉ số kháng nước, bụi": "IP68/IP69",
+                "Tiện ích khác": "Studio AI, Sáng tạo hình nền AI, Khoanh vùng tìm kiếm AI, Trợ lý viết AI, Ghi chú AI, Dịch thuật, Cảm ứng thông minh Ella"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wifi 2.4",
+                "Bluetooth": "BT 5.4"
+            }
+        }
+    ]
+}

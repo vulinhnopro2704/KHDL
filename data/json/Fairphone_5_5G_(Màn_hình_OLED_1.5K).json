@@ -1,0 +1,135 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/fairphone-5-man-hinh-oled-1-5k.html",
+    "name": "Fairphone 5 5G (Màn hình OLED 1.5K)",
+    "price": "18350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 13, được lên Android 14",
+                    "(Hỗ trợ cập nhật phần mềm 10 năm)"
+                ],
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16.7 triệu màu",
+                "Chuẩn màn hình": [
+                    "OLED, 90Hz, 880 nits (tối đa)",
+                    "6.46 inches, 1.5K (1224 x 2700 pixels)",
+                    "Mật độ điểm ảnh 459 ppi",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1224 x 2700 pixels",
+                "Màn hình rộng": "6.46 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9 (góc rộng), PDAF, OIS",
+                    "50 MP, f/2.2 (góc siêu rộng), PDAF",
+                    "TOF 3D (đo độ sâu)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120/240fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "50 MP, f/2.45 (góc rộng), HDR",
+                    "Quay phim: 4K@30fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120/240fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.7 GHz & 3x2.2 GHz & 4x1.9 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm QCM6490 (6 nm)",
+                    "8 nhân (1x2.7 GHz & 3x2.2 GHz & 4x1.9 GHz)",
+                    "GPU: Adreno 643L"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Adreno 643L"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB",
+                "Thẻ nhớ ngoài": [
+                    "microSDXC",
+                    "(khe chuyên dụng)"
+                ],
+                "Hỗ trợ thẻ tối đa": "2TB (SD 3.0)"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung kim loại",
+                    "Mặt lưng bằng vật liệu tái chế",
+                    "Mặt trước kính Gorilla Glass 5",
+                    "Độ bền theo tiêu chuẩn quân đội Mỹ MIL-STD-810G",
+                    "Kháng nước, bụi IP55"
+                ],
+                "Kích thước": "162 x 75.5 x 10.5 mm"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": [
+                    "Li-Ion",
+                    "Có thể tháo rời"
+                ],
+                "Dung lượng pin": [
+                    "Li-Ion 4200 mAh (Có thể tháo rời)",
+                    "Sạc nhanh 30W",
+                    "Sạc 50% pin trong 30 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "Nano SIM và eSIM",
+                "Khe gắn Sim": "Nano SIM và eSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.0, OTG, DisplayPort",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-15-5g-sieu-manh.html",
+    "name": "Xiaomi 15 5G - Chính hãng Việt Nam (Snapdragon 8 Elite)",
+    "price": "15250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, HyperOS 2",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO OLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR10+, 3200 nits (peak)",
+                    "6.36 inches, 1.5K (1200 x 2670 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~460 ppi",
+                    "Kính bảo vệ Shatterproof"
+                ],
+                "Độ phân giải": "1200 x 2670 pixels",
+                "Màn hình rộng": "6.36 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6, 23mm (góc rộng), dual pixel PDAF, OIS",
+                    "50 MP, f/2.0, 60mm (tele), PDAF (10cm - ∞), OIS, zoom quang 3x",
+                    "50 MP, f/2.2, 14mm, 115˚ (góc siêu rộng)",
+                    "Quay phim: 8K@24/30fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.0, 22mm (góc rộng), HDR, panorama",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Laser AF, Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K@24/30fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x4.32 GHz Oryon V2 Phoenix L",
+                    "6x3.53 GHz Oryon V2 Phoenix M"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+                    "8 nhân (2x4.32 GHz & 6x3.53 GHz)",
+                    "GPU: Adreno 830"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 830"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung hợp kim nhôm (6M42) phẳng",
+                    "Mặt lưng kính phẳng",
+                    "Màn hình phẳng + cảm biến vân tay siêu âm",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": [
+                    "152.3 x 71.2 x 8.1 mm (Tím, Xám, Xanh và Trắng)",
+                    "152.3 x 71.2 x 8.5 mm (Bạc)",
+                    "152.3 x 71.2 x 8.4 mm (phiên bản giới hạn kim cương)"
+                ],
+                "Trọng lượng (g)": [
+                    "191 g (Tím, Xám, Xanh và Trắng)",
+                    "192 g (Bạc)",
+                    "189 g (phiên bản giới hạn kim cương)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 5400/5240 mAh",
+                    "Sạc nhanh 90W",
+                    "Sạc không dây 50W",
+                    "Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, băng tần kép, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res & Hi-Res wireless audio",
+                    "Snapdragon Sound"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2, OTG",
+                "Kết nối khác": "NFC, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

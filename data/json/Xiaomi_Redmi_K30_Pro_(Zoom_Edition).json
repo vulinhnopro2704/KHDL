@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-k30-pro-zoom.html",
+    "name": "Xiaomi Redmi K30 Pro (Zoom Edition)",
+    "price": "13050000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10; MUIU 11",
+                "Ngôn ngữ": "Đa ngôn ngữ, có tiếng việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "Super AMLOED, Full HD+ (1080 x 2400 pixels), 6.67 inches, HDR 10+",
+                "Độ phân giải": "1080 x 2400 pixles",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 Camera sau: 64MP + 8MP (Telephoto) + 13MP (Góc siêu rộng) + 2MP (Đo chiều sâu)",
+                "Camera trước": "20MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama, Dual video call, gyro-EIS & OIS, dual-video rec.",
+                "Quay phim": "Quay phim 8K (4320p@30fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 865 (7nm+)",
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-2128G",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế nguyên khối, màn hình full view",
+                "Kích thước": "163.3 x 75.4 x 8.9 mm",
+                "Trọng lượng (g)": "218 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-po",
+                "Dung lượng pin": "4700mAh - Sạc nhanh 33W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "có",
+                "4G": "có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS, NavIC",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "có",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263, H264",
+                "Nghe nhạc": "MP3",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Cảm biến vân tay dưới màn hình"
+            }
+        }
+    ]
+}

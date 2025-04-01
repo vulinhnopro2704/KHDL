@@ -1,0 +1,134 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/samsung-galaxy-a35-chinh-hang-ip67.html",
+    "name": "Samsung Galaxy A35 Chính hãng (5G - Chuẩn IP67)",
+    "price": "6950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, One UI 6.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super AMOLED, 120Hz, 1000 nits (HBM)",
+                    "6.6 inches, Full HD+ (1080 x 2340 pixels)",
+                    "Tỷ lệ 19.5:9, mật độ điểm ảnh ~390 ppi",
+                    "Corning Gorilla Glass Victus+",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.6 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8 (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, 123˚ (góc siêu rộng)",
+                    "5 MP, f/2.4 (macro)",
+                    "Quay phim: 4K@30fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "13 MP, f/2.2 (góc rộng)",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K@30fps, 1080p@30/60fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "4x2.4 GHz Cortex-A78",
+                    "4x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Exynos 1380 (5 nm)",
+                    "8 nhân (4x2.4 GHz & 4x2.0 GHz)",
+                    "GPU: Mali-G68 MP5"
+                ],
+                "RAM": "6-8GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Mali-G68 MP5"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS",
+                "Thẻ nhớ ngoài": [
+                    "microSDXC",
+                    "(sử dụng chung với khe SIM 2)"
+                ]
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng kính, kính trước Gorilla Victus+",
+                    "Cảm biến vân tay quang học dưới màn hình",
+                    "Kháng nước, bụi IP67"
+                ],
+                "Kích thước": "161.7 x 78 x 8.2 mm",
+                "Trọng lượng (g)": "209 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 25W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 32, 38, 40, 41, 66",
+                "Loại Sim": [
+                    "1 SIM, Nano SIM",
+                    "Hoặc 2 SIM, Nano SIM"
+                ],
+                "Khe gắn Sim": [
+                    "1 SIM, Nano SIM",
+                    "Hoặc 2 SIM, Nano SIM"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+                "Bluetooth": "5.3, A2DP, LE, aptX",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC (tùy theo thị trường)",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

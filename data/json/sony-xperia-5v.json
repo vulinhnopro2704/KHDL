@@ -1,0 +1,115 @@
+{
+    "url": "https://cellphones.com.vn/sony-xperia-5v.html",
+    "name": "Xperia 5 V",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.1 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1080 x 2520 pixels",
+                "Tính năng màn hình": [
+                    "1 tỷ màu, tần số quét 120Hz, HDR10",
+                    "Corning Gorilla Glass Victus 2",
+                    "Giảm nhèo do chuyển động 240hz, DCI-P3 100%,"
+                ],
+                "Tần số quét": "120Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 48 MP, f/1.9, 24mm, Dual Pixel PDAF, OIS",
+                    "Camera góc siêu rộng:12 MP, f/2.2, 123˚, 16mm, Dual Pixel PDAF"
+                ],
+                "Quay video": "4K@24/25/30/60/120fps HDR, 1080p@30/60/120fps",
+                "Tính năng camera": "Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, eye tracking"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 12 MP, f/2.0, 24mm, HDR",
+                "Quay video trước": "4K@30fps, 1080p@30/60fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 8 Gen 2 (4 nm)",
+                "GPU": "Adreno 740"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "microSDXC, hỗ trợ tối đa 1TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 30W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "154 x 68 x 8.6 mm",
+                "Trọng lượng": "182 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": [
+                    "Chịu nước IP65/IP68",
+                    "Chống bụi IP6X"
+                ],
+                "Công nghệ âm thanh": "Hệ thống Dynamic vibration,"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6e",
+                "Bluetooth": "v5.3, A2DP, LE Audio, aptX HD, aptX Adaptive"
+            }
+        }
+    ]
+}

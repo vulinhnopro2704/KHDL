@@ -1,0 +1,166 @@
+{
+    "url": "https://cellphones.com.vn/oppo-find-x5-pro.html",
+    "name": "OPPO Find X5 Pro 5G 12GB 256GB",
+    "price": "14.490.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1440 x 3216 pixels (QHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120 Hz (Dynamic)",
+                    "1.07 tỉ màu",
+                    "Corning Gorilla Glass Victus",
+                    "Gam màu:",
+                    "Chế độ sống động: 97% NTSC/100% DCI-P3 (Tiêu chuẩn)",
+                    "Chế độ dịu nhẹ: 71% NTSC/100% sRGB (Tiêu chuẩn)",
+                    "Độ sáng tối đa 1300 nits"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP, f/1.7",
+                    "Camera góc rộng: 50MP, f/2.2; FOV 112°",
+                    "Camera tele: 13MP, f/2.4"
+                ],
+                "Quay video": [
+                    "HD 720p@60fps",
+                    "HD 720p@30fps",
+                    "FullHD 1080p@60fps",
+                    "FullHD 1080p@30fps",
+                    "4K 2160p@60fps",
+                    "4K 2160p@30fps"
+                ],
+                "Tính năng camera": [
+                    "Sau: Chụp ảnh, quay video, ban đêm, Pro, Panorama, chân dung, Time-lapse, quay chậm, quét văn bản, Hi-Res, chế độ phim, phơi sáng lâu, video kép, ống kính Google, Sticker",
+                    "Trước: Chụp ảnh, quay video, ban đêm, panorama, chân dung, time-lapse, sticker"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera chính 32MP: f/2.4; FOV 90°, ống kính: 5P, lấy nét cố định",
+                "Quay video trước": "Hỗ trợ 1080P/720P (30fps) (mặc định: 1080P (30fps))"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 8 Gen 1",
+                "GPU": "Adreno 730 @818MHz"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": [
+                    "GPS: L1",
+                    "Galileo: E1",
+                    "BeiDou: B1I + B1C",
+                    "QZSS: L1"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc siêu nhanh 80W",
+                    "Sạc không dây"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "ColorOS 12.1 dựa trên Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "MariSilicon X Imaging NPU"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.7 x 73.9 x 8.5 mm",
+                "Trọng lượng": "218 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Gốm",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Hệ thống tản nhiệt thế hệ mới với khoang chứa hơi siêu lớn với diện tích lớn hơn gần 75% cùng các màng graphene 3D tiên tiến",
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": [
+                    "Ứng dụng kép (Nhân bản ứng dụng)",
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "m thanh Dolby Atmos",
+                    "Tối ưu game (Không gian trò chơi)",
+                    "Tích hợp NPU MariSilicon X",
+                    "Mở rộng bộ nhớ RAM",
+                    "Màn hình luôn hiển thị AOD",
+                    "Khoá ứng dụng",
+                    "Cử chỉ thông minh"
+                ],
+                "Tiện ích khác": [
+                    "Cử chỉ màn hình tắt",
+                    "Chế độ đơn giản (Giao diện đơn giản)",
+                    "Chế độ trẻ em (Không gian trẻ em)",
+                    "Chạm 2 lần tắt/sáng màn hình"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 6 (802.11ax)",
+                "Bluetooth": "5.2"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "05/2022"
+            }
+        }
+    ]
+}

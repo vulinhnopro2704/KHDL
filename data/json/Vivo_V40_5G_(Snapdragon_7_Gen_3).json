@@ -1,0 +1,130 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-v40-5g-snapdragon-7-gen-3.html",
+    "name": "Vivo V40 5G (Snapdragon 7 Gen 3)",
+    "price": "10490000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Funtouch 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, HDR10+, 120Hz, 4500 nits (peak)",
+                    "6.78 inches, 1.5K (1260 x 2800 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~ 453 ppi"
+                ],
+                "Độ phân giải": "1260 x 2800 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 24mm (góc rộng), PDAF, OIS",
+                    "50 MP, f/2.0, 15mm, 119˚ (góc rộng), AF",
+                    "Quay phim: 4K@30fps, 1080p@30fps, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "50 MP, f/2.0, 21mm (góc rộng), AF, HDR",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Zeiss optics, Ring-LED flash, panorama, HDR",
+                "Quay phim": "4K@30fps, 1080p@30fps, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.63 GHz Cortex-A715",
+                    "3x2.4 GHz Cortex-A715",
+                    "4x1.8 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+                    "8 nhân (1x2.63 GHz & 3x2.4 GHz & 4x1.8 GHz)",
+                    "GPU: Adreno 720"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 720"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa bo tròn",
+                    "Mặt lưng kính cong",
+                    "Màn hình cong + cảm biến vân tay quang học",
+                    "Kháng nước, bụi IP68/IP69"
+                ],
+                "Kích thước": "164.2 x 75 x 7.6 mm",
+                "Trọng lượng (g)": "190 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 5500 mAh",
+                    "Sạc nhanh 80W",
+                    "Hỗ trợ sạc ngược (dây)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Quốc tế",
+                    "HSDPA 850 / 900 / 1900 / 2100 - Ấn Độ"
+                ],
+                "4G": "1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+                "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép âm thanh stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC (tùy thuộc vào thị trường/khu vực)",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

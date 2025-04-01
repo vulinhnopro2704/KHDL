@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-note-9-5g.html",
+    "name": "Xiaomi Redmi Note 9 5G",
+    "price": "4550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, MIUI 12",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt sau 7 ngày"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD, 450 nits (typ)",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "1080 x 2340 pixels, 19.5:9 ratio (~395 ppi density)",
+                "Độ phân giải": "Full HD+ (1080 x 2340 pixels)",
+                "Màn hình rộng": "6.53",
+                "Công nghệ cảm ứng": "Cám ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "48 MP, f/1.8 (wide), 8 MP, f/2.2 (ultrawide), 2 MP, f/2.4 (depth)",
+                "Camera trước": "13 MP, f/2.3 (standard)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.4 GHz & 6x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek Dimensity 800U 5G (7 nm)",
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Mali-G57 MC3"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "162 x 77.3 x 9.2 mm",
+                "Trọng lượng (g)": "199 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "5000 mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 34, 38, 39, 40, 41",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.1, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "url": "https://mobilecity.vn/vsmart/vsmart-live.html",
+    "name": "Vsmart Live (Chính Hãng)",
+    "price": "3450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9",
+                "Ngôn ngữ": "Đa ngôn ngữ, có tiếng việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "AMOLED, 6.2 inches, Full HD+ (1080 x 2232 Pixels)",
+                "Độ phân giải": "1080 x 2232 Pixels",
+                "Màn hình rộng": "6.2 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "3 camera: 48 MP + 8 MP (góc siêu rộng) + 5 MP (xóa phông)",
+                "Camera trước": "20 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama, Dual video call, gyro-EIS & OIS, dual-video rec.",
+                "Quay phim": "4k (2160p@30fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2 nhân 2.2 GHz Cortex-A75 & 6 nhân 1.7 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Snapdragon 675 (11nm) 8 nhân",
+                    "2 nhân 2.2 GHz Cortex-A75 & 6 nhân 1.7 GHz Cortex-A55",
+                    "GPU: Adreno 612"
+                ],
+                "RAM": "4GB - 6GB",
+                "Chip đồ họa (GPU)": "Adreno 612"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB",
+                "Thẻ nhớ ngoài": "không hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế nguyên khối, màn hình vô khuyết",
+                "Kích thước": "152 mm x 74.4 mm x 8.3 mm",
+                "Trọng lượng (g)": "175g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "4000mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi hotspot",
+                "GPS": "A-GPS, GLONASS",
+                "Bluetooth": "LE, A2DP, v5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Vân tay dưới màn hình"
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-s5.html",
+    "name": "Vivo S5",
+    "price": "3500000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); Funtouch 9.2",
+                "Ngôn ngữ": "Tiếng Anh, tiếng Trung, Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "Super AMOLED, 6.44 inches, 1080 x 2400 pixels",
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.44 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 Camera: 48 MP (Góc rộng), 8 MP(Góc siêu rông), 5 MP(Xoá phông)",
+                "Camera trước": "32 MP, f/2.4",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama, Dual video call, gyro-EIS & OIS, dual-video rec.",
+                "Quay phim": "2160p@24/30/60fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "(2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 712 (10 nm)",
+                "RAM": "8GB RAM",
+                "Chip đồ họa (GPU)": "Adreno 616"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "128GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế mặt lưng động đáo, camera kim cương",
+                "Kích thước": "157.9 x 73.9 x 8.6 mm",
+                "Trọng lượng (g)": "188 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-ion",
+                "Dung lượng pin": "4100 mAh - Hỗ trợ sạc nhanh 22.5W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano - Sim",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "WiFi Dual-band 2.4 / 5GHz, 802.11 a / b / g / n / ac",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, MKV, H264, MPEG4, VC-1",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/vsmart/vsmart-star-5.html",
+    "name": "Vsmart Star 5",
+    "price": "1450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11.0, VOS 4.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "6.52\", IPS LCD, HD+ (720 x 1600 Pixels)",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "6.52 inches, HD+ (720 x 1600)",
+                "Độ phân giải": "6.52 inches, HD+ (720 x 1600)",
+                "Màn hình rộng": "6.52",
+                "Công nghệ cảm ứng": "Điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "13MP góc rộng, 2MP xóa phông, 2MP macro",
+                "Camera trước": "8MP góc rộng",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "A.I - Camera Ban đêm (Night Mode) - HDR Siêu cận (Macro) - Tự động lấy nét (AF) - Xóa phông",
+                "Quay phim": "FullHD 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.5 GHz & 4x1.8 GHZ",
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek Helio G35 (12 nm)",
+                "RAM": "3-4GB",
+                "Chip đồ họa (GPU)": "IMG PowerVR GE8320"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "32-64GB",
+                "Thẻ nhớ ngoài": "MicroSD",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh, cảm ứng",
+                "Kích thước": "163.91 x 75.67 x 9.1 mm",
+                "Trọng lượng (g)": "196.26 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "5000 mAh - sạc nhanh 15W",
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Band 1/2/5/8",
+                "4G": "Band 1/2/3/5/7/8/20 Band 38/40/41",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi hotspot Dual-band (2.4 GHz/5 GHz) Wi-Fi 802.11 a/b/g/n/ac",
+                "GPS": "BDSGALILEOGLONASSA-GPS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối khác": "OTG",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

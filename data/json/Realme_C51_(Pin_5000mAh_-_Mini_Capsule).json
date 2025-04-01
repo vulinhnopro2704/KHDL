@@ -1,0 +1,112 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-c51-pin-5000mah-dynamic-island.html",
+    "name": "Realme C51 (Pin 5000mAh - Mini Capsule)",
+    "price": "3015000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, Realme UI T Edition",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 90Hz, 560 nits (tối đa)",
+                    "6.7 inches, HD+ (720p)"
+                ],
+                "Độ phân giải": "720p",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8",
+                    "5 MP",
+                    "Quay phim: Có"
+                ],
+                "Camera trước": "Có",
+                "Đèn Flash": "Có",
+                "Quay phim": "Có",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x1.8 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Unisoc Tiger T612 (12 nm)",
+                    "8 nhân (2x1.8 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+                    "GPU: Mali-G57"
+                ],
+                "RAM": "4GB + 4GB (RAM ảo)",
+                "Chip đồ họa (GPU)": "Mali-G57"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "2TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Vuông vức",
+                    "Khung và mặt lưng nhựa"
+                ],
+                "Kích thước": "167.1 x 76.67 x 7.99 mm",
+                "Trọng lượng (g)": "186 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 33W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Có",
+                "GPS": "Có",
+                "Bluetooth": "5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

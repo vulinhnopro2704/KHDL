@@ -1,0 +1,34 @@
+{
+    "url": "https://mobilecity.vn/meiigoo/meiigoo-m30.html",
+    "name": "Meiigoo M30",
+    "price": "4450000",
+    "specifications": [
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Đèn Flash": "Có",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

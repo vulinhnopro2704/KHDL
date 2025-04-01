@@ -1,0 +1,110 @@
+{
+    "url": "https://cellphones.com.vn/oppo-k9.html",
+    "name": "Oppo K9",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.43 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Mật độ điểm ảnh: 405 ppi"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 64 MP, f/1.7",
+                    "Camera tele: 13 MP, f/3.0",
+                    "Camera góc siêu rộng: 8 MP, f/2.2",
+                    "Cảm biến 2MP"
+                ],
+                "Quay video": [
+                    "4K 2160p@30fps",
+                    "FullHD 1080p@60fps",
+                    "FullHD 1080p@30fps"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 768G",
+                "GPU": "Adreno 640"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "BDS, A-GPS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4200 mAh",
+                "Công nghệ sạc": "Sạc nhanh 65W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x2.24 GHz Kryo 485 & 6x1.2.1, GHz Kryo 485 and 2x.1.78 GHz Kryo 485"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161 x 75.7 x 8.7 mm",
+                "Trọng lượng": "199.5 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi 802.11 a/b/g/n/ac/ax",
+                    "Dual-band (2.4 GHz/5 GHz)",
+                    "Wi-Fi Direct"
+                ],
+                "Bluetooth": [
+                    "A2DP",
+                    "LE",
+                    "v5.1"
+                ]
+            }
+        }
+    ]
+}

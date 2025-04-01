@@ -1,0 +1,92 @@
+{
+    "url": "https://cellphones.com.vn/realme-x3-pro.html",
+    "name": "Realme X3 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "IPS LCD capacitive touchscreen, 16M colors, Corning Gorilla Glass 5, 120Hz refresh rate",
+                "Kích thước màn hình": "6.6 inches",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.8, 26mm (wide), 1/1.72\", 0.8µm, PDAF",
+                    "8 MP, f/3.4, 124mm (periscope telephoto), PDAF, OIS, 5x optical zoom",
+                    "8 MP, f/2.3, 119˚, 16mm (ultrawide), 1/4.0\", 1.12µm",
+                    "2 MP, f/2.4, (macro)"
+                ],
+                "Quay video": [
+                    "Trước: 1080p@30fps, gyro-EIS",
+                    "Sau: 4K@30/60fps, 1080p@30/60fps, 720p@960fps; gyro-EIS"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "32 MP, f/2.5, 26mm (wide), 1/2.8\", 0.8µm",
+                    "8 MP, f/2.2, 105˚ (ultrawide), 1/4.0\", 1.12µm"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8150 Snapdragon 855+ (7 nm)",
+                "GPU": "Adreno 640 (700 MHz)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4200 mAh battery, Fast charging 30W"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10, Realme UI"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.8 x 75.8 x 8.9 mm",
+                "Trọng lượng": "202 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.0, A2DP, LE"
+            }
+        }
+    ]
+}

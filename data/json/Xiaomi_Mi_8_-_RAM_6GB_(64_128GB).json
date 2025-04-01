@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-mi-8.html",
+    "name": "Xiaomi Mi 8 - RAM 6GB (64/128GB)",
+    "price": "5550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 8.1 (Oreo); MIUI 10",
+                "Ngôn ngữ": "Đa ngôn ngữ, có hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "AMOLED, Full HD+ (1080 x 2280 Pixels), 6.21inches, Corning Gorilla Glass 5",
+                "Độ phân giải": "Full HD+ (1080 x 2280 Pixels)",
+                "Màn hình rộng": "6.21",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "12MP + 12MP",
+                "Camera trước": "20MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Geo-tagging, touch focus, face detection, HDR, panorama, 2x optical zoom, dual pixel phase detection autofocus, dual-LED flash",
+                "Quay phim": "2160p@60fps, 1080p@30/240fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm SDM845 Snapdragon 845 (10nm)",
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Adreno 630"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB - 128GB - 256GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "2 mặt kính, màn hình tai thỏ",
+                "Kích thước": "154.9 x 74.8 x 7.6 mm",
+                "Trọng lượng (g)": "175"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin Li-Po",
+                "Dung lượng pin": "3400 mAh, sạch nhanh 18W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "có",
+                "4G": "Có hỗ trợ 4G",
+                "Loại Sim": "Dual SIM (Nano-SIM, dual stand-by)",
+                "Khe gắn Sim": "2 SIM - 2 Sóng",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Type-C to 3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Type-C 1.0 reversible connector",
+                "Cổng sạc": "Type-C 1.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4/DivX/XviD/WMV/H.265 player",
+                "Nghe nhạc": "MP3/WAV/eAAC+/FLAC player",
+                "Cổng sạc": "Type-C 1.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Nhận diện khuôn mặt 3D, Mở khóa vân tay trên màn hình, Sạc nhanh Quick Charge 4.0+"
+            }
+        }
+    ]
+}

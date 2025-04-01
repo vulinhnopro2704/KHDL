@@ -1,0 +1,131 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-14-pro-plus-manh-me.html",
+    "name": "Realme 14 Pro Plus 5G (Snapdragon 7s Gen 3)",
+    "price": "8250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, Realme UI 6.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "OLED, 1 tỷ màu, 120Hz, 1200 nits (HBM), 1500 nits (peak)",
+                    "6.83 inches, 1.5K (1272 x 2800 pixels)",
+                    "Mật độ điểm ảnh ~450 ppi",
+                    "Kính bảo vệ Corning Gorilla Glass 7i"
+                ],
+                "Độ phân giải": "1272 x 2800 pixels",
+                "Màn hình rộng": "6.83 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), 1/1.56\", 1.0µm, multi-directional PDAF, OIS",
+                    "50 MP, f/2.7, 73mm (tiềm vọng tele), 1/1.95\", 0.8µm, multi-directional PDAF, OIS, zoom quang 3x",
+                    "8 MP, f/2.2, 16mm, 112˚ (góc siêu rộng), 1/4.0\", 1.12µm",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.0, 21mm (góc rộng), 1/2.74\", 0.8µm",
+                    "Quay phim: 4K@30fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Cảm biến quang phổ màu, Triple-LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.5 GHz Cortex-A720",
+                    "3x2.4 GHz Cortex-A720",
+                    "4x1.8 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)",
+                    "8 nhân (1x2.5 GHz & 3x2.4 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 710 (940 MHz)"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 710 (940 MHz)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa cong",
+                    "Mặt lưng cong nhẹ",
+                    "Màn hình cong nhẹ 4 cạnh",
+                    "Hỗ trợ IP68/IP69",
+                    "Độ bền cao tiêu chuẩn GJB 150.18A"
+                ],
+                "Kích thước": "163.5 x 77.3 x 8 mm / 8.3 mm",
+                "Trọng lượng (g)": "194 g / 196 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 6000 mAh",
+                    "Sạc nhanh 80W",
+                    "Sạc 50% trong 24 phút"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Có",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-k30.html",
+    "name": "Xiaomi Redmi K30 4G",
+    "price": "4350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10; MIUI 11",
+                "Ngôn ngữ": "Tiếng Anh, tiếng Trung, Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "IPS LCD, 6.67 inches, FHD+ (1080 x 2400 pixels) 120Hz",
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 camera: 64 MP, f/1.8, 26mm (góc rộng) + 8 MP (Zoom) + 2 MP (siêu rộng) + 2 MP (Xoá phông)",
+                "Camera trước": "2 Camera: 20 MP, f/2.2, (Góc rộng), 2 MP (Xoá phông)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama, Dual video call, gyro-EIS & OIS, dual-video rec.",
+                "Quay phim": "Quay phim 4K (2160p@60fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Snapdragon 730G (8 nm)",
+                    "2 x 2.2 GHz & 6 x 1.8 GHz",
+                    "CPU Andreno 618"
+                ],
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Adreno 618"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-128-256GB",
+                "Thẻ nhớ ngoài": "microSD - chung với khe SIM",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh",
+                "Kích thước": "165.3 x 76.6 x 8.8 mm",
+                "Trọng lượng (g)": "208g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-ion",
+                "Dung lượng pin": "4500mAh - Sạc nhanh 27W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "Định dạng MP3/WAV/AAX+/AIFF",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

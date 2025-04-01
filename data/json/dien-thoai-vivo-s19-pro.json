@@ -1,0 +1,76 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-vivo-s19-pro.html",
+    "name": "vivo S19 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "Độ phân giải 1.5K, tốc độ làm mới 120Hz, 4500 nits"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "50MP với OIS",
+                    "Ống kính góc cực rộng 8MP",
+                    "Máy ảnh tele 50MP hỗ trợ OIS với tiêu cự 85mm, hỗ trợ zoom kỹ thuật số 50x."
+                ],
+                "Tính năng camera": "Đèn flash LED dạng vòng"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "50MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Dimensity 9200+"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 80W"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay dưới màn hình"
+            }
+        }
+    ]
+}

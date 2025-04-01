@@ -1,0 +1,131 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-poco-x6-pro-5g-man-hinh-oled.html",
+    "name": "Xiaomi POCO X6 Pro 5G (Dimensity 8300 Ultra)",
+    "price": "7990000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, HyperOS",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 68 tỷ màu, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 1200 nits (HBM), 1800 nits (tối đa)",
+                    "6.67 inches, 1.5K (1220 x 2712 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~446 ppi"
+                ],
+                "Độ phân giải": "1220 x 2712 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.7, 25mm (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, 120˚ (góc siêu rộng)",
+                    "2 MP, f/2.4 (macro)",
+                    "Quay phim: 4K@24/30fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.4 (góc rộng), HDR, panorama",
+                    "Quay phim: 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@24/30/60/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Xung nhịp lên tới 3.35 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 8300 Ultra (4 nm)",
+                    "8 nhân (xung nhịp lên tới 3.35 GHz)",
+                    "GPU: Mali G615-MC6"
+                ],
+                "RAM": "8-12GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Mali G615-MC6"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng nhựa/da tổng hợp",
+                    "Cảm biến vân tay trong màn hình",
+                    "Kháng nước, bụi IP54"
+                ],
+                "Kích thước": [
+                    "160.5 x 74.3 x 8.25 mm (lung kính)",
+                    "160.5 x 74.3 x 8.35 mm (lưng da)"
+                ],
+                "Trọng lượng (g)": [
+                    "186 g (lưng nhựa)",
+                    "190g (lưng da)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 67W",
+                    "Sạc 100% pin trong 45 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 28, 38, 40, 41, 48, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

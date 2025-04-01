@@ -1,0 +1,118 @@
+{
+    "url": "https://mobilecity.vn/zte/nubia-red-magic-6r.html",
+    "name": "Nubia Red Magic 6R (Snap 888)",
+    "price": "7450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, Redmagic 4.0",
+                "Ngôn ngữ": "Tiếng Anh, Up tiếng Việt sau khi Unlock."
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": "6.8 inches, AMOLED Full HD+ (1080 x 2400 pixels, 20:9 ratio), 1 tỷ màu, 144Hz",
+                "Độ phân giải": "6.8 inches, AMOLED Full HD+ (1080 x 2400 pixels, 20:9 ratio), 1 tỷ màu, 144Hz",
+                "Màn hình rộng": "6.8",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP f/1.8 (góc rộng), f/1.8, 26mm, 1/1.73\", 0.8µm, PDAF",
+                    "8 MP f/2.0 (góc siêu rộng), 1/4.0\", 1.12µm",
+                    "5 MP (macro)",
+                    "2 MP (đo độ sâu trường ảnh)",
+                    "Quay phim: 8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps"
+                ],
+                "Camera trước": [
+                    "16 MP f/1.8 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120/240fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 888 (5 nm) 8 nhân",
+                    "(1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)",
+                    "GPU: Adreno 660"
+                ],
+                "RAM": "6-8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 660"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB UFS 3.1",
+                    "Không hỗ trợ khe cắm thẻ nhớ Microsdxc"
+                ],
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "163 x 75.3 x 7.8 mm",
+                "Trọng lượng (g)": "186 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4200 mAh",
+                    "Sạc nhanh 55W Bản Trung Quốc, Sạc nhanh 30W Bản Quốc Tế",
+                    "Power Delivery 3.0 Quick Charge 4"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1x",
+                "4G": "1, 3, 5, 7, 8, 4, 12, 17, 20, 34, 38, 39, 40, 41 - China",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS",
+                "Bluetooth": "5.2, A2DP, aptX, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.0",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4，MKV，AVI，WMV，WEBM，3GP，ASF HDR10",
+                "Nghe nhạc": "WAV / MP3 / MP2 / AMR-NB / AMR-WB / MIDI / Vorbis / APE / FLAC",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

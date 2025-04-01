@@ -1,0 +1,88 @@
+{
+    "url": "https://cellphones.com.vn/honor-magic-2.html",
+    "name": "Honor Magic 2",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "AMOLED, cảm ứng điện dung, 16 triệu màu",
+                "Kích thước màn hình": "6.39 inches",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "3 Camera (16 MP, f/1.8, PDAF + 16 MP, f/2.2 + 24 MP B/W, f/1.8)",
+                "Quay video": "2160p@30fps, 1080p@30fps, 720p@480fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "3 Camera (16 MP, f/2.0 + 2 MP, f/2.4 + 2 MP, f/2.4)"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "HiSilicon Kirin 980 (7 nm)",
+                "GPU": "Mali-G76 MP10"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 3500 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Magic UI 2.0"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "157.3 x 75.1 x 8.3 mm",
+                "Trọng lượng": "206 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.0, A2DP, aptX HD, LE"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Face ID, cảm biến vân tay, cảm biến gia tốc, con quay hồi chuyển, cảm biến tiệm cận, con quay hồi chuyển"
+            }
+        }
+    ]
+}

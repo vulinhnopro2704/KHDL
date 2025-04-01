@@ -1,0 +1,104 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-15s-pro-cau-hinh-cao.html",
+    "name": "Xiaomi 15S Pro (Camera đỉnh cao - Snapdragon 8 Elite)",
+    "price": "19950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, HyperOS 2.0",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 68 tỷ màu, 120Hz, 120Hz, Dolby Vision, HDR10+, 4000 nits (peak)",
+                    "6.73 inches, QHD+ (1440 x 3200 pixels) (*dự kiến)"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.73 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF, OIS",
+                    "50 MP (tele tiềm vọng), zoom quang 5x",
+                    "50 MP (góc siêu rộng)",
+                    "Quay phim: 8K, 4K, 1080p, 720p@1920fps, gyro-EIS (*dự kiến)"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng), HDR, panorama",
+                    "Quay phim: 4K, 1080p, gyro-EIS (*dự kiến)"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Laser AF, ống kính Leica, Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K, 4K, 1080p, 720p@1920fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x4.32 GHz Oryon V2 Phoenix L",
+                    "6x3.53 GHz Oryon V2 Phoenix M"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm) (*dự kiến)",
+                    "8 nhân (2x4.32 GHz & 6x3.53 GHz)",
+                    "GPU: Adreno 830"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 830"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.1 (*dự kiến)",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "Si/C 6500 mAh",
+                    "Sạc siêu nhanh 90W",
+                    "Sạc không dây 50W",
+                    "Sạc ngược không dây 10W",
+                    "(*dự kiến)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

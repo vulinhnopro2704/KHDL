@@ -1,0 +1,87 @@
+{
+    "url": "https://mobilecity.vn/vsmart/vsmart-joy-4.html",
+    "name": "Vsmart Joy 4",
+    "price": "1750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, VoS 3.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPS IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "LTPS IPS LCD, 6.53\"",
+                "Độ phân giải": "Full HD+ (1080 x 2340 Pixels)",
+                "Màn hình rộng": "6.53",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "Chính 16 MP & Phụ 8 MP, 2 MP, 2 MP",
+                "Camera trước": "13 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Nhãn dán (AR Stickers), Xoá phông, Quay phim 4K, Làm đẹp (Beautify) A.I Camera",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4 nhân 2.0 GHz & 4 nhân 1.8 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 665",
+                "RAM": "3-4GB",
+                "Chip đồ họa (GPU)": "Adreno 610"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + cảm ứng"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-po",
+                "Dung lượng pin": "5000mAh, Sạc nhanh 18W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, Dual-band (2.4 GHz/5 GHz)",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

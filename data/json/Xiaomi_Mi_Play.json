@@ -1,0 +1,81 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-play.html",
+    "name": "Xiaomi Mi Play",
+    "price": "21100000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0",
+                "Ngôn ngữ": "Đa ngôn ngữ, có tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Chuẩn màn hình": "OLED, Full HD+(1080 x 2280 Pixels), 5.84inches",
+                "Độ phân giải": "1080 x 2280 Pixels",
+                "Màn hình rộng": "5.84",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "Dual: 12MP+2MP (đo chiều sâu)",
+                "Camera trước": "8MP",
+                "Đèn Flash": "Có",
+                "Quay phim": "2160p@60fps, 1080p@30/240fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2.3GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Helio P35 (14nm)",
+                "RAM": "4GB - 6GB",
+                "Chip đồ họa (GPU)": "GE8320"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Bộ nhớ trong (ROM)": "64GB - 128GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Màu sắc trẻ trung, màn hình giọt nước",
+                "Trọng lượng (g)": "0"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-ion",
+                "Dung lượng pin": "3000mAh, sạc nhanh 18W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "Loại Sim": "Micro SIM",
+                "Khe gắn Sim": "2 SIM, 2 Sóng",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

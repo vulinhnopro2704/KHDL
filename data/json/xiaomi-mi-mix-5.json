@@ -1,0 +1,40 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-mi-mix-5.html",
+    "name": "Xiaomi Mi Mix 5",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.39 inches",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "108 MP + 16 MP + 12 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 888+"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6.190 mAh",
+                "Công nghệ sạc": "sạc nhanh HyperCharge 200 W"
+            }
+        }
+    ]
+}

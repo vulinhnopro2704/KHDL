@@ -1,0 +1,87 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-black-shark-helo.html",
+    "name": "Xiaomi Black Shark Helo (RAM 6GB, 8GB)",
+    "price": "9050000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 8.1 (Oreo); MIUI 10",
+                "Ngôn ngữ": "Đa ngôn ngữ, có hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "AMOLED, Full HD+ (1080 x 2280 Pixels), 6.02 inches",
+                "Độ phân giải": "Full HD+ (1080 x 2280 Pixels)",
+                "Màn hình rộng": "6.02",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "20MP + 12MP (telephoto)",
+                "Camera trước": "20MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Geo-tagging, touch focus, face detection, HDR, panorama, 2x optical zoom, dual pixel phase detection autofocus, dual-LED flash",
+                "Quay phim": "2160p@60fps, 1080p@30/240fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 845 (10nm)",
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Mali-G72 MP18 - Adreno 630"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB",
+                "Thẻ nhớ ngoài": "Có hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "128GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế hầm hố, đậm chất game thủ",
+                "Kích thước": "124,4 x 61,4 x 6,3 mm",
+                "Trọng lượng (g)": "132"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": "4000 mAh, sạc nhanh 18W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "Loại Sim": "Micro-SIM",
+                "Khe gắn Sim": "2 SIM - 2 Sóng",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

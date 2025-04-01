@@ -1,0 +1,121 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-mi-11t-pro.html",
+    "name": "Xiaomi 11T Pro",
+    "price": "11.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 120Hz, HDR10+, độ sáng tối đa 1000 nit, DisplayMate chấm điểm A+, Dolby Vision®",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 108 MP, f/1.75",
+                    "Camera góc siêu rộng: 8 MP, 2.2",
+                    "Camera cận cảnh: 5 MP, f/2.4 AF (3cm-7cm)"
+                ],
+                "Quay video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, 720p@ 30fps",
+                "Tính năng camera": [
+                    "Chế độ Long Exposure (Phơi sáng lâu)",
+                    "Chế độ ban đêm",
+                    "Chế độ ban đêm AI",
+                    "Google Lens"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP, f/2.45",
+                "Quay video trước": "1080p@30/60fps, 720p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 888 5nm",
+                "GPU": "Adreno 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "Công nghệ sạc HyperCharger tối đa lên tới 120W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12.5"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Kryo 680 CPU, up to 2.84GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.1 x 76.9 x 8.8 mm",
+                "Trọng lượng": "204g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Công nghệ LiquidCool",
+                "Công nghệ âm thanh": [
+                    "Loa kép",
+                    "SOUND BY Harman Kardon",
+                    "Công nghệ Dolby Atmos®",
+                    "Chứng nhận âm thanh độ phân giải cao"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 6",
+                "Bluetooth": "5.2"
+            }
+        }
+    ]
+}

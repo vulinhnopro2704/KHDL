@@ -1,0 +1,31 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-civi-s-loi.html",
+    "name": "Xiaomi CIVI 1S",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 64 MP & Phụ 8 MP, 5 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 778G+ 5G 8 nhân"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Công nghệ sạc": "55 W"
+            }
+        }
+    ]
+}

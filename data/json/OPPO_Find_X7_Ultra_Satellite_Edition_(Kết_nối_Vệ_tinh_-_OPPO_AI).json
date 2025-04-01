@@ -1,0 +1,144 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-find-x7-ultra-satellite-edition.html",
+    "name": "OPPO Find X7 Ultra Satellite Edition (Kết nối Vệ tinh - OPPO AI)",
+    "price": "26790000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, ColorOS 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR10+, 1600 nits (typ), 2600 nits (HBM), 4500 nits (tối đa)",
+                    "6.82 inches, QHD+ (1440 x 3168 pixels)",
+                    "Mật độ điểm ảnh ~510 ppi",
+                    "Corning Gorilla Glass Victus 2"
+                ],
+                "Độ phân giải": "1440 x 3168 pixels",
+                "Màn hình rộng": "6.82 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 23mm (góc rộng), kích thước 1\", PDAF đa hướng, Laser AF, OIS",
+                    "50 MP, f/2.6, 65mm (tiềm vọng tele), zoom quang 2.8x, PDAF đa hướng (25cm - ∞), OIS",
+                    "50 MP, f/4.3, 135mm (tiềm vọng tele), zoom quang 6x, Dual-Pixel PDAF (35cm - ∞), OIS",
+                    "50 MP, f/2.0, 14mm, 110˚ (góc siêu rộng), PDAF",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.4, 21mm (góc rộng), PDAF, Panorama",
+                    "Quay phim: 4K@30/60fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Hasselblad Color Calibration, LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "5x3.2 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 5x3.2 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm bo cong",
+                    "Mặt lưng da/kính",
+                    "Kính trước Gorilla Glass Victus 2",
+                    "Màn hình cong + cảm biến vân tay dưới màn hình",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "164.3 x 76.2 x 9.5 mm",
+                "Trọng lượng (g)": "221 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc 100W. PD (dây), 100% trong 26 ph (QC)",
+                    "Sạc không dây 50W",
+                    "Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": [
+                    "2 SIM, Nano SIM",
+                    "Kết nối liên lạc Vệ tinh"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+                "GPS": [
+                    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+                    "Kết nối liên lạc Vệ tinh (Hỗ trợ định vị được hỗ trợ A-GNSS, định vị mạng LAN không dây, định vị mạng di động)"
+                ],
+                "Bluetooth": [
+                    "5.4",
+                    "Hỗ trợ SBC, AAC, aptX HD, LDAC, aptX, LHDC"
+                ],
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2, OTG",
+                "Kết nối khác": [
+                    "Hỗ trợ đọc và ghi thẻ NFC (thẻ NFC 13,56 MHz)",
+                    "Hỗ trợ NFC-SIM (chỉ hỗ trợ khe cắm thẻ SIM1), HCE, eSE"
+                ],
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

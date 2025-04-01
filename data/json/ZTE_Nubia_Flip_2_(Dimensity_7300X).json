@@ -1,0 +1,137 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/zte-nubia-flip-2-dimensity-7300x.html",
+    "name": "ZTE Nubia Flip 2 (Dimensity 7300X)",
+    "price": "10450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "1 tỷ màu/16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Màn chính: Foldable OLED, 1 tỷ màu, 120Hz",
+                    "6.9 inches, Full HD+ (1188 x 2790 pixels)",
+                    "Tỷ lệ 21:9, mật độ điểm ảnh ~439 ppi",
+                    "Màn phụ: OLED, 3 inches, 422 x 682 pixels"
+                ],
+                "Độ phân giải": [
+                    "1188 x 2790 pixels (chính)",
+                    "422 x 682 pixels (phụ)"
+                ],
+                "Màn hình rộng": [
+                    "6.9 inches (chính)",
+                    "3 inches (phụ)"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF",
+                    "2 MP (depth)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng)",
+                    "Quay phim: 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring LED flash, HDR, panorama",
+                "Quay phim": "4K, 1080p",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 7300X (4 nm)",
+                    "8 nhân (4x2.5 GHz & 4x2.0 GHz)",
+                    "GPU: Mali-G615 MC2"
+                ],
+                "RAM": "6-12GB",
+                "Chip đồ họa (GPU)": "Mali-G615 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Điện thoại gập kiểu vỏ sò",
+                    "Khung hợp kim nhôm, mặt kính",
+                    "Cảm biến vân tay cạnh bên"
+                ],
+                "Kích thước": [
+                    "Mở ra: 170 x 76 x 7.5 mm",
+                    "Gấp lại: 87 x 76 x 15.8 mm"
+                ],
+                "Trọng lượng (g)": "191 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "4300 mAh",
+                    "Sạc nhanh 33W (PD3.0, PPS, QC4+)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": [
+                    "Nano SIM + eSIM",
+                    "Hoặc 2 SIM Nano"
+                ],
+                "Khe gắn Sim": [
+                    "Nano SIM + eSIM",
+                    "Hoặc 2 SIM Nano"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, 2 băng tần",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/oppo/realme-x.html",
+    "name": "Realme X (Camera Popup)",
+    "price": "3750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); ColorOS 6",
+                "Ngôn ngữ": "Tiếng Việt, Tiếng Anh, Tiếng Trung"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "AMOLED, Full HD+ (1080 x 2340 Pixels), 6.53 inches",
+                "Độ phân giải": "1080 x 2340 Pixels",
+                "Màn hình rộng": "6.53 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "2 Camera: 48 MP + 5 MP (đo chiều sâu)",
+                "Camera trước": "16 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "A.I Camera, Chụp ảnh xóa phông, Chống rung kỹ thuật số (EIS), Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Làm đẹp (Beautify)",
+                "Quay phim": "Quay phim 2160p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (2x2.2 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 710 (10 nm)",
+                "RAM": "4GB - 6GB - 8GB",
+                "Chip đồ họa (GPU)": "Adreno 616"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB - 128GB",
+                "Thẻ nhớ ngoài": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Nguyên khối",
+                "Kích thước": "161.2 x 76 x 8.6 mm",
+                "Trọng lượng (g)": "191g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "3765 mAh - sạc nhanh 20W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "Có",
+                "Cổng sạc": "Type-C 1.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "3GP, MP4, AVI, WMV",
+                "Nghe nhạc": "AMR, MP3, WAV, WMA, AAC, OGG, FLAC",
+                "Cổng sạc": "Type-C 1.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Đèn pin, Dolby Audio™, Chặn tin nhắn, Sạc pin nhanh, Chặn cuộc gọi, Mặt kính 2.5D"
+            }
+        }
+    ]
+}

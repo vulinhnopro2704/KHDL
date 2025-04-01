@@ -1,0 +1,138 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-iqoo-13-5g-snapdragon-8-gen-4.html",
+    "name": "Vivo iQOO 13 5G (Snapdragon 8 Elite)",
+    "price": "13250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, OriginOS 5",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO 8T AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 144Hz, HDR, 1800 nits (HBM)",
+                    "6.82 inches, 2K (1440 x 3168 pixels)",
+                    "Tỷ lệ 19.8: 9, mật độ điểm ảnh ~510 ppi",
+                    "Chế độ bảo vệ mắt",
+                    "Kính bảo vệ Crystal Optical"
+                ],
+                "Độ phân giải": "1440 x 3168 pixels",
+                "Màn hình rộng": "6.82 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 23mm (góc rộng), 1/1.56\", PDAF, OIS",
+                    "50 MP, f/1.9, 46mm (tele), PDAF, OIS, zoom quang 2x, zoom kỹ thuật số 30x",
+                    "50 MP, f/2.0 (góc siêu rộng), 1/2.76\", AF",
+                    "Quay phim: 8K@30fps, 4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5, (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "8K@30fps, 4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x4.32 GHz Oryon V2 Phoenix L",
+                    "6x3.53 GHz Oryon V2 Phoenix M"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+                    "8 nhân (2x4.32 GHz & 6x3.53 GHz)",
+                    "GPU: Adreno 830"
+                ],
+                "RAM": "12-16GB, LPDDR5X Ultra",
+                "Chip đồ họa (GPU)": "Adreno 830"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm phẳng",
+                    "Mặt lưng kính bo cong nhẹ",
+                    "Cảm biến vân tay siêu âm dưới màn hình",
+                    "Kháng nước, bụi IP68/IP69",
+                    "RGB LED xung quanh cụm camera"
+                ],
+                "Kích thước": [
+                    "163.4 x 76.7 x 7.99 mm (Trắng)",
+                    "163.4 x 76.7 x 8.13 mm (Xám, Đen và Xanh)"
+                ],
+                "Trọng lượng (g)": [
+                    "207 g (Trắng)",
+                    "213 g (Xám, Đen và Xanh)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 6150 mAh",
+                    "Sạc siêu nhanh 120W, PPS",
+                    "100% pin trong 30 phút (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res audio",
+                    "Snapdragon Sound"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2, OTG",
+                "Kết nối khác": "NFC (360˚), hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

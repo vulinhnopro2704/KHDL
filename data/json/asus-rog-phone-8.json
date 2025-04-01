@@ -1,0 +1,52 @@
+{
+    "url": "https://cellphones.com.vn/asus-rog-phone-8.html",
+    "name": "ASUS ROG Phone 8",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 165 Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 64 MP, f/1.8, 1/1.72\", 0.8 µm, PDAF",
+                    "Camera góc siêu rộng: 13 MP, f/2.4, 125 độ, 11 mm",
+                    "Camera macro: 5 MP, f/2.0"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 888 5G"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 65 W"
+            }
+        }
+    ]
+}

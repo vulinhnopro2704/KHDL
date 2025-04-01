@@ -1,0 +1,86 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-civi-5-pro-5g.html",
+    "name": "Xiaomi CIVI 5 Pro (Snapdragon 8s Elite)",
+    "price": "10350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, HyperOS 2.0",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 68 tỷ màu, 120Hz, Dolby Vision, HDR10+, 3200 nits (peak)",
+                    "6.55 inches, 1.5K (1236 x 2750 pixels)"
+                ],
+                "Độ phân giải": "1236 x 2750 pixels",
+                "Màn hình rộng": "6.55 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6, 25mm (góc rộng), PDAF, OIS",
+                    "50 MP, f/2.0, 50mm (telephoto), PDAF, zoom quang 2x",
+                    "12 MP, f/2.2, 15mm, 120˚ (góc siêu rộng)",
+                    "Quay phim: 4K, 1080p, HDR10+, BT.2020, 10-bit video, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.0, 26mm (góc rộng), AF",
+                    "32 MP, f/2.4, 100˚ (góc siêu rộng)",
+                    "HDR, panorama",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama, Leica lenses",
+                "Quay phim": "4K, 1080p, HDR10+, BT.2020, 10-bit video, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 8s Elite"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 67W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

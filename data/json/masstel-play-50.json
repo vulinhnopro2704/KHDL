@@ -1,0 +1,54 @@
+{
+    "url": "https://cellphones.com.vn/masstel-play-50.html",
+    "name": "Masstel Play 50",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "2.4 inches",
+                "Công nghệ màn hình": "TFT LCD"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "0.08 MP"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3000 mAh",
+                "Công nghệ sạc": "Sạc 2.5 W",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "130 x 61 x 22 mm",
+                "Trọng lượng": "176.1 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "GPS": ""
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "12/2020"
+            }
+        }
+    ]
+}

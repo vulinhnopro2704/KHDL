@@ -1,0 +1,102 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-9-activ.html",
+    "name": "Xiaomi Redmi 9 Activ",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.53 inches",
+                "Độ phân giải màn hình": "720 x 1600 pixel",
+                "Tính năng màn hình": "NTSC 70% , 400 nit (typ)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "13MP, f/2.2 2",
+                    "2MP, f/2.4"
+                ],
+                "Quay video": "FullHD 1080p@30fps",
+                "Tính năng camera": [
+                    "Dolby Vision",
+                    "HDR",
+                    "Góc rộng (Wide)",
+                    "Lấy nét theo pha (PDAF)",
+                    "Toàn cảnh (Panorama)",
+                    "Xóa phông"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5MP, f/2.2"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G35",
+                "GPU": "IMG PowerVR GE8320"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB",
+                "Khe cắm thẻ nhớ": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "Hỗ trợ sạc tối đa 10 W",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "A-GPS , BDS , GLONASS"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.3GHz, 8x A53, Octa-core CPU"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.9 x 77 x 9 mm",
+                "Trọng lượng": "194 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay mặt lưng"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Dual-band (2.4 GHz/5 GHz), Wi-Fi 802.11 a/b/g/n , Wi-Fi Direct ,Wi-Fi hotspot",
+                "Bluetooth": "5.0"
+            }
+        }
+    ]
+}

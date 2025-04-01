@@ -1,0 +1,149 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-note-13-pro-4g.html",
+    "name": "Xiaomi Redmi Note 13 Pro 4G 8GB 128GB",
+    "price": "5.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz",
+                    "1300 nits",
+                    "Kính cường lực Corning Gorilla Glass 5"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 200 MP & Phụ 8 MP, 2 MP",
+                "Quay video": [
+                    "FullHD 1080p@60/30fps",
+                    "HD 720p@30fps"
+                ],
+                "Tính năng camera": [
+                    "Toàn cảnh (Panorama)",
+                    "Chống rung quang học (OIS)",
+                    "HDR",
+                    "Phơi sáng",
+                    "Chụp ảnh chuyển động",
+                    "Chụp đêm",
+                    "Quay video Full HD",
+                    "Quay video HD",
+                    "Làm đẹp A.I",
+                    "Xóa phông",
+                    "Chụp hẹn giờ"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP",
+                "Quay video trước": "1080p@30/60fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G99-Ultra 8 nhân",
+                "GPU": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS (L1), GLONASS (G1), BDS (B1I+B1c), GALILEO (E1), QZSS (L1)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 67 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161.1 x 74.95 x 7.98 mm",
+                "Trọng lượng": "188 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Tiện ích khác": "DCI-P3, Ghi âm mặc định, Ghi âm cuộc gọi, cảm biến hồng ngoại",
+                "Công nghệ âm thanh": [
+                    "Loa âm thanh nổi",
+                    "Âm thanh Dolby Atmos",
+                    "Loa kép"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Cảm biến áp kế, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi hotspot",
+                    "Wi-Fi 802.11 a/b/g/n/ac",
+                    "Dual-band (2.4 GHz/5 GHz)"
+                ],
+                "Bluetooth": "v5.2"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "01/2024"
+            }
+        }
+    ]
+}

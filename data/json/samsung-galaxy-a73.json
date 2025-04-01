@@ -1,0 +1,136 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-a73.html",
+    "name": "Samsung Galaxy A73 (5G) 256GB - Chỉ có tại CellphoneS",
+    "price": "12.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "Super AMOLED Plus",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 120 Hz, Kính cường lực Corning Gorilla Glass 5, 800 nits",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 108 MP, f/1.8, PDAF, OIS",
+                    "Camera gó siêu rộng: 12 MP, f/2.2",
+                    "Camera macro: 5 MP, f/2.4",
+                    "Camera chân dung: 5 MP, f/2.4"
+                ],
+                "Quay video": "4K@30fps, 1080p@30/60fps; gyro-EIS",
+                "Tính năng camera": [
+                    "Góc rộng (Wide)",
+                    "Góc siêu rộng (Ultrawide)",
+                    "HDR",
+                    "Lấy nét theo pha (PDAF)",
+                    "Toàn cảnh (Panorama)",
+                    "Xóa phông"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP, f/2.2"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 778G 5G 8 nhân",
+                "GPU": "Adreno 642L"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS GLONASS GALILEO QZSS BEIDOU"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "163.7 x 76.1 x 7.6 mm",
+                "Trọng lượng": "181 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP67",
+                "Tiện ích khác": [
+                    "Chế độ đơn giản (Giao diện đơn giản)",
+                    "Trợ lý ảo Samsung Bixby",
+                    "Chạm 2 lần tắt/sáng màn hình",
+                    "Samsung Pay",
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Tối ưu game (Game Booster)",
+                    "Chế độ trẻ em (Samsung Kids)",
+                    "Smart Switch (ứng dụng chuyển"
+                ],
+                "Công nghệ âm thanh": "Âm thanh Dolby Atmos"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/ax",
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "04/2022"
+            }
+        }
+    ]
+}

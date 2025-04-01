@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/oppo/realme-x50m.html",
+    "name": "Realme X50m (6-128GB)",
+    "price": "5450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10",
+                "Ngôn ngữ": "Đa ngôn ngữ, có Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "IPS LCD, 6.57 inches, Full HD+ (1080x2400 pixels), 120Hz",
+                "Độ phân giải": "1080x2400 pixels",
+                "Màn hình rộng": "6.57 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 camera: 48MP + 8MP (góc siêu rộng) + 2MP (đen trắng) + 2MP (macro)",
+                "Camera trước": "2 camera: 16 MP + 2 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "4k (2160p@30fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 765G (7 nm)",
+                "RAM": "6GB - 8GB",
+                "Chip đồ họa (GPU)": "Adreno 620"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB",
+                "Thẻ nhớ ngoài": "Không hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế 2 mặt kính nguyên khối",
+                "Kích thước": "163,8 x 75,8 x 8,9mm",
+                "Trọng lượng (g)": "202 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-po",
+                "Dung lượng pin": "4200 mAh - sạc nhanh 30W",
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/ax, Dual-band, DLNA, Wi-Fi Direct, Wi-Fi hotspot",
+                "GPS": "BDS, A-GPS, GLONASS",
+                "Bluetooth": "A2DP, LE, apt-X, v5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Type C",
+                "NFC": "Không",
+                "Kết nối USB": "Có",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4",
+                "Nghe nhạc": "MP3",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Cảm biến vân tay một chạm"
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-14-pro-5g-camera-dep.html",
+    "name": "Realme 14 Pro 5G Global (Dimensity 7300 Energy)",
+    "price": "7350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15, Realme UI 6.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "OLED, 1 tỷ màu, 120Hz, 1400 nits (HBM), 4500 nits (peak)",
+                    "6.77 inches, Full HD+ (1080 x 2392 pixels)",
+                    "Mật độ điểm ảnh ~388 ppi"
+                ],
+                "Độ phân giải": "1080 x 2392 pixels",
+                "Màn hình rộng": "6.77 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 26mm (góc rộng), 1/1.95\", 0.8µm, multi-directional PDAF, OIS",
+                    "2 MP, f/2.4 (depth)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.4, 24mm (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 7300 Energy (4 nm)",
+                    "8 nhân (4x2.5 GHz & 4x2.0 GHz)",
+                    "GPU: Mali-G615 MC2"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Mali-G615 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa cong",
+                    "Mặt lưng cong; Màn hình cong",
+                    "Hỗ trợ IP68/IP69 (ngâm nước sâu 1.5m trong 30 ph)",
+                    "Tiêu chuẩn độ bền quân đội (MIL-STD-810H)"
+                ],
+                "Kích thước": [
+                    "162.8 x 74.9 x 7.6 mm (Hồng Tím và Trắng)",
+                    "162.8 x 74.9 x 7.8 mm (Xám)"
+                ],
+                "Trọng lượng (g)": [
+                    "179 g (Hồng Tím và Trắng)",
+                    "182 g (Xám)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 6000 mAh",
+                    "Sạc nhanh 45W",
+                    "Sạc 50% pin 36 ph"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, băng tần kép",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC (tùy thuộc vào thị trường/khu vực)",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

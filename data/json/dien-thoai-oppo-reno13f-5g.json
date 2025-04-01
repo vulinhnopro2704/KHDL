@@ -1,0 +1,108 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-oppo-reno13f-5g.html",
+    "name": "OPPO Reno13 F 5G 12GB 256GB",
+    "price": "10.790.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "120Hz, Kính cường lực AGC DT Star2, 1200 nits, 16 triệu màu",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP OIS, F/1.8",
+                    "Camera góc rộng: 8MP, F/2.2",
+                    "Camera Marco: 2MP, F/2.4"
+                ],
+                "Tính năng camera": "Đèn flash sau"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32MP, F/2.4"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon 6 Gen1 5G, tối đa 2.2GHz",
+                "GPU": "Adreno 710"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, GLONASS, BDS, Galileo, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Hỗ trợ thẻ nhớ tối đa 2TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5800mAh (Typ)",
+                "Công nghệ sạc": "Siêu sạc nhanh superVOOC 45W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "ColorOS 15, nền tảng Android 15"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162.2 x 75.05 x 7.76mm",
+                "Trọng lượng": "Khoảng 192g (Bao gồm pin)"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Thuỷ tinh hữu cơ"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP66, IP68, IP69",
+                "Công nghệ âm thanh": "Loa kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay dưới màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wifi 2.4G/5G, 802.11 a/b/g/n/ac",
+                "Bluetooth": "v5.1 BLE"
+            }
+        }
+    ]
+}

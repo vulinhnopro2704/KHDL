@@ -1,0 +1,148 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-v40-lite-chinh-hang.html",
+    "name": "Vivo V40 Lite Chính hãng",
+    "price": "5950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Funtouch 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED E4",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED E4, 1 tỷ màu, 120Hz, 1200 nits (HBM), 1800 nits (peak)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~395 ppi"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, (góc rộng), 1/1.95\", 0.8µm, PDAF",
+                    "2 MP, f/2.4, (depth)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "Đèn Flash camera sau, Vòng sáng Aura camera sau",
+                    "Camera sau: Chụp ảnh, Chân dung, Chụp đêm, Quay video, Độ phân giải cao 50MP, Toàn cảnh, Căn chỉnh tài liệu, Chuyển động chậm, Tua nhanh thời gian, Chế độ chuyên nghiệp, Video hiển thị kép, Live Photo.",
+                    "Camera trước: Chụp ảnh, Chân dung, Chụp đêm, Quay video, Live photo."
+                ],
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "4x2.8 GHz Cortex-A73",
+                    "4x1.9 GHz Cortex-A53"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM6225 Snapdragon 685 (6 nm)",
+                    "8 nhân (4x2.8 GHz & 4x1.9 GHz)",
+                    "GPU: Adreno 610"
+                ],
+                "RAM": [
+                    "8GB + 8GB (RAM ảo)",
+                    "LPDDR4X"
+                ],
+                "Chip đồ họa (GPU)": "Adreno 610"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB, UFS2.2",
+                "Thẻ nhớ ngoài": [
+                    "microSDXC",
+                    "(sử dụng chung với khay SIM)"
+                ],
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng nhựa phẳng",
+                    "Kháng nước, bụi IP64",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": [
+                    "163.2 x 75.9 x 7.8 mm (Đen Vũ Trụ)",
+                    "163.2 x 75.9 x 8.0 mm (Bạc Titan, Tím Thời Không)"
+                ],
+                "Trọng lượng (g)": [
+                    "188 g (Đen Vũ Trụ)",
+                    "190 g (Bạc Titan, Tím Thời Không)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 5000 mAh",
+                    "Sạc siêu nhanh 80W",
+                    "Sạc 45% pin trong 15 phút",
+                    "Hỗ trợ sạc ngược (dây)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "3G WCDMA (B1/B5/B8)",
+                "4G": [
+                    "4G FDD-LTE (B1/B3/B5/B7/B8/B20/B28)",
+                    "4G TDD-LTE (B38/B40/B41)"
+                ],
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, băng tần kép",
+                "GPS": "QZSS, GPS, GLONASS, GALILEO, BEIDOU",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép",
+                    "24-bit/192kHz Hi-Res audio"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

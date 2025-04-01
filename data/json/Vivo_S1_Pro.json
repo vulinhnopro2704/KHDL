@@ -1,0 +1,100 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-s1-pro.html",
+    "name": "Vivo S1 Pro",
+    "price": "2500000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); Funtouch 9",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "Super AMOLED, 6.39 inches, Full HD+ (1080 x 2340 pixels)",
+                "Độ phân giải": "1080 x 2340 pixels, tỉ lệ 19.5:9",
+                "Màn hình rộng": "6.39 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "3 Camera: 48 MP (wide) + 8 MP (wide) + 5 MP (depth sensor)",
+                "Camera trước": "32 MP, f/2.0 (Camera Pop-up)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "Quay phim 4K (2160p@30fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2.0 GHz, Kryo 460",
+                "Số nhân": "8 Nhân",
+                "Chipset": "Qualcomm Snapdragon 675 (11 nm)",
+                "RAM": "6GB/8GB",
+                "Chip đồ họa (GPU)": "Adreno 612"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB/256GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "2 mặt kính, màn hình Fullview",
+                "Kích thước": "157.3 x 74.7 x 8.2 mm",
+                "Trọng lượng (g)": "185 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "3700 mAh - sạc nhanh 18W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano Sim",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, BDS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB 2.0",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Micro USB 2.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "MP3, WAV.",
+                "Cổng sạc": "Micro USB 2.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Camera dưới màn hình"
+            }
+        }
+    ]
+}

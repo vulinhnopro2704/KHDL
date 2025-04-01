@@ -1,0 +1,128 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/ulefone-armor-24-pin-22000-mah.html",
+    "name": "Ulefone Armor 24 (Pin 22.000mAh, độ bên chuẩn Quân đội Mỹ)",
+    "price": "9950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 120Hz",
+                    "6.78 inches, Full HD+ (1080 x 2460 pixels)",
+                    "Tỷ lệ 20.5:9; Mật độ điểm ảnh ~396 ppi",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1080 x 2460 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.9 (góc rộng), 1/1.7\", 0.8µm, PDAF",
+                    "64 MP, f/1.8 (night vision), 2 đèn hồng ngoại nhìn xuyên đêm",
+                    "Quay phim: 1440p@30fps, 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.2 (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1440p@30fps, 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.05 GHz Cortex-A76",
+                    "6x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Helio G96 (12 nm)",
+                    "8 nhân (2x2.05 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G57 MC2"
+                ],
+                "RAM": "12GB",
+                "Chip đồ họa (GPU)": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "2TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Hầm hố, độ bền chuẩn MIL-STD-810H (Quân đội Mỹ)",
+                    "Kháng nước, bụi IP68/IP69K (ngâm nước sâu 1.5m trong 30 phút)",
+                    "Rơi 1.5m xuống nền cứng (đá, bê tông,..) không sao",
+                    "Đèn pin siêu sáng 1000 lumens"
+                ],
+                "Kích thước": "181.2 x 87 x 27.5 mm",
+                "Trọng lượng (g)": "647 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 22.000 mAh",
+                    "Sạc nhanh 66W",
+                    "Sạc ngược (dây) 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 28, 34, 38, 39, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": [
+                    "NFC, Đài FM không dây, RDS, ghi âm",
+                    "Đầu nối phụ kiện (nội soi Ulefone, kính hiển vi)"
+                ],
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

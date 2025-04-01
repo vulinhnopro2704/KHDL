@@ -1,0 +1,146 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-z-flip-4.html",
+    "name": "Samsung Galaxy Z Flip4 128GB",
+    "price": "11.190.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "1080 x 2640 pixels",
+                "Tính năng màn hình": [
+                    "Màn hình chính: 6.7 inches, Dynamic AMOLED 2X",
+                    "Màn hình ngoài: 1.9 inches, Super AMOLED",
+                    "120Hz, HDR10+, 1200 nits (peak)",
+                    "Mặt kính cảm ứng chính: Ultra Thin Glass",
+                    "Mặt kính cảm ứng phụ: Corning Gorilla Glass Victus+"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Màn hình gập"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 12 MP, f/1.8, PDAF, OIS",
+                    "Camera góc siêu rộng: 12 MP, f/2.2, 123˚"
+                ],
+                "Quay video": "4K@30/60fps, 1080p@60/240fps, 720p@960fps, HDR10+",
+                "Tính năng camera": "Đèn Flash, Quay Siêu chậm (Super Slow Motion), AI Camera, Zoom quang học"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "10 MP, f/2.4",
+                "Quay video trước": "4K@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8+ Gen 1 8 nhân",
+                "GPU": "Adreno 670"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GLONASS, GPS, GALILEO, QZSS, BEIDOU"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3700 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 25W",
+                    "Sạc nhanh không dây 10W",
+                    "Sạc không dây ngược 4,5W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 3.18 GHz, 3 nhân 2.7 GHz & 4 nhân 2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Khi mở: 165.2 x 71.9 x 6.9mm",
+                    "Khi gập: 84.9 x 71.9 x 15.9-17.1 mm"
+                ],
+                "Trọng lượng": "187 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IPX8",
+                "Tiện ích khác": [
+                    "Samsung Pay",
+                    "Chế độ đơn giản (Giao diện đơn giản)",
+                    "Thu nhỏ màn hình sử dụng một tay",
+                    "Trợ lý ảo Samsung Bixby",
+                    "Samsung DeX (Kết nối màn hình sử dụng giao diện tương tự PC)",
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Tối ưu game (Game Booster)"
+                ],
+                "Công nghệ âm thanh": "Âm thanh Dolby Atmos"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/ax, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "v5.2, A2DP, LE"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "08/2022"
+            }
+        }
+    ]
+}

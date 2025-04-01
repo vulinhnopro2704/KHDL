@@ -1,0 +1,118 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/samsung-galaxy-a52s-5g-chinh-hang.html",
+    "name": "Samsung Galaxy A52s 5G",
+    "price": "10200000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, có thể update Android 12, One UI 4.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Super AMOLED, 120Hz, tỷ lệ 20:9",
+                    "6.5 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Corning Gorilla Glass 5",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.5 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.8, 26mm (góc rộng), PDAF, OIS",
+                    "12 MP, f/2.2, 123˚ (góc siêu rộng)",
+                    "5 MP, f/2.4, (macro)",
+                    "5 MP, f/2.4, (depth)",
+                    "Quay phim: 4K@30fps, 1080p@30/60fps; gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.2, 26mm (góc rộng)",
+                    "Quay phim: 4K@30fps, 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K@30fps, 1080p@30/60fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.4 GHz & 4x1.9 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+                    "8 nhân (4x2.4 GHz & 4x1.9 GHz)",
+                    "GPU: Adreno 642L"
+                ],
+                "RAM": "4-8GB",
+                "Chip đồ họa (GPU)": "Adreno 642L"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "159.9 x 75.1 x 8.4 mm",
+                "Trọng lượng (g)": "189 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4500 mAh",
+                    "Sạc nhanh 25W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 32, 38, 40, 41, 66",
+                "Loại Sim": "1 SIM, Nano SIM",
+                "Khe gắn Sim": "1 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C 2.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C 2.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

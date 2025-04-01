@@ -1,0 +1,108 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-mi-10-ultra.html",
+    "name": "Xiaomi Mi 10 Ultra",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "OLED capacitive touchscreen, 1B colors, Corning Gorilla Glass 5, HDR10+, 120Hz refresh rate, 800 nits",
+                "Kích thước màn hình": "6.66 inches",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.9, 25mm (wide), 1/1.32\", 1.2µm, PDAF, OIS",
+                    "48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom, 120x hybrid zoom",
+                    "12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, Dual Pixel PDAF, 2x optical zoom",
+                    "20"
+                ],
+                "Quay video": [
+                    "Trước: 1080p@30fps, 720p@120fps",
+                    "Sau: 8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps; gyro-EIS"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20 MP, f/2.3, (wide), 1/3.4\", 0.8µm"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8250 Snapdragon 865 (7 nm+)",
+                "GPU": "Adreno 650"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": [
+                    "Li-Ion 4500 mAh battery",
+                    "Fast charging 120W",
+                    "Fast wireless charging 50W",
+                    "Reverse wireless charging 10W"
+                ]
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162.4 x 75.1 x 9.5 mm",
+                "Trọng lượng": "221.8 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, DLNA, hotspot",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hồng ngoại": "true"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Cảm biến vân tay, cảm biến tiệm cận, gia tốc kế, la bàn, con quay hồi chuyển"
+            }
+        }
+    ]
+}

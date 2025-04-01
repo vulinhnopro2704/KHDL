@@ -1,0 +1,83 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-a3-core.html",
+    "name": "Samsung Galaxy A3 Core",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "PLS TFT, 16 triệu màu",
+                "Kích thước màn hình": "5.3 inches",
+                "Độ phân giải màn hình": "720 x 1480 pixels"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "8MP, , f/2.2",
+                "Quay video": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Mediatek MT6739",
+                "GPU": "PowerVR GE8100"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "2 GB",
+                "Bộ nhớ trong": "32 GB",
+                "Khe cắm thẻ nhớ": "Micro SD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3000 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10.0 (Go edition)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Quad core 1.5 GHz Cortex-A53"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "141.7 x 67.5 x 8.6 mm",
+                "Trọng lượng": "150 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+                "Bluetooth": "Yes 5.0, A2DP, LE"
+            }
+        }
+    ]
+}

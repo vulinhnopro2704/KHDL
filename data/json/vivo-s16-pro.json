@@ -1,0 +1,19 @@
+{
+    "url": "https://cellphones.com.vn/vivo-s16-pro.html",
+    "name": "Vivo S16 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Dimensity 8200"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        }
+    ]
+}

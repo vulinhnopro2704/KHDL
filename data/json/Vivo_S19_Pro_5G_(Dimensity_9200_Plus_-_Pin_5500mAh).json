@@ -1,0 +1,129 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-s19-pro-5g-pin-5500mah.html",
+    "name": "Vivo S19 Pro 5G (Dimensity 9200 Plus - Pin 5500mAh)",
+    "price": "11650000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, OriginOS 4",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, 4500 nits (tối đa)",
+                    "6.78 inches, 1.5K (1260 x 2800 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~453 ppi"
+                ],
+                "Độ phân giải": "1260 x 2800 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9 (góc rộng), PDAF, OIS",
+                    "50 MP, f/1.9 (tele), PDAF, OIS, zoom quang 2x",
+                    "8 MP, f/2.2, 106˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30fps, 1080p@30fps, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "50 MP, f/2.0, 22mm (góc rộng), AF",
+                    "Dual-LED flash, HDR",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring-LED flash, panorama, HDR",
+                "Quay phim": "4K@30fps, 1080p@30fps, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.35 GHz Cortex-X3",
+                    "3x3.0 GHz Cortex-A715",
+                    "4x2.0 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 9200+ (4 nm)",
+                    "8 nhân (1x3.35 GHz & 3x3.0 GHz & 4x2.0 GHz)",
+                    "GPU: Immortalis-G715 MC11"
+                ],
+                "RAM": "8-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Immortalis-G715 MC11"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa bo cong",
+                    "Mặt lưng kính bo cong; Màn hình cong",
+                    "Cảm biến vân tay quang học dưới màn hình",
+                    "Kháng nước, bụi IP68/IP69K"
+                ],
+                "Kích thước": "164.1 x 75 x 7.6 mm",
+                "Trọng lượng (g)": "192 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C",
+                "Dung lượng pin": [
+                    "Si/C 5500 mAh",
+                    "Sạc nhanh 80W",
+                    "Sạc ngược (dây)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM Nano SIM",
+                "Khe gắn Sim": "2 SIM Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS, BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-14-pro-plus.html",
+    "name": "Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB",
+    "price": "9.690.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "2712 x 1220 pixels",
+                "Tính năng màn hình": [
+                    "Tần số quét: Lên đến 120Hz",
+                    "Độ sáng: 3000 nits",
+                    "Độ sâu màu: 12-bit",
+                    "Tỷ lệ tương phản: 5,000,000:1"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Chính 200MP, OIS - f/1.65",
+                    "Góc siêu rộng 8MP - f/2.2",
+                    "Macro 2MP - f/2.4"
+                ],
+                "Quay video": [
+                    "HD 720p@30fps",
+                    "FullHD 1080p@60fps",
+                    "FullHD 1080p@30fps",
+                    "4K 2160p@30fps",
+                    "4K 2160p@24fps"
+                ],
+                "Tính năng camera": "Khoanh vùng tìm kiếm, Google Gemini, Phiên dịch AI, Ghi chú AI, Ghi âm AI, Phụ đề AI, Làm phim AI, Làm"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera trước - f/2.2",
+                "Quay video trước": "20 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon® 7s Gen 3",
+                "GPU": "Qualcomm® Adreno™ GPU"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Hồng ngoại": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "QZS, GPS, GLONASS, GALILEO, BEIDOU"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5110 mAh",
+                "Công nghệ sạc": "Sạc 120W HyperCharge",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân, xung nhịp 2.5Ghz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "162.53mm x 74.67mm x 8.75mm (Xanh Băng Giá, Đen Huyền Bí)",
+                    "162.53mm x 74.67mm x 8.85mm (Tím Oải Hương)"
+                ],
+                "Trọng lượng": [
+                    "210.14g (Xanh Băng Giá, Đen Huyền Bí)",
+                    "205.13g (Xanh Oải Hương)"
+                ]
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ âm thanh": [
+                    "Loa kép",
+                    "Dolby Atmos"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi hotspot, Wi-Fi Direct, Wi-Fi 6E, Wi-Fi 6, Wi-Fi 5, Wi-Fi 4, Dual-band (2.4 GHz/5 GHz)",
+                "Bluetooth": "5.4"
+            }
+        }
+    ]
+}

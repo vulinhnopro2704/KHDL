@@ -1,0 +1,83 @@
+{
+    "url": "https://cellphones.com.vn/nokia-43.html",
+    "name": "Nokia 4.3",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "HD+",
+                "Kích thước màn hình": "5.7 inches",
+                "Độ phân giải màn hình": "720 x 1520 pixels"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "16MP (khẩu độ F/2.2) + 2MP (khẩu độ F/2.2)",
+                "Quay video": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8MP khẩu độ F/2.0"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 439"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "A-GPS, GLONASS, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "3 GB",
+                "Bộ nhớ trong": "32 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Ion 3.000 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "146.56mm x 70.46mm"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 b/g/n, hotspot",
+                "Bluetooth": "4.2"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": [
+                    "-Vân tay mặt sau, ánh sáng, tiệm cận, tốc kế,NFC",
+                    "- Mở khoá bằng khuôn mặt"
+                ]
+            }
+        }
+    ]
+}

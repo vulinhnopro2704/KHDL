@@ -1,0 +1,137 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-y100-chinh-hang-snapdragon-685.html",
+    "name": "Vivo Y100 Chính hãng (Snapdragon 685)",
+    "price": "6950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Funtouch OS 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED E4",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED E4, 120 Hz, 1800 nits (tối đa)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels)",
+                    "Tỷ lệ 20:9; Mật độ điểm ảnh 394 ppi",
+                    "Kính cường lực"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8 (góc rộng)",
+                    "2 MP, f/2.4, Flicker",
+                    "Quay phim: 1080p@30fps; 720p@30/60fps"
+                ],
+                "Camera trước": [
+                    "8 MP, f/2.0 (góc rộng)",
+                    "Chụp ảnh, Chân dung, Chụp đêm, Quay video, Live Photo",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Xóa phông",
+                "Quay phim": "Chụp ảnh, Chân dung, Chụp đêm, Quay video, Độ phân giải cao, Toàn cảnh, Căn chỉnh tài liệu, Chuyển động chậm, Tua nhanh thời gian, Chế độ chuyên nghiệp, Video hiển thị kép, Live Photo",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "4x2.8 GHz Cortex-A73",
+                    "4x1.9 GHz Cortex-A53"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM6225 Snapdragon 685 (6 nm)",
+                    "8 nhân (4x2.8 GHz & 4x1.9 GHz)",
+                    "GPU: Adreno 610"
+                ],
+                "RAM": [
+                    "8GB + 8GB (RAM ảo)",
+                    "LPDDR4x"
+                ],
+                "Chip đồ họa (GPU)": "Adreno 610"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mở khoá vân tay dưới màn hình",
+                    "Mở khoá khuôn mặt; Loa kép",
+                    "Kháng nước, bụi IP54"
+                ],
+                "Kích thước": [
+                    "163.17 × 75.81 × 7.79 mm (Pha Lê Đen)",
+                    "163.17 × 75.81 × 7.95 mm (Kim Cương Xanh)"
+                ],
+                "Trọng lượng (g)": [
+                    "186g (Pha Lê Đen)",
+                    "188g (Kim Cương Xanh)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-ion",
+                "Dung lượng pin": [
+                    "Li-ion 5000 mAh",
+                    "Sạc nhanh 80W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "3G WCDMA: B1/B5/B8",
+                "4G": [
+                    "4G FDD-LTE: B1/B3/B5/B7/B8/B20/B28",
+                    "4G TDD-LTE: B38/B40/B41"
+                ],
+                "Loại Sim": "1 Nano SIM + 1 Nano SIM / microSD",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band (2.4 GHz, 5 GHz)",
+                "GPS": "GPS, BeiDou, GLONASS, Galileo, QZSS",
+                "Bluetooth": "5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

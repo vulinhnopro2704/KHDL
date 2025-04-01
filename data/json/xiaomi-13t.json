@@ -1,0 +1,153 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-13t.html",
+    "name": "Xiaomi 13T 12GB 256GB",
+    "price": "10.590.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1220 x 2712 pixels",
+                "Tính năng màn hình": [
+                    "Tần số quét 144 Hz",
+                    "Dolby Vision, HDR10+, 2600 nits",
+                    "Kính cường lực Corning Gorilla Glass 5"
+                ],
+                "Tần số quét": "Từ 144Hz trở lên"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính góc rộng: 50 MP, 1/1.22\", f/1,9",
+                    "Camera góc siêu rộng: 12 MP, f/2,2",
+                    "Camera Tele: 50 MP, f/1,9"
+                ],
+                "Quay video": "4K@24/30/60fp, 1080p@30/120/240/960fps, 1080p@1920fps, gyro-EIS",
+                "Tính năng camera": [
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Góc siêu rộng (Ultrawide)",
+                    "Zoom kỹ thuật số",
+                    "Xiaomi ProCut",
+                    "Quét tài liệu",
+                    "Quay chậm (Slow Motion)",
+                    "Xóa phông",
+                    "Toàn cảnh (Panorama)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "20 MP, f/2,2",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 8200-Ultra",
+                "GPU": "Mali-G610"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 67 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 3.1 GHz, 3 nhân 3 GHz & 4 nhân 2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162.2 x 75.7 x 8.49 mm (Kính) | 8.62 mm (Da)",
+                "Trọng lượng": "197 g (Kính) | 193 g (Da)"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Công nghệ tản nhiệt LiquidCool",
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": [
+                    "Công nghệ hình ảnh Dolby Vision",
+                    "Công nghệ tản nhiệt LiquidCool",
+                    "Màn hình luôn hiển thị AOD",
+                    "Thu nhỏ màn hình sử dụng một tay",
+                    "Không gian thứ hai",
+                    "Khoá ứng dụng",
+                    "Trợ lý ảo Google Assistant"
+                ],
+                "Tiện ích khác": [
+                    "Mở rộng bộ nhớ RAM",
+                    "Chặn cuộc gọi",
+                    "Chạm 2 lần tắt/sáng màn hình"
+                ],
+                "Công nghệ âm thanh": [
+                    "Âm thanh Dolby Atmos",
+                    "Âm thanh Hi-Res Audio",
+                    "Loa kép"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wifi 6",
+                "Bluetooth": "v5.4"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2023"
+            }
+        }
+    ]
+}

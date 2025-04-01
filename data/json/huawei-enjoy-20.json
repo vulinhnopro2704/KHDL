@@ -1,0 +1,97 @@
+{
+    "url": "https://cellphones.com.vn/huawei-enjoy-20.html",
+    "name": "Huawei Enjoy 20",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+                "Kích thước màn hình": "6.5 inches",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.8, 26mm (wide), PDAF",
+                    "8 MP, f/2.4, 17mm (ultrawide)",
+                    "2 MP, f/2.4, (macro)",
+                    "2 MP, f/2.4, (depth)"
+                ],
+                "Quay video": [
+                    "Trước: 1080p",
+                    "Sau: 4K, 1080p, 720p@960fps"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16 MP, f/2.0, (wide)"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Kirin 820 5G (7nm)",
+                "GPU": "Mali-G57 (6-core)"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "NM (Nano Memory), up to 256G"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4000 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10, EMUI 10.1, no Google Play Services"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core (1x2.36 GHz Cortex-A76 & 3x2.22 GHz Cortex-A76 & 4x1.84 GHz Cortex-A55)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162.3 x 75 x 8.6 mm",
+                "Trọng lượng": "189 g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "5.1, A2DP, LE"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Cảm biến vân tay, cảm biến gia tốc, con quay hồi chuyển, cảm biến tiệm cận, la bàn, cảm biến áp kế"
+            }
+        }
+    ]
+}

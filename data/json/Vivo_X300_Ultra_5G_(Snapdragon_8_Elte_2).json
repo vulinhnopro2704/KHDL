@@ -1,0 +1,89 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-x300-ultra-5g-sieu-khung.html",
+    "name": "Vivo X300 Ultra 5G (Snapdragon 8 Elte 2)",
+    "price": "22950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 16, OriginOS 6",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR",
+                    "6.78 inches, QHD+ (1440 x 3200 pixels)"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), 1 inch, dual pixel PDAF, gimbal OIS",
+                    "200 MP (tele tiềm vọng), multi-directional PDAF, OIS, zoom 3.7x",
+                    "50 Mp (góc siêu rộng)",
+                    "Quay phim: 8K, 4K, 1080p, gyro-EIS, Dolby Vision HDR"
+                ],
+                "Camera trước": [
+                    "50 MP (góc rộng)",
+                    "Quay phim: 4K, 1080p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+                "Quay phim": "8K, 4K, 1080p, gyro-EIS, Dolby Vision HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Chipset": "Snapdragon 8 Elite 2",
+                "RAM": "12-16GB, LPDDR5X"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.1",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C Li-Ion",
+                "Dung lượng pin": [
+                    "Si/C Li-Ion 6500 mAh",
+                    "Sạc 80W",
+                    "Sạc không dây 30W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

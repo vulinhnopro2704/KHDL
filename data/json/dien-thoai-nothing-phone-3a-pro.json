@@ -1,0 +1,99 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-nothing-phone-3a-pro.html",
+    "name": "Nothing Phone 3A Pro",
+    "price": "Giá liên hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.77 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2392 pixels",
+                "Tính năng màn hình": "120Hz, NTSC 105%, 387 ppi, 3000nit, 1.07 tỷ màu, DCI-P3 100%"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "50MP, f/1.88, 1/1.56''",
+                    "8MP, f/2.2, 1/4''",
+                    "50MP, f/2.55, 1/1.953\""
+                ],
+                "Quay video": "4K@30fps, 1080P@30fps/60fps,1080P@120fps solo"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "50MP, f/2.2, 1/2.76''"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM",
+                "Jack tai nghe 3.5": "Không",
+                "GPS": "GPS/Glonass/Galileo/Navic with A-GPS, GLONASS, GALILEO, BDS, QZSS (GPS L1)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh",
+                "Công nghệ sạc": "Sạc 7.5W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Nothing OS 3.1 (Based on Android 15)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "178.4×92.5×31.3mm",
+                "Trọng lượng": "360g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP64",
+                "Công nghệ âm thanh": "Stereo speakers"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, Con quay hồi chuyển"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "2.4G/5G",
+                    "WiFi 6,802.11a/b/g/n/ac/ax,2.4G/5G,2x2 MIMO,TWT, 8SS, MU-MIMO,OFDMA"
+                ],
+                "Bluetooth": "v5,4"
+            }
+        }
+    ]
+}

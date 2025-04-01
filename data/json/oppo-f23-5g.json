@@ -1,0 +1,107 @@
+{
+    "url": "https://cellphones.com.vn/oppo-f23-5g.html",
+    "name": "OPPO F23 5G",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.72 inches",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz",
+                    "16,7 triệu màu, 391PPI, 550nits"
+                ],
+                "Loại màn hình": "Màn hình"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 64MP; f/1.7; FOV 79°",
+                    "Camera phụ: 2MP; f/2.4; FOV 89°; 3P lens",
+                    "2MP; f/3.3; FOV 65°;"
+                ],
+                "Quay video": "1080P/720P@30fps",
+                "Tính năng camera": "Chân dung, Tua nhanh thời gian, SLO-MO, Trình quét văn bản, Ống kính Google, HD bổ sung, Cận cảnh, Video ở chế độ xem kép, Kính hiển vi"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32MP; f/2.4; FOV 89°; FF",
+                "Quay video trước": [
+                    "1080P@30fps",
+                    "720P@30fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm® Snapdragon™ 695",
+                "GPU": "Adreno™ 619"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Beidou: B1I; GPS: L1; GLONASS: G1; Galileo: E1; QZSS: L1 are supported"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 67W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 cores, up to 2.2GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "16.56 x 7.61 x 0.82 cm",
+                "Trọng lượng": "192g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11a/b/g/n/",
+                "Bluetooth": "v5.1"
+            }
+        }
+    ]
+}

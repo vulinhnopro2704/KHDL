@@ -1,0 +1,64 @@
+{
+    "url": "https://cellphones.com.vn/vivo-x-fold-3.html",
+    "name": "Vivo X Fold 3",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "LTPO AMOLED",
+                "Tính năng màn hình": [
+                    "Màn hình trong: Kích thước 8.13 inch, độ phân giải 2K+, tần số quét 120 Hz, tấm nền LTPO4 AMOLED",
+                    "Kích thước 6.58 inch, độ phân giải 2K+, tần số quét 120 Hz, tấm nền AMOLED, tỉ lệ 21:9"
+                ],
+                "Loại màn hình": "Màn hình"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50 MP + 12 MP + 12 MP"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "Camera bên ngoài: 16 MP",
+                    "Camera bên trong: 16 MP"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 3"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "16 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4.900 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        }
+    ]
+}

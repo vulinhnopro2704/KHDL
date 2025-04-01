@@ -1,0 +1,154 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-z-fold-3.html",
+    "name": "Samsung Galaxy Z Fold3 5G 256GB",
+    "price": "41.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "7.6 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "1768 x 2208 Pixels",
+                "Tính năng màn hình": [
+                    "Màn hình chính: 7.6\" 2208x1768, 374ppi, HDR10+, 120Hz",
+                    "Màn hình phụ: 6.23\" 2268x832, HD+ Dynamic AMOLED 2X (24.5:9) Infinity-O Display, 38ppi, 120Hz"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Màn hình gập"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 12 MP, f/1.8, Dual Pixel PDAF, OIS",
+                    "Camera tele: 12 MP, f/2.4, PDAF, OIS, 2x Zoom quang học",
+                    "Camera góc siêu rộng: 12 MP, f/2.2",
+                    "Camera màn hình phụ: 10MP, f/2.2"
+                ],
+                "Quay video": "4K@60fps, 1080p@60/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+",
+                "Tính năng camera": [
+                    "Quay Siêu chậm (Super Slow Motion)",
+                    "Lấy nét theo pha (PDAF)",
+                    "AI Camera",
+                    "Ban đêm (Night Mode)",
+                    "Quay chậm (Slow Motion)",
+                    "Xóa phông",
+                    "Zoom quang học",
+                    "Chạm lấy nét Toàn cảnh (Panorama)",
+                    "Chống rung quang học (OIS)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera ẩn dưới màn hình: 4MP, f/1.8",
+                "Quay video trước": "4K@30fps, 1080p@30fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 888 5G (5 nm)",
+                "GPU": "Adreno 660"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4400 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 25W",
+                    "Sạc nhanh không dây: 10W",
+                    "Sạc ngược không dây: 4.5W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 2.84 GHz, 3 nhân 2.4 GHz & 4 nhân 1.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Khi gập:158.2 x 67.1 x 16mm",
+                    "Khi mở:158.2 x 128.1 x 6.4mm"
+                ],
+                "Trọng lượng": "271g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tương thích": "Bút S-pen",
+                "Chỉ số kháng nước, bụi": "IPX8",
+                "Tiện ích khác": [
+                    "Samsung Pay",
+                    "Smart Switch (ứng dụng chuyển đổi dữ liệu)"
+                ],
+                "Công nghệ âm thanh": [
+                    "Âm thanh Dolby Atmos",
+                    "Âm thanh AKG"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/ax, HE80, MIMO, 1024-QAM",
+                "Bluetooth": "v5.2"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "08/2021"
+            }
+        }
+    ]
+}

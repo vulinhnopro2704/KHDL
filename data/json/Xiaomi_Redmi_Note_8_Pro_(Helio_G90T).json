@@ -1,0 +1,126 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-note-8-pro.html",
+    "name": "Xiaomi Redmi Note 8 Pro (Helio G90T)",
+    "price": "3950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 9.0 (Pie)",
+                    "được lên Android 11, MIUI 12.5"
+                ],
+                "Ngôn ngữ": "Đa ngôn ngữ. Tiếng Việt sau khi up ROM"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, HDR, 500 nits (typ)",
+                    "6.53 inches, Full HD+ (1080 x 2340 pixels), tỷ lệ 19.5:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.53 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f / 1.9, 26mm (góc rộng), PDAF",
+                    "8 MP, f / 2.2, 13mm (góc siêu rộng)",
+                    "2 MP (độ sâu)",
+                    "2 MP (macro)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "20 MP, f/2.0 (góc rộng)",
+                    "HDR, panorama",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.05 GHz & 6x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Helio G90T (12nm)",
+                    "8 nhân (2x2.05 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G76 MC4"
+                ],
+                "RAM": "4-8GB",
+                "Chip đồ họa (GPU)": "Mali-G76 MC4"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-256GB, UFS 2.1",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa, mặt lưng Gorilla Glass 5",
+                    "Mặt trước Gorilla Glass 5"
+                ],
+                "Kích thước": "161.4 x 76.4 x 8.8 mm",
+                "Trọng lượng (g)": "200 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4500 mAh",
+                    "Sạc nhanh 18W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "1, 3, 5, 7, 8, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC, FM radio",
+                "Cổng sạc": "Type - C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263,H264",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Type - C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

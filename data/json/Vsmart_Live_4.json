@@ -1,0 +1,94 @@
+{
+    "url": "https://mobilecity.vn/vsmart/vsmart-live-4.html",
+    "name": "Vsmart Live 4",
+    "price": "2550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPS IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "LTPS IPS LCD, 6.5\", Full HD+ (1080 x 2340 Pixels)",
+                "Độ phân giải": "LTPS IPS LCD, 6.5\", Full HD+ (1080 x 2340 Pixels)",
+                "Màn hình rộng": "6.5",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "Chính 48 MP & Phụ 8 MP, 5 MP, 2 MP",
+                "Camera trước": "13 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "A.I Camera, Ban đêm (Night Mode), Trôi nhanh thời gian (Time Lapse), Quay chậm (Slow Motion), Xoá phông, Nhãn dán (AR Stickers), Làm đẹp, Google Lens, Siêu cận (Macro), Góc siêu rộng (Ultrawide), Tự động lấy nét (AF), Chạm lấy nét, Nhận diện khuôn mặt, HDR, Chuyên nghiệp (Pro)",
+                "Quay phim": "Quay phim HD 720p@120fps, Quay phim FullHD 1080p@30fps, Quay phim 4K 2160p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2 nhân 2.0 GHz & 6 nhân 1.7 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 675",
+                "RAM": "4GB",
+                "Chip đồ họa (GPU)": "Adreno 612"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + cảm ứng",
+                "Kích thước": "Dài 162.4 mm - Ngang 76.5 mm - Dày 8.9 mm",
+                "Trọng lượng (g)": "217"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-po",
+                "Dung lượng pin": "5000mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, Dual-band (2.4 GHz/5 GHz), Wi-Fi Direct, Wi-Fi hotspot",
+                "GPS": "A-GPS",
+                "Bluetooth": "LE, A2DP, v5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

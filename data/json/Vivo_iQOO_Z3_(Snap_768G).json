@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-iqoo-z3.html",
+    "name": "Vivo iQOO Z3 (Snap 768G)",
+    "price": "5550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, OriginOS for iQOO 1.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ."
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD, HDR10, 120Hz",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "IPS LCD, 6.58 inches, Full HD+ (1080 x 2408 pixels, 20:9 ratio), 120Hz",
+                "Độ phân giải": "IPS LCD, 6.58 inches, Full HD+ (1080 x 2408 pixels, 20:9 ratio), 120Hz",
+                "Màn hình rộng": "6.58",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "64 MP, f/1.8 (wide), 8 MP, f/2.2 (ultrawide), 2 MP, f/2.4 (macro)",
+                "Camera trước": "16 MP, f/2.0 (wide)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.8 GHz & 1x2.4 GHz & 6x1.8 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 768G (7 nm)",
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Adreno 620"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "164 x 75.3 x 8.5 mm",
+                "Trọng lượng (g)": "185.5 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "4400 mAh - Sạc nhanh 55W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+                "4G": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C, USB On-The-Go",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

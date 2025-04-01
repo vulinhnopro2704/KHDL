@@ -1,0 +1,117 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-iqoo-z1x.html",
+    "name": "Vivo iQOO Z1x",
+    "price": "4950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, iQOO UI 1.0",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 120Hz, HDR10",
+                    "6.57 inches, Full HD+ (1080 x 2408 pixels), tỷ lệ 20:9"
+                ],
+                "Độ phân giải": "1080 x 2408 pixels",
+                "Màn hình rộng": "6.57",
+                "Công nghệ cảm ứng": "Cám ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.8, 26mm (góc rộng), PDAF",
+                    "2 MP, f/2.4, (macro)",
+                    "2 MP, f/2.4, (đo chiều sâu)",
+                    "Quay phim 4K@30fps, 1080p@30fps; gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.0, (góc rộng)",
+                    "Quay phim 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.4 GHz & 1x2.2 GHz & 6x1.8 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7250 Snapdragon 765G 5G (7 nm), 8 nhân",
+                    "(1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
+                    "GPU: Adreno 620"
+                ],
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Adreno 620"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64-128-256GB, UFS 2.1",
+                "Thẻ nhớ ngoài": "Thẻ nhớ: không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh, cảm ứng",
+                "Kích thước": "164.2 x 76.5 x 9.1 mm",
+                "Trọng lượng (g)": "199.5"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 33W",
+                    "Super Flash Charge 2.0"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "3G WCDMA：B1/B2/B4/B5/B8;",
+                "4G": "4G-5G",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Có",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4,WMA ...",
+                "Nghe nhạc": "WAV / MP3 / MP2 / AMR-NB / AMR-WB / MIDI / Vorbis / APE / FLAC",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

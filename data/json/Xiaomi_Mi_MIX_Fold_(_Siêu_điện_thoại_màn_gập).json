@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-mi-mix-fold.html",
+    "name": "Xiaomi Mi MIX Fold ( Siêu điện thoại màn gập)",
+    "price": "20100000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, MIUI 12",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt sau khi up ROM"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Foldable AMOLED, 1B colors, HDR10+, Dolby Vision, 900 nits",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": "AMOLED, 6.52 inches, 2K+ (840 x 2520 pixels, 27:9 ratio), 90Hz",
+                "Độ phân giải": "AMOLED, 6.52 inches, 2K+ (840 x 2520 pixels, 27:9 ratio), 90Hz",
+                "Màn hình rộng": "6.52",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "108 MP f/1.8 (wide), 8 MP (telephoto/macro) 3x optical zoom, 13 MP f/2.4 (ultrawide)",
+                "Camera trước": "20 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual LED flash, HDR, panorama",
+                "Quay phim": "8K@24/30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 888 (5 nm)",
+                "RAM": "12-16GB",
+                "Chip đồ họa (GPU)": "Adreno 660"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế màn hình gập, hai mặt kính, khung kim loại",
+                "Kích thước": "Màn hình mở ra: 173,3 x 133,4 x 7,6 mm, màn hình gấp lại: 173,3 x 69,8 x 17,2 mm",
+                "Trọng lượng (g)": "Hai phiên bản: 317 g (Thủy tinh), 332 g (Gốm)"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "5020 mAh - Sạc nhanh 67W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850/900/1700 (AWS) / 1900/2100 CDMA2000 1xEV-DO",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Chuẩn Wi-Fi 6: 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS, NavIC",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4，MKV，AVI，WMV，WEBM，3GP，ASF HDR10",
+                "Nghe nhạc": "WAV / MP3 / MP2 / AMR-NB / AMR-WB / MIDI / Vorbis / APE / FLAC",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

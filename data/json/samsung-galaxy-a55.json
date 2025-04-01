@@ -1,0 +1,139 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-a55.html",
+    "name": "Samsung Galaxy A55 5G 8GB 128GB",
+    "price": "8.490.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz, 1000nits",
+                    "96% DCI-P3, 1000 nits, Gorilla Glass 7+"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50 MP OIS+HDR",
+                    "Camera góc rộng: 12MP",
+                    "Camera macro: 5MP"
+                ],
+                "Quay video": [
+                    "UHD 4K (3840 x 2160)@30fps",
+                    "Quay chậm 240fps @HD"
+                ],
+                "Tính năng camera": [
+                    "Dual recording (quay cam trước & sau cùng lúc), Đèn Flash",
+                    "Zoom quang học 10x",
+                    "Panorama",
+                    "Macro",
+                    "Xóa phông",
+                    "Chế độ ban đêm",
+                    "Chuyên nghiệp",
+                    "Hyperlapse",
+                    "Chuyển động siêu chậm",
+                    "Tự động lấy nét"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 1480 4nm 2.4GHz",
+                "GPU": "AMD Titan 1WGP"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, Glonass, Beidou, Galileo, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD hỗ trợ lên tới 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "4 nhân 2.7 GHz & 4 nhân 2.0 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161.1 x 77.4 x 8.2 mm",
+                "Trọng lượng": "213g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP67",
+                "Công nghệ âm thanh": "Ghi âm"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/ax 2.4GHz+5GHz, WiFi Direct",
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "03/2024"
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-mi-cc9-pro.html",
+    "name": "Xiaomi Mi CC9 Pro",
+    "price": "8550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie); MIUI 11",
+                "Ngôn ngữ": "Tiếng Anh, Tiếng Trung"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "Super AMOLED, FHD+ (1080 x 2340 pixels), 6.47 inches, HDR10+",
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.47 inch",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "5 Camera: 108 MP + 5 MP (Zoom 5X) + 12 MP (Zoom 2X) + 20 MP (Góc rông ) + 2 MP (Xoá phông )",
+                "Camera trước": "32 MP, f/2.0, 0.8µm",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Quad-LED dual-tone flash, HDR",
+                "Quay phim": "Quay phim 4K (2160p@30fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2.2 GHz, Kryo 470 Gold",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm Snapdragon 730G (8 nm)",
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Adreno 618"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "256 GB (Dùng chung với khe SIM)"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế nguyên khối, màn hình giọt nước, bo tròn 3D đẹp mắt",
+                "Kích thước": "157.8 x 74.2 x 9.7 mm",
+                "Trọng lượng (g)": "208 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "5270 mAh - sạc nhanh 30W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "2.0",
+                "Cổng sạc": "Type-C 1.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, MKV, H264, MPEG4, VC-1",
+                "Nghe nhạc": "PCM, AAC/AAC+/eAAC+, MP3, AMR-NB And WB, FLAC, WAV",
+                "Cổng sạc": "Type-C 1.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

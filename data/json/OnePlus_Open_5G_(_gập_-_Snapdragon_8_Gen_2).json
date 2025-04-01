@@ -1,0 +1,152 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oneplus-open-fold-dien-thoai-gap.html",
+    "name": "OnePlus Open 5G ( gập - Snapdragon 8 Gen 2)",
+    "price": "36890000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, OxygenOS 13.2",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Màn chính: Foldable LTPO3 Flexi-fluid AMOLED",
+                    "Màn phụ: LTPO3 Super Fluid OLED"
+                ],
+                "Màu màn hình": [
+                    "Màn chính: 1 tỷ màu",
+                    "Màn phụ: 1 tỷ màu"
+                ],
+                "Chuẩn màn hình": [
+                    "Màn chính: Foldable LTPO3 Flexi-fluid AMOLED, 1 tỷ màu, Dolby Vision, 120Hz, 2800 nits (tối đa)",
+                    "7.82 inches, QHD+ (2268 x 2440 pixels)",
+                    "Mật độ điểm ảnh ~426 ppi",
+                    "Màn phụ:",
+                    "LTPO3 Super Fluid OLED, 1 tỷ màu, Dolby Vision, 120Hz, 2800 nits (tối đa)",
+                    "6.31 inches, Full HD+ (1116 x 2484 pixels)",
+                    "Mật độ điểm ảnh ~431 ppi",
+                    "Kính Ceramic Guard"
+                ],
+                "Độ phân giải": [
+                    "Màn chính: 2268 x 2440 pixels",
+                    "Màn phụ: 1116 x 2484 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Màn chính: 7.82 inches",
+                    "Màn phụ: 6.31 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.7, 24mm (góc rộng), PDAF đa hướng, OIS",
+                    "64 MP, f/2.6, 70mm (tele), PDAF, OIS, zoom quang 3x",
+                    "48 MP, f/2.2, 14mm, 114˚ (góc siêu rộng), PDAF",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120/240/480fps gyro-EIS, HDR10+, Dolby Vision"
+                ],
+                "Camera trước": [
+                    "Selfie màn trong: 20 MP, f/2.2, 20mm (góc siêu rộng)",
+                    "Selfie màn ngoài: 32MP, f/2.4, 22mm (góc siêu rộng)",
+                    "HDR",
+                    "Quay phim: 4K@30fps, 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Hasselblad Color Calibration, LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120/240/480fps gyro-EIS, HDR10+, Dolby Vision",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.2 GHz Cortex-X3",
+                    "2x2.8 GHz Cortex-A715",
+                    "2x2.8 GHz Cortex-A710",
+                    "3x2.0 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.32 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": "16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Điện thoại gập kiểu quyển sổ",
+                    "Khung nhôm, mặt lưng da/kính",
+                    "Màn hình ngoài kính Ceramic Guard",
+                    "Màn hình trong nhựa dẻo",
+                    "Kháng nước nhẹ IPX4",
+                    "Cảm biến cạnh bên"
+                ],
+                "Kích thước": [
+                    "Khi mở ra: 153.4 x 143.1 x 5.8 mm",
+                    "Khi gấp lại: 153.4 x 73.3 x 11.7 mm"
+                ],
+                "Trọng lượng (g)": "239 g hoặc 245 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4805 mAh",
+                    "Sạc nhanh dây 67W, PD",
+                    "Sạc 1-100% trong 42 ph (QC)",
+                    "Hỗ trợ sạc ngược có dây"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 38, 39, 40, 41, 46, 48, 66, 71",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+                "GPS": "GPS (L1+L5), GLONASS, BDS, GALILEO (E1+E5a), QZSS",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

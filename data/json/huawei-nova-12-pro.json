@@ -1,0 +1,101 @@
+{
+    "url": "https://cellphones.com.vn/huawei-nova-12-pro.html",
+    "name": "Huawei Nova 12 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "2652 x 1200 pixels",
+                "Tính năng màn hình": [
+                    "1,07 tỷ màu, HDR10, tốc độ làm mới 120Hz",
+                    "Kính Kunlun 2"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.9, PDAF, Laser AF",
+                    "Camera Tele: 50 MP, PDAF, optical zoom",
+                    "Camera góc siêu rộng: 12 MP, AF"
+                ],
+                "Quay video": "4K, 1080p, 720p@960fps, gyro-EIS",
+                "Tính năng camera": "Đèn flash LED, HDR, toàn cảnh"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "Camera chân dung: 8 MP, f/2.2, 52mm, AF",
+                    "Camera góc siêu rộng: 60 MP, f/2.4, 17mm, 100˚, AF"
+                ],
+                "Quay video trước": "4K@30fps, 1080p@30fps, gyro-EIS"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Kirin 9000S (7 nm)",
+                "GPU": "Maleoon 910 GPU"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4900 mAh",
+                "Công nghệ sạc": "Sạc siêu nhanh 100W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "HarmonyOS 4.0"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x2.62 GHz Cortex-A720 & 3x2.15 GHz Cortex-A720 & 4x1.53GHz Cortex-A510"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/6",
+                "Bluetooth": "v5.2, A2DP, LE"
+            }
+        }
+    ]
+}

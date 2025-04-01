@@ -1,0 +1,127 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-v40e-5g-dimensity-7300.html",
+    "name": "Vivo V40e 5G (Dimensity 7300)",
+    "price": "8550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Funtouch 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED,1 tỷ màu, 120Hz, HDR10+",
+                    "6.77 inches, Full HD+ (1080 x 2392 pixels)",
+                    "Mật độ điểm ảnh ~388 ppi"
+                ],
+                "Độ phân giải": "1080 x 2392 pixels",
+                "Màn hình rộng": "6.77 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/2.0 (góc rộng), 1/1.95\", 0.8µm, PDAF, OIS",
+                    "8 MP, f/2.2, 116˚ (góc siêu rộng)",
+                    "Quay phim: 4K, 1080p, HDR, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "50 MP, f/2.0 (góc rộng), 1/2.76\", 0.64µm, AF",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring-LED flash, panorama, HDR",
+                "Quay phim": "4K, 1080p, HDR, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "4x2.5 GHz Cortex-A78",
+                    "4x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Dimensity 7300 (4 nm)",
+                    "8 nhân (4x2.5 GHz & 4x2.0 GHz)",
+                    "GPU: Mali-G615 MC2"
+                ],
+                "RAM": "8GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Mali-G615 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa bo cong",
+                    "Mặt lưng nhựa bo cong",
+                    "Màn hình cong + Cảm biến vân tay",
+                    "Kháng nước, bụi IP64"
+                ],
+                "Kích thước": "163.7 x 75 x 7.5 mm",
+                "Trọng lượng (g)": "183 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": [
+                    "Li-Ion 5500 mAh",
+                    "Sạc nhanh 80W",
+                    "Hỗ trợ sạc ngược (dây)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, băng tần kép",
+                "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+                "Bluetooth": "5.4, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res audio"
+                ],
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

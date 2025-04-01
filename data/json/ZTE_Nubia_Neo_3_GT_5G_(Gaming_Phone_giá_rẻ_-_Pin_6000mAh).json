@@ -1,0 +1,119 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/zte-nubia-neo-3-gt-5g.html",
+    "name": "ZTE Nubia Neo 3 GT 5G (Gaming Phone giá rẻ - Pin 6000mAh)",
+    "price": "5690000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 15",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 120Hz, 1300 nits (peak)",
+                    "6.8 inches, Full HD+ (1080 x 2392 pixels)",
+                    "Mật độ điểm ảnh ~386 ppi"
+                ],
+                "Độ phân giải": "1080 x 2392 pixels",
+                "Màn hình rộng": "6.8 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "Hãng không công bố",
+                "Camera trước": "Hãng không công bố",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Hãng không công bố",
+                "Quay phim": "Hãng không công bố",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x2.7 GHz Cortex-A76",
+                    "3x2.3 GHz Cortex-A76",
+                    "4x2.1 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Unisoc T9100 (6 nm)",
+                    "8 nhân (1x2.7 GHz & 3x2.3 GHz & 4x2.1 GHz)",
+                    "GPU: Mali-G57"
+                ],
+                "RAM": "12GB",
+                "Chip đồ họa (GPU)": "Mali-G57"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Gaming phone",
+                    "Tích hợp trigger cảm ứng",
+                    "LED RGB ở mặt lưng",
+                    "Cảm biến vâng tay dưới màn hình"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "6000 mAh",
+                    "Hoặc 5000 mAh (tùy theo thị trường/khu vực)",
+                    "Sạc nhanh 80W",
+                    "Bypass Charging (sạc nhánh)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1900 / 2100",
+                "4G": "HSPA, 4G, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Có",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Loa kép stereo",
+                    "DTS X® Ultra"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C",
+                "Kết nối khác": "NFC (tùy thuộc thị trường/khu vực)",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

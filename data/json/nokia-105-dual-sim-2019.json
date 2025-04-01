@@ -1,0 +1,60 @@
+{
+    "url": "https://cellphones.com.vn/nokia-105-dual-sim-2019.html",
+    "name": "Nokia 105 2 SIM (2019)",
+    "price": "520.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "TFT",
+                "Kích thước màn hình": "1.77 inches",
+                "Độ phân giải màn hình": "120 x 160 pixels"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Pin chuẩn Li-Ion 800 mAh",
+                "Công nghệ sạc": "Sạc 2.75 W",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "Micro-SIM",
+                "Jack tai nghe 3.5": "Có"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Dài 119 mm - Ngang 49.2 mm - Dày 14.4 mm",
+                "Trọng lượng": "73 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tiện ích khác": [
+                    "Chặn cuộc gọi",
+                    "Chặn tin nhắn",
+                    "2 sim"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2019"
+            }
+        }
+    ]
+}

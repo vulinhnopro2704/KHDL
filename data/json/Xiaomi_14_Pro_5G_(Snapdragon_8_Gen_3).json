@@ -1,0 +1,144 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-14-pro-xach-tay-snapdragon-8-gen-2.html",
+    "name": "Xiaomi 14 Pro 5G (Snapdragon 8 Gen 3)",
+    "price": "16250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, HyperOS",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 68 tỷ màu, 120Hz, Dolby Vision, HDR10+, 3000 nits (tối đa)",
+                    "6.73 inches, QHD+ (1440 x 3200 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~522 ppi",
+                    "Xiaomi Longjing Glass"
+                ],
+                "Độ phân giải": "1440 x 3200 pixels",
+                "Màn hình rộng": "6.73 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.4-f/4.0, 23mm (góc rộng), dual pixel PDAF, Laser AF, OIS",
+                    "50 MP, f/2.0, 75mm (tele), PDAF, OIS, zoom quang 3.2x",
+                    "50 MP, f/2.2, 14mm, 115˚ (góc siêu rộng), AF",
+                    "Quay phim: 8K@24fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP (góc rộng), HDR, panorama",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K@24fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "5x3.2 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 5x3.2 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB-1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm/titanium",
+                    "Mặt lưng kính",
+                    "Màn hình cong tràn về 4 cạnh",
+                    "Kính trước Xiaomi Longjing Glass",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "161.4 x 75.3 x 8.5 mm",
+                "Trọng lượng (g)": [
+                    "223 g (Phiên bản kính)",
+                    "230 g (Phiên bản đặc biệt Titannium)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4880 mAh",
+                    "Sạc nhanh 120W, PD3.0, QC4; 100% trong 18 ph (QC)",
+                    "Sạc không dây 50W; 100% trong 40 ph (QC)",
+                    "Sạc ngược không dây 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+                "Loại Sim": [
+                    "2 SIM, Nano SIM",
+                    "Hoặc Nano SIM và eSIM"
+                ],
+                "Khe gắn Sim": [
+                    "2 SIM, Nano SIM",
+                    "Hoặc Nano SIM và eSIM"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2 Gen 2, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

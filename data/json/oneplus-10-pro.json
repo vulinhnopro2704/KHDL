@@ -1,0 +1,21 @@
+{
+    "url": "https://cellphones.com.vn/oneplus-10-pro.html",
+    "name": "OnePlus 10 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "120Hz"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "108 MP"
+            }
+        }
+    ]
+}

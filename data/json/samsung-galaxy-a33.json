@@ -1,0 +1,146 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-a33.html",
+    "name": "Samsung Galaxy A33 (5G)",
+    "price": "7.290.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.4 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 90 Hz, Kính cường lực Corning Gorilla Glass 5, 800 nits",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 48 MP, F1.8",
+                    "Camera góc siêu rộng: 8 MP, F2.2",
+                    "Camera macro: 5 MP, F2.4",
+                    "Camera chân dung: 2.0 MP, F2.4"
+                ],
+                "Quay video": "4K@30fps, 1080p@30/120fps",
+                "Tính năng camera": [
+                    "Bộ lọc màu",
+                    "Chụp đêm",
+                    "Flash màn hình",
+                    "Làm đẹp",
+                    "Nhận diện khuôn mặt",
+                    "Quay video 4K",
+                    "Quay video Full HD",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Xóa phông"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "13 MP, f/2.2",
+                "Quay video trước": "1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 1280 8 nhân",
+                "GPU": "Mali-G68"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2 nhân 2.4 GHz & 6 nhân 2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "159.7 x 74 x 8.1 mm",
+                "Trọng lượng": "186 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP67",
+                "Tiện ích khác": [
+                    "Chế độ đơn giản (Giao diện đơn giản)",
+                    "Trợ lý ảo Samsung Bixby",
+                    "Chạm 2 lần tắt/sáng màn hình",
+                    "Thu nhỏ màn hình sử dụng một tay",
+                    "Samsung Pay",
+                    "Tối ưu game (Game Booster)",
+                    "Chế độ trẻ em (Samsung Kids)",
+                    "Smart Switch"
+                ],
+                "Công nghệ âm thanh": "Âm thanh Dolby Atmos"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth": "v5.1, A2DP, LE"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "04/2022"
+            }
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/samsung-galaxy-z-fold-5-sieu-sang-trong.html",
+    "name": "Samsung Galaxy Z Fold5 Chính hãng (ĐT Gập - Snapdragon 8 Gen 2)",
+    "price": "27250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, One UI 5.1.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Chính: Foldable Dynamic AMOLED 2X",
+                    "Phụ: Dynamic AMOLED 2X"
+                ],
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Chính: Foldable Dynamic AMOLED 2X, 120Hz, HDR10+",
+                    "7.6 inches, QXGA+ (1812 x 2176 pixels); tỷ lệ 9:10.8",
+                    "Phụ: Dynamic AMOLED 2X, 120Hz,",
+                    "6.2 inches, (904 x 2316 pixels), tỷ lệ 23.1:9",
+                    "Corning Gorilla Glass Victus 2"
+                ],
+                "Độ phân giải": [
+                    "Chính: 1812 x 2176 pixels",
+                    "Phụ: 904 x 2316 pixels"
+                ],
+                "Màn hình rộng": [
+                    "Chính: 7.6 inches",
+                    "Phụ: 6.2 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 23mm (góc rộng), Dual Pixel PDAF, OIS",
+                    "10 MP, f/2.4, (tele), PDAF, OIS, 3x optical zoom",
+                    "12 MP, f/2.2, 123˚, 12mm (góc siêu rộng)",
+                    "Quay phim: 8K@24fps, 4K@60fps, 1080p@60/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+"
+                ],
+                "Camera trước": [
+                    "Camera selfie màn chính:",
+                    "4 MP, f/1.8, 26mm (góc rộng), HDR",
+                    "Ẩn dưới màn hình",
+                    "Camera selfie màn phụ:",
+                    "10 MP, f/2.2, 24mm (góc rộng), HDR",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@60fps, 1080p@60/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.36 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.36 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": "12GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, 1TB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm bọc thép",
+                    "Kính MH ngoài Gorilla Glass Victus 2",
+                    "Kính lưng Gorilla Glass Victus 2",
+                    "Nhựa dẻo ở màn hình chính",
+                    "Hỗ trợ bút SPen",
+                    "Kháng nước IPX8"
+                ],
+                "Kích thước": [
+                    "Mở ra: 154.9 x 129.9 x 6.1 mm",
+                    "Gập lại: 154.9 x 67.1 x 13.4 mm"
+                ],
+                "Trọng lượng (g)": "253 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4400 mAh",
+                    "Sạc nhanh 25W, Sạc 50% trong 30 ph (QC)",
+                    "Sạc không dây 15W",
+                    "Sạc ngược không dây 4.5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": [
+                    "Nano-SIM và eSIM",
+                    "Hoặc 2 SIM, Nano SIM"
+                ],
+                "Khe gắn Sim": [
+                    "Nano-SIM và eSIM",
+                    "Hoặc 2 SIM, Nano SIM"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 32-bit/384kHz",
+                    "Tuned by AKG"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

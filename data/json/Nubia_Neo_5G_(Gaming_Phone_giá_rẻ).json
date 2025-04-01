@@ -1,0 +1,104 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/nubia-neo-5g-gaming-phone-gia-re.html",
+    "name": "Nubia Neo 5G (Gaming Phone giá rẻ)",
+    "price": "3650000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "ISP LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "ISP LCD, 120Hz",
+                    "6.6 inches, Full HD+ (1080 x 2408 pixels)"
+                ],
+                "Độ phân giải": "1080 x 2408 pixels",
+                "Màn hình rộng": "6.6 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng)",
+                    "2 MP"
+                ],
+                "Camera trước": "8 MP",
+                "Đèn Flash": "Có",
+                "Quay phim": "Có",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.7 GHz & 3x2.3 GHz & 4x2.1 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Unisoc T820 (6 nm)",
+                    "8 nhân (1x2.7 GHz & 3x2.3 GHz & 4x2.1 GHz)",
+                    "GPU: Mali-G57"
+                ],
+                "RAM": "8GB (+10GB RAM ảo), LPDDR4X",
+                "Chip đồ họa (GPU)": "Mali-G57"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB, UFS 2.2",
+                "Thẻ nhớ ngoài": "microSDXC"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Vuông vức, đậm chất gaming",
+                "Kích thước": "163.7 x 75 x 7.98 mm"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "4500mAh",
+                    "Sạc nhanh 22.5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wifi 2.4G/5G, Hopspot, 802.11 a/b/g/n/ac",
+                "GPS": "Có",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

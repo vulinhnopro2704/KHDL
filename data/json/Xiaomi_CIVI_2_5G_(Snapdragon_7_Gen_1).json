@@ -1,0 +1,126 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-civi-2.html",
+    "name": "Xiaomi CIVI 2 5G (Snapdragon 7 Gen 1)",
+    "price": "7250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, MIUI 13",
+                "Ngôn ngữ": "Tiếng Việt sau khi UP ROM"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, Dolby Vision, HDR10+, 120Hz, 1000 nits (tối đa)",
+                    "6.55 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.55",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, (góc rộng), PDAF",
+                    "20 MP, f/2.2, 115˚ (góc siêu rộng)",
+                    "2 MP, f/2.4, (macro)",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps, 720p@960fps; gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.0, (góc rộng)",
+                    "32 MP, 100˚ (góc siêu rộng)",
+                    "Quay phim: 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "Sau: Dual-LED dual-tone flash, HDR, panorama",
+                    "Trước: 2 Dual-LED dual-tone flash, HDR, panorama"
+                ],
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps, 720p@960fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2.4 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 7 Gen 1 (4 nm)",
+                    "8 nhân lên tới 2.4",
+                    "GPU: Adreno"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB",
+                    "UFS 2.2"
+                ],
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Khung kim loại + Mặt lưng kính",
+                "Kích thước": "159.2 x 72.7 x 7.2 mm",
+                "Trọng lượng (g)": "171.8 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4500 mAh",
+                    "Sạc nhanh 67W, 100% trong 40ph (quảng cáo)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 18, 19, 26, 34, 38, 39, 40, 41, 42",
+                "Loại Sim": "2 SIM, NanoSIM",
+                "Khe gắn Sim": "2 SIM, NanoSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS. Up to dual-band: GLONASS (1), BDS (2), GALILEO (1), QZSS (1)",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

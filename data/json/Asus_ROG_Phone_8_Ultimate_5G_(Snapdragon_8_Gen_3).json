@@ -1,0 +1,95 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/asus-rog-phone-8-ultimate-5g.html",
+    "name": "Asus ROG Phone 8 Ultimate 5G (Snapdragon 8 Gen 3)",
+    "price": "19950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 165Hz, HDR10+, 1000 nits (HBM), 1500 nits (tối đa)",
+                    "6.78 inches, Full HD+ (1080 x 2448 pixels)",
+                    "Corning Gorilla Glass Victus+"
+                ],
+                "Độ phân giải": "1080 x 2448 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, 24mm (góc rộng), PDAF",
+                    "13 MP, f/2.2, 13mm, 120˚ (góc siêu rộng)",
+                    "5 MP, f/2.0 (macro)",
+                    "Quay phim: 8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5, 29mm (góc rộng)",
+                    "Panorama, HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 8 Gen 3",
+                "RAM": "24GB"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "1TB, UFS 4.0",
+                    "Hỗ trợ NTFS cho bộ nhớ ngoài"
+                ],
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 6000 mAh",
+                    "Sạc nhanh 65W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

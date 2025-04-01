@@ -1,0 +1,120 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-c33.html",
+    "name": "Realme C33 Chính hãng",
+    "price": "2750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, Realme UI S",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 400 nits (typ), tỷ lệ 20:9",
+                    "6.5 inches, HD+ (720 x 1600 pixels)"
+                ],
+                "Độ phân giải": "720 x 1600 pixels",
+                "Màn hình rộng": "6.5",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (góc rộng), PDAF",
+                    "0.3 MP, f/2.8, (độ sâu)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "5 MP, f/2.2, 27mm (góc rộng)",
+                    "Quay phim: 720p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x1.8 GHz & 6x1.8 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Unisoc Tiger T612 (12 nm)",
+                    "8 nhân (2x1.8 GHz & 6x1.8 GHz)",
+                    "GPU: Mali-G57"
+                ],
+                "RAM": [
+                    "3-4GB",
+                    "LPDDR4X"
+                ],
+                "Chip đồ họa (GPU)": "Mali-G57"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "32-128GB",
+                    "UFS 2.2"
+                ],
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "164.2 x 75.7 x 8.3 mm",
+                "Trọng lượng (g)": "187 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc tiêu chuẩn 10W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "1, 3, 5, 8, 38, 40, 41",
+                "Loại Sim": "2 SIM, NanoSIM",
+                "Khe gắn Sim": "2 SIM, NanoSIM",
+                "Wifi": "Wi-Fi 802.11 b/g/n, hotspot",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "microUSB 2.0",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "microUSB"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "microUSB",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

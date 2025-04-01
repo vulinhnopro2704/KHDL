@@ -1,0 +1,131 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-k30-pro.html",
+    "name": "Xiaomi Redmi K30 Pro 5G (Snapdragon 865 - Camera Pop-up)",
+    "price": "8650000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, MUIU 11",
+                "Ngôn ngữ": "Đa ngôn ngữ, Tiếng Việt (Sau khi up ROM)"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": [
+                    "Super AMOLED, HDR10+, 500 nits (typ)",
+                    "6.67 inches, Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
+                    "Protection Corning Gorilla Glass 5"
+                ],
+                "Độ phân giải": "1080 x 2400 pixles",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.9, 26mm (wide), PDAF",
+                    "5 MP, f/2.2, 50mm (tele macro), AF",
+                    "13 MP, f/2.4, 123˚ (góc siêu rộng)",
+                    "2 MP, f/2.4, (độ sâu)",
+                    "Quay phim: 8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, 1080p@960fps; gyro-EIS"
+                ],
+                "Camera trước": [
+                    "20MP (góc rộng)",
+                    "Camera pop-up",
+                    "Quay phim: 1080p@30fps, 720p@120fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, 1080p@960fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+                    "8 nhân (1x2.84 GHz & 3x2.42 GHz & 4x1.80 GHz)",
+                    "GPU: Adreno 650"
+                ],
+                "RAM": "6-12GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "UFS 3.0 (128GB 6GB RAM)",
+                    "UFS 3.1 (128GB 8/12GB RAM, 256GB 8GB RAM)"
+                ],
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung kim loại + 2 mặt kính",
+                    "Gorilla Glass 5"
+                ],
+                "Kích thước": "163.3 x 75.4 x 8.9 mm",
+                "Trọng lượng (g)": "218 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4700 mAh",
+                    "Sạc nhanh 33W, PD3.0, QC4",
+                    "100% trong 63 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1900 / 2100 - China",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Không",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263, H264",
+                "Nghe nhạc": "MP3",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Vân tay dưới màn hình, công nghệ mạng 5G"
+            }
+        }
+    ]
+}

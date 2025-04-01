@@ -1,0 +1,109 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-civi.html",
+    "name": "Xiaomi CIVI (Snap 778G)",
+    "price": "9950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12.5",
+                "Ngôn ngữ": "Tiếng Anh, Tiếng Trung, Tiếng Việt sau khi Up ROM EU, Global"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": "6.55 inches AMOLED, Full HD+ (1080 x 2340 pixels), Corning Gorilla Glass 5, 1 tỷ màu, 120Hz, HDR10",
+                "Độ phân giải": "6.55 inches AMOLED, Full HD+ (1080 x 2340 pixels), Corning Gorilla Glass 5, 1 tỷ màu, 120Hz, HDR10",
+                "Màn hình rộng": "6.55, Tỉ lệ 20:9",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f / 1.8, 26mm (góc rộng), 1 / 1.97 \", 0,7µm, PDAF",
+                    "8 MP, f / 2.2, (góc siêu rộng), 1 / 4.0\", 1,12µm",
+                    "5 MP, f / 2.4, 50mm (macro, góc chụp zoom, tele), 1 / 5.0 \", 1.12µm, AF",
+                    "Quay phim: 4K@30fps, 1080p@30/60/120fps; gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5, (wide)",
+                    "Quay phim: 1080p@30/60fps, 720p@120fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30fps, 1080p@30/60/120fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (4x2.4 GHz Kryo 670 & 4x1.8 GHz Kryo 670)",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 778G 5G (6 nm) Octa-core (4x2.4 GHz Kryo 670 & 4x1.8 GHz Kryo 670)",
+                    "GPU: Adreno 642L"
+                ],
+                "RAM": "8GB",
+                "Chip đồ họa (GPU)": "Adreno 642L"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế 2 mặt kính, màn hình đục lỗ camera trước",
+                "Kích thước": "Mỏng 7 mm",
+                "Trọng lượng (g)": "166 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "Li-Po 4500 mAh, Sạc nhanh 55W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM (Nano-SIM, dual stand-by)",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.2, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "3GP, MP4, AVI, WMV",
+                "Nghe nhạc": "AMR, MP3, WAV, WMA, AAC, OGG, FLAC",
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

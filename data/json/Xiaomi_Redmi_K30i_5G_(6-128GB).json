@@ -1,0 +1,96 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-redmi-k30i-5g.html",
+    "name": "Xiaomi Redmi K30i 5G (6-128GB)",
+    "price": "5250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10; MIUI 12(Update)",
+                "Ngôn ngữ": "Tiếng Anh, Tiếng Việt sau khi mở khóa"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "IPS LCD, 6.67 inches, FHD+ (1080 x 2400 pixels), 120Hz",
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 camera: 48MP, f/1.9 + 8 MP (Siêu rộng) + 2 MP (Macro) + 2 MP (Xoá phông)",
+                "Camera trước": "2 Camera: 20 MP, f/2.2, (Góc rộng), 2 MP (Xoá phông)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama, Dual video call, gyro-EIS & OIS, dual-video rec.",
+                "Quay phim": "Quay phim 4K (2160p@60fps)",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.4 GHz & 1x2.2 GHz & 6x1.8 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 765G (7 nm)",
+                "RAM": "6GB",
+                "Chip đồ họa (GPU)": "Adreno 620"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB UFS 2.1",
+                "Thẻ nhớ ngoài": "No"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Màn hình nốt ruồi, Màu sắc trẻ Trung",
+                "Kích thước": "165.3 x 76.6 x 8.8 mm",
+                "Trọng lượng (g)": "208g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "4500mAh - sạc nhanh 30W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Có",
+                "Kết nối USB": "2.0, Type-C, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "url": "https://cellphones.com.vn/iphone-14-256gb.html",
+    "name": "iPhone 14 256GB | Chính hãng VN/A",
+    "price": "15.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.1 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "2532 x 1170 pixels",
+                "Tính năng màn hình": "Tần số quét 60Hz, 1200 nits, Kính cường lực Ceramic Shield, Super Retina XDR",
+                "Tần số quét": "60Hz",
+                "Kiểu màn hình": "Tai thỏ"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 12MP, ƒ/1.5",
+                    "Camera góc siêu rộng: 12MP, ƒ/2.4"
+                ],
+                "Quay video": [
+                    "4K@24fps/25fps/30fps/60fps",
+                    "1080p HD@24fps/25fps/30fps/60fps",
+                    "720p HD@30fps"
+                ],
+                "Tính năng camera": [
+                    "Quay Siêu chậm (Super Slow Motion)",
+                    "Chế độ hành động (Action Mode)",
+                    "Zoom quang học",
+                    "Live Photo",
+                    "Bộ lọc màu",
+                    "Smart HDR 4",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Góc siêu rộng (Ultrawide)",
+                    "Góc rộng (Wide)",
+                    "Deep Fusion",
+                    "Cinematic",
+                    "Toàn cảnh"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12MP, ƒ/1.9",
+                "Quay video trước": "4230p@60/30/24fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Apple A15 Bionic 6 nhân",
+                "GPU": "Apple GPU 5 nhân"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "BEIDOU, GALILEO, GPS, QZSS, iBeacon, GLONASS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3279 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 20W",
+                    "Tiết kiệm pin",
+                    "Sạc không dây",
+                    "Sạc không dây MagSafe"
+                ],
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "iOS 16"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "3.22 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "146.7 x 71.5 x 7.80mm",
+                "Trọng lượng": "172g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": "Mở khoá khuôn mặt Face ID",
+                "Tiện ích khác": [
+                    "Phát hiện va chạm (Crash Detection)",
+                    "SOS Khẩn Cấp",
+                    "Chạm 2 lần sáng màn hình",
+                    "Apple Pay"
+                ],
+                "Công nghệ âm thanh": "Loa kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi MIMO, Dual-band (2.4 GHz/5 GHz), Wi-Fi 802.11 a/b/g/n/ac/ax, Wi-Fi hotspot",
+                "Bluetooth": "v5.3, A2DP, LE"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2022"
+            }
+        }
+    ]
+}

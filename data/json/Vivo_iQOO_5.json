@@ -1,0 +1,95 @@
+{
+    "url": "https://mobilecity.vn/vivo/vivo-iqoo-5.html",
+    "name": "Vivo iQOO 5",
+    "price": "13550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10, IQOO UI 1.5",
+                "Ngôn ngữ": "Tiếng Việt, đa ngôn ngữ."
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED capacitive touchscreen, 16M colors",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "6.56 inches, Full HD+(1080 x 2376 pixels), HDR10+< tần số 120Hz.",
+                "Độ phân giải": "6.56 inches, Full HD+(1080 x 2376 pixels), HDR10+< tần số 120Hz.",
+                "Màn hình rộng": "6.56",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm, điện dung."
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "50 MP, f/1.9, Dual Pixel PDAF - 13 MP, f/2.5, 50mm (Chân dung), zoom quang 2x - 13 MP, f/2.2, 120˚ (Góc rộng).",
+                "Camera trước": "16 MP, f/2.5",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "8K, 4K@30fps, 1080p@30fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585",
+                "Số nhân": "8 nhân",
+                "Chipset": "Qualcomm SM8250 Snapdragon 865 (7 nm+)",
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 650"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + cảm ứng",
+                "Kích thước": "160 x 75.6 x 8.3 mm",
+                "Trọng lượng (g)": "197"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "4500 mAh, Sạc nhanh 55W, 100% trong 50ph",
+                "Pin có thể tháo rời": "Có"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.1, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "Type-C 1.0, USB On-The-Go",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

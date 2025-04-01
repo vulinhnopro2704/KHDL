@@ -1,0 +1,127 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-v29-5g-snapdragon-778g.html",
+    "name": "Vivo V29 5G (Snapdragon 778G+)",
+    "price": "12550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, Funtouch 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10+, 1300 nits (tối đa)",
+                    "6.78 inches, 1.5K (1260 x 2800 pixels), tỷ lệ 20:9"
+                ],
+                "Độ phân giải": "1260 x 2800 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9 (góc rộng), PDAF, OIS",
+                    "12 MP, f/2.0, (tele), PDAF, zoom quang 2x",
+                    "8 MP, f/2.2, (góc siêu rộng)",
+                    "Quay phim: 4K@30fps, 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "50 MP, f/2.0, 22mm (góc rộng), AF",
+                    "Dual-LED flash, HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring-LED flash, panorama, HDR",
+                "Quay phim": "4K@30fps, 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.5 GHz & 3x2.4 GHz & 4x1.9 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm)",
+                    "8 nhân (1x2.5 GHz & 3x2.4 GHz & 4x1.9 GHz)",
+                    "GPU: Adreno 642L"
+                ],
+                "RAM": "8GB + 8GB (RAM ảo)",
+                "Chip đồ họa (GPU)": "Adreno 642L"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Màn hình cong",
+                    "Khung nhựa",
+                    "Mặt lưng giả kính",
+                    "Cảm biến vân tay trong màn hình"
+                ],
+                "Kích thước": "164.2 x 74.4 x 7.46 mm",
+                "Trọng lượng (g)": "186 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4600 mAh",
+                    "Sạc nhanh 80W",
+                    "Sạc từ 1-50% trong 18 phút"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 19, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 Sim, Nano SIM",
+                "Khe gắn Sim": "2 Sim, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1), GLONASS (G1), BDS (B1I), GALILEO (E1), QZSS (L1)",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

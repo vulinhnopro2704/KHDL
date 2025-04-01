@@ -1,0 +1,149 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-13c.html",
+    "name": "Xiaomi Redmi 13C 6GB 128GB",
+    "price": "2.990.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.74 inches",
+                "Công nghệ màn hình": "IPS LCD",
+                "Độ phân giải màn hình": "720 x 1600 pixel",
+                "Tính năng màn hình": "Tần số quét 90Hz, Kính cường lực Corning Gorilla Glass, Độ sáng tối đa: 600 nits",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 50 MP & Phụ 2 MP",
+                "Quay video": "HD 720p@30fpsFullHD 1080p@30fps",
+                "Tính năng camera": [
+                    "Trôi nhanh thời gian",
+                    "Zoom kỹ thuật số",
+                    "Xóa phông",
+                    "Tự động lấy nét (AF)",
+                    "Ban đêm",
+                    "HDR",
+                    "Siêu độ phân giải",
+                    "Làm đẹp",
+                    "Siêu cận",
+                    "Google Lens",
+                    "Bộ lọc màu",
+                    "Chụp hẹn giờ"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G85 8 nhân",
+                "GPU": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": [
+                    "BEIDOU",
+                    "GPS",
+                    "GLONASS"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Hỗ trợ sạc tối đa: 18 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân Cortex A53 xung nhịp 2.0 Ghz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "168 x 78 x 8.09 mm",
+                "Trọng lượng": "192 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi Direct",
+                    "Wi-Fi 802.11 a/b/g/n/ac",
+                    "Wi-Fi hotspot",
+                    "Dual-band (2.4 GHz/5 GHz)"
+                ],
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ - Tiện ích": [
+                    "Chế độ đơn giản (Giao diện đơn giản)",
+                    "Mở rộng bộ nhớ RAM",
+                    "Chặn cuộc gọi",
+                    "Chạm 2 lần tắt/sáng màn hình",
+                    "Thu nhỏ màn hình sử dụng một tay",
+                    "Khoá ứng dụng",
+                    "Trợ lý ảo Google Assistant",
+                    "Ghi âm mặc định, Ghi âm cuộc gọi"
+                ],
+                "Tiện ích khác": "Ghi âm mặc định, Ghi âm cuộc gọi, FM không cần tai nghe"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "11/2023"
+            }
+        }
+    ]
+}

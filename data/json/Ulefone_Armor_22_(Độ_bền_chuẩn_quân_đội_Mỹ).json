@@ -1,0 +1,128 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/ulefone-armor-22-sieu-ben.html",
+    "name": "Ulefone Armor 22 (Độ bền chuẩn quân đội Mỹ)",
+    "price": "7220000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LCD",
+                "Màu màn hình": "16.7 triệu màu",
+                "Chuẩn màn hình": [
+                    "LCD, 120Hz",
+                    "6.58 inches, Full HD+ (1080 x 2480 pixels)"
+                ],
+                "Độ phân giải": "1080 x 2480 pixels",
+                "Màn hình rộng": "6.58 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, Sony IMX686, f/1.9, (góc rộng)",
+                    "64MP, f/1.8, (Chụp đêm)",
+                    "Quay phim: 2K@30fps, 1080p@30fps, 720p@30fps, 480p@30fps"
+                ],
+                "Camera trước": [
+                    "8 MP, f/2.0 (góc rộng)",
+                    "Normal mode, Film, Gif, chân dung",
+                    "Quay phim: 2K@30fps, 1080p@30fps, 720p@30fps, 480p"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Normal mode, Night Vision Mode, Film Mode, 64MP Mode, Night Mode, Gif, Portrait, Pro Mode, Panorama, Slow Motion, Time Lapse, Intelligent Scanning",
+                "Quay phim": "2K@30fps, 1080p@30fps, 720p@30fps, 480p",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.05 GHz Cortex-A76",
+                    "6x2.0 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Helio G96 (12 nm)",
+                    "8 nhân (2x2.05 GHz & 6x2.0 GHz)",
+                    "GPU: Mali-G57 MC2"
+                ],
+                "RAM": "8GB + 8GB (RAM ảo)",
+                "Chip đồ họa (GPU)": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": [
+                    "microSDXC",
+                    "Khe cắm riêng biệt"
+                ],
+                "Hỗ trợ thẻ tối đa": "512GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Hầm hố",
+                    "IP68/IP69K/MIL-STD-810H (siêu bền chuẩn quân đội Mỹ)",
+                    "Nhiệt độ chịu được: -20℃ đến 55 ℃"
+                ],
+                "Kích thước": "176.80 x 84.90 x 15.0 mm",
+                "Trọng lượng (g)": "324 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 6600 mAh, Thời gian chờ 360 giờ",
+                    "Đàm thoại 27 giờ",
+                    "Sạc nhanh 33W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "WCDMA: B1/2/4/5/8",
+                "4G": [
+                    "FDD-LTE: B1/2/3/4/5/7/8/12/17/19/20/28A/28B/66",
+                    "TDD-LTE: B34/38/39/40/41"
+                ],
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "2.4G/5G, 802.11 a/ac/b/g/n",
+                "GPS": "GPS/GLONASS/Beidou/Galileo",
+                "Bluetooth": "5.2",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

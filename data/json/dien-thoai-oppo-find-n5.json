@@ -1,0 +1,111 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-oppo-find-n5.html",
+    "name": "",
+    "price": "",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "8.12 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "2.480 x 2.248 pixels",
+                "Tính năng màn hình": [
+                    "Tần số: 120Hz",
+                    "Màn hình chính: Kính Pet+UTG, 1400nit",
+                    "Màn hình ngoài: 6.62 inch, 1140 x 2616 (FHD+), kính siêu mỏng Nanocrytal, 1600nit",
+                    "1 tỷ màu sắc"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50MP, ƒ/1.8 OIS (Chính) + 8MP, ƒ/2.2 (Góc rộng) + 50MP, ƒ/2.7 (Tele)",
+                "Tính năng camera": "Chụp góc rộng, chụp có đèn flash camera sau"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "Màn hình chính: 8MP, ƒ/2.4",
+                    "Màn hình ngoài: 8MP, ƒ/2.4"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon® 8 Elite",
+                "GPU": "Adreno 830"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Dual nano-SIM hoặc 1 nano-SIM + 1 eSIM",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "16 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5600mAh",
+                "Công nghệ sạc": "Siêu sạc nhanh superVOOC 80W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "ColorOS 15, nền tảng Android 15"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Khi mở: 160.87 x 146.58 x 4.21 mm",
+                    "Khi gập: 160.87 x 74.42 x 8.93 mm"
+                ],
+                "Trọng lượng": "Khoảng 229g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Hợp kim"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IPX6, IPX8, IPX9",
+                "Công nghệ âm thanh": "2 loa, 4 mic"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wifi 6, 802.11 a/b/g/n/ac/ac wave 2/ax, Wifi 2.4G/5G",
+                "Bluetooth": "5.4 BLE"
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-black-shark-2.html",
+    "name": "Xiaomi Black Shark 2 (RAM 6GB, 8GB)",
+    "price": "3450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie)",
+                "Ngôn ngữ": "Tiếng Việt, Tiếng Trung, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "AMOLED, Full HD+, 6.39 inches, 1080 x 2340 pixels",
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.39 inches"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "48MP - 12MP (telephoto)",
+                "Camera trước": "20MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Quay video Full HD, Tự động lấy nét, Quay video HD",
+                "Quay phim": "Quay phim HD 720p@120fps, Quay phim FullHD 1080p@30fps, Quay phim 4K 2160p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1 nhân 2.84 GHz, 3 nhân 2.41 GHz & 4 nhân 1.78 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 855 8 nhân 64-bit",
+                "RAM": "6GB - 8GB - 12GB",
+                "Chip đồ họa (GPU)": "Adreno 640"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB - 256GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế hầm hố, đậm chất game thủ",
+                "Kích thước": "163.6 x 75 x 8.8mm",
+                "Trọng lượng (g)": "205g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Ion 4000mAh",
+                "Dung lượng pin": "4000mAh, sạc nhanh 27W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "4G": "Có",
+                "Loại Sim": "NANO SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, BDS",
+                "Bluetooth": "5.0, A2DP, aptX HD, LE",
+                "GPRS/EDGE": "Có",
+                "NFC": "Không",
+                "Kết nối khác": "OTG",
+                "Cổng sạc": "USB Type-C 2.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "3GP, MP4",
+                "Nghe nhạc": "MP3, WAV",
+                "Cổng sạc": "USB Type-C 2.0",
+                "Ghi âm": "Có",
+                "FM radio": "Không",
+                "Chức năng khác": "Sạc pin nhanh, Đèn pin, Màn hình luôn hiển thị AOD, Mặt kính 2.5D, Chặn tin nhắn, Chặn cuộc gọi"
+            }
+        }
+    ]
+}

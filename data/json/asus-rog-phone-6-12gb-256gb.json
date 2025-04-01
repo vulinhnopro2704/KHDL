@@ -1,0 +1,116 @@
+{
+    "url": "https://cellphones.com.vn/asus-rog-phone-6-12gb-256gb.html",
+    "name": "ASUS ROG Phone 6 12GB 256GB",
+    "price": "14.490.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2448 pixels (FullHD+)",
+                "Tính năng màn hình": "Corning ® Gorilla ® Glass Victus, 165Hz, Độ sáng tối đa: 1200 nits, Mật độ điểm ảnh: 395 ppi"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50 MP, f/1.9",
+                    "Camera góc siêu rộng: 13 MP",
+                    "Camera macro: 5 MP"
+                ],
+                "Quay video": "8K@24fps , 4K@30/60fps",
+                "Tính năng camera": "Flash LED, HDR, Trôi nhanh thời gian (Time Lapse), Quay chậm (Slow Motion)"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12 MP",
+                "Quay video trước": "1080p@30/60fps, 720p@30/60 fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm ® Snapdragon ® 8+ thế hệ 1",
+                "GPU": "Adreno ™ 730"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Có, Glonass, Galileo, BeiDou, QZSS và NavIC"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "6000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 5.0",
+                    "Sạc PD",
+                    "Sạc 65W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "173 x 77x 10,4 mm",
+                "Trọng lượng": "228g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IPX4"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "WiFi 6E * (802.11a / b / g / n / ac / ax, 2x2 MIMO)",
+                "Bluetooth": "v5.2"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "08/2022"
+            }
+        }
+    ]
+}

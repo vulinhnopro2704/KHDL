@@ -1,0 +1,151 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-a52s.html",
+    "name": "Samsung Galaxy A52s 5G",
+    "price": "10.990.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.5 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120 Hz, 800 nits",
+                    "Kính cường lực Corning Gorilla Glass 5"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 64 MP (f/1.8) OIS",
+                    "Camera góc siêu rộng: 12MP (f2.2)",
+                    "Camera Macro chụp cận cảnh: 5MP (f/2.2)",
+                    "Camera xóa phông: 5MP (f/2.4)"
+                ],
+                "Quay video": [
+                    "4K 2160p@30fps",
+                    "FullHD 1080p@30fps",
+                    "FullHD 1080p@60fps",
+                    "HD 720p@240fps"
+                ],
+                "Tính năng camera": [
+                    "Góc rộng (Wide)",
+                    "Góc siêu rộng (Ultrawide)",
+                    "HDR",
+                    "Lấy nét theo pha (PDAF)",
+                    "Siêu cận (Macro)",
+                    "Toàn cảnh (Panorama)",
+                    "Xóa phông"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP (f2.2)",
+                "Quay video trước": "4K@30fps, 1080p@30fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 778G 5G 8 nhân",
+                "GPU": "Adreno 642L"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, Glonass, Beidou, Galileo, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD hỗ trợ lên đến 1TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 2.4 GHz, 3 nhân 2.2 GHz & 4 nhân 1.9 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "159.9 x 75.1 x 8.4 mm",
+                "Trọng lượng": "189 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP67",
+                "Tiện ích khác": [
+                    "Tối ưu game (Game Booster)",
+                    "Chế độ trẻ em (Samsung Kids)",
+                    "Smart Switch (ứng dụng chuyển đổi dữ liệu)",
+                    "Ứng dụng kép (Dual Messenger)",
+                    "Samsung Pay",
+                    "Chế độ đơn giản (Giao diện đơn giản)",
+                    "Chạm 2 lần tắt/sáng màn hình",
+                    "Trợ lý ảo Sa"
+                ],
+                "Công nghệ âm thanh": "Âm thanh Dolby Atmos, Loa kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi hotspot, Dual-band (2.4 GHz/5 GHz), Wi-Fi Direct, Wi-Fi 802.11 a/b/g/n/ac",
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2021"
+            }
+        }
+    ]
+}

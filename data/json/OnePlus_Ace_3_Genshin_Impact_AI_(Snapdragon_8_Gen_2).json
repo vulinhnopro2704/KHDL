@@ -1,0 +1,129 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oneplus-ace-3-genshin-impact.html",
+    "name": "OnePlus Ace 3 Genshin Impact AI (Snapdragon 8 Gen 2)",
+    "price": "11950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, ColorOS 14.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 1 tỷ màu, 120Hz, HDR10+, Dolby Vision, 1600 nits (HBM), 4500 nits (tối đa)",
+                    "6.78 inches, 1.5K (1264 x 2780 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~450 ppi",
+                    "Corning Gorilla Glass Victus 2"
+                ],
+                "Độ phân giải": "1264 x 2780 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, 16mm, 112˚ (góc siêu rộng)",
+                    "2 MP f/2.4 (macro)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.4, 26mm (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.2 GHz Cortex-X3",
+                    "2x2.8 GHz Cortex-A715",
+                    "2x2.8 GHz Cortex-A710",
+                    "3x2.0 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": "16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Mặt lưng kính bo cong",
+                    "Khung hợp kim nhôm máy bay",
+                    "Mặt trước Gorilla Glass Victus 2",
+                    "Màn hình cong + cảm biến vân tay"
+                ],
+                "Kích thước": "163.3 x 75.3 x 8.8 mm",
+                "Trọng lượng (g)": "207 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5500 mAh",
+                    "Sạc nhanh 100W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+                "4G": "1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+                "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép âm thanh nổi, Micro kép",
+                    "Hỗ trợ Dolby Atmos"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC (eSE, HCE), hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

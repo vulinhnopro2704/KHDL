@@ -1,0 +1,138 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-reno12-pro-ai-dimensity-9200-plus.html",
+    "name": "OPPO Reno12 Pro China AI 5G (Dimensity 9200 Plus)",
+    "price": "12250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, ColorOS 14.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10+, 1200 nits (tối đa)",
+                    "6.7 inches, Full HD+ (1080 x 2412 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~394 ppi",
+                    "Corning Gorilla Glass"
+                ],
+                "Độ phân giải": "1080 x 2412 pixels",
+                "Màn hình rộng": "6.7 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 24mm (góc rộng), 1/1.56\", 1.0µm, multi-directional PDAF, OIS",
+                    "50 MP, f/2.0, 47mm (tele), PDAF, zoom quang học 2x",
+                    "8 MP, f/2.2, 16mm, 112˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps, gyro-EIS, HDR"
+                ],
+                "Camera trước": [
+                    "50 MP, f/2.0, (góc rộng), AF",
+                    "Panorama, HDR, AI ID",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "Cam sau:",
+                    "Chuyên nghiệp, chân dung, cảnh đêm, pixel cao, toàn cảnh, chuyển động chậm, chụp ảnh tua nhanh thời gian, video nhiều cảnh, ảnh dễ thương, ảnh AI ID, chế độ tài liệu",
+                    "Trước trước:",
+                    "Ẩnh chân dung, cảnh đêm, toàn cảnh, chụp ảnh tua nhanh thời gian, video nhiều cảnh, ảnh dễ thương, ảnh AI ID"
+                ],
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps, gyro-EIS, HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.35 GHz Cortex-X3",
+                    "3x3.0 GHz Cortex-A715",
+                    "4x2.0 GHz Cortex-A510"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Mediatek Dimensity 9200+ (4 nm)",
+                    "8 nhân (1x3.35 GHz & 3x3.0 GHz & 4x2.0 GHz)",
+                    "GPU: Immortalis-G715 MC11"
+                ],
+                "RAM": "12-16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Immortalis-G715 MC11"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Cấu trúc kim cương độ bền cao",
+                    "Khung nhựa vuông vức; Măt lưng phẳng",
+                    "Màn hình phẳng kính Corning Gorilla Glass",
+                    "Kháng nước, bụi IP65",
+                    "Cảm biến vân tay dưới màn hình"
+                ],
+                "Kích thước": [
+                    "161.4 x 74.8 x 7.55 mm (Đen gỗ mun và Vàng sâm panh)",
+                    "161.4 x 74.8 x 7.60 mm (Tím bạc)"
+                ],
+                "Trọng lượng (g)": [
+                    "183 g (Đen gỗ mun và Vàng sâm panh)",
+                    "184 g (Tím bạc)"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 80W, PD",
+                    "Sạc ngược (dây)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 1700(AWS) / 2100",
+                "4G": "1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "NFC (eSE, HCE, NFC-SIM, eID), hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

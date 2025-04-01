@@ -1,0 +1,126 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-mi-11.html",
+    "name": "Xiaomi Mi 11 (Snapdragon 888)",
+    "price": "10850000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 11, MIUI 12.5",
+                "Ngôn ngữ": "Đa ngôn ngữ, tiếng Việt sau khi up ROM"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 6.81 inches, 120Hz, HDR10+",
+                    "(1440 x 3200 pixels), tỷ lệ: 20:9",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Độ phân giải": [
+                    "AMOLED, 1 tỷ màu, 6.81 inches, 120Hz, HDR10+",
+                    "(1440 x 3200 pixels), tỷ lệ: 20:9",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Màn hình rộng": "6.81",
+                "Công nghệ cảm ứng": "Corning Gorilla Glass Victus"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.9 (góc rộng), 26mm, 1/1.33\", 0.8µm, PDAF, OIS",
+                    "13 MP, f/2.4, 123˚(siêu rộng), 1/3.06\", 1.12µm",
+                    "5 MP, f/2.4, (macro), 1/5.0\", 1.12µm",
+                    "Quay phim: 8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS, HDR10+"
+                ],
+                "Camera trước": [
+                    "20 MP, 27mm (góc rộng), 1/3.4\", 0.8µm",
+                    "Quay phim: 1080p@30/60fps, 720p@120fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS, HDR10+",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.84 GHz & 3x2.XX & 4x1.XX",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 888 (5 nm), 8 nhân",
+                    "(1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)",
+                    "GPU: Adreno 660"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 660"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB UFS 3.1",
+                    "Không hỗ trợ khe cắm thẻ nhớ Microsdxc"
+                ],
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Cảm ứng",
+                "Kích thước": "164.3 x 74.6 x 8.1 mm (Glass) / 8.6 mm (Leather)",
+                "Trọng lượng (g)": "196 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4600 mAh.",
+                    "Sạc nhanh 55W, đầy pin trong 45 phút (được quảng cáo).",
+                    "Sạc không dây nhanh 50W, đầy pin trong 53 phút (được quảng cáo).",
+                    "Sạc không dây ngược 10W.",
+                    "Power Delivery 3.0, Quick Charge 4+"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+                "4G": "4G, 5G",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Chuẩn Wi-Fi 6: 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "Yes, with dual-band A-GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "24-bit/192kHz audio",
+                "NFC": "Có",
+                "Kết nối USB": "Type C",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4，MKV，AVI，WMV，WEBM，3GP，ASF HDR10",
+                "Nghe nhạc": "MP3, FLAC, APE, AAC, OGG, WAV, WMA, AMR, AWB Hi-Res Audio",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Không"
+            }
+        }
+    ]
+}

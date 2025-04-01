@@ -1,0 +1,20 @@
+{
+    "url": "https://cellphones.com.vn/oppo-f21s-pro.html",
+    "name": "OPPO F21s Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "64MP"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Hỗ trợ mạng": "4G"
+            }
+        }
+    ]
+}

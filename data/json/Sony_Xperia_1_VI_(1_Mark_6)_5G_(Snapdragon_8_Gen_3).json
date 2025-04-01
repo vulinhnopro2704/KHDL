@@ -1,0 +1,143 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/sony-xperia-1-vi-1-mark-6-5g.html",
+    "name": "Sony Xperia 1 VI (1 Mark 6) 5G (Snapdragon 8 Gen 3)",
+    "price": "38550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO OLED, 1 tỷ màu, 120Hz, HDR BT.2020",
+                    "6.5 inches, Full HD+ (1080 x 2340 pixels)",
+                    "Tỷ lệ 19.5:9, mật độ điểm ảnh ~396 ppi",
+                    "Corning Gorilla Glass Victus 2"
+                ],
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.5 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP, f/1.9, 24mm (góc rộng), dual pixel PDAF, OIS",
+                    "12 MP, f/2.2, 16mm, 123˚ (góc siêu rộng), dual pixel PDAF",
+                    "12 MP, f/2.3, 85mm (tele), f/3.5, 170mm (tele), dual pixel PDAF, 3.5x-7.1x continuous optical zoom, OIS, 4cm macro @ 120mm, no AF",
+                    "Quay phim: 4K@24/25/30/60/120fps HDR, 1080p@30/60/120fps; 5-axis gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "12 MP, f/2.0, 24mm (góc rộng), HDR",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, 5-axis gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, eye tracking",
+                "Quay phim": "4K@24/25/30/60/120fps HDR, 1080p@30/60/120fps; 5-axis gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "3x3.2 GHz Cortex-A720",
+                    "2x3.0 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 3x3.2 GHz & 2x3.0 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "12GB",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB, UFS",
+                "Thẻ nhớ ngoài": "microSDXC",
+                "Hỗ trợ thẻ tối đa": "1.5TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm vuông vức",
+                    "Kính trước Gorilla Glass Victus 2",
+                    "Kính sau Gorilla Glass Victus",
+                    "Kháng nước, bụi IP65/IP68"
+                ],
+                "Kích thước": "162 x 74 x 8.2 mm",
+                "Trọng lượng (g)": "192 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5000 mAh",
+                    "Sạc nhanh 30W, PD3.0, PPS",
+                    "Sạc 50% pin trong 30 ph (QC)",
+                    "Hỗ trợ sạc không dây và sạc ngược không dây"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": [
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 19, 20, 25, 26, 28, 29, 32, 34, 38, 39, 40, 41, 46, 66 - Europe",
+                    "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 19, 20, 25, 26, 28, 29, 34, 38, 39, 40, 41, 46, 66 - Asia"
+                ],
+                "Loại Sim": [
+                    "Nano SIM và eSIM",
+                    "Hoặc 2 Nano SIM"
+                ],
+                "Khe gắn Sim": [
+                    "Nano SIM và eSIM",
+                    "Hoặc 2 Nano SIM"
+                ],
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, DLNA (WI-FI 7 will be enabled with a SW update)",
+                "GPS": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.4, A2DP, LE Audio, aptX HD, aptX Adaptive, aptX Lossless",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "3.5 mm",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res & Hi-Res wireless audio",
+                    "Hệ thống Dynamic vibration",
+                    "Âm thanh Snapdragon Sound"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2, OTG, video output",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

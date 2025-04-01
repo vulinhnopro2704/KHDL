@@ -1,0 +1,136 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-note-13.html",
+    "name": "Xiaomi Redmi Note 13 6GB 128GB",
+    "price": "3.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 120Hz",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 108 MP & Phụ 8 MP, 2 MP",
+                "Quay video": "HD 720p@30fpsFullHD 1080p@30fps",
+                "Tính năng camera": [
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Quét tài liệu",
+                    "Quay chậm",
+                    "Xóa phông",
+                    "Toàn cảnh (Panorama)",
+                    "Ban đêm",
+                    "Chuyên nghiệp (Pro)",
+                    "HDR",
+                    "Siêu độ phân giải",
+                    "Bộ lọc màu",
+                    "Chụp hẹn giờ"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 685",
+                "GPU": "Adreno 610"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": [
+                    "BEIDOU",
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "CPU lõi tám, tốc độ lên tới 2,8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "162.24 x 75.55 x 7.97mm",
+                "Trọng lượng": "188.5 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Tiện ích khác": "Mở rộng bộ nhớ RAM, DCI-P3, Ghi âm mặc định, Ghi âm cuộc gọi"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi Direct",
+                    "Wi-Fi 802.11 a/b/g/n/ac",
+                    "Wi-Fi hotspot",
+                    "Dual-band (2.4 GHz/5 GHz)"
+                ],
+                "Bluetooth": [
+                    "A2DP",
+                    "LE",
+                    "v5.1"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "1/2024"
+            }
+        }
+    ]
+}

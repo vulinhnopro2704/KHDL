@@ -1,0 +1,143 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-s21-fe-8gb-128gb.html",
+    "name": "Samsung Galaxy S21 FE 8GB 128GB",
+    "price": "8.800.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.4 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 120 Hz, 1200 nits, Kính cường lực Corning Gorilla Glass Victus",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 12 MP, f/1.8, PDAF, OIS",
+                    "Camera tele: 8 MP, f/2.4, 3x optical zoom",
+                    "Camera góc siêu rộng: 12 MP, f/2.2"
+                ],
+                "Quay video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS",
+                "Tính năng camera": "Chuyên nghiệp (Pro), HDR, Toàn cảnh (Panorama), Quay video hiển thị kép, Ban đêm (Night Mode)"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP, f/2.2",
+                "Quay video trước": "4K@30/60fps, 1080p@30/60fps (gyro-EIS)"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 2100 (5nm)",
+                "GPU": "Mali-G78 MP14"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS, GLONASS, BDS, GALILEO"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4500mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh: 25W",
+                    "Sạc nhanh không dây",
+                    "Sạc không dây ngược"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 2.9 GHz, 3 nhân 2.8 GHz & 4 nhân 2.2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "151.7 x 71.2 x 7.9 mm",
+                "Trọng lượng": "177 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Tiện ích khác": [
+                    "Samsung Pay",
+                    "Thu nhỏ màn hình sử dụng một tay",
+                    "Trợ lý ảo Samsung Bixby",
+                    "Chặn cuộc gọi",
+                    "Chặn tin nhắn",
+                    "Samsung DeX (Kết nối màn hình sử dụng giao diện tương tự PC)",
+                    "Màn hình luôn hiển thị AOD",
+                    "Chạm 2 lần sáng màn hì"
+                ],
+                "Công nghệ âm thanh": "Âm thanh AKG, Âm thanh Dolby Audio"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi hotspot",
+                    "Wi-Fi Direct",
+                    "Wi-Fi 802.11 a/b/g/n/ac/ax",
+                    "Dual-band (2.4 GHz/5 GHz)"
+                ],
+                "Bluetooth": "v5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "01/2022"
+            }
+        }
+    ]
+}

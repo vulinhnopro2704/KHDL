@@ -1,0 +1,106 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-google-pixel-9-pro-fold.html",
+    "name": "Google Pixel 9 Pro Fold",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "8.0 inches",
+                "Công nghệ màn hình": "LTPO OLED",
+                "Độ phân giải màn hình": "1080 x 2412 pixels",
+                "Tính năng màn hình": [
+                    "Màn chính: 8.0 inches, Foldable LTPO OLED, 120Hz, HDR10+, 1,800 nits (HBM), 1080 x 2424 OLED, 422 PPI",
+                    "Màn phụ: 6.3 inches, OLED, 120Hz, HDR, 1600 nits (HBM), 2076 x 2152, 373 PPI"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Góc rộng: 48 MP, f/1.7, 25mm, 1/2.0\", 0.8µm, dual pixel PDAF, OIS",
+                    "Camera tele: 10.8 MP, f/3.1, 112mm , 1/3.2\", dual pixel PDAF, OIS, 5x optical zoom",
+                    "Góc siêu rộng: 10.5 MP, f/2.2, 127˚, 1/3.4\", PDAF"
+                ],
+                "Quay video": "4K@24/30/60fps, 1080p@24/30/60/120/240fps, 10-bit HDR, gyro-EIS, OIS",
+                "Tính năng camera": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "Màn trong: 10 MP, f/2.2, 23mm (góc rộng), 1/3.94\", PDAF",
+                    "Màn Ngoài: 10 MP, f/2.2, 23mm (góc rộng), 1/3.94\", PDAF"
+                ],
+                "Quay video trước": "4K@30/60fps, 1080p@30/60fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Google Tensor G4 (4 nm)",
+                "GPU": "Mali-G715 MC7"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (nano‑SIM và eSIM)",
+                "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "16 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4650 mAh",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Mở ra: 155.2 x 150.2 x 5.1 mm",
+                    "Gập lại: 155.2 x 77.1 x 10.5 mm"
+                ],
+                "Trọng lượng": "257 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ âm thanh": "Loa kép stereo"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, 3 băng tần",
+                "Bluetooth": "v5.3"
+            }
+        }
+    ]
+}

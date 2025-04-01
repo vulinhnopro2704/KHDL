@@ -1,0 +1,99 @@
+{
+    "url": "https://mobilecity.vn/oneplus/oneplus-7t-pro.html",
+    "name": "OnePlus 7T Pro",
+    "price": "13550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10.0; OxygenOS 10.0",
+                "Ngôn ngữ": "Tiếng Anh, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Fluid AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "Fluid AMOLED, 2K (1440 x 3120 pixels), 6.67 inches, HDR10, DCI-P3",
+                "Độ phân giải": "1440 x 3120 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "3 Camera: 48MP (Wide), 8MP (Telephoto - 3x zoom), 16MP (Góc rộng)",
+                "Camera trước": "Pop-up 16MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama, Dual video call, gyro-EIS & OIS, dual-video rec.",
+                "Quay phim": "2160p@24/30/60fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "(1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 855+ (7nm)",
+                "RAM": "8GB -12GB",
+                "Chip đồ họa (GPU)": "Adreno 640"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256GB",
+                "Thẻ nhớ ngoài": "Không hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thiết kế 2 mặt kính, màn hình Fullview",
+                "Kích thước": "162.6 x 75.9 x 8.8 mm",
+                "Trọng lượng (g)": "206g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-ion",
+                "Dung lượng pin": "4085 mAh - sạc nhanh 30W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano - Sim",
+                "Khe gắn Sim": "2 Sim",
+                "Wifi": "WiFi Dual-band 2.4 / 5GHz, 802.11 a / b / g / n / ac",
+                "GPS": "A-GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "Bluetooth 5.0",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Không",
+                "Kết nối USB": "Có",
+                "Kết nối khác": "Không",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, MKV, H264, MPEG4, VC-1",
+                "Nghe nhạc": "MP3,MP4",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

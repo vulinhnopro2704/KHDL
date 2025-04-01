@@ -1,0 +1,126 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/oppo-a3-chinh-hang.html",
+    "name": "OPPO A3 Chính hãng (Snapdragon 6s Gen 1 - Sạc 45W)",
+    "price": "4450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, ColorOS 14",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 90Hz, 1000 nits (HBM)",
+                    "6.67 inches, HD+ (720 x 1604 pixels)",
+                    "Mật độ điểm ảnh ~264 ppi"
+                ],
+                "Độ phân giải": "720 x 1604 pixels",
+                "Màn hình rộng": "6.67 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8, 76° (góc rộng), PDAF",
+                    "Ống kính phụ (Flicker)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "5 MP, f/2.2, 78° (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "4x2.1 GHz & 4x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 6s Gen 1",
+                    "8 nhân (4x2.1 GHz & 4x2.0 GHz)",
+                    "GPU: Adreno 610"
+                ],
+                "RAM": "6-8GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Adreno 610 (1050MHz)"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256Gb, eMMC 5.1",
+                "Thẻ nhớ ngoài": "MicroSD",
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa phẳng",
+                    "Mặt lưng nhựa phẳng",
+                    "Màn hình đục lỗ phẳng bằng kính cường lực Panda",
+                    "Kháng nước, bụi IP54",
+                    "Chuẩn độ bền quân đội MIL-STD-810H"
+                ],
+                "Kích thước": "165.8 x 76.1 x 7.7 mm",
+                "Trọng lượng (g)": "186 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5100 mAh",
+                    "Sạc nhanh 45W (SUPERVOOC)",
+                    "Tặng sạc 45W kèm theo"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - version 1",
+                    "HSDPA 850 / 900 / 2100 - version 2",
+                    "HSDPA 900 / 2100 - version 3, version 4"
+                ],
+                "4G": "HSPA, LTE",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+                "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "Khôn",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

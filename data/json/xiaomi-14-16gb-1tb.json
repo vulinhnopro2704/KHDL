@@ -1,0 +1,95 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-14-16gb-1tb.html",
+    "name": "Xiaomi 14 16GB - 1TB",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.36 inches",
+                "Công nghệ màn hình": "LTPO OLED",
+                "Độ phân giải màn hình": "1200 x 2670 pixels,",
+                "Tính năng màn hình": [
+                    "Corning Gorilla Glass Victus",
+                    "LTPO OLED, 68 tỷ màu, tần số quét120Hz"
+                ]
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50MP + 50MP + 50MP",
+                "Quay video": "8K@24fps (HDR10), 4K@30fps (HDR10+)",
+                "Tính năng camera": [
+                    "Leica lens",
+                    "Dual-LED flash",
+                    "HDR"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32MP",
+                "Quay video trước": "4K@30/60fps, 1080p@30/60fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                "GPU": "Adreno 750"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "16 GB",
+                "Bộ nhớ trong": "1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4610 mAh",
+                "Công nghệ sạc": "Sạc nhanh 90W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.3 GHz Cortex-X4 & 5x3.2 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kim loại",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-14-ultra.html",
+    "name": "Xiaomi 14 Ultra 5G 16GB 512GB",
+    "price": "24.090.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.73 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "3200 x 1440 pixel",
+                "Tính năng màn hình": [
+                    "Tần số quét màn hình 120 Hz",
+                    "HBM 1.000 nit",
+                    "Công nghệ Dolby Vision®",
+                    "TrueColor",
+                    "Điều chỉnh cường độ sáng DC/Điều chỉnh cường độ sáng PWM 1920Hz"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Tràn viền (Không khiếm khuyết)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.63 hoặc f/4.0, 23mm (góc rộng), kích thước 1\", PDAF đa hướng, Laser AF, OIS",
+                    "50 MP, f/2.5, 120mm (tiềm vọng tele), Dual-Pixel PDAF, OIS, zoom quang 5x",
+                    "50 MP, f/1.8, 75mm (tele), Dual-Pixel PDAF, OIS, zoom quang 3.2x",
+                    "50 MP, f/1.8, 12m"
+                ],
+                "Quay video": [
+                    "8K@24/30fps, 4K@24/30/60/120fps, 1080p@30/60/120/240/480/960/1920fps, gyro-EIS, Dolby Vision HDR 10-bit rec. (4K@60fps, 1080p)",
+                    "MasterCinema",
+                    "Chế độ Phim",
+                    "Xiaomi ProFocus",
+                    "ShootSteady"
+                ],
+                "Tính năng camera": [
+                    "Lấy nét tự động PDAF và lấy nét Laser AF",
+                    "Chống rung quang học OIS",
+                    "Camera tele zoom quang 3.2x",
+                    "Camera góc siêu rộng",
+                    "Cảm biến TOF 3D để đo độ sâu ảnh"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "32MP f/2.0",
+                    "Dynamic Framing (0.8x, 1x)",
+                    "HDR",
+                    "Chế độ chân dung với khả năng kiểm soát làm mờ và độ sâu"
+                ],
+                "Quay video trước": [
+                    "4K@30/60fps, 1080p@30/60fps",
+                    "Selfie chuyển động chậm",
+                    "Selfie tua nhanh thời gian",
+                    "Công nghệ ổn định video EIS"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 3",
+                "GPU": "Qualcomm® Adreno™ GPU"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS: L1 + L5"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "16 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh",
+                "Công nghệ sạc": [
+                    "Xiaomi AdaptiveCharge",
+                    "HyperCharge 90W",
+                    "Hỗ trợ sạc không dây HyperCharge 80W sạc 100% chỉ sau 46 phút"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Xiaomi HyperOS"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": [
+                    "1 lõi Prime (dựa trên X4), lên đến 3,3GHz",
+                    "3 lõi hiệu năng (dựa trên A720), lên đến 3,2GHz",
+                    "2 lõi hiệu năng (dựa trên A720), lên đến 3,0GHz",
+                    "2 lõi hiệu năng (dựa trên A520), lên đến 2,3GHz"
+                ]
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "Chiều dài: 161,4mm",
+                    "Chiều rộng: 75,3mm",
+                    "Độ dày: 9,20mm"
+                ],
+                "Trọng lượng": "219.8g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Da thuần chay",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Hệ thống làm mát kép IceLoop của Xiaomi",
+                "Chỉ số kháng nước, bụi": "Kháng nước, kháng bụi ip68",
+                "Công nghệ - Tiện ích": [
+                    "Mở khóa bằng khuôn mặt AI",
+                    "Chế độ hiển thị HDR khi phát nội dung video sử dụng công nghệ HDR10, HDR10+, Dolby Vision",
+                    "Công nghệ ổn định video EIS"
+                ],
+                "Tiện ích khác": [
+                    "Chipset sạc Xiaomi Surge",
+                    "Màn hình được bảo vệ bởi Xiaomi Longjing Glass chống trầy xước"
+                ],
+                "Công nghệ âm thanh": [
+                    "Loa kép",
+                    "4-MIC Array",
+                    "Dolby Atmos®",
+                    "Hỗ trợ các định dạng âm thanh như MP3, FLAC, APE, AAC, OGG, WAV, AMR, AWBChứng nhận Hi-Res & Hi-Res Audio Wireless"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay dưới màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 7",
+                "Bluetooth": "5.4"
+            }
+        }
+    ]
+}

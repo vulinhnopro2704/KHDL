@@ -1,0 +1,119 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-infinix-note-40-pro.html",
+    "name": "Infinix Note 40 Pro 8GB 256GB",
+    "price": "5.790.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.78 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2436 pixels",
+                "Tính năng màn hình": [
+                    "93.80%, 550nit",
+                    "Tần số quét 120Hz",
+                    "Kính cường lực 3D Corning Gorilla"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "108MP, f/1.75, 1/1.67\"OIS",
+                    "2MP, f/2.4",
+                    "2MP, f/2.4"
+                ],
+                "Quay video": "2K 1080p@30/60fps",
+                "Tính năng camera": "Camera OIS"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32MP, f/2.2, FF"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G99 Ultimate",
+                "GPU": "Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "Có·"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "256 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 70W",
+                    "Sạc không dây 20W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "XOS 14"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.35 x 74.6 x 7.75 mm",
+                "Trọng lượng": "190 g"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Làm mát bằng chất lỏng VC, diện tích VC 3753mm2, diện tích than chì 11429mm2.",
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Công nghệ âm thanh": "Loa Kép tinh chỉnh bởi JBL"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Sạc không dây, Bảo mật vân tay, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "802.11 (a/b/g/n/ac)",
+                    "2.4/5GHz"
+                ],
+                "Bluetooth": "v5.3"
+            }
+        }
+    ]
+}

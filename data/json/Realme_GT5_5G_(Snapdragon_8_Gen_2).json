@@ -1,0 +1,137 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-gt5-snapdragon-8-gen-2.html",
+    "name": "Realme GT5 5G (Snapdragon 8 Gen 2)",
+    "price": "9150000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, Realme UI 4.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 144Hz, HDR10+, 1400 nits (tối đa)",
+                    "6.74 inches, 1.5K (1240 x 2772 pixels), tỷ lệ 20:9"
+                ],
+                "Độ phân giải": "1240 x 2772 pixels",
+                "Màn hình rộng": "6.74 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50MP, Sony IMX890, f/1.9, 24mm, 84.4° (góc rộng), PDAF, OIS",
+                    "8 MP, f/2.2, 16mm, 112˚ (góc siêu rộng)",
+                    "2 MP, f/2.4, 22mm (macro)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.5, 25mm, 82.3° (góc rộng)",
+                    "HDR, panorama",
+                    "Quay phim: 1080p@30fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.2 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": [
+                    "24GB (bản 1 - 240W)",
+                    "12-16 GB (bản 2 - 150W)",
+                    "LPDDR5X"
+                ],
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "256-512GB (bản 2 - 150W), 1TB (bản 1 - 240W)",
+                    "UFS 4.0"
+                ],
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Bo cong cạnh, mặt lưng và góc",
+                    "Khung kim loại",
+                    "Mặt lưng kính"
+                ],
+                "Kích thước": "163.13 x 75.38 x 8.9 mm",
+                "Trọng lượng (g)": "205 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Bản 1: Li-Po 4600 mAh",
+                    "Sạc siêu nhanh 240W",
+                    "Sạc trong 30 giây, đàm thoại 2 giờ (QC)",
+                    "Bản 2: Li-Po 5240 mAh",
+                    "Sạc siêu nhanh 150W",
+                    "Sạc 1-50% trong 7 ph (QC)"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 3, 5, 7, 8, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct, hotspot",
+                "GPS": "GPS (L1+L2+L5), GLONASS, BDS, GALILEO, QZSS",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 2.0",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-14-chinh-hang.html",
+    "name": "Xiaomi 14 Chính hãng (5G - Camera Leica nghệ thuật)",
+    "price": "14750000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, Xiaomi HyperOS",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO AMOLED",
+                "Màu màn hình": "68 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO AMOLED, 68 tỷ màu, 120Hz, Dolby Vision, HDR10+, HBM 1000 nit (thông thường), 3000 nit ( tối đa)",
+                    "6.36 inches, 1.5K (1200 x 2670 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~460 ppi",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Độ phân giải": "1200 x 2670 pixels",
+                "Màn hình rộng": "6.36 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP (Leica Light Fusion 900), f/1.6, 23mm (góc rộng), PDAF, Laser AF, OIS",
+                    "50 MP, f/2.0, 75mm (tele), PDAF (10cm - ∞), OIS, 3.2x optical zoom",
+                    "50 MP, f/2.2, 14mm, 115˚ (góc siêu rộng)",
+                    "Quay phim: 8K@24fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.0, 22mm (góc rộng), 0.7µm",
+                    "HDR, panorama, Chế độ ban đêm",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "Leica Chân thực, Leica Rực rỡ;",
+                    "Xiaomi ProFocus; Chụp tia chớp; Chế độ chụp đêm; Chế độ chân dung ban đêm; Zoom kỹ thuật số lên đến 60x; HDR; Hình chìm AI; Siêu trăng; Toàn cảnh; Tài liệu; Phơi sáng lâu; Chế độ chuyên nghiệp",
+                    "Định dạng ảnh chụp: DNG,HEIF,JPEG",
+                    "Chế độ chụp RAW"
+                ],
+                "Quay phim": "8K@24fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "3x3.2 GHz Cortex-A720",
+                    "2x3.0 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 3x3.2 GHz & 2x3.0 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "12GB, LPDDR5X (8533Mbps)",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Vuông vức; khung nhôm",
+                    "Mặt lưng kính; Kính trước Corning Gorilla Glass Victus",
+                    "Kháng nước, bụi IP68",
+                    "Cảm biến vân tay dưới màn hình",
+                    "Mở khóa bằng khuôn mặt AI"
+                ],
+                "Kích thước": "152.8mm x 71.5 x 8.2 mm",
+                "Trọng lượng (g)": "193 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "4610 mAh",
+                    "Sạc nhanh 90W (Xiaomi Surge); 100% trong 31ph (Chế độ Tăng cường)",
+                    "Sạc không dây 50W; 100% trong 46ph",
+                    "Hỗ trợ Sạc ngược không dây"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "UMTS: B1/2/4/5/6/8/19",
+                "4G": [
+                    "4G: LTE FDD: B1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/32/66",
+                    "4G: LTE TDD: B38/39/40/41/42/48"
+                ],
+                "Loại Sim": "Hai SIM (nano SIM + nano SIM hoặc nano SIM + eSIM)",
+                "Khe gắn Sim": "Hai SIM (nano SIM + nano SIM hoặc nano SIM + eSIM)",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+                "GPS": [
+                    "GPS: L1 + L5",
+                    "Galileo: E1+E5a | GLONASS: G1 | Beidou | NavIC: L5",
+                    "Định vị bổ sung A-GPS | La bàn điện tử | Mạng không dây | Mạng dữ liệu | SAP"
+                ],
+                "Bluetooth": [
+                    "5.4, Dual-Bluetooth",
+                    "Hỗ trợ AAC/AptX/AptX HD/AptX Adaptive/LDAC/LHDC 5.0"
+                ],
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa âm thanh nổi: 4-MIC Array, Dolby Atmos, Hi-Res & Hi-Res Audio Wireless"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB-C 3.2 Gen 1",
+                "Kết nối khác": "Hồng ngoại, NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Hệ thống Xiaomi IceLoop"
+            }
+        }
+    ]
+}

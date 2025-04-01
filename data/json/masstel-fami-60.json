@@ -1,0 +1,75 @@
+{
+    "url": "https://cellphones.com.vn/masstel-fami-60.html",
+    "name": "masstel fami 60",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "2.0 inches",
+                "Công nghệ màn hình": "TFT LCD",
+                "Tính năng màn hình": "Mặt kính cong 2.5D,QVGA"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Unisoc UIS8910",
+                "GPU": "RAM 16MB, ROM 24MB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "2000 mAh",
+                "Công nghệ sạc": "Sạc 2.5 W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "4G"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "57.1 x 15.3 x 125.9 mm",
+                "Trọng lượng": "146.2 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 32 GB"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Bluetooth": "v4.2"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tiện ích khác": "Danh bạ: 500 số, Mạng di động: Hỗ trợ 4G VoLTE,FM không cần tai nghe"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "12/2021"
+            }
+        }
+    ]
+}

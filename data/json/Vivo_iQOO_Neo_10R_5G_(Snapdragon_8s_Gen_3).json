@@ -1,0 +1,135 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/vivo-iqoo-neo-10r-5g.html",
+    "name": "Vivo iQOO Neo 10R 5G (Snapdragon 8s Gen 3)",
+    "price": "7090000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 15, Funtouch 15",
+                    "(hỗ trợ cập nhật 3 bản Android chính)"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 144Hz, HDR10+, 4500 nits (peak)",
+                    "6.78 inches, 1.5K (1260 x 2800 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~452 ppi",
+                    "Always-on display"
+                ],
+                "Độ phân giải": "1260 x 2800 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8 (góc rộng), 1/1.95\", 0.8µm, PDAF, OIS",
+                    "8 MP, f/2.2 (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p, gyro-EIS, OIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.5 (góc rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, panorama, HDR",
+                "Quay phim": "4K@30/60fps, 1080p, gyro-EIS, OIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.0 GHz Cortex-X4",
+                    "4x2.8 GHz Cortex-A720",
+                    "3x2.0 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 8s Gen 3 (4 nm)",
+                    "8 nhân (1x3.0 GHz & 4x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 735"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 735"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa phẳng",
+                    "Mặt lưng cong nhẹ",
+                    "Màn hình phẳng (kính Schott Xensation Up)",
+                    "Kháng nước, bụi IP65",
+                    "Cảm biến vân tay siêu âm dưới màn hình"
+                ],
+                "Kích thước": "163.7 x 75.9 x 8 mm",
+                "Trọng lượng (g)": "196 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Si/C Li-Ion",
+                "Dung lượng pin": [
+                    "Si/C 6400 mAh",
+                    "Sạc nhanh 80W, 55W PPS+PD",
+                    "Sạc ngược 7.5W (dây)",
+                    "Sạc nhánh Bypass charging"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 2100",
+                "4G": "HSPA, LTE, 5G",
+                "Loại Sim": "2 SIM Nano",
+                "Khe gắn Sim": "2 SIM Nano",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, băng tần kép, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Loa kép stereo",
+                    "24-bit/192kHz Hi-Res audio"
+                ],
+                "NFC": "Không",
+                "Kết nối USB": "USB Type-C 2.0, OTG",
+                "Kết nối khác": "Hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://cellphones.com.vn/realme-narzo-50i.html",
+    "name": "Realme Narzo 50i",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8 MP"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Hỗ trợ mạng": "4G"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-huawei-pura-70-pro.html",
+    "name": "Huawei Pura 70 Pro",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.6 inches",
+                "Công nghệ màn hình": "OLED"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP",
+                    "Ống kính khẩu độ thay đổi f/1.4 - 4.0",
+                    "Camera góc siêu rộng: 12.5MP",
+                    "Camera tele: 48MP"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Kirin 9010"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,050 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh có dây 100W",
+                    "Sạc không dây 80W"
+                ]
+            }
+        }
+    ]
+}

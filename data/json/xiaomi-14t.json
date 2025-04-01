@@ -1,0 +1,124 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-14t.html",
+    "name": "Xiaomi 14T 12GB 512GB",
+    "price": "10.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.67 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1220 x 2712 pixels",
+                "Tính năng màn hình": [
+                    "144Hz, 1,5K CrystalRes AMOLED, 446 ppi, 4000 nits, Độ sâu màu 12 bit, Làm mờ PWM lên đến 3840",
+                    "HDR10+, Dolby Vision"
+                ],
+                "Tần số quét": "Từ 144Hz trở lên",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 50MP, 23mm, ƒ/1 7 Cảm biến hình ảnh IMX906 của Sony 2 0 m Super Pixel",
+                    "Máy ảnh tele: 50MP, 50mm, ƒ/1 9",
+                    "Máy ảnh góc siêu rộng: 12MP, 15mm, ƒ/2 2"
+                ],
+                "Tính năng camera": [
+                    "Hình ảnh Leica đích thực",
+                    "UltraHDR",
+                    "Master Portrait",
+                    "Chế độ quay phim",
+                    "MasterCinema",
+                    "Chế độ đạo diễn"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": [
+                    "32MPƒ/2,0",
+                    "FOV 80,8˚",
+                    "Chế độ ban đêm",
+                    "HDR",
+                    "Tính năng chụp ảnh bằng lòng bàn tay"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 8300-Ultra",
+                "GPU": "Arm Mali-G615 MC6"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "HyperCharge 67W"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x Cortex-A715, Lên đến 3,35GHz; 3x Cortex-A715, Lên đến 3,2GHz; 4x Cortex-A510 lên đến 2,2GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": [
+                    "160,5mm x 75,1mm x 7,80mm (Kính)",
+                    "160,5mm x 75,1mm x 7,95mm (PU)"
+                ],
+                "Trọng lượng": "195g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 6E",
+                "Bluetooth": "v5.4"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ - Tiện ích": [
+                    "Google Gemini",
+                    "Phiên dịch AI",
+                    "Ghi chú AI"
+                ],
+                "Công nghệ âm thanh": [
+                    "Chứng nhận âm thanh Hi-Res & Hi-Res không dây",
+                    "Dolby Atmos",
+                    "Loa âm thanh nổi"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        }
+    ]
+}

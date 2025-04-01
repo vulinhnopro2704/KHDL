@@ -1,0 +1,128 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-poco-m6-4g-helio-g91-ultra.html",
+    "name": "Xiaomi POCO M6 4G Chính hãng (Helio G91 Ultra)",
+    "price": "4250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android, HyperOS",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, DotDisplay, 90Hz, 450 nit (typ), 550 nit (HBM)",
+                    "6.79 inches, Full HD+ (1080 x 2460 pixels)",
+                    "Mật độ điểm ảnh ~396 ppi"
+                ],
+                "Độ phân giải": "1080 x 2460 pixels",
+                "Màn hình rộng": "6.79 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "108 MP, f/1.75 (góc rộng), 1/1,67\", 1,92μm",
+                    "2 MP, f/2,4 (macro)",
+                    "Quay phim: 1080p@30fps, 720p@30fps"
+                ],
+                "Camera trước": [
+                    "13 MP, f/2.5 (góc rộng), HDR",
+                    "Quay phim: 1080p@30fps, 720p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": [
+                    "Ghép điểm ảnh 9 trong 1, Chế độ HDR, Chế độ ban đêm",
+                    "Chế độ chân dung, Tua nhanh thời gian"
+                ],
+                "Quay phim": "1080p@30fps, 720p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2x2.0 GHz Cortex-A75",
+                    "6x1.8 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Helio G91 Ultra (12 nm)",
+                    "8 nhân (2x2.0 GHz & 6x1.8 GHz)",
+                    "GPU: Mali-G52 MC2"
+                ],
+                "RAM": "6-8GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, eMMC 5.1",
+                "Thẻ nhớ ngoài": "microSDXC (sử dụng chung với khe SIM 2)",
+                "Hỗ trợ thẻ tối đa": "1TB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhựa vuông vức",
+                    "Mặt lưng phẳng, màn hình phẳng kiểu đục lỗ",
+                    "Cảm biến vân tay cạnh bên",
+                    "Mở khóa bằng khuôn mặt AI"
+                ],
+                "Kích thước": "168.6 x 76.28 x 8,3 mm",
+                "Trọng lượng (g)": "205 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "5030mAh",
+                    "Sạc nhanh 33W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "WCDMA: 12/4/5/8",
+                "4G": [
+                    "LTE FDD: 1/2/3/4/5/7/8/20/28/66",
+                    "LTE TDD: 38/40/41"
+                ],
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band (2.4GHz | 5GHz)",
+                "GPS": "GPS | Glonass | Galileo | Beidou",
+                "Bluetooth": "5.4, AAC / SBC / aptX / LDAC",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C",
+                "Kết nối khác": "Hỗ trợ đài FM (sử dụng cùng với đầu cắm tai nghe), NFC, hồng ngoại",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

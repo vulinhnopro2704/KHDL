@@ -1,0 +1,118 @@
+{
+    "url": "https://mobilecity.vn/asus/asus-rog-phone-6.html",
+    "name": "Asus ROG Phone 6 (Snapdragon 8+ Gen 1, pin 6000mAh)",
+    "price": "8950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, ROG UI",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỉ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỉ màu, 165Hz, HDR10+, 1200 nits",
+                    "6.78 inches, Full HD+ (1080 x 2448 pixels)",
+                    "Corning Gorilla Glass Victus"
+                ],
+                "Độ phân giải": "1080 x 2448 pixels",
+                "Màn hình rộng": "6.78 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, (góc rộng), PDAF",
+                    "13 MP, f/2.2, (góc siêu rộng)",
+                    "5 MP, (macro)",
+                    "Quay phim: 8K@24fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS"
+                ],
+                "Camera trước": [
+                    "12 MP, 28mm (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "8K@24fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.2 GHz & 3x2.75 GHz & 4x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8450 Snapdragon 8+ Gen 1 (4 nm)",
+                    "8 nhân (1x3.2 GHz & 3x2.75 GHz & 4x2.0 GHz)",
+                    "GPU: Adreno 730"
+                ],
+                "RAM": "8-16GB",
+                "Chip đồ họa (GPU)": "Adreno 730"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-512GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Gaming Phone",
+                "Kích thước": "173 x 77 x 10.3 mm",
+                "Trọng lượng (g)": "239 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 6000 mAh",
+                    "Sạc nhanh 65W, 100% trong 42 phút (Quảng cáo)",
+                    "Sạc ngược không dây 10W",
+                    "Power Delivery 3.0",
+                    "Quick Charge 5"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS. Up to dual-band: GLONASS (1), BDS (2), GALILEO (2), QZSS (2), NavIC",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5mm",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1 (cạnh trái), USB Type-C 2.0 (cạnh dưới), đầu nối phụ kiện, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

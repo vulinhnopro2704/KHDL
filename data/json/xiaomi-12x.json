@@ -1,0 +1,110 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-12x.html",
+    "name": "Xiaomi 12X",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.28 inches",
+                "Công nghệ màn hình": "OLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "1 tỉ màu, tần số quét 120Hz, Dolby Vision, HDR10+, 1100 nits (độ sáng tối đa), Corning Gorilla Glass Victus",
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Giọt nước"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 50 MP, f/1.9, PDAF, OIS",
+                    "Camera góc siêu rộng: 13 MP, f/2.4, 123",
+                    "Camera tele: 5 MP, AF"
+                ],
+                "Quay video": "8K@24fps, 4K@30/60fps, 1080p@30/120/240/960fps, gyro-EIS",
+                "Tính năng camera": [
+                    "Góc rộng (Wide)",
+                    "Góc siêu rộng (Ultrawide)",
+                    "Siêu cận (Macro)",
+                    "Xóa phông",
+                    "HDR",
+                    "Chế độ chuyên nghiệp"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP",
+                "Quay video trước": "1080p@30/60fps, 720p@120fps"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm Snapdragon ™ 870",
+                "GPU": "Adreno 650"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "A-GPS. Up to tri-band: GLONASS (1), BDS (3), GALILEO (2), QZSS (2), NavIC"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "Li-Po 4500 mAh",
+                "Công nghệ sạc": "Sạc nhanh 67W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12, MIUI 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "152.7 x 69.9 x 8.2 mm",
+                "Trọng lượng": "176 g"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 6, Wi-Fi 5, Wi-Fi4 và 802.11a / b / g",
+                "Bluetooth": "5.1"
+            }
+        }
+    ]
+}

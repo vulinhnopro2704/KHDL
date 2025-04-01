@@ -1,0 +1,100 @@
+{
+    "url": "https://mobilecity.vn/iphone-lock/iphone-7-plus-lock-nhat-ban-prd2098.html",
+    "name": "iPhone 7 Plus Lock Nhật, Mỹ (Dùng như Quốc tế)",
+    "price": "3950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "iOS 10 - iOS 11",
+                "Ngôn ngữ": "Đa ngôn ngữ hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "FullHD, 1080 x 1920 pixels, Mật độ điểm ảnh ~ 386 ppi",
+                "Độ phân giải": "1080 x 1920 pixels, mật độ điểm ảnh ~ 386 ppi",
+                "Màn hình rộng": "5.5'",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm (10 điểm)"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "Dual 12MP",
+                "Camera trước": "7MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét, nhận diện khuôn mặt, chụp ảnh HDR, Panorama",
+                "Quay phim": "2160p-30fps, 1080p-30/60/120fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2.3 GHz",
+                "Số nhân": "2.3 GHz",
+                "Chipset": "Apple A10 Fusion",
+                "RAM": "3GB",
+                "Chip đồ họa (GPU)": "Chip đồ họa 6 nhân"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không hỗ trợ",
+                "Bộ nhớ trong (ROM)": "32GB/128GB/256GB",
+                "Thẻ nhớ ngoài": "Không hỗ trợ",
+                "Hỗ trợ thẻ tối đa": "Không hỗ trợ"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Cảm ứng",
+                "Kích thước": "158.2 x 77.9 x 7.3 mm",
+                "Trọng lượng (g)": "188"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": "2900 mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+                "4G": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800)",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "1 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+                "GPS": "Yes, with A-GPS, GLONASS",
+                "Bluetooth": "Yes, with A-GPS, GLONASS",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Lightning",
+                "NFC": "Không",
+                "Kết nối USB": "v2.0",
+                "Kết nối khác": "Airplay",
+                "Cổng sạc": "Lightning"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "Định dạng MP4/H.264",
+                "Nghe nhạc": "Định dạng MP3/WAV/AAX+/AIFF/Apple Lossless",
+                "Cổng sạc": "Lightning",
+                "Ghi âm": "Có",
+                "FM radio": "Không",
+                "Chức năng khác": "Trợ lý ảo Siri, Tài khoản iCloud, Tin nhắn iMesasge, Cảm biến vân tay 1 chạm, 3D Touch"
+            }
+        }
+    ]
+}

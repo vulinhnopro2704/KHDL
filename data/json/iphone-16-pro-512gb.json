@@ -1,0 +1,158 @@
+{
+    "url": "https://cellphones.com.vn/iphone-16-pro-512gb.html",
+    "name": "iPhone 16 Pro 512GB | Chính hãng VN/A",
+    "price": "34.690.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.3 inches",
+                "Công nghệ màn hình": "Super Retina XDR OLED",
+                "Độ phân giải màn hình": "2622 x 1206 pixels",
+                "Tính năng màn hình": [
+                    "Dynamic Island",
+                    "Màn hình HDR",
+                    "True Tone",
+                    "Dải màu rộng (P3)",
+                    "Haptic Touch",
+                    "Tỷ lệ tương phản 2.000.000:1",
+                    "Độ sáng tối đa 1000 nit",
+                    "460 ppi",
+                    "Lớp phủ kháng dầu chống in dấu vân tay",
+                    "Hỗ trợ hiển thị đồng thời nhiều ngôn ngữ và ký tự"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Dynamic Island"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera chính: 48MP, f/1.78, 24mm, chống rung quang học dịch chuyển cảm biến thế hệ thứ hai, Focus Pixels 100%, hỗ trợ ảnh có độ phân giải siêu cao",
+                    "Hỗ trợ Telephoto 2x 12MP: 52 mm, ƒ/1.6",
+                    "Camera góc siêu rộng: 48MP, 13 mm, ƒ/2.2 và trường ảnh 120°, H"
+                ],
+                "Quay video": [
+                    "Quay video 4K Dolby Vision ở tốc độ 24 fps",
+                    "Quay video 1080p Dolby Vision",
+                    "Quay video 720p Dolby Vision"
+                ],
+                "Tính năng camera": [
+                    "Flash True Tone",
+                    "Photonic Engine",
+                    "Deep Fusion",
+                    "HDR thông minh thế hệ 5",
+                    "Hiệu ứng Chiếu Sáng Chân Dung với sáu chế độ",
+                    "Chế độ Ban Đêm",
+                    "Chụp ảnh toàn cảnh Panorama (lên đến 63MP)",
+                    "Phong Cách Nhiếp Ảnh thế hệ mới nhất",
+                    "Ảnh không gian"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12MP, ƒ/1.9, Tự động lấy nét theo pha Focus Pixels",
+                "Quay video trước": [
+                    "4K@24 fps, 4K@25 fps, 4K@30 fps, 4K@60 fps",
+                    "1080p@25fps, 1080p@30 fps, hoặc 1080p@60 fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Apple A18 Pro",
+                "GPU": "GPU 6 lõi mới"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, GLONASS, Galileo, QZSS và BeiDou"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "iOS 18"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi tiết kiệm điện"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "Rộng: 71,5 mm Cao: 149,6 mm Dày: 8,25 mm",
+                "Trọng lượng": "199 gram"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Titanium"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tương thích": "Tương Thích Với Thiết Bị Trợ Thính",
+                "Chỉ số kháng nước, bụi": "IP68 chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút) theo tiêu chuẩn IEC 60529",
+                "Công nghệ - Tiện ích": "Face ID, FaceTime",
+                "Tiện ích khác": [
+                    "Apple Pay",
+                    "SOS Khẩn Cấp",
+                    "Phát Hiện Va Chạm"
+                ],
+                "Công nghệ âm thanh": "AAC, APAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus, và Dolby Atmos"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Công nghệ sạc": [
+                    "Sạc không dây MagSafe lên đến 25W với bộ tiếp hợp 30W trở lên",
+                    "Sạc không dây Qi2 lên đến 15W",
+                    "Sạc không dây Qi lên đến 7,5W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế, Cảm biến trọng lực",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi‑Fi 7 (802.11be) với 2x2 MIMO7",
+                "Bluetooth": "Bluetooth 5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "09/2024"
+            }
+        }
+    ]
+}

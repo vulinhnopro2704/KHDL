@@ -1,0 +1,103 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/realme-gt-neo-5-lite-gia-re.html",
+    "name": "Realme GT Neo 5 Lite (Snapdragon 7+ Gen 1, màn 144Hz)",
+    "price": "5620000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13, Realme UI 4.0",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "OLED, 144Hz",
+                    "6.74 inches, 1.5K (1240 x 2772 pixels)"
+                ],
+                "Độ phân giải": "1240 x 2772 pixels",
+                "Màn hình rộng": "6.74 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "64 MP, f/1.9, 24mm (góc rộng) PDAF",
+                    "8 MP, f/2.2, 16mm, 112˚ (góc siêu rộng)",
+                    "2 MP, f/3.3, 20mm (macro)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps"
+                ],
+                "Camera trước": "16 MP (góc rộng)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED dual-tone flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Đang cập nhật",
+                "Số nhân": "8 nhân",
+                "Chipset": "Snapdragon 7+ Gen 1",
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": [
+                    "128-256GB",
+                    "UFS 2.2"
+                ],
+                "Thẻ nhớ ngoài": "Đang cập nhật",
+                "Hỗ trợ thẻ tối đa": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "Đang cập nhật",
+                "Trọng lượng (g)": "Đang cập nhật"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5500 mAh",
+                    "Sạc nhanh 100W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Đang cập nhật",
+                "4G": "Đang cập nhật",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

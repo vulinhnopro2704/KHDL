@@ -1,0 +1,102 @@
+{
+    "url": "https://mobilecity.vn/xiaomi/xiaomi-mi-9.html",
+    "name": "Xiaomi Mi 9 (RAM 6GB, 8GB)",
+    "price": "7550000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9 Pie",
+                "Ngôn ngữ": "Tiếng Anh, Tiếng Trung"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Super AMOLED",
+                "Màu màn hình": "16 Triệu màu",
+                "Chuẩn màn hình": "Super AMOLED, 6.39 inches, Full HD+ (1080 x 2340 pixels), 6.39 inches, Corning Gorilla Glass 6, DCI-P3, HDR10",
+                "Độ phân giải": "1080 x 2340 pixels",
+                "Màn hình rộng": "6.39 inches",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "3 Camera: 48MP, 12MP (telephoto), 16 MP (góc rộng)",
+                "Camera trước": "20 MP, f/2.0, 0.9µm",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét, Chụp ảnh xoá phông",
+                "Quay phim": "Quay phim 4k, Slow motion 960 FPS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core, 2.84 GHz, Kryo 485",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm Snapdragon 855 5G (7 nm)",
+                    "8 nhân (1x2.84 GHz & 3x2.42 GHz & 4x1.78 GHz)",
+                    "GPU: Adreno 640"
+                ],
+                "RAM": "6GB/8GB",
+                "Chip đồ họa (GPU)": "Adreno 640"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64GB - 128GB",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Lưng kính cao cấp, màn hình giọt nước",
+                "Kích thước": "Dài 147.7 mm - Ngang 68.7 mm - Dày 8.5 mm",
+                "Trọng lượng (g)": "163 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "3300 mAh, sạc nhanh 27W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "LTE Cat 18",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM - 2 Sóng",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Wi-Fi hotspot",
+                "GPS": "BDS, A-GPS, GLONASS",
+                "Bluetooth": "v5.0, apt-X, A2DP, LE, EDR",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "không hộ trợ",
+                "NFC": "Có",
+                "Kết nối USB": "2.0",
+                "Cổng sạc": "Type-C 1.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, H263, H264, WMV",
+                "Nghe nhạc": "AAC, AMR, MIDI, OGG, FLAC, WMA, WAV, APE, MP3",
+                "Cổng sạc": "Type-C 1.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

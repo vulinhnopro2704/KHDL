@@ -1,0 +1,118 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-a26.html",
+    "name": "Samsung Galaxy A26 5G 8GB 128GB",
+    "price": "6.790.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 120Hz, 800 nits, Mặt kính Gorilla Glass Victus"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "50MP + 8MP + 2MP",
+                "Quay video": [
+                    "UHD 4K 3840 x 2160@30fps",
+                    "Quay chậm (HD) 480fps@240fps"
+                ],
+                "Tính năng camera": "Zoom quang học 10x, Chụp ban đêm, Chụp toàn cảnh Panorama, Chụp một chạm, Chụp làm đẹp, Chụp chuyên nghiệp, Chế độ quay chuyển động chậm, Chế độ quay chuyển động trôi nhanh, Chụp làm đẹp, Chụp ảnh chân dung"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "13MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Exynos 1380 (Quartz)",
+                "GPU": "Mali-G68"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano-SIM",
+                "GPS": "GPS,Glonass,Beidou,Galileo,QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD (Up to 2TB)"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 15"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.4GHz,2GHz, Octa-Core"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.0 x 77.5 x 7.7 mm",
+                "Trọng lượng": "200g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP67",
+                "Công nghệ - Tiện ích": [
+                    "Khoanh tròn tìm kiếm",
+                    "Tự động xoá vật thể",
+                    "Tạo bộ lọc"
+                ],
+                "Tiện ích khác": "Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "802.11a/b/g/n/ac 2.4GHz+5GHz, VHT80",
+                    "WiFi Direct"
+                ],
+                "Bluetooth": "v5.3"
+            }
+        }
+    ]
+}

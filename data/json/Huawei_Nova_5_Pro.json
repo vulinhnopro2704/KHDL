@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/huawei/huawei-nova-5-pro.html",
+    "name": "Huawei Nova 5 Pro",
+    "price": "9950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 9.0 (Pie), EMUI 9.1",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "OLED, Full HD+ (1080x2340 pixels), 6.39 inches",
+                "Độ phân giải": "1080x2340 pixels",
+                "Màn hình rộng": "6.39 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "4 Camera: 48 MP + 16 MP + 2 MP (macro) + 2 MP (depth sensor)",
+                "Camera trước": "32 MP, f/2.0",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "HDR, chụp góc rộng, chụp xoá phông, nhận điện khuân mặt.",
+                "Quay phim": "Quay phim 2160p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+                "Số nhân": "10 nhân",
+                "Chipset": "HiSilicon Kirin 980 (7 nm)",
+                "RAM": "8 GB",
+                "Chip đồ họa (GPU)": "Mali-G76 MP10"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128GB/256GB",
+                "Thẻ nhớ ngoài": "Nano Memory",
+                "Hỗ trợ thẻ tối đa": "256GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Nguyên khối",
+                "Kích thước": "157.4 x 74.8 x 7.3 mm",
+                "Trọng lượng (g)": "171 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Pin chuẩn Li-Po",
+                "Dung lượng pin": "3500 mAh, sạc nhanh 40W (sạc 85% trong 30 phút)",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "Có",
+                "4G": "Có",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "1 SIM 1 thẻ nhớ hoặc 2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS, GLONASS, BDS",
+                "Bluetooth": "5.0, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "2.0",
+                "Cổng sạc": "Type-C 1.0"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "MP4, AVI, WMV, H.263, H.264(MPEG4-AVC)",
+                "Nghe nhạc": "AMR, MP3, WAV, WMA, AAC, OGG, FLAC",
+                "Cổng sạc": "Type-C 1.0",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

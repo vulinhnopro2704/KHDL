@@ -1,0 +1,121 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/honor-magic-4-pro.html",
+    "name": "Honor Magic 4 Pro",
+    "price": "25950000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 12, Magic UI 6",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "LTPO OLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "LTPO OLED, 1 tỷ màu, 120Hz, HDR10+, độ sáng 1000 nits",
+                    "6.81 inches, Full HD+ (1312 x 2848 pixels)",
+                    "Aluminosilicate Glass"
+                ],
+                "Độ phân giải": "1312 x 2848 pixels",
+                "Màn hình rộng": "6.81 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.8 (góc rộng, multi-directional PDAF, Laser AF",
+                    "50 MP, f/2.2, 122˚ (góc siêu rộng)",
+                    "64 MP, f/3.5, 90mm (telephoto tiềm vọng), PDAF, OIS, 3.5x optical zoom",
+                    "TOF 3D (đo chiều sâu)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR10, 10-bit video"
+                ],
+                "Camera trước": [
+                    "12 MP, f/2.4, 100˚ (góc siêu rộng)",
+                    "TOF 3D, (đo chiều sâu/cảm biến sinh trắc học)"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR10, 10-bit video",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.00 GHz & 3x2.40 GHz & 4x1.70 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+                    "8 nhân (1x3.00 GHz & 3x2.40 GHz & 4x1.70 GHz)",
+                    "GPU: Adreno 730"
+                ],
+                "RAM": "8-12GB",
+                "Chip đồ họa (GPU)": "Adreno 730"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Thanh + Cảm ứng",
+                "Kích thước": "163.6 x 74.7 x 9.1 mm",
+                "Trọng lượng (g)": "209 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4600 mAh",
+                    "Sạc nhanh 100W, 100% trong 30ph (Quảng cáo)",
+                    "Sạc nhanh không dây 100W, 100% trong 15ph (Quảng cáo)",
+                    "Sạc ngược không dây 5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+                "GPS": "A-GPS. Up to tri-band: GLONASS (1), BDS (3), GALILEO (2)",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, USB On-The-Go",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "USB Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-tecno-spark-30-5g.html",
+    "name": "TECNO SPARK 30 5G 6GB 128GB",
+    "price": "4.290.000đ",
+    "specifications": [
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "108MP"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Tính năng màn hình": "120Hz"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Công nghệ sạc": "Sạc nhanh 18W",
+                "Pin": "5000mAh"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP54",
+                "Công nghệ âm thanh": "Loa kép"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Hỗ trợ mạng": "5G"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek D6300"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "6GB + Mở rộng 6GB",
+                "Bộ nhớ trong": "128 GB"
+            }
+        }
+    ]
+}

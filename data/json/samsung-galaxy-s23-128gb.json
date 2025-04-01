@@ -1,0 +1,169 @@
+{
+    "url": "https://cellphones.com.vn/samsung-galaxy-s23-128gb.html",
+    "name": "Samsung Galaxy S23 8GB 128GB ĐKH Online - Chỉ có tại CellphoneS",
+    "price": "13.790.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.1 inches",
+                "Công nghệ màn hình": "Dynamic AMOLED 2X",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)",
+                "Tính năng màn hình": [
+                    "Tần số quét 120Hz, Độ sáng tối đa 1750 nits",
+                    "Kính cường lực Corning Gorilla Glass Victus 2"
+                ],
+                "Tần số quét": "120Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Camera chính 50 MP & Phụ 12 MP, 10 MP",
+                "Quay video": [
+                    "HD 720p@30fps",
+                    "FullHD 1080p@30fps",
+                    "4K 2160p@60fps",
+                    "8K 4320p@24fps",
+                    "8K 4320p@30fps"
+                ],
+                "Tính năng camera": [
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Góc siêu rộng (Ultrawide)",
+                    "Zoom kỹ thuật số",
+                    "Quay chậm (Slow Motion)",
+                    "Xóa phông",
+                    "Toàn cảnh (Panorama)",
+                    "Chống rung quang học (OIS)",
+                    "Tự động lấy nét (AF)",
+                    "Ảnh Raw",
+                    "Ban đêm (Night Mode)",
+                    "Chuyên nghiệp ("
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "12MP",
+                "Quay video trước": [
+                    "Quay video HD",
+                    "Quay video Full HD",
+                    "Quay video 4K",
+                    "Quay chậm (Slow Motion)"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 8 Gen 2 for Galaxy",
+                "GPU": "Adreno 740"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 Nano SIM hoặc 1 Nano + 1 eSIM",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": [
+                    "BEIDOU",
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3900 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh 25 W",
+                    "Sạc ngược không dây",
+                    "Sạc không dây"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1 nhân 3.36 GHz, 4 nhân 2.8 GHz & 3 nhân 2 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "146.3 x 70.9 x 7.6 mm",
+                "Trọng lượng": "168 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính",
+                "Chất liệu khung viền": "Nhôm"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "IP68",
+                "Công nghệ - Tiện ích": [
+                    "Galaxy AI tiện ích - Khoanh vùng search đa năng, trợ lý chỉnh ảnh, trợ lý chat thông minh, phiên dịch trực tiếp",
+                    "Không gian thứ hai (Thư mục bảo mật)",
+                    "Mở rộng bộ nhớ RAM",
+                    "Màn hình luôn hiển thị AOD"
+                ],
+                "Tiện ích khác": [
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Samsung DeX (Kết nối màn hình sử dụng giao diện tương tự PC)",
+                    "Tối ưu game (Game Booster)"
+                ],
+                "Công nghệ âm thanh": [
+                    "Âm thanh Dolby Atmos",
+                    "Âm thanh AKG"
+                ]
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+                "Tính năng đặc biệt": "Hỗ trợ 5G, Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11 a/b/g/n/ac/ax",
+                "Bluetooth": "v5.3"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "02/2023"
+            }
+        }
+    ]
+}

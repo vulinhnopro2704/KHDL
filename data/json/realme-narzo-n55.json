@@ -1,0 +1,26 @@
+{
+    "url": "https://cellphones.com.vn/realme-narzo-n55.html",
+    "name": "Realme Narzo N55",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "64 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Jack tai nghe 3.5": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "url": "https://cellphones.com.vn/huawei-p30-1.html",
+    "name": "Huawei P30",
+    "price": "17.990.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Công nghệ màn hình": "OLED, cảm ứng điện dung 16.7 triệu màu",
+                "Kích thước màn hình": "6.1 inches",
+                "Độ phân giải màn hình": "1080 x 2340 pixels (FullHD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "40 MP, 16 MP và 8 MP (3 camera)",
+                "Quay video": "Quay phim siêu chậm 960 fps, Quay phim FullHD 1080p@30fps, Quay phim 4K 2160p@30fps"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "HiSilicon Kirin 980",
+                "GPU": "Mali-G76 MP10"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "GPS": "AGPS / Glonass / BeiDou / Galileo (Dải tần kép E1 + E5a) / QZSS (Dải tần kép L1 + L5)"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "3650 mAh"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android v9.0 (Pie)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "8 nhân (2 nhân Cortex-A76 2,6GHz+ 2 nhân Cortex-A76 1,92GHz + 4 nhân Cortex-A55 1,8GHz)"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "149.1 mm - 71.36 mm - 7.57 mm",
+                "Trọng lượng": "165g"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11, b/g/n",
+                "Bluetooth": "5.0"
+            }
+        },
+        {
+            "category": "Cấu hình",
+            "details": {
+                "Cảm biến": "Cảm biến ánh sáng xung quanh, Cảm biến vân tay trên màn hình, Con quay hồi chuyển, La bàn, Cảm biến tiệm cận, Cảm biến trọng lực, Cảm biến Hall, Cảm biến hồng ngoại, Cảm biến nhiệt độ màu"
+            }
+        }
+    ]
+}

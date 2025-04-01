@@ -1,0 +1,98 @@
+{
+    "url": "https://mobilecity.vn/vsmart/vsmart-star-4.html",
+    "name": "Vsmart Star 4",
+    "price": "2250000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 10.0, VOS 3.0",
+                "Ngôn ngữ": "Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "HD+ (720 x 1560 pixes)",
+                "Độ phân giải": "HD+ (720 x 1560 pixes)",
+                "Màn hình rộng": "6.09",
+                "Công nghệ cảm ứng": "Cám ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "8MP, 5MP",
+                "Camera trước": "8MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Xoá phông, Làm đẹp, Trôi nhanh thời gian, Góc siêu rộng, Tự động lấy nét, Làm đẹp, Chuyên nghiệp",
+                "Quay phim": "Quay phim Full HD 1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core (4x2.3 GHz & 4x1.8 GHz)",
+                "Số nhân": "8 nhân",
+                "Chipset": "MediaTek Helio P35",
+                "RAM": "3GB",
+                "Chip đồ họa (GPU)": "IMG PowerVR GE8320"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "32GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "64GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": "Màn hình đục lỗ",
+                "Kích thước": "156.24 x 74 x 8.8mm",
+                "Trọng lượng (g)": "165 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": "3500mAh, sạc nhanh 10W",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps",
+                "4G": "LTE-A (4CA) Cat15 800/150 Mbps",
+                "Loại Sim": "Nano SIM",
+                "Khe gắn Sim": "2 SIM",
+                "Wifi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Wi-Fi hotspot",
+                "GPS": "A-GPS, Glonass",
+                "Bluetooth": "v4.2",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "3.5 mm",
+                "NFC": "Có",
+                "Kết nối USB": "Có",
+                "Cổng sạc": "Type C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Xem phim": "H.263, H.264(MPEG4-AVC)",
+                "Nghe nhạc": "MP3, WAV, WMA",
+                "Cổng sạc": "Type C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

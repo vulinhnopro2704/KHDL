@@ -1,0 +1,157 @@
+{
+    "url": "https://cellphones.com.vn/realme-11-pro-plus.html",
+    "name": "realme 11 Pro+ (Plus)",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2412 pixels",
+                "Tính năng màn hình": "Tần số quét 120 Hz, 950 nits, Kính cường lực AGC DT-Star2"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 200 MP & Phụ 8 MP, 2 MP",
+                "Quay video": [
+                    "4K 2160p@30fps",
+                    "FullHD 1080p@60/480/30/120fps",
+                    "HD 720p@960/60/30/240fps"
+                ],
+                "Tính năng camera": [
+                    "Xóa phông",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Toàn cảnh (Panorama)",
+                    "Siêu độ phân giải",
+                    "Siêu trăng",
+                    "Siêu cận (Macro)",
+                    "Quay video hiển thị kép",
+                    "Quay thiên văn",
+                    "Quay chậm (Slow Motion)",
+                    "Phơi sáng",
+                    "Lấy nét theo pha (PDAF)"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "32 MP"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 7050 5G 8 nhân",
+                "GPU": "Mali-G68"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Không",
+                "Jack tai nghe 3.5": "Không",
+                "Hỗ trợ mạng": "5G",
+                "GPS": [
+                    "QZSS",
+                    "NavIC",
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO",
+                    "BEIDOU"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB",
+                "Khe cắm thẻ nhớ": "Không"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc siêu nhanh SuperVOOC",
+                    "Sạc 100W"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2.6 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "161.6x 73.9 x 8.7 mm",
+                "Trọng lượng": "189 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 6, Dual-band (2.4 GHz/5 GHz)",
+                "Bluetooth": "v5.2"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Công nghệ - Tiện ích": [
+                    "Không gian trẻ em",
+                    "Khoá ứng dụng",
+                    "DCI-P3",
+                    "Cử chỉ thông minh",
+                    "Cử chỉ màn hình tắt"
+                ],
+                "Tiện ích khác": [
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Trợ lý ảo Google Assistant",
+                    "Mở rộng bộ nhớ RAM",
+                    "Màn hình luôn hiển thị AOD"
+                ],
+                "Công nghệ âm thanh": [
+                    "Âm thanh Hi-Res Audio",
+                    "Âm thanh Dolby Atmos",
+                    "Loa kép"
+                ]
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "07/2023"
+            }
+        }
+    ]
+}

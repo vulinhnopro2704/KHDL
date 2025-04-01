@@ -1,0 +1,127 @@
+{
+    "url": "https://mobilecity.vn/samsung/samsung-galaxy-s21-fe.html",
+    "name": "Samsung Galaxy S21 FE 5G",
+    "price": "8450000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": [
+                    "Android 12, One UI 4",
+                    "Được lên Android 13, One UI 5.1"
+                ],
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "Dynamic AMOLED 2X",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Dynamic AMOLED 2X, 120Hz, HDR10+",
+                    "6.4 inches, Full HD+ (1080 x 2400 pixels), tỉ lệ 20:9",
+                    "Corning Gorilla Glass Victus",
+                    "Cảm biến vân tay ẩn dưới màn hình"
+                ],
+                "Độ phân giải": "1080 x 2400 pixels",
+                "Màn hình rộng": "6.4 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "12 MP, f/1.8, 26mm (góc rộng), Dual Pixel PDAF, OIS",
+                    "8 MP, f/2.4, 76mm (tele), PDAF, 3x optical zoom",
+                    "12 MP, f/2.2, 13mm, 123˚ (góc siêu rộng)",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, gyro-EIS"
+                ],
+                "Camera trước": [
+                    "32 MP, f/2.2, 26mm (góc rộng), HDR",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, auto-HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x2.9 GHz & 3x2.80 GHz & 4x2.2 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Exynos 2100 (5 nm)",
+                    "8 nhân (1x2.9 GHz & 3x2.80 GHz & 4x2.2 GHz)",
+                    "GPU: Mali-G78 MP14"
+                ],
+                "RAM": "6-8GB",
+                "Chip đồ họa (GPU)": "Mali-G78 MP14"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB",
+                "Thẻ nhớ ngoài": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung nhôm + mặt lưng nhựa",
+                    "Kính trước Gorilla Glass Victus",
+                    "Kháng nước, bụi IP68",
+                    "Cảm biến vân tay trong màn hình"
+                ],
+                "Kích thước": "155.7 x 74.5 x 7.9 mm",
+                "Trọng lượng (g)": "177 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-ion",
+                "Dung lượng pin": [
+                    "Li-Ion 4500 mAh",
+                    "Sạc nhanh 25W",
+                    "Sạc nhanh không dây 15W",
+                    "Sạc ngược không dây",
+                    "USB Power Delivery 3.0"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                "4G": "LTE",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, BDS, GALILEO",
+                "Bluetooth": "5.0, A2DP, LE",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C, OTG",
+                "Kết nối khác": "OTG, NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

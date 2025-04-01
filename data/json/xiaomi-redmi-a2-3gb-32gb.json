@@ -1,0 +1,126 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-a2-3gb-32gb.html",
+    "name": "Redmi A2 3GB 32GB",
+    "price": "2.190.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.52 inches",
+                "Độ phân giải màn hình": "1600 x 720 pixels (HD+)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "2 Camera chính: 8MP - f/2.0,",
+                "Quay video": [
+                    "1080p | 1920 x 1080@30fps",
+                    "720p | 1280 x 720@30fps"
+                ],
+                "Tính năng camera": [
+                    "Xóa phông",
+                    "Trôi nhanh thời gian (Time Lapse)",
+                    "Góc rộng (Wide)",
+                    "HDR"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "5MP - f/2.2",
+                "Quay video trước": [
+                    "1080p | 1920 x 1080@30fps",
+                    "720p | 1280 x 720@30fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G36"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": [
+                    "BEIDOU",
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO"
+                ]
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "3 GB",
+                "Bộ nhớ trong": "32 GB",
+                "Khe cắm thẻ nhớ": "MicroSD, hỗ trợ tối đa 1 TB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5,000mAh",
+                "Công nghệ sạc": "Sạc nhanh 10W",
+                "Cổng sạc": "Micro-USB"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 13 (Go Edition)"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core processor, up to 2.2GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "164.90 x 76.75 x 9.09mm",
+                "Trọng lượng": "192g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Supports 2.4GHz Wi-Fi",
+                "Bluetooth": [
+                    "v5.0",
+                    "A2DP",
+                    "LE"
+                ]
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Tiện ích khác": "Mở rộng bộ nhớ RAM"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "2023"
+            }
+        }
+    ]
+}

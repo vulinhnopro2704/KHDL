@@ -1,0 +1,128 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/honor-magic-v2-snapdragon-8-gen-2-chinh-hang.html",
+    "name": "Honor Magic V2 (Snapdragon 8 Gen 2) Chính hãng",
+    "price": "29700000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13,",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": [
+                    "Foldable LTPO OLED (màn hình chính)",
+                    "LTPO OLED (màn hình phụ)"
+                ],
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "Màn hình gập Foldable LTPO OLED, 120Hz, 1 tỷ màu",
+                    "7.92 inches, 2K+ (2156 x 2344 pixels )",
+                    "Màn hình ngoài LTPO OLED, 1B colors, 120Hz",
+                    "6.43 inches, Full HD+ (1060 x 2376 pixels)"
+                ],
+                "Độ phân giải": "2156 x 2344 pixels",
+                "Màn hình rộng": "7.92 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.9, (rộng), PDAF, Laser AF, OIS",
+                    "20 MP, f/2.4, (tele), PDAF, zoom quang 2,5x, OIS",
+                    "50 MP, f/2.0, (siêu rộng), AF"
+                ],
+                "Camera trước": "16 MP, f/2.2, (góc rộng)",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps (10-bit), 1080p@30/60fps, gyro-EIS, HDR10+, OIS; 4K@30fps, 1080p@30fps, gyro-EIS",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "1x3.36 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Snapdragon 8 Gen 2 (4 nm)",
+                    "8 nhân (1x3.36 GHz & 2x2.8 GHz & 2x2.8 GHz & 3x2.0 GHz)",
+                    "GPU: Adreno 740"
+                ],
+                "RAM": "16GB",
+                "Chip đồ họa (GPU)": "Adreno 740"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512-1TB",
+                "Thẻ nhớ ngoài": "Không có"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Điện thoại gập",
+                    "Thanh + Cảm ứng"
+                ],
+                "Kích thước": [
+                    "Khi mở: 156,7 x 145,4 x 4,7 mm hoặc 4,8 mm",
+                    "Khi gấp: 156,7 x 74,1 x 9,9 mm hoặc 10,1 mm"
+                ],
+                "Trọng lượng (g)": "231 g hoặc 237 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 5000 mAh",
+                    "Sạc nhanh 66W",
+                    "Sạc ngược 5W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+                "Bluetooth": "5.3, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "24-bit/192kHz audio"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, OTG, Display Port 1.2",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

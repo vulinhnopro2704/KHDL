@@ -1,0 +1,93 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/xiaomi-redmi-a3-pro-global.html",
+    "name": "Xiaomi Redmi A3 Pro Global (Helio G81 Ultra)",
+    "price": "2350000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, HyperOS",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16.7 triệu màu",
+                "Chuẩn màn hình": [
+                    "IPS LCD, 120Hz, 450 nits (thông thường), 600 nits (HBM)",
+                    "6.88 inches, HD+ (720 x 1640 pixels)",
+                    "Mật độ điểm ảnh ~260ppi"
+                ],
+                "Độ phân giải": "720 x 1640 pixels",
+                "Màn hình rộng": "6.88 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "13 MP (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Camera trước": [
+                    "5 MP (góc rộng)",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Quay phim": "1080p@30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "2×2.0 GHz Cortex-A75",
+                    "6×1.7 GHz Cortex-A55"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "MediaTek Helio G81 Ultra (12 nm)",
+                    "8 nhân, (2×2.0 GHz & 6x1.7 GHz)",
+                    "GPU: Mali-G52 MC2"
+                ],
+                "RAM": "4-8GB, LPDDR4X",
+                "Chip đồ họa (GPU)": "Mali-G52 MC2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "128-256GB, eMMC 5.1"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "Pin 5160mAh",
+                    "Sạc nhanh 18W"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/google-pixel-fold.html",
+    "name": "Google Pixel Fold (Google Tensor G2)",
+    "price": "39890000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 13",
+                "Ngôn ngữ": "Tiếng Việt, Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "OLED",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": [
+                    "Màn trong: Foldable OLED, 120Hz, HDR10+, 1000 nits (HBM), 1450 nits (tối đa)",
+                    "7.6 inches, QHD+ (1840 x 2208 pixels), tỷ lệ 6:5",
+                    "Kính dẻo siêu mỏng",
+                    "Always-on Display với Glance and Now Playing",
+                    "Màn ngoài: OLED, 120Hz, HDR, 1200 nits (HBM), 1550 nits (tối đa)",
+                    "5.8 inches, Full HD+ (1080 x 2092 pixels), tỷ lệ 17.4:9",
+                    "Corning Gorilla Glass Victus",
+                    "Always-on Display với Glance and Now Playing"
+                ],
+                "Độ phân giải": [
+                    "1840 x 2208 pixels",
+                    "1080 x 2092 pixels"
+                ],
+                "Màn hình rộng": [
+                    "7.6 inches",
+                    "5.8 inches"
+                ],
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "48 MP f/1.7, 25mm (góc rộng), Dual Pixel PDAF, Laser AF, OIS",
+                    "10.8 MP, f/2.2, 121˚ (góc siêu rộng)",
+                    "10.8 MP f/3.1, 112mm (tele) Dual Pixel PDAF, OIS, zoom quang 5x",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR"
+                ],
+                "Camera trước": [
+                    "Màn ngoài: 9,5 MP f/2.2, 24mm (góc rộng), Dual Pixel PDAF",
+                    "Màn trong: 8 MP f/2.0, 24mm (góc rộng)",
+                    "HDR, panorama",
+                    "Quay phim: 4K@30/60fps, 1080p@30/60fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Dual-LED flash, HDR, panorama",
+                "Quay phim": "4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "2x2.85 GHz & 2x2.35 GHz & 4x1.80 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Google Tensor G2 (5 nm)",
+                    "8 nhân (2x2.85 GHz & 2x2.35 GHz & 4x1.80 GHz)",
+                    "GPU: Mali-G710 MP7"
+                ],
+                "RAM": "12GB",
+                "Chip đồ họa (GPU)": "Mali-G710 MP7"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "256-512GB, UFS 3.1",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Điện thoại gập",
+                    "Khung nhôm",
+                    "Màn hình ngoài Gorilla Glass Victus",
+                    "Màn hình gập là kính nhựa dẻo",
+                    "Mặt lưng Gorilla Glass Victus",
+                    "Kháng nước IPX8"
+                ],
+                "Kích thước": [
+                    "Khi mở: 158.7 x 139.7 x 5.8 mm",
+                    "Khi gập: 139.7 x 79.5 x 12.1 mm"
+                ],
+                "Trọng lượng (g)": "283 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Po",
+                "Dung lượng pin": [
+                    "Li-Po 4821 mAh",
+                    "Sạc có dây, PD3.0",
+                    "Hỗ trợ sạc không dây"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1xEV-DO"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 46, 48, 66, 71",
+                "Loại Sim": "1 SIM, Nano SIM và eSIM",
+                "Khe gắn Sim": "1 SIM, Nano SIM và eSIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+                "GPS": "GPS, GLONASS, GALILEO, BDS",
+                "Bluetooth": "5.2, A2DP, LE, aptX HD",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": "Không",
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.2, OTG",
+                "Kết nối khác": "NFC",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "url": "https://cellphones.com.vn/sony-xperia-5-iv.html",
+    "name": "Sony Xperia 5 IV",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.1 inches",
+                "Công nghệ màn hình": "OLED",
+                "Tính năng màn hình": "OLED, 1B màu, 120Hz, HDR BT.2020"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 12MP, f/1.7, 1.8µm",
+                    "Camera tele: 12MP, f/2.4, 60 mm, OIS",
+                    "Camera góc siêu rộng: 12MP, f/2.2, 124˚, 16mm, PDAF"
+                ],
+                "Quay video": [
+                    "4K@24/25/30/60/120fps HDR",
+                    "1080p@30/60/120fps",
+                    "Con quay hồi chuyển 5 trục EIS, OIS"
+                ],
+                "Tính năng camera": "Quang học Zeiss, lớp phủ thấu kính Zeiss T *, đèn flash LED, ảnh toàn cảnh, HDR, theo dõi mắt"
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "Camera góc rộng: 12MP, f/2.0, 24mm, 1 / 2.9 \", 1.25µm",
+                "Quay video trước": [
+                    "4K@30fps",
+                    "1080p@30/60fps",
+                    "Con quay hồi chuyển 5 trục EIS"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Qualcomm SM8450 Snapdragon 8 thế hệ 1 (4 nm)",
+                "GPU": "Adreno 730"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Có, với A-GPS băng tần kép, GLONASS, BDS, GALILEO, QZSS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "microSDXC"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": [
+                    "Sạc nhanh, 50% trong 30 phút (được quảng cáo)",
+                    "Sạc không dây",
+                    "Sạc không dây ngược",
+                    "USB Power Delivery 3.0"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 12"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "156 x 67 x 8,2 mm",
+                "Trọng lượng": "172 g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Kính"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Chỉ số kháng nước, bụi": "Chống bụi / nước IP65 / IP68 (lên đến 1,5m trong 30 phút)"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a / b / g / n / ac / 6e, ba băng tần, Wi-Fi Direct, DLNA, điểm phát sóng",
+                "Bluetooth": "5.2, A2DP, aptX HD, LE"
+            }
+        }
+    ]
+}

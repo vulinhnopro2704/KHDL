@@ -1,0 +1,84 @@
+{
+    "url": "https://mobilecity.vn/blackview/blackview-bv7000-pro.html",
+    "name": "Blackview BV7000 Pro RAM 4GB - bộ nhớ 64GB",
+    "price": "5650000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android v7.0 Nougat",
+                "Ngôn ngữ": "Đa ngôn ngữ hỗ trợ Tiếng Việt"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "IPS LCD",
+                "Màu màn hình": "16 triệu màu",
+                "Chuẩn màn hình": "Full HD",
+                "Độ phân giải": "1080 x 1920 pixels,Mật độ điểm ảnh ~401 ppi",
+                "Màn hình rộng": "5",
+                "Công nghệ cảm ứng": "Cảm ứng đa điểm (10 điểm)"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": "13 MP",
+                "Camera trước": "8 MP",
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Tự động lấy nét, nhận diện khuôn mặt, chụp ảnh HDR, Panorama",
+                "Quay phim": "1080p-30fps",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": "Octa-core 4x1.5 GHz & 4x1.0 GHz",
+                "Số nhân": "8 nhân",
+                "Chipset": "Mediatek MT6750T",
+                "RAM": "4 GB",
+                "Chip đồ họa (GPU)": "Mali-T860 MP2"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "64 GB",
+                "Thẻ nhớ ngoài": "microSD",
+                "Hỗ trợ thẻ tối đa": "128 GB"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Trọng lượng (g)": "0"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Loại pin": "Li-Ion",
+                "Dung lượng pin": "3500 mAh",
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "GPRS/EDGE": "Có",
+                "NFC": "Có"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Ghi âm": "Có",
+                "FM radio": "Có",
+                "Chức năng khác": "Cảm biến vân tay 0.1s"
+            }
+        }
+    ]
+}

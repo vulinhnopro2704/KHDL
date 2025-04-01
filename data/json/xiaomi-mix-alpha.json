@@ -1,0 +1,101 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-mix-alpha.html",
+    "name": "Xiaomi Mix Alpha",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "7.9 inches",
+                "Công nghệ màn hình": "Super AMOLED",
+                "Tính năng màn hình": "Mặt kính cong 2.5D"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": "Chính 108 MP & Phụ 20 MP, 12 MP",
+                "Quay video": "1080p@30fps",
+                "Tính năng camera": "Đèn LED, ảnh toàn cảnh, HDR"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "Snapdragon 855+ 8 nhân",
+                "GPU": "Adreno 640 (700 Hz)"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "Có, với BDS, GPS , GLONASS"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "12 GB",
+                "Bộ nhớ trong": "512 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "4050 mAh",
+                "Công nghệ sạc": [
+                    "Tiết kiệm pin",
+                    "Siêu tiết kiệm pin",
+                    "Sạc pin nhanh"
+                ],
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android 10"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "1x2.96 GHz, 3x2.42 GHz & 4x1.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Trọng lượng": "241g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu khung viền": "Kim loại"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay trong màn hình",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến áp kế"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac",
+                "Bluetooth": [
+                    "apt-X",
+                    "A2DP",
+                    "EDR",
+                    "LE"
+                ]
+            }
+        }
+    ]
+}

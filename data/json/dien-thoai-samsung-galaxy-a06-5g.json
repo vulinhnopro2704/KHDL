@@ -1,0 +1,115 @@
+{
+    "url": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-a06-5g.html",
+    "name": "Samsung Galaxy A06 5G 4GB 128GB",
+    "price": "3.990.000 đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.7 inches",
+                "Công nghệ màn hình": "PLS LCD",
+                "Độ phân giải màn hình": "720 x 1600 pixel",
+                "Tính năng màn hình": "16 triệu màu, 60Hz, 576 nits",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Màn hình gập"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "50.0 MP, f/1.8",
+                    "2.0 MP, f/2.4"
+                ],
+                "Quay video": [
+                    "FHD (1920 x 1080)@60fps",
+                    "HD 720p@120fps"
+                ],
+                "Tính năng camera": [
+                    "Zoom kỹ thuật số",
+                    "Xóa phông",
+                    "Tự động lấy nét (AF)",
+                    "Toàn cảnh (Panorama)",
+                    "Quay chậm (Slow Motion)",
+                    "Chuyên nghiệp (Pro)",
+                    "Ban đêm (Night Mode)",
+                    "Đèn Flash"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "8.0 MP, f/2.0"
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 6300",
+                "GPU": "Mali-G52"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "4 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD (lên đến 1TB)"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000 mAh",
+                "Công nghệ sạc": "Sạc nhanh 25W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hỗ trợ mạng": "5G",
+                "GPS": "GPS, Glonass, Beidou, Galileo"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "Android"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "2 nhân 2.0 GHz & 6 nhân 1.8 GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "167.3 x 77.3 x 8.0 mm",
+                "Trọng lượng": "191 gr"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": [
+                    "Wi-Fi 802.11 a/b/g/n/ac",
+                    "Dual-band (2.4 GHz/5 GHz)"
+                ],
+                "Bluetooth": "v5.3"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "url": "https://cellphones.com.vn/realme-v11s.html",
+    "name": "Realme V11s",
+    "price": "Giá Liên Hệ",
+    "specifications": [
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Dimensity 700"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Không"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Bộ nhớ trong": "128 GB"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5.000 mAh"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Tính năng màn hình": "90 Hz"
+            }
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "url": "https://cellphones.com.vn/xiaomi-redmi-note-11s.html",
+    "name": "Xiaomi Redmi Note 11S",
+    "price": "4.990.000đ",
+    "specifications": [
+        {
+            "category": "Màn hình",
+            "details": {
+                "Kích thước màn hình": "6.43 inches",
+                "Công nghệ màn hình": "AMOLED",
+                "Độ phân giải màn hình": "1080 x 2400 pixels (FullHD+)",
+                "Tính năng màn hình": "Tần số quét 90 Hz, 4,500,000:1, DCI-P3, 409 ppi, chế độ đọc sách giảm mỏi mắt, Màn hình Sunlight (Đảm bảo màn hình hiển thị rõ ràng dưới ánh sáng mặt trời)",
+                "Tần số quét": "90Hz",
+                "Kiểu màn hình": "Đục lỗ (Nốt ruồi)"
+            }
+        },
+        {
+            "category": "Camera sau",
+            "details": {
+                "Camera sau": [
+                    "Camera góc rộng: 108MP, f/1.9",
+                    "Camera góc siêu rộng: 8MP f/2.2, FOV 118°",
+                    "Camera macro: 2MP, f/2.4 < Camera chân dung: 2MP, f/2.4"
+                ],
+                "Quay video": [
+                    "1080p 1920x1080 | 30fps",
+                    "720p 1280x720 | 30fps"
+                ],
+                "Tính năng camera": [
+                    "Ban đêm (Night Mode)",
+                    "AI Camera",
+                    "Google Lens",
+                    "Siêu cận (Macro)",
+                    "Xóa phông"
+                ]
+            }
+        },
+        {
+            "category": "Camera trước",
+            "details": {
+                "Camera trước": "16MP, f/2.4",
+                "Quay video trước": [
+                    "1080p 1920x1080 | 30fps",
+                    "720p 1280x720 | 30fps"
+                ]
+            }
+        },
+        {
+            "category": "Vi xử lý & đồ họa",
+            "details": {
+                "Chipset": "MediaTek Helio G96CPU",
+                "GPU": "ARM Mali-G57 MC2"
+            }
+        },
+        {
+            "category": "Giao tiếp & kết nối",
+            "details": {
+                "Công nghệ NFC": "Có",
+                "Thẻ SIM": "2 SIM (Nano-SIM)",
+                "Hồng ngoại": "Có",
+                "Jack tai nghe 3.5": "Có",
+                "Hỗ trợ mạng": "4G",
+                "GPS": "GPS L1 | Glonass G1 | BDS B1 | Galileo E1"
+            }
+        },
+        {
+            "category": "RAM & lưu trữ",
+            "details": {
+                "Dung lượng RAM": "8 GB",
+                "Bộ nhớ trong": "128 GB",
+                "Khe cắm thẻ nhớ": "MicroSD"
+            }
+        },
+        {
+            "category": "Pin & công nghệ sạc",
+            "details": {
+                "Pin": "5000mAh (typ)",
+                "Công nghệ sạc": "Sạc nhanh 33W",
+                "Cổng sạc": "USB Type-C"
+            }
+        },
+        {
+            "category": "Tính năng khác",
+            "details": {
+                "Hệ điều hành": "MIUI 13, Android 11"
+            }
+        },
+        {
+            "category": "Bộ xử lý & Đồ họa",
+            "details": {
+                "Loại CPU": "Octa-core CPU, up to 2.05GHz"
+            }
+        },
+        {
+            "category": "Kích thước & Trọng lượng",
+            "details": {
+                "Kích thước": "159.87 x 73.87 x 8.09mm",
+                "Trọng lượng": "179g"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Chất liệu mặt lưng": "Nhựa",
+                "Chất liệu khung viền": "Nhựa"
+            }
+        },
+        {
+            "category": "Thông số khác",
+            "details": {
+                "Hệ thống làm mát": "Công nghệ tản nhiệt LiquidCool",
+                "Chỉ số kháng nước, bụi": "Không có",
+                "Tiện ích khác": [
+                    "Âm thanh Hi-Res Audio",
+                    "Ứng dụng kép (Nhân bản ứng dụng)",
+                    "Tối ưu game (Game Turbo)",
+                    "Đa cửa sổ (chia đôi màn hình)",
+                    "Mở rộng bộ nhớ RAM",
+                    "Màn hình luôn hiển thị AOD",
+                    "Chạm 2 lần sáng màn hình"
+                ],
+                "Công nghệ âm thanh": "Loa kép"
+            }
+        },
+        {
+            "category": "Tiện ích khác",
+            "details": {
+                "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+                "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển",
+                "Tính năng đặc biệt": "Bảo mật vân tay, Nhận diện khuôn mặt"
+            }
+        },
+        {
+            "category": "Cổng kết nối",
+            "details": {
+                "Wi-Fi": "802.11a/b/g/n/ac",
+                "Bluetooth": "5.0"
+            }
+        },
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Thời điểm ra mắt": "2/2022"
+            }
+        }
+    ]
+}

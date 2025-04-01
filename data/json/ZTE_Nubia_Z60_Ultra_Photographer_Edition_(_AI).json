@@ -1,0 +1,131 @@
+{
+    "url": "https://mobilecity.vn/dien-thoai/zte-nubia-z60-ultra-photographer-edition.html",
+    "name": "ZTE Nubia Z60 Ultra Photographer Edition ( AI)",
+    "price": "14790000",
+    "specifications": [
+        {
+            "category": "Thông tin chung",
+            "details": {
+                "Hệ điều hành": "Android 14, MyOS 14",
+                "Ngôn ngữ": "Đa ngôn ngữ"
+            }
+        },
+        {
+            "category": "Màn hình",
+            "details": {
+                "Loại màn hình": "AMOLED",
+                "Màu màn hình": "1 tỷ màu",
+                "Chuẩn màn hình": [
+                    "AMOLED, 1 tỷ màu, 120Hz, HDR10+, 1500 nits (tối đa)",
+                    "6.8 inches, Full HD+ (1116 x 2480 pixels)",
+                    "Tỷ lệ 20:9, mật độ điểm ảnh ~400 ppi"
+                ],
+                "Độ phân giải": "1116 x 2480 pixels",
+                "Màn hình rộng": "6.8 inches",
+                "Công nghệ cảm ứng": "Cảm ứng điện dung đa điểm"
+            }
+        },
+        {
+            "category": "Chụp hình & Quay phim",
+            "details": {
+                "Camera sau": [
+                    "50 MP, f/1.6, 35mm (tiêu chuẩn), PDAF, Laser AF, OIS",
+                    "64 MP, f/3.3, 85mm (tele tiềm vọng), PDAF, OIS, 3.3x optical zoom (vs. 26mm cam)",
+                    "50 MP, f/1.8, 18mm, 100˚ (góc siêu rộng), PDAF, OIS",
+                    "Quay phim: 8K@30fps, 4K@30/60/120fps, 1080p@30/60fps, gyro-EIS, HDR10, 10‑bit video"
+                ],
+                "Camera trước": [
+                    "16 MP, f/2.0, 26mm, HDR",
+                    "Camera ẩn dưới màn hình",
+                    "Quay phim: 1080p@30fps"
+                ],
+                "Đèn Flash": "Có",
+                "Tính năng camera": "Ring-LED, dual-tone flash, panorama, HDR",
+                "Quay phim": "8K@30fps, 4K@30/60/120fps, 1080p@30/60fps, gyro-EIS, HDR10, 10‑bit video",
+                "Videocall": "Có"
+            }
+        },
+        {
+            "category": "CPU & RAM",
+            "details": {
+                "Tốc độ CPU": [
+                    "1x3.3 GHz Cortex-X4",
+                    "5x3.2 GHz Cortex-A720",
+                    "2x2.3 GHz Cortex-A520"
+                ],
+                "Số nhân": "8 nhân",
+                "Chipset": [
+                    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+                    "8 nhân (1x3.3 GHz & 5x3.2 GHz & 2x2.3 GHz)",
+                    "GPU: Adreno 750"
+                ],
+                "RAM": "16GB, LPDDR5X",
+                "Chip đồ họa (GPU)": "Adreno 750"
+            }
+        },
+        {
+            "category": "Bộ nhớ & Lưu trữ",
+            "details": {
+                "Danh bạ": "Không giới hạn",
+                "Bộ nhớ trong (ROM)": "512GB, UFS 4.0",
+                "Thẻ nhớ ngoài": "Không",
+                "Hỗ trợ thẻ tối đa": "Không"
+            }
+        },
+        {
+            "category": "Thiết kế & Trọng lượng",
+            "details": {
+                "Kiểu dáng": [
+                    "Khung kim loại vuông vức",
+                    "Mặt lưng kính và da phẳng, màn hình phẳng",
+                    "Kháng nước, bụi IP68"
+                ],
+                "Kích thước": "164 x 76.4 x 8.8 mm",
+                "Trọng lượng (g)": "246 g"
+            }
+        },
+        {
+            "category": "Thông tin pin",
+            "details": {
+                "Dung lượng pin": [
+                    "Li-Po 6000 mAh",
+                    "Sạc nhanh 80W, PD3.0, QC4"
+                ],
+                "Pin có thể tháo rời": "Không"
+            }
+        },
+        {
+            "category": "Kết nối & Cổng giao tiếp",
+            "details": {
+                "3G": [
+                    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+                    "CDMA2000 1x"
+                ],
+                "4G": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41",
+                "Loại Sim": "2 SIM, Nano SIM",
+                "Khe gắn Sim": "2 SIM, Nano SIM",
+                "Wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+                "GPS": "GPS (L1+L5), GLONASS (L1+L2+L5), GALILEO, BDS",
+                "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+                "GPRS/EDGE": "Có",
+                "Jack tai nghe": [
+                    "Không",
+                    "Âm thanh 24-bit/192kHz Hi-Res audio",
+                    "Snapdragon Sound"
+                ],
+                "NFC": "Có",
+                "Kết nối USB": "USB Type-C 3.1, OTG",
+                "Kết nối khác": "NFC, eSE",
+                "Cổng sạc": "Type-C"
+            }
+        },
+        {
+            "category": "Giải trí & Ứng dụng",
+            "details": {
+                "Cổng sạc": "Type-C",
+                "Ghi âm": "Có",
+                "FM radio": "Có"
+            }
+        }
+    ]
+}
