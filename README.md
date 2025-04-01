@@ -45,15 +45,15 @@ Khảo sát tính khả thi cho việc xây dựng mô hình dự đoán biến 
 phone-price-analysis/
 │
 ├── 📓 notebooks/
-│   ├── craw_data_cellphones.ipynb          # Thu thập dữ liệu từ CellphoneS
-│   ├── craw_data_mobilecity.ipynb        # Thu thập dữ liệu từ MobileCity
-│   ├── cleaning_data.ipynb # Tiền xử lý dữ liệu
-│   └── data_visualization.ipynb      # Phân tích dữ liệu và trực quan hóa
+│   ├── craw_data_cellphones.ipynb      # Thu thập dữ liệu từ CellphoneS
+│   ├── craw_data_mobilecity.ipynb      # Thu thập dữ liệu từ MobileCity
+│   ├── cleaning_data.ipynb             # Tiền xử lý - làm sách dữ liệu dữ liệu
+│   └── data_visualization.ipynb        # Phân tích dữ liệu và trực quan hóa
 │
 ├── link/
 |   ├── product_links_cellphones.txt             # Link sản phẩm từ CellphoneS
 |   └── product_links_mobilecity.txt             # Link sản phẩm từ MobileCity
-├
+├── data/                               # Thư mục chứa dữ liệu
 │   ├── raw/                     # Dữ liệu thô đã thu thập được
 │   ├── json/                    # Dữ liệu chi tiết từng sản phẩm đã thu thập
 │   ├── processed/               # Dữ liệu sau xử lý
@@ -69,7 +69,7 @@ phone-price-analysis/
 
 -   Xem và chạy các notebook sau để thu thập dữ liệu từ CellphoneS và MobileCity:
     ```bash
-    notebooks/craw_data.ipynb
+    notebooks/craw_data_cellphones.ipynb
     notebooks/craw_data_mobilecity.ipynb
     ```
 
@@ -78,7 +78,7 @@ phone-price-analysis/
 -   Sau khi thu thập dữ liệu, bạn có thể chạy các notebook sau để tiền xử lý và phân tích dữ liệu:
     ```bash
     notebooks/cleaning_data.ipynb
-    notebooks/data_analysis.ipynb
+    notebooks/data_visualization.ipynb
     ```
 
 ## 🔧 8. Công Nghệ Sử Dụng
@@ -87,3 +87,10 @@ phone-price-analysis/
 -   **Pandas & NumPy**: Xử lý và phân tích dữ liệu
 -   **Matplotlib & Seaborn**: Trực quan hóa dữ liệu
 -   **Selenium**: Thu thập dữ liệu web
+
+## 📝 9. Tài Liệu Tham Khảo
+
+-   [Pandas Documentation](https://pandas.pydata.org/docs/)
+-   [NumPy Documentation](https://numpy.org/doc/stable/)
+-   [Seaborn Documentation](https://seaborn.pydata.org/)
+-   [Selenium Documentation](https://www.selenium.dev/documentation/en/)
