@@ -1066,7 +1066,7 @@ price,ram,internal_memory,screen_size,screen_tech,refresh_rate,camera_main_resol
 4050000.0,8.0,256,6.79,IPS LCD,120.0,108,2,Xiaomi,Medium,HD,Helio G91 ULTRA
 2000000.0,2.0,16,6,IPS LCD,60.0,12,2,Xiaomi,Low,HD,Snapdragon 632
 2050000.0,2.0,16,5.45,IPS LCD,60.0,13,1,Xiaomi,Low,HD,Snapdragon 439
-2100000.0,3.0,32,"6,26",IPS LCD,60.0,12,2,Xiaomi,Low,HD,Snapdragon 632
+2100000.0,3.0,32,6.26,IPS LCD,60.0,12,2,Xiaomi,Low,HD,Snapdragon 632
 2450000.0,4.0,64,6.22,IPS LCD,60.0,12,2,Xiaomi,Low,HD,Snapdragon 439
 2300000.0,4.0,64,6.2,IPS LCD,60.0,12,1,Xiaomi,Low,HD,Snapdragon 439
 2150000.0,6.0,128,6.53,IPS LCD,60.0,13,1,Xiaomi,Low,HD,Helio G25

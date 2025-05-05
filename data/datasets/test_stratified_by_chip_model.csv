@@ -134,7 +134,7 @@ price,ram,internal_memory,screen_size,screen_tech,refresh_rate,camera_main_resol
 2950000.0,8.0,256,6.6,IPS LCD,90.0,50,2,Xiaomi,Low,HD,Dimensity 810
 4250000.0,8.0,256,6.64,IPS LCD,120.0,50,2,Vivo,Medium,HD,Snapdragon 695
 5650000.0,16.0,1024,6.67,OLED,120.0,64,3,Xiaomi,Medium,HD,Dimensity 8300 ultra
-2100000.0,3.0,32,"6,26",IPS LCD,60.0,12,2,Xiaomi,Low,HD,Snapdragon 632
+2100000.0,3.0,32,6.26,IPS LCD,60.0,12,2,Xiaomi,Low,HD,Snapdragon 632
 3950000.0,12.0,256,6.72,IPS LCD,120.0,108,2,Realme,Medium,HD,Snapdragon 695
 17450000.0,12.0,256,6.7,LTPO2 Fluid AMOLED,120.0,50,3,OnePlus,Premium,FHD,Snapdragon 8 gen 1
 24950000.0,12.0,128,6.7,Dynamic LTPO AMOLED 2X,120.0,200,2,Samsung,Premium,HD,Snapdragon 8 e
