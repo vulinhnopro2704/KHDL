@@ -5,52 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-def target_encode_with_regularization(df, column, target, alpha=5, min_samples=10):
-    """
-    Performs target encoding with regularization based on category frequency.
-    
-    Parameters:
-    -----------
-    df : pandas DataFrame
-        The dataframe containing the data
-    column : str
-        The name of the categorical column to encode
-    target : str
-        The name of the target column
-    alpha : float, default=5
-        Regularization parameter - higher means more regularization
-    min_samples : int, default=10
-        Minimum number of samples for a category to be considered reliable
-        
-    Returns:
-    --------
-    pandas Series
-        The encoded values for the column
-    """
-    # Calculate the global mean
-    global_mean = df[target].mean()
-    
-    # Calculate category-level statistics
-    stats = df.groupby(column)[target].agg(['mean', 'count']).reset_index()
-    
-    # Apply regularization formula:
-    # encoded_value = (count * category_mean + alpha * global_mean) / (count + alpha)
-    stats['encoded'] = (stats['count'] * stats['mean'] + alpha * global_mean) / (stats['count'] + alpha)
-    
-    # Create a mapping dictionary
-    encoding_map = dict(zip(stats[column], stats['encoded']))
-    
-    # For rare categories with fewer samples than min_samples, use global mean
-    for cat in encoding_map:
-        count = stats.loc[stats[column] == cat, 'count'].values[0]
-        if count < min_samples:
-            encoding_map[cat] = global_mean
-    
-    # Apply the mapping to the original data
-    encoded_values = df[column].map(encoding_map).fillna(global_mean)
-    
-    return encoded_values
-
 def target_encode_kfold(df, column, target, n_fold=5, alpha=5):
     """
     Performs target encoding with k-fold cross-validation to prevent data leakage.
